@@ -1,0 +1,39 @@
+# =============================================================================
+# Toontown Beta Explorer Configuration
+# =============================================================================
+
+# If you moved the 1.0.5-install directory or downloaded it separately,
+# update these variables with the correct location on your computer.
+layout-db-file ../../Releases/ToontownBeta/1.0.5-install/layout_db
+window-db-file ../../Releases/ToontownBeta/1.0.5-install/window_db
+setup-db-file ../../Releases/ToontownBeta/1.0.5-install/setup_db
+model-path ../../Releases/ToontownBeta/1.0.5-install
+
+# Window settings
+window-title Toontown Beta Explorer
+win32-window-icon phase_3/models/gui/toontown.ico
+
+# Video settings
+load-display pandagl
+fullscreen #f
+win-width 800
+win-height 600
+
+# Loader settings
+load-file-type toontown
+compress-channels #t
+
+# Egg settings
+egg-retesselate-coplanar #f
+egg-object-type-barrier <Scalar> collide-mask { 0x01 } <Collide> { Polyset descend }
+egg-object-type-trigger <Scalar> collide-mask { 0x01 } <Collide> { Polyset descend intangible }
+egg-object-type-sphere <Scalar> collide-mask { 0x01 } <Collide> { Sphere descend }
+egg-object-type-trigger-sphere <Scalar> collide-mask { 0x01 } <Collide> { Sphere descend intangible }
+egg-object-type-floor <Scalar> collide-mask { 0x02 } <Collide> { Polyset descend }
+egg-object-type-camera-collide  <Scalar> collide-mask { 0x04 } <Collide> { Polyset descend }
+egg-object-type-camera-collide-sphere  <Scalar> collide-mask { 0x04 } <Collide> { Sphere descend }
+egg-object-type-direct-widget <Scalar> collide-mask { 0x80000000 } <Collide> { Polyset descend }
+egg-object-type-camera-barrier  <Scalar> collide-mask { 0x05 } <Collide> { Polyset descend }
+egg-object-type-camera-barrier-sphere  <Scalar> collide-mask { 0x05 } <Collide> { Sphere descend }
+egg-object-type-shadow <Scalar> bin { shadow } <Scalar> alpha { blend-no-occlude }
+cull-bin shadow 25 unsorted
