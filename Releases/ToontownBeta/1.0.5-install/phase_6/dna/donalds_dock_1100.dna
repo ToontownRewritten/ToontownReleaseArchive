@@ -1,0 +1,7172 @@
+store_suit_point [ 14 0 205 -35 3.81025e-026 ]
+store_suit_point [ 15 0 205 -25 3.81025e-026 ]
+store_suit_point [ 17 0 230.001 -35.0003 -1.16924e-018 ]
+store_suit_point [ 18 0 230 -10 -5.67771e-034 ]
+store_suit_point [ 19 0 220 -10 3.81025e-026 ]
+store_suit_point [ 20 0 220.001 -25.0004 -1.16924e-018 ]
+store_suit_point [ 21 0 230 -2.2078e-011 3.81025e-026 ]
+store_suit_point [ 22 0 230.001 22.9987 -1.16924e-018 ]
+store_suit_point [ 25 0 220.001 22.9987 -1.16924e-018 ]
+store_suit_point [ 26 0 220.001 -0.000862122 -1.16924e-018 ]
+store_suit_point [ 27 1 241 0 0 2 ]
+store_suit_point [ 28 1 208 22.9987 -1.16924e-018 26 ]
+store_suit_point [ 29 0 230 30 0 ]
+store_suit_point [ 30 0 230 65.9999 0 ]
+store_suit_point [ 31 0 230 70 0 ]
+store_suit_point [ 32 0 220 70 0 ]
+store_suit_point [ 33 0 220 65.9999 0 ]
+store_suit_point [ 34 0 220 30 0 ]
+store_suit_point [ 35 1 241 65.9999 0 21 ]
+store_suit_point [ 36 0 230 90.0004 0 ]
+store_suit_point [ 37 0 220 90 0 ]
+store_suit_point [ 38 0 237 115 0 ]
+store_suit_point [ 39 1 237 126.001 0 4 ]
+store_suit_point [ 41 0 237 105.001 0 ]
+store_suit_point [ 42 0 230 105.001 0 ]
+store_suit_point [ 43 0 245 105.001 0 ]
+store_suit_point [ 44 0 245 115.001 0 ]
+store_suit_point [ 45 0 220 115.001 0 ]
+store_suit_point [ 46 0 265 105.001 0 ]
+store_suit_point [ 47 0 265 115.001 0 ]
+store_suit_point [ 48 0 278.999 105.001 0 ]
+store_suit_point [ 49 0 304.999 105.001 0 ]
+store_suit_point [ 50 0 304.999 115.001 0 ]
+store_suit_point [ 51 0 278.999 115.001 0 ]
+store_suit_point [ 52 1 278.999 98.0005 0 22 ]
+store_suit_point [ 53 0 319.999 105.001 0 ]
+store_suit_point [ 54 0 319.999 90.0004 0 ]
+store_suit_point [ 55 0 329.999 90.0004 0 ]
+store_suit_point [ 56 0 329.999 115.001 0 ]
+store_suit_point [ 57 0 319.999 69 0 ]
+store_suit_point [ 58 0 319.999 49.9997 0 ]
+store_suit_point [ 59 0 329.999 49.9997 0 ]
+store_suit_point [ 60 0 329.999 69 0 ]
+store_suit_point [ 61 1 309.999 69 0 6 ]
+store_suit_point [ 62 0 319.999 34.9994 0 ]
+store_suit_point [ 63 0 294.999 34.9994 0 ]
+store_suit_point [ 64 0 294.999 24.9992 0 ]
+store_suit_point [ 65 0 317.999 24.9992 0 ]
+store_suit_point [ 66 0 329.999 24.9992 0 ]
+store_suit_point [ 67 1 317.999 13.999 0 8 ]
+store_suit_point [ 68 0 270 34.9994 0 ]
+store_suit_point [ 69 0 270 9.99895 0 ]
+store_suit_point [ 70 0 279.999 9.99895 0 ]
+store_suit_point [ 71 0 279.999 24.9992 0 ]
+store_suit_point [ 72 1 270 45.9996 0 20 ]
+store_suit_point [ 73 0 270 6.99891 0 ]
+store_suit_point [ 74 0 270 -30.0017 0 ]
+store_suit_point [ 76 0 279.999 6.99891 0 ]
+store_suit_point [ 77 1 259 6.99891 0 9 ]
+store_suit_point [ 79 0 270 -70.0007 -9.77888e-007 ]
+store_suit_point [ 80 0 280 -70.0007 -5.86733e-007 ]
+store_suit_point [ 81 0 280 -30 0 ]
+store_suit_point [ 82 0 270 -92.0011 -9.62211e-007 ]
+store_suit_point [ 83 0 270 -120.002 -9.42258e-007 ]
+store_suit_point [ 85 0 280 -92.0011 -5.71056e-007 ]
+store_suit_point [ 86 1 258.001 -92.0011 -1.4316e-006 28 ]
+store_suit_point [ 89 0 270 -145 -6.12295e-015 ]
+store_suit_point [ 91 0 305 -135 2.44918e-015 ]
+store_suit_point [ 92 0 284 -135 -2.6941e-015 ]
+store_suit_point [ 93 0 280 -135 -3.67377e-015 ]
+store_suit_point [ 94 0 280 -120 -3.67377e-015 ]
+store_suit_point [ 95 1 284 -156 0 27 ]
+store_suit_point [ 96 0 316 -145 5.14327e-015 ]
+store_suit_point [ 97 0 320 -145 6.12294e-015 ]
+store_suit_point [ 98 0 320 -160.001 6.12294e-015 ]
+store_suit_point [ 99 0 329.999 -160.001 8.57212e-015 ]
+store_suit_point [ 100 0 329.999 -135 8.57212e-015 ]
+store_suit_point [ 101 0 316 -135 5.14327e-015 ]
+store_suit_point [ 102 1 316 -125 5.14327e-015 12 ]
+store_suit_point [ 103 0 320 -194.001 6.12294e-015 ]
+store_suit_point [ 104 0 320 -210.002 6.12294e-015 ]
+store_suit_point [ 106 0 329.999 -194.001 8.57212e-015 ]
+store_suit_point [ 107 1 309 -194.001 3.42885e-015 13 ]
+store_suit_point [ 109 0 320 -235 -3.40876e-023 ]
+store_suit_point [ 110 0 338 -235 -9.54451e-024 ]
+store_suit_point [ 111 0 345 -235 0 ]
+store_suit_point [ 112 0 345 -225 0 ]
+store_suit_point [ 113 0 338 -225 -9.54451e-024 ]
+store_suit_point [ 114 0 330 -225 -2.04525e-023 ]
+store_suit_point [ 115 0 330 -210 0 ]
+store_suit_point [ 116 1 338 -246.001 -9.54451e-024 14 ]
+store_suit_point [ 117 0 384.999 -235 5.45401e-023 ]
+store_suit_point [ 118 0 384.999 -210 5.45401e-023 ]
+store_suit_point [ 119 0 374.999 -210 4.09051e-023 ]
+store_suit_point [ 120 0 374.999 -225 4.09051e-023 ]
+store_suit_point [ 121 0 384.999 -195 5.45401e-023 ]
+store_suit_point [ 122 0 399.999 -195 7.49926e-023 ]
+store_suit_point [ 123 0 399.999 -185 7.49926e-023 ]
+store_suit_point [ 124 0 382.999 -185 5.18131e-023 ]
+store_suit_point [ 125 0 374.999 -185 4.09051e-023 ]
+store_suit_point [ 126 1 382.999 -173.999 5.18131e-023 15 ]
+store_suit_point [ 127 0 424.999 -195 1.0908e-022 ]
+store_suit_point [ 128 0 424.999 -169.999 1.0908e-022 ]
+store_suit_point [ 130 0 414.999 -185 9.54451e-023 ]
+store_suit_point [ 131 0 425 -158 -1.38321e-029 ]
+store_suit_point [ 133 0 425 -150 2.50628e-022 ]
+store_suit_point [ 135 0 415 -150 2.50627e-022 ]
+store_suit_point [ 137 0 415 -170 2.50627e-022 ]
+store_suit_point [ 138 1 437 -158 -2.62387e-012 16 ]
+store_suit_point [ 140 0 425 -125 2.50628e-022 ]
+store_suit_point [ 141 0 400 -125 2.50626e-022 ]
+store_suit_point [ 142 0 400 -135 2.50626e-022 ]
+store_suit_point [ 143 0 415 -135 2.50627e-022 ]
+store_suit_point [ 144 0 375 -125 2.50624e-022 ]
+store_suit_point [ 145 0 375 -110 2.50624e-022 ]
+store_suit_point [ 146 0 365 -110 2.50624e-022 ]
+store_suit_point [ 147 0 365 -135 2.50624e-022 ]
+store_suit_point [ 148 0 365 -130 2.50624e-022 ]
+store_suit_point [ 149 1 354 -130 2.50623e-022 17 ]
+store_suit_point [ 150 0 375 -72 2.50624e-022 ]
+store_suit_point [ 151 0 375 -70 2.50624e-022 ]
+store_suit_point [ 152 0 365 -70 2.50624e-022 ]
+store_suit_point [ 153 0 365 -72 2.50624e-022 ]
+store_suit_point [ 154 1 386 -72 2.50625e-022 19 ]
+store_suit_point [ 155 0 375 -56 -2.03059e-012 ]
+store_suit_point [ 156 0 365 -56 -1.17794e-012 ]
+store_suit_point [ 157 1 354 -56 -2.40026e-013 24 ]
+store_suit_point [ 158 0 284 -145 0 ]
+store_suit_point [ 159 0 305 -145 0 ]
+store_suit_point [ 160 0 415 -158 -1.37331e-012 ]
+group "donaldsDock" [
+ visgroup "1101" [
+  vis [   "1101"   "1102"   "1103"   "1104"   "1105"   "1120"   "1121"   "1122"   ]
+  battle_cell [ 20 20 190 -30 0 ]
+  group "streets" [
+   street "street_20x40_DNARoot" [
+    code [ "street_20x40" ]
+    pos [ 185 -50 2.0463e-021 ]
+    hpr [ 0.000135061 -7.01648e-015 2.56612e-027 ]
+    texture [ "street_street_DD_tex" ]
+    texture [ "street_sidewalk_DD_tex" ]
+   ]
+   street "street_20x40_DNARoot" [
+    code [ "street_20x40" ]
+    pos [ 165 -50 -1.16924e-018 ]
+    hpr [ 3.1258e-006 2.23506e-029 -4.04396e-024 ]
+    texture [ "street_street_DD_tex" ]
+    texture [ "street_sidewalk_DD_tex" ]
+   ]
+   street "street_5x40_DNARoot" [
+    code [ "street_5x40" ]
+    pos [ 160 -50 -1.06301e-019 ]
+    hpr [ -5.95837e-006 -1.60956e-031 -3.29072e-024 ]
+    texture [ "street_street_DD_tex" ]
+    texture [ "street_sidewalk_DD_tex" ]
+   ]
+  ]
+  group "buildings" [
+   flat_building "tb2:random20_DNARoot" [
+    pos [ 185 -50 5.31451e-019 ]
+    hpr [ -180 2.57563e-024 0 ]
+    width [ 25 ]
+    wall [
+     height [ 20 ]
+     code [ "wall_md_board_ur" ]
+     color [ 0.929134 0.153034 0.153034 1 ]
+     windows [
+      code [ "window_porthole_ur" ]
+      color [ 0 0.532747 0.317894 1 ]
+      count [ 4 ]
+     ]
+    ]
+    prop "prop_stovepipe_DNARoot" [
+     code [ "prop_stovepipe" ]
+     pos [ 1.606 1.1733 18.3814 ]
+     hpr [ 3.7806e-005 0.000421549 0.000213623 ]
+     scale [ 0.999984 0.999991 1.00001 ]
+     color [ 0.71 0.49 0.35 1 ]
+    ]
+    prop "prop_2ftdockpiling_DNARoot" [
+     code [ "prop_2ftdockpiling" ]
+     pos [ 20 -7.99999 -5.31258e-019 ]
+     hpr [ -180 -4.93601e-012 1.52588e-005 ]
+    ]
+   ]
+   flat_building "tb2:random20_DNARoot" [
+    pos [ 210 -50 -2.52662e-022 ]
+    hpr [ 180 -7.01648e-015 0 ]
+    width [ 25 ]
+    wall [
+     height [ 20 ]
+     code [ "wall_sm_wood_ur" ]
+     color [ 0.75 0.75 0.75 1 ]
+     windows [
+      code [ "window_porthole_ur" ]
+      color [ 0.0778138 0.472441 0.314961 1 ]
+      count [ 4 ]
+     ]
+     cornice [
+      code [ "cornice_shingles_ur" ]
+      color [ 0.937255 0.717647 0.658824 1 ]
+     ]
+    ]
+    prop "prop_2ftdockpiling_DNARoot" [
+     code [ "prop_2ftdockpiling" ]
+     pos [ 19 -8.00001 -1.73047e-012 ]
+     hpr [ 180 -2.87262e-011 1.52588e-005 ]
+     scale [ 1.00009 0.999909 1 ]
+    ]
+    prop "streetlight_DD_left_DNARoot" [
+     code [ "streetlight_DD_left" ]
+     pos [ 15 -9 -1.10215e-015 ]
+     hpr [ -90 -1.52588e-005 1.52588e-005 ]
+    ]
+    prop "prop_chimney_DNARoot" [
+     code [ "prop_chimney" ]
+     pos [ 0.998003 3.74 18.6621 ]
+     hpr [ -3.84444e-005 0.00022662 1.52588e-005 ]
+     scale [ 0.999987 0.999983 0.999997 ]
+     color [ 0.87 0.69 0.42 1 ]
+    ]
+   ]
+   flat_building "tb26:random20_DNARoot" [
+    pos [ 185 -10.0001 3.09873e-021 ]
+    hpr [ 0 7.01648e-015 0 ]
+    width [ 20 ]
+    wall [
+     height [ 10 ]
+     code [ "wall_lg_brick_ur" ]
+     color [ 0.71 0.49 0.35 1 ]
+     windows [
+      code [ "window_md_curtains_ur" ]
+      color [ 0.79 0.47 0.47 1 ]
+      count [ 1 ]
+     ]
+    ]
+    wall [
+     height [ 10 ]
+     code [ "wall_lg_brick_ur" ]
+     color [ 0.71 0.49 0.35 1 ]
+     windows [
+      code [ "window_md_curtains_ur" ]
+      color [ 0.79 0.47 0.47 1 ]
+      count [ 1 ]
+     ]
+    ]
+    prop "prop_2ftdockpiling_DNARoot" [
+     code [ "prop_2ftdockpiling" ]
+     pos [ 5 -8.9999 -6.73612e-013 ]
+     hpr [ 90 7.56461 7.56462 ]
+    ]
+    prop "prop_palm_tree_topflat_DNARoot" [
+     code [ "prop_palm_tree_topflat" ]
+     pos [ 10 -7.9999 -4.67948e-014 ]
+     hpr [ 90 -39.8058 -39.8058 ]
+     scale [ 0.82517 0.825171 0.82517 ]
+    ]
+   ]
+   flat_building "tb26:random20_DNARoot" [
+    pos [ 160 -10 0 ]
+    hpr [ 0 -3.81773e-026 -3.43068e-024 ]
+    width [ 25 ]
+    wall [
+     height [ 20 ]
+     code [ "wall_sm_wood_ur" ]
+     color [ 0.517647 0.956863 0.792157 1 ]
+     windows [
+      code [ "window_sm_round_ur" ]
+      color [ 0.729412 0.627451 0.447059 1 ]
+      count [ 4 ]
+     ]
+     cornice [
+      code [ "cornice_shingles_ur" ]
+      color [ 0.662745 1 0.862745 1 ]
+     ]
+    ]
+    prop "prop_2ftdockpiling_DNARoot" [
+     code [ "prop_2ftdockpiling" ]
+     pos [ 4 -9 1.92565e-022 ]
+     hpr [ 90 -0.000534057 -0.000534058 ]
+    ]
+    prop "prop_trashcan_DD_DNARoot" [
+     code [ "prop_trashcan_DD" ]
+     pos [ 19 -8 8.6172e-013 ]
+     hpr [ -90 -0.00102234 0.00102234 ]
+     scale [ 0.999998 1 1 ]
+    ]
+    prop "prop_shipmasts_DNARoot" [
+     code [ "prop_shipmasts" ]
+     pos [ 7.50101 5.69721 20 ]
+     hpr [ -15 -0.000162653 -0.000351582 ]
+     scale [ 2 2 2.00001 ]
+    ]
+    prop "prop_shipmasts_DNARoot" [
+     code [ "prop_shipmasts" ]
+     pos [ 17 8 -1.16924e-018 ]
+     hpr [ 15 3.95242e-026 3.43184e-024 ]
+     scale [ 2 2 2 ]
+    ]
+   ]
+   prop "linktunnel_dd_1000_DNARoot" [
+    code [ "prop_safe_zone_entrance_tunnel" ]
+    pos [ 160 -50 0 ]
+    hpr [ 90 0 0 ]
+    scale [ 0.999997 0.999997 0.999997 ]
+    sign [
+     code [ "tunnel_sign_red" ]
+     pos [ 0 0 -2.18848 ]
+     scale [ 1.5 1 1.5 ]
+     baseline [
+      code [ "mickey" ]
+      color [ 0.501961 0 0 1 ]
+      pos [ 0 0 -1.46154 ]
+      scale [ 1.45 1 1.45 ]
+      width [ 68.171 ]
+      height [ 68.171 ]
+      text [
+       letters [ "P" ]
+      ]
+      text [
+       letters [ "L" ]
+      ]
+      text [
+       letters [ "A" ]
+      ]
+      text [
+       letters [ "Y" ]
+      ]
+      text [
+       letters [ "G" ]
+      ]
+      text [
+       letters [ "R" ]
+      ]
+      text [
+       letters [ "O" ]
+      ]
+      text [
+       letters [ "U" ]
+      ]
+      text [
+       letters [ "N" ]
+      ]
+      text [
+       letters [ "D" ]
+      ]
+     ]
+     baseline [
+      pos [ 0 0 1.56427 ]
+      scale [ 2.5 1 2.5 ]
+      graphic [
+       code [ "donaldSZ" ]
+      ]
+     ]
+    ]
+   ]
+  ]
+  group "props" [
+  ]
+ ]
+ visgroup "1102" [
+  vis [   "1101"   "1102"   "1103"   "1104"   "1105"   "1120"   "1121"   ]
+  suit_edge [ 14 17 ]
+  suit_edge [ 17 18 ]
+  suit_edge [ 19 20 ]
+  suit_edge [ 20 15 ]
+  suit_edge [ 15 14 ]
+  battle_cell [ 20 20 225.001 -30.0003 -1.16924e-018 ]
+  group "streets" [
+   street "street_full_corner_DNARoot" [
+    code [ "street_full_corner" ]
+    pos [ 245 -10 1.92331e-022 ]
+    hpr [ 180 -7.01648e-015 0 ]
+    texture [ "street_street_DD_tex" ]
+    texture [ "street_sidewalk_DD_tex" ]
+   ]
+  ]
+  group "buildings" [
+   flat_building "tb2:random20_DNARoot" [
+    pos [ 245 -50 -1.26331e-022 ]
+    hpr [ -180 2.54878e-027 0 ]
+    width [ 20 ]
+    wall [
+     height [ 10 ]
+     code [ "wall_md_board_ur" ]
+     color [ 0.929134 0.153034 0.153034 1 ]
+     windows [
+      code [ "window_porthole_ur" ]
+      color [ 0 0.532747 0.317894 1 ]
+      count [ 0 ]
+     ]
+    ]
+    wall [
+     height [ 10 ]
+     code [ "wall_md_board_ur" ]
+     color [ 0.929134 0.153034 0.153034 1 ]
+     windows [
+      code [ "window_porthole_ur" ]
+      color [ 0 0.532747 0.317894 1 ]
+      count [ 1 ]
+     ]
+    ]
+    prop "prop_ship_wheel_DNARoot" [
+     code [ "prop_ship_wheel" ]
+     pos [ 3.73565 -4.09843 3.18662e-022 ]
+     hpr [ 45 -3.60452e-027 -2.54878e-027 ]
+    ]
+    prop "prop_2ftdockpiling_DNARoot" [
+     code [ "prop_2ftdockpiling" ]
+     pos [ 8.816 -7.9958 -9.54517e-005 ]
+     hpr [ 180 1.02932e-010 1.52588e-005 ]
+     scale [ 0.999914 1.00009 1 ]
+    ]
+   ]
+   flat_building "tb2:random20_DNARoot" [
+    pos [ 245 -35 7.0547e-013 ]
+    hpr [ -90 5.38837e-019 0 ]
+    width [ 15 ]
+    wall [
+     height [ 10 ]
+     code [ "wall_md_blank_ur" ]
+     color [ 0.384314 0.305635 0.187618 1 ]
+     windows [
+      code [ "window_sm_round_ul" ]
+      color [ 0.779528 0.489115 0.293469 1 ]
+      count [ 2 ]
+     ]
+    ]
+    wall [
+     height [ 10 ]
+     code [ "wall_md_blank_dr" ]
+     color [ 0.384314 0.301961 0.184314 1 ]
+     cornice [
+      code [ "cornice_dental_ur" ]
+      color [ 0.574803 0.38771 0.340374 1 ]
+     ]
+     windows [
+      code [ "window_sm_round_ul" ]
+      color [ 1 0.5 0.38 1 ]
+      count [ 2 ]
+     ]
+    ]
+    prop "prop_stovepipe_DNARoot" [
+     code [ "prop_stovepipe" ]
+     pos [ 2 1 20 ]
+     hpr [ 8.18842e-008 -0.000390175 1.23371e-006 ]
+     scale [ 0.999996 0.999985 0.999996 ]
+     color [ 0.92 0.63 0.42 1 ]
+    ]
+   ]
+   flat_building "tb2:random20_DNARoot" [
+    pos [ 245 -20.0001 6.26072e-022 ]
+    hpr [ -90 -5.08266e-027 0 ]
+    width [ 15 ]
+    wall [
+     height [ 10 ]
+     code [ "wall_md_board_ur" ]
+     color [ 0.63 0.6 0.4 1 ]
+     windows [
+      code [ "window_porthole_ur" ]
+      color [ 0 0.532747 0.317894 1 ]
+      count [ 1 ]
+     ]
+    ]
+    wall [
+     height [ 10 ]
+     code [ "wall_md_board_ur" ]
+     color [ 0.63 0.6 0.4 1 ]
+     windows [
+      code [ "window_porthole_ur" ]
+      color [ 0 0.532747 0.317894 1 ]
+      count [ 1 ]
+     ]
+    ]
+    prop "prop_crate_DNARoot" [
+     code [ "prop_crate" ]
+     pos [ 9.9999 -5 -6.26072e-022 ]
+     hpr [ 150 -7.62939e-006 -1.52588e-005 ]
+    ]
+    prop "prop_crate_DNARoot" [
+     code [ "DD_barrel" ]
+     pos [ 5.9999 -4 -6.26072e-022 ]
+     hpr [ 150 -7.62939e-006 -1.52588e-005 ]
+     scale [ 1.64501 1.64501 1.645 ]
+    ]
+    prop "prop_billboard_DNARoot" [
+     code [ "prop_billboard" ]
+     pos [ 4.6807 6.14 18.8131 ]
+     hpr [ -30 -4.13285e-006 -8.80968e-006 ]
+     scale [ 1 1 0.999993 ]
+     color [ 0.75 0.75 0.75 1 ]
+     sign [
+      color [ 0.25 0.25 0.25 1 ]
+      baseline [
+       code [ "mickey" ]
+       color [ 0 0.501961 0.25098 1 ]
+       pos [ 0 0 -0.197903 ]
+       hpr [ 0 0 7.52472 ]
+       scale [ 1.2 1 1.2 ]
+       kern [ 0.035536 ]
+       wiggle [ 2.73152 ]
+       width [ 38.847 ]
+       height [ 38.847 ]
+       text [
+        letters [ "T" ]
+       ]
+       text [
+        letters [ "U" ]
+       ]
+       text [
+        letters [ "F" ]
+       ]
+       text [
+        letters [ "T" ]
+       ]
+       text [
+        letters [ " " ]
+       ]
+       text [
+        letters [ " " ]
+       ]
+       text [
+        letters [ "G" ]
+       ]
+       text [
+        letters [ "U" ]
+       ]
+       text [
+        letters [ "Y" ]
+       ]
+      ]
+      baseline [
+       code [ "mickey" ]
+       color [ 0 0.501961 0.25098 1 ]
+       pos [ 0 0 -1.30116 ]
+       hpr [ 0 0 7.95086 ]
+       scale [ 1.2 1 1.2 ]
+       wiggle [ 1.8372 ]
+       width [ 15.0646 ]
+       height [ 15.0646 ]
+       text [
+        letters [ "G" ]
+       ]
+       text [
+        letters [ "Y" ]
+       ]
+       text [
+        letters [ "M" ]
+       ]
+      ]
+      baseline [
+       code [ "mickey" ]
+       color [ 0 0.501961 0.752941 1 ]
+       pos [ 0 0 -2.19277 ]
+       scale [ 0.6 1 0.6 ]
+       width [ 27.3426 ]
+       height [ 27.3426 ]
+       text [
+        letters [ "I" ]
+       ]
+       text [
+        letters [ "N" ]
+       ]
+       text [
+        letters [ " " ]
+       ]
+       text [
+        letters [ " " ]
+       ]
+       text [
+        letters [ "D" ]
+       ]
+       text [
+        letters [ "A" ]
+       ]
+       text [
+        letters [ "I" ]
+       ]
+       text [
+        letters [ "S" ]
+       ]
+       text [
+        letters [ "Y" ]
+       ]
+       text [
+        letters [ "'" ]
+       ]
+       text [
+        letters [ "S" ]
+       ]
+       text [
+        letters [ " " ]
+       ]
+       text [
+        letters [ " " ]
+       ]
+       text [
+        letters [ "G" ]
+       ]
+       text [
+        letters [ "A" ]
+       ]
+       text [
+        letters [ "R" ]
+       ]
+       text [
+        letters [ "D" ]
+       ]
+       text [
+        letters [ "E" ]
+       ]
+       text [
+        letters [ "N" ]
+       ]
+      ]
+      baseline [
+       code [ "mickey" ]
+       color [ 0 0.501961 0.752941 1 ]
+       pos [ 0 0 1.46525 ]
+       hpr [ 0 0 7.16471 ]
+       scale [ 0.7 1 0.7 ]
+       width [ 25.3094 ]
+       height [ 25.3094 ]
+       text [
+        letters [ "W" ]
+       ]
+       text [
+        letters [ "O" ]
+       ]
+       text [
+        letters [ "R" ]
+       ]
+       text [
+        letters [ "K" ]
+       ]
+       text [
+        letters [ " " ]
+       ]
+       text [
+        letters [ " " ]
+       ]
+       text [
+        letters [ "O" ]
+       ]
+       text [
+        letters [ "U" ]
+       ]
+       text [
+        letters [ "T" ]
+       ]
+       text [
+        letters [ " " ]
+       ]
+       text [
+        letters [ " " ]
+       ]
+       text [
+        letters [ "A" ]
+       ]
+       text [
+        letters [ "T" ]
+       ]
+       text [
+        letters [ " " ]
+       ]
+       text [
+        letters [ " " ]
+       ]
+       text [
+        letters [ "T" ]
+       ]
+       text [
+        letters [ "H" ]
+       ]
+       text [
+        letters [ "E" ]
+       ]
+      ]
+     ]
+    ]
+   ]
+   flat_building "tb2:random20_DNARoot" [
+    pos [ 245 -10 0 ]
+    hpr [ -90 -3.45552e-027 0 ]
+    width [ 10 ]
+    wall [
+     height [ 10 ]
+     code [ "wall_lg_brick_ur" ]
+     color [ 0.166003 0.440945 0.276671 1 ]
+     windows [
+      code [ "window_md_curtains_ur" ]
+      color [ 0.17258 0.637795 0.450208 1 ]
+      count [ 1 ]
+     ]
+    ]
+    wall [
+     height [ 10 ]
+     code [ "wall_lg_brick_ur" ]
+     color [ 0.166003 0.440945 0.276671 1 ]
+     windows [
+      code [ "window_md_curtains_ur" ]
+      color [ 0.17258 0.637795 0.450208 1 ]
+      count [ 0 ]
+     ]
+    ]
+    prop "prop_palm_tree_topflat_DNARoot" [
+     code [ "prop_palm_tree_topflat" ]
+     pos [ 4 -8 -2.26164e-012 ]
+     hpr [ -180 -3.92561e-005 1.52588e-005 ]
+     scale [ 0.520229 0.520222 0.520224 ]
+    ]
+   ]
+  ]
+  group "props" [
+  ]
+  prop "prop_2ftdockpiling_DNARoot" [
+   code [ "prop_2ftdockpiling" ]
+   pos [ 214 -19 1.92331e-022 ]
+   hpr [ 0 4.00208e-007 2.66827e-006 ]
+  ]
+  flat_building "tb2:random_DNARoot" [
+   pos [ 225 -50 -2.52662e-022 ]
+   hpr [ -180 2.66793e-012 -6.10352e-005 ]
+   width [ 15 ]
+   wall [
+    height [ 10 ]
+    code [ "wall_md_blank_ur" ]
+    color [ 0.42 0.16 0.16 1 ]
+    windows [
+     code [ "window_sm_square_ur" ]
+     color [ 0.87 0.65 0.33 1 ]
+     count [ 1 ]
+    ]
+   ]
+   wall [
+    height [ 10 ]
+    code [ "wall_md_board_ur" ]
+    color [ 0.93 0.15 0.15 1 ]
+    windows [
+     code [ "window_sm_round_ur" ]
+     color [ 0.87 0.55 0.33 1 ]
+     count [ 1 ]
+    ]
+    cornice [
+     code [ "cornice_dental_ur" ]
+     color [ 1 0.42 0.27 1 ]
+    ]
+   ]
+   prop "prop_2ftdockpiling_DNARoot" [
+    code [ "prop_2ftdockpiling" ]
+    pos [ 11.345 -7.71941 -0.000107537 ]
+    hpr [ 180 -1.4793e-010 -7.62939e-005 ]
+    scale [ 0.999909 1.00009 1 ]
+   ]
+  ]
+ ]
+ visgroup "1103" [
+  vis [   "1101"   "1102"   "1103"   "1104"   "1105"   "1120"   "1121"   ]
+  suit_edge [ 18 21 ]
+  suit_edge [ 21 22 ]
+  suit_edge [ 22 22 ]
+  suit_edge [ 25 25 ]
+  suit_edge [ 26 19 ]
+  suit_edge [ 25 26 ]
+  suit_edge [ 21 27 ]
+  suit_edge [ 27 21 ]
+  suit_edge [ 26 27 ]
+  suit_edge [ 27 26 ]
+  suit_edge [ 25 28 ]
+  suit_edge [ 28 25 ]
+  suit_edge [ 22 28 ]
+  suit_edge [ 28 22 ]
+  suit_edge [ 22 29 ]
+  suit_edge [ 34 25 ]
+  battle_cell [ 20 20 225.001 4.99904 -1.16924e-018 ]
+  group "streets" [
+  ]
+  group "buildings" [
+   flat_building "tb2:random20_DNARoot" [
+    pos [ 245 30 0 ]
+    hpr [ -90 -2.82274e-027 0 ]
+    width [ 15 ]
+    wall [
+     height [ 10 ]
+     code [ "wall_md_board_ur" ]
+     color [ 0.929134 0.153034 0.153034 1 ]
+     windows [
+      code [ "window_porthole_ur" ]
+      color [ 0 0.532747 0.317894 1 ]
+      count [ 1 ]
+     ]
+    ]
+    wall [
+     height [ 10 ]
+     code [ "wall_md_board_ur" ]
+     color [ 0.929134 0.153034 0.153034 1 ]
+     windows [
+      code [ "window_porthole_ul" ]
+      color [ 0 0.532747 0.317894 1 ]
+      count [ 2 ]
+     ]
+    ]
+    prop "prop_chimney_DNARoot" [
+     code [ "prop_chimney" ]
+     pos [ 0.781401 2.94901 18.3449 ]
+     hpr [ 9.10706e-006 -0.000102453 -9.33189e-006 ]
+     scale [ 0.999996 0.999976 0.999999 ]
+     color [ 0.75 0.45 0.45 1 ]
+    ]
+    prop "prop_crate_DNARoot" [
+     code [ "DD_barrel" ]
+     pos [ 6 -2 -9.85323e-029 ]
+     hpr [ 90 -3.05176e-005 -3.05176e-005 ]
+     scale [ 1.41936 1.41935 1.41936 ]
+    ]
+    prop "prop_crate_DNARoot" [
+     code [ "prop_crate" ]
+     pos [ 10 -5 -2.4633e-028 ]
+     hpr [ 120 -1.32145e-005 -1.52588e-005 ]
+    ]
+    prop "prop_2ftdockpiling_DNARoot" [
+     code [ "prop_2ftdockpiling" ]
+     pos [ 11 -9 -2.56899e-012 ]
+     hpr [ -180 -1.70755e-006 1.52588e-005 ]
+    ]
+    prop "streetlight_DD_right_DNARoot" [
+     code [ "streetlight_DD_right" ]
+     pos [ 7.4731 -8.485 -4.18023e-028 ]
+     hpr [ 90 -1.52588e-005 -1.52588e-005 ]
+     scale [ 0.999998 0.999999 1 ]
+    ]
+   ]
+   flat_building "tb26:random20_DNARoot" [
+    pos [ 205 -9.9998 -2.68942e-021 ]
+    hpr [ 90 -7.0165e-015 0 ]
+    width [ 20.7 ]
+    wall [
+     height [ 10 ]
+     code [ "wall_lg_brick_ur" ]
+     color [ 0.71 0.49 0.35 1 ]
+     windows [
+      code [ "window_md_curtains_ur" ]
+      color [ 0.79 0.47 0.47 1 ]
+      count [ 1 ]
+     ]
+    ]
+    wall [
+     height [ 10 ]
+     code [ "wall_lg_brick_ur" ]
+     color [ 0.71 0.49 0.35 1 ]
+     windows [
+      code [ "window_md_curtains_ur" ]
+      color [ 0.79 0.47 0.47 1 ]
+      count [ 1 ]
+     ]
+    ]
+    prop "prop_palm_tree_topflat_DNARoot" [
+     code [ "prop_palm_tree_topflat" ]
+     pos [ -4.9643 0.597992 7.32314e-017 ]
+     hpr [ -60 1.4033e-014 -1.21529e-014 ]
+     scale [ 1.24604 1.24604 1.24604 ]
+    ]
+    prop "prop_palm_tree_topflat_DNARoot" [
+     code [ "prop_palm_tree_topflat" ]
+     pos [ -0.000201225 -7 -8.57226e-016 ]
+     hpr [ 135 -8.61846e-005 -4.57764e-005 ]
+     scale [ 0.876204 0.876205 0.876206 ]
+    ]
+    prop "prop_mailbox_DD_DNARoot" [
+     code [ "prop_mailbox_DD" ]
+     pos [ 20.9998 -6 -7.34766e-016 ]
+     hpr [ 0 1.04221e-009 5.22055e-011 ]
+     scale [ 0.999997 0.999959 0.999983 ]
+    ]
+    prop "prop_2ftdockpiling_DNARoot" [
+     code [ "prop_2ftdockpiling" ]
+     pos [ 28.9998 -9 -1.31953e-012 ]
+     hpr [ -1.96195e-007 8.53774e-007 1.90377e-006 ]
+    ]
+   ]
+   landmark_building "tb26:toon_landmark_DD_D1_DNARoot" [
+    code [ "toon_landmark_DD_D1" ]
+    title [ "" ]
+    pos [ 204 10 0 ]
+    hpr [ 90 -0.000320434 -0.000320435 ]
+    door [
+     code [ "door_double_wood_ur" ]
+     color [ 1 0.59 0.59 1 ]
+    ]
+    sign [
+     code [ "DD_sign2" ]
+     pos [ 0 0 -0.511676 ]
+     hpr [ 0 0 1.07132 ]
+     baseline [
+      code [ "DD_Portago" ]
+      color [ 0 0.690196 0.345098 1 ]
+      pos [ 0 0 -0.561379 ]
+      scale [ 1.5 1 1.5 ]
+      kern [ 0.074345 ]
+      wiggle [ 3.92579 ]
+      stomp [ -0.020553 ]
+      text [
+       letters [ "S" ]
+      ]
+      text [
+       letters [ "A" ]
+      ]
+      text [
+       letters [ "L" ]
+      ]
+      text [
+       letters [ "T" ]
+      ]
+      text [
+       letters [ "Y" ]
+      ]
+      text [
+       letters [ "'" ]
+      ]
+      text [
+       letters [ "S" ]
+      ]
+      text [
+       letters [ " " ]
+      ]
+      text [
+       letters [ "L" ]
+      ]
+      text [
+       letters [ "I" ]
+      ]
+      text [
+       letters [ "C" ]
+      ]
+      text [
+       letters [ "O" ]
+      ]
+      text [
+       letters [ "R" ]
+      ]
+      text [
+       letters [ "I" ]
+      ]
+      text [
+       letters [ "C" ]
+      ]
+      text [
+       letters [ "E" ]
+      ]
+     ]
+    ]
+   ]
+   landmark_building "tb2:toon_landmark_DD_A1_DNARoot" [
+    code [ "toon_landmark_DD_A1" ]
+    title [ "" ]
+    pos [ 245 15 -1.56543e-020 ]
+    hpr [ -90 3.67672e-022 0 ]
+    door [
+     code [ "door_double_wood_ur" ]
+     color [ 0.79 0.47 0.47 1 ]
+    ]
+    sign [
+     code [ "DD_sign1" ]
+     pos [ 0 0 -3 ]
+     hpr [ 0 0 6.28219 ]
+     baseline [
+      code [ "DD_Portago" ]
+      color [ 0.360784 0.360784 0.360784 1 ]
+      pos [ 0.276605 0 0.233535 ]
+      scale [ 1.2 1 1.2 ]
+      kern [ 0.109239 ]
+      wiggle [ 3.0302 ]
+      stumble [ 0.021793 ]
+      stomp [ 0.02 ]
+      flags [ "cd" ]
+      text [
+       letters [ "U" ]
+      ]
+      text [
+       letters [ "s" ]
+      ]
+      text [
+       letters [ "e" ]
+      ]
+      text [
+       letters [ "d" ]
+      ]
+      text [
+       letters [ " " ]
+      ]
+      text [
+       letters [ "L" ]
+      ]
+      text [
+       letters [ "i" ]
+      ]
+      text [
+       letters [ "f" ]
+      ]
+      text [
+       letters [ "e" ]
+      ]
+      text [
+       letters [ " " ]
+      ]
+      text [
+       letters [ "P" ]
+      ]
+      text [
+       letters [ "r" ]
+      ]
+      text [
+       letters [ "e" ]
+      ]
+      text [
+       letters [ "s" ]
+      ]
+      text [
+       letters [ "e" ]
+      ]
+      text [
+       letters [ "r" ]
+      ]
+      text [
+       letters [ "v" ]
+      ]
+      text [
+       letters [ "e" ]
+      ]
+      text [
+       letters [ "r" ]
+      ]
+      text [
+       letters [ "s" ]
+      ]
+     ]
+    ]
+   ]
+  ]
+  group "props" [
+  ]
+  street "street_40x40_DNARoot" [
+   code [ "street_40x40" ]
+   pos [ 245 -10 0 ]
+   hpr [ 90 0 0 ]
+   texture [ "street_street_DD_tex" ]
+   texture [ "street_sidewalk_DD_tex" ]
+  ]
+ ]
+ visgroup "1104" [
+  vis [   "1102"   "1103"   "1104"   "1105"   "1106"   "1107"   "1120"   "1121"   "1122"   "1101"   ]
+  suit_edge [ 38 39 ]
+  suit_edge [ 38 39 ]
+  suit_edge [ 39 38 ]
+  suit_edge [ 41 39 ]
+  suit_edge [ 39 41 ]
+  suit_edge [ 36 42 ]
+  suit_edge [ 42 41 ]
+  suit_edge [ 41 43 ]
+  suit_edge [ 44 38 ]
+  suit_edge [ 38 45 ]
+  suit_edge [ 45 37 ]
+  battle_cell [ 20 20 225 110.001 0 ]
+  group "streets" [
+   street "street_full_corner_DNARoot" [
+    code [ "street_full_corner" ]
+    pos [ 205 90 -1.19587e-023 ]
+    hpr [ 5.78408e-006 1.31788e-027 -3.71977e-028 ]
+    texture [ "street_street_DD_tex" ]
+    texture [ "street_sidewalk_DD_tex" ]
+   ]
+  ]
+  group "buildings" [
+   flat_building "tb4:random20_DNARoot" [
+    pos [ 205 90 1.46736e-012 ]
+    hpr [ 90 -7.52105e-019 0 ]
+    width [ 20 ]
+    wall [
+     height [ 20 ]
+     code [ "wall_lg_brick_ur" ]
+     color [ 0.166003 0.440945 0.276671 1 ]
+     windows [
+      code [ "window_md_curtains_ur" ]
+      color [ 0.17258 0.637795 0.450208 1 ]
+      count [ 4 ]
+     ]
+    ]
+    prop "neighborhood_sign_DD_DNARoot" [
+     code [ "neighborhood_sign_DD" ]
+     pos [ 22.1043 -1.24819 -4.59227e-012 ]
+     hpr [ -180 -9.91191e-005 0.000747681 ]
+     scale [ 1.5 1.5 1.5 ]
+    ]
+    prop "prop_roof_access_DNARoot" [
+     code [ "prop_roof_access" ]
+     pos [ 4.9313 4.48599 18.8606 ]
+     hpr [ -6.47675e-006 1.70755e-006 8.88641e-006 ]
+     scale [ 1 0.999999 1.00001 ]
+     color [ 0.44 0.67 0.45 1 ]
+    ]
+    prop "prop_2ftdockpiling_DNARoot" [
+     code [ "prop_2ftdockpiling" ]
+     pos [ 9 -9 -1.05026e-012 ]
+     hpr [ -3.07014e-007 -1.70755e-006 -2.37434e-006 ]
+    ]
+   ]
+   flat_building "tb4:random20_DNARoot" [
+    pos [ 205 110 1.54379e-012 ]
+    hpr [ 90 -1.52587e-005 -1.52588e-005 ]
+    width [ 20 ]
+    wall [
+     height [ 10 ]
+     code [ "wall_md_blank_ur" ]
+     color [ 0.417323 0.15711 0.15711 1 ]
+     windows [
+      code [ "window_sm_square_ur" ]
+      color [ 0.874016 0.654655 0.329041 1 ]
+      count [ 1 ]
+     ]
+    ]
+    wall [
+     height [ 10 ]
+     code [ "wall_md_board_ur" ]
+     color [ 0.929134 0.153034 0.153034 1 ]
+     windows [
+      code [ "window_porthole_ur" ]
+      color [ 0 0.532747 0.317894 1 ]
+      count [ 1 ]
+     ]
+    ]
+    prop "prop_palm_tree_topflat_DNARoot" [
+     code [ "prop_palm_tree_topflat" ]
+     pos [ -7.28325 -4.25074 6.0314e-012 ]
+     hpr [ 90 -52.1891 -52.1889 ]
+     scale [ 0.362622 0.362637 0.362628 ]
+     color [ 0.9 0.9 0.9 1 ]
+    ]
+    prop "prop_nets_DNARoot" [
+     code [ "prop_nets" ]
+     pos [ 15.82 -3.241 -0.443015 ]
+     hpr [ -30 -0.000382575 5.22502e-005 ]
+    ]
+    prop "prop_crate_DNARoot" [
+     code [ "prop_crate" ]
+     pos [ 17.789 -7.69501 -9.54514e-005 ]
+     hpr [ -90.0004 3.05176e-005 -3.05176e-005 ]
+    ]
+    prop "prop_crate_DNARoot" [
+     code [ "prop_crate" ]
+     pos [ 13.839 -7.39799 -9.54514e-005 ]
+     hpr [ -90.0005 1.52588e-005 -1.52588e-005 ]
+    ]
+    prop "prop_2ftdockpiling_DNARoot" [
+     code [ "prop_2ftdockpiling" ]
+     pos [ 11.016 -8.54201 -9.54514e-005 ]
+     hpr [ -90.0004 3.05176e-005 -3.05176e-005 ]
+    ]
+    prop "prop_billboard_DNARoot" [
+     code [ "prop_billboard" ]
+     pos [ 4.702 1.061 19.3034 ]
+     hpr [ -1.70855e-006 -0.000408104 -5.38315e-006 ]
+     scale [ 1.00001 1 0.999998 ]
+     color [ 0.75 0.75 0.75 1 ]
+     sign [
+      color [ 0.25 0.25 0.25 1 ]
+      baseline [
+       code [ "mickey" ]
+       color [ 0 0.501961 0.752941 1 ]
+       pos [ 0 0 1.51253 ]
+       hpr [ 0 0 6.88289 ]
+       scale [ 0.7 1 0.7 ]
+       kern [ 0.028793 ]
+       wiggle [ 3.74412 ]
+       stumble [ 0.065607 ]
+       width [ 15.2683 ]
+       height [ 15.2683 ]
+       text [
+        letters [ "M" ]
+       ]
+       text [
+        letters [ "O" ]
+       ]
+       text [
+        letters [ "V" ]
+       ]
+       text [
+        letters [ "I" ]
+       ]
+       text [
+        letters [ "N" ]
+       ]
+       text [
+        letters [ "G" ]
+       ]
+       text [
+        letters [ "?" ]
+       ]
+      ]
+      baseline [
+       code [ "mickey" ]
+       color [ 0 0.501961 0.501961 1 ]
+       pos [ 0 0 0.244736 ]
+       hpr [ 0 0 7.71563 ]
+       scale [ 0.9 1 1.1 ]
+       wiggle [ 5.40493 ]
+       stumble [ -0.001889 ]
+       stomp [ 0.008968 ]
+       width [ 32.4338 ]
+       height [ 32.4338 ]
+       text [
+        letters [ "C" ]
+       ]
+       text [
+        letters [ "A" ]
+       ]
+       text [
+        letters [ "R" ]
+       ]
+       text [
+        letters [ "R" ]
+       ]
+       text [
+        letters [ "Y" ]
+       ]
+       text [
+        letters [ " " ]
+       ]
+       text [
+        letters [ " " ]
+       ]
+       text [
+        letters [ "A" ]
+       ]
+       text [
+        letters [ " " ]
+       ]
+       text [
+        letters [ " " ]
+       ]
+       text [
+        letters [ "T" ]
+       ]
+       text [
+        letters [ "O" ]
+       ]
+       text [
+        letters [ "O" ]
+       ]
+       text [
+        letters [ "N" ]
+       ]
+      ]
+      baseline [
+       code [ "mickey" ]
+       color [ 0 0.501961 0.501961 1 ]
+       pos [ 0 0 -0.854198 ]
+       hpr [ 0 0 5.54662 ]
+       scale [ 1.1 1 1.1 ]
+       wiggle [ 2.99445 ]
+       stumble [ 0.067726 ]
+       stomp [ 0.054238 ]
+       width [ 26.0613 ]
+       height [ 26.0613 ]
+       text [
+        letters [ "M" ]
+       ]
+       text [
+        letters [ "O" ]
+       ]
+       text [
+        letters [ "V" ]
+       ]
+       text [
+        letters [ "E" ]
+       ]
+       text [
+        letters [ "R" ]
+       ]
+       text [
+        letters [ "S" ]
+       ]
+      ]
+      baseline [
+       code [ "mickey" ]
+       color [ 0 0.501961 0.752941 1 ]
+       pos [ 0 0 -1.71933 ]
+       hpr [ 0 0 2.63779 ]
+       scale [ 0.6 1 0.6 ]
+       kern [ 0.019825 ]
+       width [ 25.5768 ]
+       height [ 25.5768 ]
+       text [
+        letters [ "I" ]
+       ]
+       text [
+        letters [ "N" ]
+       ]
+       text [
+        letters [ " " ]
+       ]
+       text [
+        letters [ " " ]
+       ]
+       text [
+        letters [ "M" ]
+       ]
+       text [
+        letters [ "I" ]
+       ]
+       text [
+        letters [ "N" ]
+       ]
+       text [
+        letters [ "N" ]
+       ]
+       text [
+        letters [ "I" ]
+       ]
+       text [
+        letters [ "E" ]
+       ]
+       text [
+        letters [ "'" ]
+       ]
+       text [
+        letters [ "S" ]
+       ]
+       text [
+        letters [ " " ]
+       ]
+      ]
+      baseline [
+       code [ "mickey" ]
+       color [ 0 0.501961 0.752941 1 ]
+       pos [ 0 0 -2.31482 ]
+       hpr [ 0 0 1.80546 ]
+       scale [ 0.6 1 0.6 ]
+       kern [ 0.049083 ]
+       width [ 28.3632 ]
+       height [ 28.3632 ]
+       text [
+        letters [ "M" ]
+       ]
+       text [
+        letters [ "E" ]
+       ]
+       text [
+        letters [ "L" ]
+       ]
+       text [
+        letters [ "O" ]
+       ]
+       text [
+        letters [ "D" ]
+       ]
+       text [
+        letters [ "Y" ]
+       ]
+       text [
+        letters [ "L" ]
+       ]
+       text [
+        letters [ "A" ]
+       ]
+       text [
+        letters [ "N" ]
+       ]
+       text [
+        letters [ "D" ]
+       ]
+      ]
+     ]
+    ]
+   ]
+   flat_building "tb4:random20_DNARoot" [
+    pos [ 205 130 0 ]
+    hpr [ 0 -1.03708e-028 0 ]
+    width [ 20 ]
+    wall [
+     height [ 10 ]
+     code [ "wall_bricks_ur" ]
+     color [ 0.629921 0.471823 0.237147 1 ]
+     windows [
+      code [ "window_sm_shuttered_ur" ]
+      color [ 1 0.627451 0.376471 1 ]
+      count [ 0 ]
+     ]
+    ]
+    wall [
+     height [ 10 ]
+     code [ "wall_bricks_ur" ]
+     color [ 0.629921 0.471823 0.237147 1 ]
+     windows [
+      code [ "window_sm_shuttered_ur" ]
+      color [ 1 0.627451 0.376471 1 ]
+      count [ 0 ]
+     ]
+    ]
+    prop "neighborhood_sign_TT_DNARoot" [
+     code [ "neighborhood_sign_TT" ]
+     pos [ 12.8248 -1.15088 -2.08314e-030 ]
+     hpr [ 0 -1.06682e-007 -1.10248e-007 ]
+     scale [ 1.5 1.49999 1.5 ]
+    ]
+   ]
+   landmark_building "tb4:toon_landmark_DD_A1_DNARoot" [
+    code [ "toon_landmark_DD_A1" ]
+    title [ "" ]
+    pos [ 225 130 -1.36272e-013 ]
+    hpr [ -3.02027e-005 -8.30545e-020 7.6126e-012 ]
+    door [
+     code [ "door_double_wood_ur" ]
+     color [ 1 0.592157 0.592157 1 ]
+    ]
+    sign [
+     code [ "DD_sign3" ]
+     pos [ 0 0 -4.28869 ]
+     hpr [ 0 0 3 ]
+     baseline [
+      code [ "comic" ]
+      color [ 0 0.501961 0.25098 1 ]
+      pos [ -1.08526 0 -0.25 ]
+      wiggle [ 5 ]
+      stumble [ 0.03 ]
+      stomp [ 0.05 ]
+      flags [ "d" ]
+      text [
+       letters [ "W" ]
+      ]
+      text [
+       letters [ "e" ]
+      ]
+      text [
+       letters [ "t" ]
+      ]
+      text [
+       letters [ "s" ]
+      ]
+      text [
+       letters [ "u" ]
+      ]
+      text [
+       letters [ "i" ]
+      ]
+      text [
+       letters [ "t" ]
+      ]
+      text [
+       letters [ "s" ]
+      ]
+      text [
+       letters [ " " ]
+      ]
+      text [
+       letters [ "D" ]
+      ]
+      text [
+       letters [ "r" ]
+      ]
+      text [
+       letters [ "y" ]
+      ]
+      text [
+       letters [ " " ]
+      ]
+      text [
+       letters [ "C" ]
+      ]
+      text [
+       letters [ "l" ]
+      ]
+      text [
+       letters [ "e" ]
+      ]
+      text [
+       letters [ "a" ]
+      ]
+      text [
+       letters [ "n" ]
+      ]
+      text [
+       letters [ "e" ]
+      ]
+      text [
+       letters [ "r" ]
+      ]
+      text [
+       letters [ "s" ]
+      ]
+     ]
+    ]
+    prop "prop_smokestack_DNARoot" [
+     code [ "prop_smokestack" ]
+     pos [ 19 11 20 ]
+     hpr [ 3.1085e-005 -0.000141878 -0.000296684 ]
+     scale [ 0.999999 0.999995 1 ]
+     color [ 0.71 0.49 0.35 1 ]
+    ]
+    prop "prop_2ftdockpiling_DNARoot" [
+     code [ "prop_2ftdockpiling" ]
+     pos [ 15.925 -8.88499 -1.9796e-012 ]
+     hpr [ 3.1085e-005 -7.02232e-013 7.66812e-008 ]
+    ]
+    prop "prop_2ftdockpiling_DNARoot" [
+     code [ "prop_2ftdockpiling" ]
+     pos [ 11 -31 -1.29092e-012 ]
+     hpr [ 90 3.01791 3.01791 ]
+    ]
+   ]
+  ]
+  group "props" [
+  ]
+ ]
+ visgroup "1105" [
+  vis [   "1103"   "1104"   "1105"   "1106"   "1107"   "1108"   "1101"   "1122"   "1121"   "1120"   "1102"   ]
+  suit_edge [ 43 46 ]
+  suit_edge [ 47 44 ]
+  battle_cell [ 20 20 255 110.001 0 ]
+  group "streets" [
+   street "street_20x40_DNARoot" [
+    code [ "street_20x40" ]
+    pos [ 245 90 0 ]
+    hpr [ 0 5.40578e-029 -1.2492e-029 ]
+    texture [ "street_street_DD_tex" ]
+    texture [ "street_sidewalk_DD_tex" ]
+   ]
+  ]
+  group "buildings" [
+   flat_building "tb4:random20_DNARoot" [
+    pos [ 250 130 5.13369e-022 ]
+    hpr [ 6.56331e-005 3.28996e-030 -1.13413e-026 ]
+    width [ 15 ]
+    wall [
+     height [ 10 ]
+     code [ "wall_md_board_ur" ]
+     color [ 0.44 0.67 0.45 1 ]
+     windows [
+      code [ "window_sm_round_ul" ]
+      color [ 0.73 0.63 0.45 1 ]
+      count [ 2 ]
+     ]
+    ]
+    wall [
+     height [ 10 ]
+     code [ "wall_md_board_ur" ]
+     color [ 0.44 0.67 0.45 1 ]
+     windows [
+      code [ "window_sm_round_ul" ]
+      color [ 0.73 0.63 0.45 1 ]
+      count [ 2 ]
+     ]
+    ]
+    prop "streetlight_DD_left_DNARoot" [
+     code [ "streetlight_DD_left" ]
+     pos [ 12.079 -7.97701 -5.13367e-022 ]
+     hpr [ -90.0001 1.5254e-005 -1.52588e-005 ]
+    ]
+   ]
+   flat_building "tb22:random20_DNARoot" [
+    pos [ 270 90 1.98911e-022 ]
+    hpr [ -180 9.00678e-028 0 ]
+    width [ 25 ]
+    wall [
+     height [ 10 ]
+     code [ "wall_md_blank_ur" ]
+     color [ 0.384314 0.305635 0.187618 1 ]
+     windows [
+      code [ "window_sm_round_ul" ]
+      color [ 0.779528 0.489115 0.293469 1 ]
+      count [ 2 ]
+     ]
+    ]
+    wall [
+     height [ 10 ]
+     code [ "wall_sm_wood_ur" ]
+     color [ 0.874016 0.610097 0.610097 1 ]
+     windows [
+      code [ "window_sm_shuttered_ur" ]
+      color [ 0.874016 0.548402 0.329041 1 ]
+      count [ 1 ]
+     ]
+     cornice [
+      code [ "cornice_shingles_ur" ]
+      color [ 0.944882 0.715146 0.659565 1 ]
+     ]
+    ]
+    prop "prop_trashcan_DD_DNARoot" [
+     code [ "prop_hydrant" ]
+     pos [ 15 -7.99999 -1.95686e-012 ]
+     hpr [ 90 29.3681 29.3684 ]
+     scale [ 1 0.999995 1 ]
+    ]
+   ]
+  ]
+  group "props" [
+  ]
+ ]
+ visgroup "1106" [
+  vis [   "1104"   "1105"   "1106"   "1107"   "1108"   "1109"   "1110"   "1122"   "1121"   "1123"   "1124"   ]
+  suit_edge [ 49 53 ]
+  suit_edge [ 53 54 ]
+  suit_edge [ 55 55 ]
+  suit_edge [ 56 50 ]
+  suit_edge [ 55 56 ]
+  battle_cell [ 20 20 324.999 110.001 0 ]
+  group "streets" [
+   street "street_full_corner_DNARoot" [
+    code [ "street_full_corner" ]
+    pos [ 305 130 7.15508e-022 ]
+    hpr [ -90 1.95398e-028 0 ]
+    texture [ "street_street_DD_tex" ]
+    texture [ "street_sidewalk_DD_tex" ]
+   ]
+  ]
+  group "buildings" [
+   flat_building "tb22:random20_DNARoot" [
+    pos [ 305 130 0 ]
+    hpr [ 0 -2.07584e-027 2.38437e-027 ]
+    width [ 20 ]
+    wall [
+     height [ 20 ]
+     code [ "wall_sm_wood_ur" ]
+     color [ 0.74902 0.74902 0.74902 1 ]
+     windows [
+      code [ "window_porthole_ur" ]
+      color [ 0.0778138 0.472441 0.314961 1 ]
+      count [ 1 ]
+     ]
+     cornice [
+      code [ "cornice_shingles_ur" ]
+      color [ 0.732283 0.511163 0.511163 1 ]
+     ]
+    ]
+    prop "prop_2ftdockpiling_DNARoot" [
+     code [ "prop_2ftdockpiling" ]
+     pos [ 9 -9 -4.39947e-012 ]
+     hpr [ 0 2.07584e-027 -1.67651e-020 ]
+    ]
+    prop "prop_shipmasts_DNARoot" [
+     code [ "prop_shipmasts" ]
+     pos [ -7.70901 9.28 15 ]
+     hpr [ 15 -2.96665e-005 9.38472e-006 ]
+     scale [ 2 2 2.00001 ]
+    ]
+    prop "prop_shipmasts_DNARoot" [
+     code [ "prop_shipmasts" ]
+     pos [ 11.609 14.457 5 ]
+     hpr [ 15 -6.59242e-006 8.58431e-006 ]
+     scale [ 2 2 1.99998 ]
+    ]
+   ]
+   flat_building "tb22:random20_DNARoot" [
+    pos [ 325 130 7.67562e-013 ]
+    hpr [ 0 1.82765e-033 2.57219e-019 ]
+    width [ 20 ]
+    wall [
+     height [ 10 ]
+     code [ "wall_md_blank_ur" ]
+     color [ 0.415686 0.156863 0.156863 1 ]
+     windows [
+      code [ "window_sm_round_ul" ]
+      color [ 0 0.529412 0.317647 1 ]
+      count [ 2 ]
+     ]
+    ]
+    wall [
+     height [ 10 ]
+     code [ "wall_md_board_ur" ]
+     color [ 0.929134 0.153034 0.153034 1 ]
+     windows [
+      code [ "window_porthole_ul" ]
+      color [ 0 0.532747 0.317894 1 ]
+      count [ 2 ]
+     ]
+    ]
+    prop "streetlight_DD_left_DNARoot" [
+     code [ "streetlight_DD_left" ]
+     pos [ -1 -9 -7.67562e-013 ]
+     hpr [ -90 1.52588e-005 -1.52588e-005 ]
+    ]
+    prop "prop_2ftdockpiling_DNARoot" [
+     code [ "prop_2ftdockpiling" ]
+     pos [ 11.238 -8.444 -9.54511e-005 ]
+     hpr [ -0.000382591 8.07858e-016 -1.52631e-013 ]
+    ]
+    prop "prop_lifesaver_DNARoot" [
+     code [ "prop_lifesaver" ]
+     pos [ 15.435 -3.376 -7.67562e-013 ]
+     hpr [ -30 2.31416e-026 -2.58038e-019 ]
+     scale [ 1 0.999998 1 ]
+    ]
+    prop "prop_crate_DNARoot" [
+     code [ "prop_crate" ]
+     pos [ 17 -10 -7.67562e-013 ]
+     hpr [ -30 0 -2.58038e-019 ]
+     scale [ 1.00001 0.999999 1 ]
+    ]
+    prop "prop_palm_tree_topflat_DNARoot" [
+     code [ "prop_palm_tree_topflat" ]
+     pos [ 14.483 -15.27 -7.67562e-013 ]
+     hpr [ -75 -0.000710892 0.00052587 ]
+     scale [ 0.614084 0.61408 0.614082 ]
+    ]
+    prop "prop_palm_tree_topflat_DNARoot" [
+     code [ "prop_palm_tree_topflat" ]
+     pos [ -16.031 -34.7412 -7.67562e-013 ]
+     hpr [ -75 -9.48478e-006 5.11226e-005 ]
+     scale [ 0.676249 0.676242 0.676244 ]
+    ]
+    prop "prop_2ftdockpiling_DNARoot" [
+     code [ "prop_2ftdockpiling" ]
+     pos [ -11 -31 -7.67562e-013 ]
+     hpr [ -30 1.02482e-006 3.82051e-006 ]
+    ]
+   ]
+   flat_building "tb6:random20_DNARoot" [
+    pos [ 345 130 1.02028e-021 ]
+    hpr [ -90 -2.08572e-028 0 ]
+    width [ 25 ]
+    wall [
+     height [ 10 ]
+     code [ "wall_lg_brick_ur" ]
+     color [ 0.166003 0.440945 0.276671 1 ]
+     windows [
+      code [ "window_md_curtains_ul" ]
+      color [ 0.17258 0.637795 0.450208 1 ]
+      count [ 2 ]
+     ]
+    ]
+    wall [
+     height [ 10 ]
+     code [ "wall_lg_brick_ur" ]
+     color [ 0.166003 0.440945 0.276671 1 ]
+     windows [
+      code [ "window_md_curtains_ur" ]
+      color [ 0.17258 0.637795 0.450208 1 ]
+      count [ 0 ]
+     ]
+    ]
+    prop "prop_chimney_DNARoot" [
+     code [ "prop_chimney" ]
+     pos [ 25.763 2.18701 18.0594 ]
+     hpr [ 2.04552e-006 0.000196368 5.83132e-006 ]
+     scale [ 1 1 1.00001 ]
+     color [ 0.63 0.6 0.4 1 ]
+    ]
+    prop "prop_billboard_DNARoot" [
+     code [ "prop_billboard" ]
+     pos [ 7 1 19 ]
+     hpr [ 30 2.32362e-028 1.16181e-028 ]
+     scale [ 0.999999 0.999995 1.00001 ]
+     color [ 0.75 0.75 0.75 1 ]
+     sign [
+      color [ 0.25 0.25 0.25 1 ]
+      baseline [
+       code [ "mickey" ]
+       color [ 0.501961 0.501961 0.752941 1 ]
+       pos [ 0 0 -0.021191 ]
+       hpr [ 0 0 4.1929 ]
+       scale [ 0.75 1 1 ]
+       width [ 26.3317 ]
+       height [ 26.3317 ]
+       text [
+        letters [ "E" ]
+       ]
+       text [
+        letters [ "Y" ]
+       ]
+       text [
+        letters [ "E" ]
+       ]
+       text [
+        letters [ " " ]
+       ]
+       text [
+        letters [ "O" ]
+       ]
+       text [
+        letters [ "F" ]
+       ]
+       text [
+        letters [ " " ]
+       ]
+       text [
+        letters [ "T" ]
+       ]
+       text [
+        letters [ "H" ]
+       ]
+       text [
+        letters [ "E" ]
+       ]
+       text [
+        letters [ " " ]
+       ]
+       text [
+        letters [ "S" ]
+       ]
+       text [
+        letters [ "T" ]
+       ]
+       text [
+        letters [ "O" ]
+       ]
+       text [
+        letters [ "R" ]
+       ]
+       text [
+        letters [ "M" ]
+       ]
+      ]
+      baseline [
+       code [ "mickey" ]
+       color [ 0.501961 0.501961 0.752941 1 ]
+       pos [ 0 0 -1.05441 ]
+       hpr [ 0 0 3.26079 ]
+       width [ 18.0248 ]
+       height [ 18.0248 ]
+       text [
+        letters [ "O" ]
+       ]
+       text [
+        letters [ "P" ]
+       ]
+       text [
+        letters [ "T" ]
+       ]
+       text [
+        letters [ "I" ]
+       ]
+       text [
+        letters [ "C" ]
+       ]
+       text [
+        letters [ "S" ]
+       ]
+      ]
+      baseline [
+       code [ "mickey" ]
+       color [ 0 0.356863 0.533333 1 ]
+       pos [ 0 0 -2.23121 ]
+       hpr [ 0 0 2.02403 ]
+       scale [ 0.8 1 0.8 ]
+       width [ 44.1073 ]
+       height [ 44.1073 ]
+       text [
+        letters [ "I" ]
+       ]
+       text [
+        letters [ "N" ]
+       ]
+       text [
+        letters [ " " ]
+       ]
+       text [
+        letters [ "T" ]
+       ]
+       text [
+        letters [ "H" ]
+       ]
+       text [
+        letters [ "E" ]
+       ]
+       text [
+        letters [ " " ]
+       ]
+       text [
+        letters [ "B" ]
+       ]
+       text [
+        letters [ "R" ]
+       ]
+       text [
+        letters [ "R" ]
+       ]
+       text [
+        letters [ "R" ]
+       ]
+       text [
+        letters [ "G" ]
+       ]
+       text [
+        letters [ "H" ]
+       ]
+      ]
+     ]
+    ]
+   ]
+   flat_building "tb6:random20_DNARoot" [
+    pos [ 345 105 0 ]
+    hpr [ -90 -1.19989e-028 0 ]
+    width [ 15 ]
+    wall [
+     height [ 20 ]
+     code [ "wall_md_blank_ur" ]
+     color [ 0.384314 0.305635 0.187618 1 ]
+     windows [
+      code [ "window_sm_round_ur" ]
+      color [ 0.779528 0.489115 0.293469 1 ]
+      count [ 1 ]
+     ]
+     cornice [
+      code [ "cornice_marble_ur" ]
+      color [ 0.76378 0.572086 0.287541 1 ]
+     ]
+    ]
+   ]
+   flat_building "tb6:random20_DNARoot" [
+    pos [ 345 90 4.72599e-013 ]
+    hpr [ -90 4.90306e-019 0 ]
+    width [ 15 ]
+    wall [
+     height [ 10 ]
+     code [ "wall_bricks_dr" ]
+     color [ 0.629921 0.471823 0.237147 1 ]
+     windows [
+      code [ "window_sm_shuttered_ul" ]
+      color [ 0.73 0.63 0.37 1 ]
+      count [ 2 ]
+     ]
+    ]
+    wall [
+     height [ 10 ]
+     code [ "wall_bricks_dr" ]
+     color [ 0.629921 0.471823 0.237147 1 ]
+     windows [
+      code [ "window_sm_shuttered_ul" ]
+      color [ 0.74 0.55 0.32 1 ]
+      count [ 2 ]
+     ]
+     cornice [
+      code [ "cornice_marble_ur" ]
+      color [ 0.572549 0.384314 0.337255 1 ]
+     ]
+    ]
+    prop "prop_2ftdockpiling_DNARoot" [
+     code [ "prop_2ftdockpiling" ]
+     pos [ 0 -9 -2.23475e-012 ]
+     hpr [ 60 -4.73891e-006 -2.66828e-006 ]
+     scale [ 0.999998 0.999998 1 ]
+    ]
+   ]
+  ]
+  group "props" [
+   prop "prop_hydrant_DNARoot" [
+    code [ "prop_hydrant" ]
+    pos [ 314.124 93.6837 5.87174e-016 ]
+    hpr [ -1.67342e-006 2.00346e-028 -4.26779e-023 ]
+   ]
+  ]
+ ]
+ visgroup "1107" [
+  vis [   "1106"   "1107"   "1108"   "1109"   "1110"   "1122"   "1105"   "1104"   "1123"   "1124"   ]
+  suit_edge [ 57 58 ]
+  suit_edge [ 59 60 ]
+  suit_edge [ 60 55 ]
+  suit_edge [ 54 57 ]
+  suit_edge [ 57 61 ]
+  suit_edge [ 61 57 ]
+  suit_edge [ 60 61 ]
+  suit_edge [ 61 60 ]
+  battle_cell [ 20 20 324.999 70 0 ]
+  group "streets" [
+   street "street_40x40_DNARoot" [
+    code [ "street_40x40" ]
+    pos [ 305 90 0 ]
+    hpr [ -90 8.7052 -8.7052 ]
+    texture [ "street_street_DD_tex" ]
+    texture [ "street_sidewalk_DD_tex" ]
+   ]
+  ]
+  group "buildings" [
+   flat_building "tb6:random20_DNARoot" [
+    pos [ 305 75 -4.36338e-022 ]
+    hpr [ 90 -180 -180 ]
+    width [ 15 ]
+    wall [
+     height [ 10 ]
+     code [ "wall_lg_brick_ur" ]
+     color [ 0.17 0.44 0.28 1 ]
+     windows [
+      code [ "window_md_curtains_ul" ]
+      color [ 0.17 0.64 0.45 1 ]
+      count [ 2 ]
+     ]
+    ]
+    wall [
+     height [ 10 ]
+     code [ "wall_lg_brick_ur" ]
+     color [ 0.17 0.44 0.28 1 ]
+     windows [
+      code [ "window_md_curtains_ur" ]
+      color [ 0.17 0.64 0.45 1 ]
+      count [ 1 ]
+     ]
+     cornice [
+      code [ "cornice_dental_ur" ]
+      color [ 0.57 0.39 0.34 1 ]
+     ]
+    ]
+   ]
+   flat_building "tb6:random20_DNARoot" [
+    pos [ 305 50 -3.27253e-022 ]
+    hpr [ 90 -180 -180 ]
+    width [ 10 ]
+    wall [
+     height [ 10 ]
+     code [ "wall_md_board_ur" ]
+     color [ 0.92 0.63 0.42 1 ]
+     windows [
+      code [ "window_porthole_ur" ]
+      color [ 1 0.5 0.38 1 ]
+      count [ 1 ]
+     ]
+    ]
+    wall [
+     height [ 10 ]
+     code [ "wall_md_board_ur" ]
+     color [ 0.92 0.63 0.42 1 ]
+     windows [
+      code [ "window_porthole_ur" ]
+      color [ 1 0.5 0.38 1 ]
+      count [ 1 ]
+     ]
+    ]
+   ]
+   flat_building "tb8:random20_DNARoot" [
+    pos [ 345 75 4.15279e-013 ]
+    hpr [ -90 2.47648e-019 0 ]
+    width [ 15 ]
+    wall [
+     height [ 10 ]
+     code [ "wall_md_blank_ur" ]
+     color [ 0.38 0.3 0.18 1 ]
+     windows [
+      code [ "window_sm_round_ul" ]
+      color [ 0.78 0.49 0.29 1 ]
+      count [ 2 ]
+     ]
+    ]
+    wall [
+     height [ 10 ]
+     code [ "wall_md_blank_dl" ]
+     color [ 0.38 0.3 0.18 1 ]
+     windows [
+      code [ "window_sm_round_ur" ]
+      color [ 0.78 0.49 0.29 1 ]
+      count [ 1 ]
+     ]
+     cornice [
+      code [ "cornice_shingles_ur" ]
+      color [ 0.82 0.91 0.44 1 ]
+     ]
+    ]
+    prop "prop_stovepipe_DNARoot" [
+     code [ "prop_stovepipe" ]
+     pos [ 1.2553 1.85001 20.865 ]
+     hpr [ 1.73269e-007 0.000299675 1.79019e-006 ]
+     scale [ 0.999998 0.999982 0.999995 ]
+     color [ 0.75 0.45 0.45 1 ]
+    ]
+   ]
+   flat_building "tb8:random20_DNARoot" [
+    pos [ 345 60 0 ]
+    hpr [ -90 -1.14516e-028 0 ]
+    width [ 20 ]
+    wall [
+     height [ 10 ]
+     code [ "wall_sm_wood_ur" ]
+     color [ 0.75 0.75 0.75 1 ]
+     windows [
+      code [ "window_porthole_ul" ]
+      color [ 0.0778138 0.472441 0.314961 1 ]
+      count [ 2 ]
+     ]
+    ]
+    wall [
+     height [ 10 ]
+     code [ "wall_sm_wood_dr" ]
+     color [ 0.75 0.75 0.75 1 ]
+     windows [
+      code [ "window_porthole_ul" ]
+      color [ 0.0778138 0.472441 0.314961 1 ]
+      count [ 2 ]
+     ]
+     cornice [
+      code [ "cornice_shingles_ur" ]
+      color [ 0.732283 0.511163 0.511163 1 ]
+     ]
+    ]
+    prop "prop_chimney_DNARoot" [
+     code [ "prop_chimney" ]
+     pos [ 2.1967 4.56601 19.7055 ]
+     hpr [ 1.18869e-008 -0.000509703 -4.70932e-007 ]
+     scale [ 0.99999 0.99997 1 ]
+     color [ 0.75 0.45 0.45 1 ]
+    ]
+    prop "prop_palm_tree_topflat_DNARoot" [
+     code [ "prop_palm_tree_topflat" ]
+     pos [ 7.7032 -7.28799 -1.45664e-029 ]
+     hpr [ -180 1.80608e-005 -1.52588e-005 ]
+     scale [ 0.5 0.5 0.5 ]
+    ]
+    prop "prop_2ftdockpiling_DNARoot" [
+     code [ "prop_2ftdockpiling" ]
+     pos [ 2 -9 -2.10925e-012 ]
+     hpr [ 60 -1.85007e-006 -1.97452e-006 ]
+    ]
+    prop "prop_trashcan_DD_DNARoot" [
+     code [ "prop_trashcan_DD" ]
+     pos [ 18 -8 1.19585e-023 ]
+     hpr [ -180 -5.01674e-012 1.52588e-005 ]
+     scale [ 1 0.999999 0.999998 ]
+    ]
+   ]
+   landmark_building "tb6:toon_landmark_DD_B2_DNARoot" [
+    code [ "toon_landmark_DD_B2" ]
+    title [ "" ]
+    pos [ 305 60 1.92915e-016 ]
+    hpr [ 90 -180 -180 ]
+    door [
+     code [ "door_double_wood_ur" ]
+     color [ 1 1 1 1 ]
+    ]
+    sign [
+     code [ "DD_sign2" ]
+     baseline [
+      code [ "DD_Portago" ]
+      color [ 1 1 0.501961 1 ]
+      pos [ 0 0 -0.487685 ]
+      scale [ 1.3 1 1.3 ]
+      kern [ 0.008968 ]
+      wiggle [ 2 ]
+      stumble [ 0.000256 ]
+      stomp [ 0.01 ]
+      text [
+       letters [ "H" ]
+      ]
+      text [
+       letters [ "O" ]
+      ]
+      text [
+       letters [ "O" ]
+      ]
+      text [
+       letters [ "K" ]
+      ]
+      text [
+       letters [ "'" ]
+      ]
+      text [
+       letters [ "S" ]
+      ]
+      text [
+       letters [ " " ]
+      ]
+      text [
+       letters [ "C" ]
+      ]
+      text [
+       letters [ "L" ]
+      ]
+      text [
+       letters [ "O" ]
+      ]
+      text [
+       letters [ "C" ]
+      ]
+      text [
+       letters [ "K" ]
+      ]
+      text [
+       letters [ " " ]
+      ]
+      text [
+       letters [ "R" ]
+      ]
+      text [
+       letters [ "E" ]
+      ]
+      text [
+       letters [ "P" ]
+      ]
+      text [
+       letters [ "A" ]
+      ]
+      text [
+       letters [ "I" ]
+      ]
+      text [
+       letters [ "R" ]
+      ]
+     ]
+    ]
+    prop "prop_mailbox_DD_DNARoot" [
+     code [ "prop_mailbox_DD" ]
+     pos [ -2 -9 1.4943e-013 ]
+     hpr [ 1.86693e-005 -1.62844e-012 3.04162e-012 ]
+    ]
+   ]
+  ]
+  group "props" [
+  ]
+ ]
+ visgroup "1108" [
+  vis [   "1106"   "1107"   "1108"   "1109"   "1110"   "1111"   "1123"   "1124"   "1122"   ]
+  suit_edge [ 58 62 ]
+  suit_edge [ 62 63 ]
+  suit_edge [ 64 65 ]
+  suit_edge [ 65 66 ]
+  suit_edge [ 66 59 ]
+  suit_edge [ 65 67 ]
+  suit_edge [ 67 65 ]
+  suit_edge [ 62 67 ]
+  suit_edge [ 67 62 ]
+  battle_cell [ 20 20 324.999 29.9993 0 ]
+  group "streets" [
+   street "street_full_corner_DNARoot" [
+    code [ "street_full_corner" ]
+    pos [ 345 50 -1.06526e-005 ]
+    hpr [ -180 4.97195e-012 -4.57764e-005 ]
+    texture [ "street_street_DD_tex" ]
+    texture [ "street_sidewalk_DD_tex" ]
+   ]
+   street "street_10x40_DNARoot" [
+    code [ "street_10x40" ]
+    pos [ 295 10.0001 -7.18498e-022 ]
+    hpr [ -1.83139e-006 5.40577e-029 -9.80178e-029 ]
+    texture [ "street_street_DD_tex" ]
+    texture [ "street_sidewalk_DD_tex" ]
+   ]
+  ]
+  group "buildings" [
+   flat_building "tb8:random20_DNARoot" [
+    pos [ 345 39.9999 4.70425e-022 ]
+    hpr [ -90 -1.09191e-027 0 ]
+    width [ 15 ]
+    wall [
+     height [ 10 ]
+     code [ "wall_md_board_ur" ]
+     color [ 0.929134 0.153034 0.153034 1 ]
+     windows [
+      code [ "window_porthole_ur" ]
+      color [ 0 0.532747 0.317894 1 ]
+      count [ 3 ]
+     ]
+    ]
+    wall [
+     height [ 10 ]
+     code [ "wall_lg_brick_ur" ]
+     color [ 0.166003 0.440945 0.276671 1 ]
+     windows [
+      code [ "window_md_curtains_ul" ]
+      color [ 0.17258 0.637795 0.450208 1 ]
+      count [ 2 ]
+     ]
+    ]
+    prop "neighborhood_sign_DD_DNARoot" [
+     code [ "neighborhood_sign_DD" ]
+     pos [ 6.55241 -0.865022 -9.56106e-022 ]
+     hpr [ -180 6.62258e-005 0.000152588 ]
+     scale [ 1.5 1.5 1.50001 ]
+    ]
+   ]
+   flat_building "tb8:random20_DNARoot" [
+    pos [ 345 25 0 ]
+    hpr [ -90 180 -180 ]
+    width [ 15 ]
+    wall [
+     height [ 20 ]
+     code [ "wall_sm_wood_ur" ]
+     color [ 0.517647 0.956863 0.788235 1 ]
+     windows [
+      code [ "window_porthole_ur" ]
+      color [ 0.0778138 0.472441 0.314961 1 ]
+      count [ 1 ]
+     ]
+    ]
+    prop "prop_2ftdockpiling_DNARoot" [
+     code [ "prop_2ftdockpiling" ]
+     pos [ 6.5384 -8.26801 -9.54507e-005 ]
+     hpr [ 89.9996 6.35849e-007 6.35852e-007 ]
+     scale [ 0.999998 1 1 ]
+    ]
+    prop "streetlight_DD_left_DNARoot" [
+     code [ "streetlight_DD_left" ]
+     pos [ 6.15321 -19.1052 2.35137e-014 ]
+     hpr [ -180 -5.95373e-005 -0.00012207 ]
+     scale [ 1 0.999997 1 ]
+    ]
+   ]
+   flat_building "tb8:random20_DNARoot" [
+    pos [ 345 10 0 ]
+    hpr [ -180 -7.01648e-015 0 ]
+    width [ 20 ]
+    wall [
+     height [ 10 ]
+     code [ "wall_md_blank_ur" ]
+     color [ 0.415686 0.156863 0.156863 1 ]
+     windows [
+      code [ "window_sm_square_ur" ]
+      color [ 1 0.5 0.38 1 ]
+      count [ 1 ]
+     ]
+    ]
+    wall [
+     height [ 10 ]
+     code [ "wall_md_blank_dl" ]
+     color [ 0.415686 0.156863 0.156863 1 ]
+     windows [
+      code [ "window_sm_square_ur" ]
+      color [ 0.874016 0.654655 0.329041 1 ]
+      count [ 1 ]
+     ]
+     cornice [
+      code [ "cornice_marble_ur" ]
+      color [ 1 0.42 0.27 1 ]
+     ]
+    ]
+    prop "neighborhood_sign_TT_DNARoot" [
+     code [ "neighborhood_sign_TT" ]
+     pos [ 7.36093 -1.22794 -2.59959e-015 ]
+     hpr [ 0 -4.3738e-005 -1.03959e-005 ]
+     scale [ 1.5 1.5 1.49999 ]
+    ]
+   ]
+   flat_building "tb20:random20_DNARoot" [
+    pos [ 295 50 -6.13606e-023 ]
+    hpr [ 2.30081e-005 -8.49919e-029 -4.08999e-027 ]
+    width [ 10 ]
+    wall [
+     height [ 10 ]
+     code [ "wall_md_board_ur" ]
+     color [ 0.92 0.63 0.42 1 ]
+     windows [
+      code [ "window_porthole_ur" ]
+      color [ 1 0.5 0.38 1 ]
+      count [ 1 ]
+     ]
+    ]
+    wall [
+     height [ 10 ]
+     code [ "wall_md_board_ur" ]
+     color [ 0.917647 0.627451 0.419608 1 ]
+     windows [
+      code [ "window_porthole_ur" ]
+      color [ 1 0.5 0.38 1 ]
+      count [ 1 ]
+     ]
+    ]
+    prop "prop_2ftdockpiling_DNARoot" [
+     code [ "prop_2ftdockpiling" ]
+     pos [ 19 -8.00001 -2.39684e-006 ]
+     hpr [ -30 1.98832e-007 -6.77838e-007 ]
+    ]
+    prop "prop_crate_DNARoot" [
+     code [ "prop_crate" ]
+     pos [ 12 -3 6.13615e-023 ]
+     hpr [ 90 3.56135e-022 3.56139e-022 ]
+     color [ 0.87 0.69 0.42 1 ]
+    ]
+    prop "prop_crate_DNARoot" [
+     code [ "prop_crate" ]
+     pos [ 14 -3 2 ]
+     hpr [ 90 5.20848e-005 5.20848e-005 ]
+     scale [ 0.999999 0.999985 0.999998 ]
+     color [ 0.75 0.75 0.75 1 ]
+    ]
+    prop "prop_crate_DNARoot" [
+     code [ "prop_crate" ]
+     pos [ 15 -3.00001 5.5697e-013 ]
+     hpr [ 120 1.32145e-005 1.52588e-005 ]
+     scale [ 1 1 0.999998 ]
+    ]
+   ]
+   landmark_building "tb8:toon_landmark_DD_A2_DNARoot" [
+    code [ "toon_landmark_DD_A2" ]
+    title [ "" ]
+    pos [ 330 10 0 ]
+    hpr [ -180 8.49739e-006 0 ]
+    door [
+     code [ "door_double_wood_ur" ]
+     color [ 0.75 0.75 0.75 1 ]
+    ]
+    sign [
+     code [ "DD_sign1" ]
+     pos [ 0 0 -2.74477 ]
+     hpr [ 0 0 -2.4482 ]
+     baseline [
+      code [ "mickey" ]
+      color [ 0.74902 0 0 1 ]
+      pos [ 0.195541 0 0 ]
+      scale [ 1.1 1 1.1 ]
+      kern [ 0.022573 ]
+      wiggle [ 2.81464 ]
+      stomp [ 0.08696 ]
+      flags [ "b" ]
+      text [
+       letters [ "L" ]
+      ]
+      text [
+       letters [ "U" ]
+      ]
+      text [
+       letters [ "F" ]
+      ]
+      text [
+       letters [ "F" ]
+      ]
+      text [
+       letters [ " " ]
+      ]
+      text [
+       letters [ "'" ]
+      ]
+      text [
+       letters [ "N" ]
+      ]
+      text [
+       letters [ " " ]
+      ]
+      text [
+       letters [ "S" ]
+      ]
+      text [
+       letters [ "T" ]
+      ]
+      text [
+       letters [ "U" ]
+      ]
+      text [
+       letters [ "F" ]
+      ]
+      text [
+       letters [ "F" ]
+      ]
+     ]
+    ]
+    prop "prop_2ftdockpiling_DNARoot" [
+     code [ "prop_2ftdockpiling" ]
+     pos [ 16.916 -8.17561 -9.54506e-005 ]
+     hpr [ 180 -1.01448e-010 -1.52588e-005 ]
+     scale [ 1 0.999997 1 ]
+    ]
+   ]
+  ]
+  group "props" [
+  ]
+  flat_building "tb8:20_DNARoot" [
+   pos [ 305 10.0001 -7.18498e-022 ]
+   hpr [ 180 7.25471e-029 0 ]
+   width [ 10 ]
+   wall [
+    height [ 20 ]
+    code [ "wall_md_board_ur" ]
+    color [ 0.93 0.15 0.15 1 ]
+    windows [
+     code [ "window_porthole_ur" ]
+     color [ 0 0.53 0.32 1 ]
+     count [ 4 ]
+    ]
+   ]
+  ]
+ ]
+ visgroup "1109" [
+  vis [   "1106"   "1107"   "1108"   "1109"   "1110"   "1111"   "1112"   "1113"   "1114"   "1123"   "1124"   ]
+  suit_edge [ 63 68 ]
+  suit_edge [ 68 69 ]
+  suit_edge [ 70 71 ]
+  suit_edge [ 71 64 ]
+  suit_edge [ 68 72 ]
+  suit_edge [ 72 68 ]
+  suit_edge [ 71 72 ]
+  suit_edge [ 72 71 ]
+  battle_cell [ 20 20 274.999 29.9993 0 ]
+  group "streets" [
+   street "street_full_corner_DNARoot" [
+    code [ "street_full_corner" ]
+    pos [ 255 9.99999 -1.49483e-023 ]
+    hpr [ 1.35432e-006 4.39288e-027 5.02387e-028 ]
+    texture [ "street_street_DD_tex" ]
+    texture [ "street_sidewalk_DD_tex" ]
+   ]
+  ]
+  group "buildings" [
+   flat_building "tb20:random20_DNARoot" [
+    pos [ 280 50 -6.13595e-023 ]
+    hpr [ 0 -2.58079e-029 6.52384e-028 ]
+    width [ 15 ]
+    wall [
+     height [ 10 ]
+     code [ "wall_bricks_ur" ]
+     color [ 0.629921 0.471823 0.237147 1 ]
+     windows [
+      code [ "window_sm_shuttered_ur" ]
+      color [ 1 0.627451 0.376471 1 ]
+      count [ 1 ]
+     ]
+    ]
+    wall [
+     height [ 10 ]
+     code [ "wall_bricks_ur" ]
+     color [ 0.629921 0.471823 0.237147 1 ]
+     windows [
+      code [ "window_sm_shuttered_ul" ]
+      color [ 1 0.627451 0.376471 1 ]
+      count [ 2 ]
+     ]
+    ]
+    prop "prop_chimney_DNARoot" [
+     code [ "prop_chimney" ]
+     pos [ 11 3.9999 17 ]
+     hpr [ -15 -0.000131711 7.08284e-005 ]
+     scale [ 0.999996 0.999998 0.99999 ]
+     color [ 0.63 0.47 0.24 1 ]
+    ]
+    prop "prop_palm_tree_topflat_DNARoot" [
+     code [ "prop_palm_tree_topflat" ]
+     pos [ 8.737 -8.1801 -6.57139e-022 ]
+     hpr [ 75 2.16123e-028 -4.59946e-028 ]
+     scale [ 0.750965 0.750965 0.750965 ]
+    ]
+   ]
+   flat_building "tb20:random20_DNARoot" [
+    pos [ 255 50 -1.49452e-023 ]
+    hpr [ 0 -4.06459e-029 1.16954e-028 ]
+    width [ 10 ]
+    wall [
+     height [ 20 ]
+     code [ "wall_md_blank_ur" ]
+     color [ 0.384314 0.305635 0.187618 1 ]
+     windows [
+      code [ "window_sm_round_ur" ]
+      color [ 0.779528 0.489115 0.293469 1 ]
+      count [ 0 ]
+     ]
+    ]
+   ]
+   flat_building "tb20:random20_DNARoot" [
+    pos [ 255 35 -9.62567e-023 ]
+    hpr [ 90 -1.88768e-027 0 ]
+    width [ 15 ]
+    wall [
+     height [ 10 ]
+     code [ "wall_bricks_ur" ]
+     color [ 0.629921 0.471823 0.237147 1 ]
+     windows [
+      code [ "window_sm_shuttered_ur" ]
+      color [ 1 0.627451 0.376471 1 ]
+      count [ 1 ]
+     ]
+    ]
+    wall [
+     height [ 10 ]
+     code [ "wall_bricks_ur" ]
+     color [ 0.627451 0.470588 0.235294 1 ]
+     cornice [
+      code [ "cornice_marble_ur" ]
+      color [ 0.76378 0.572086 0.287541 1 ]
+     ]
+     windows [
+      code [ "window_sm_shuttered_ur" ]
+      color [ 1 0.63 0.38 1 ]
+      count [ 1 ]
+     ]
+    ]
+   ]
+   flat_building "tb9:random20_DNARoot" [
+    pos [ 255 20.0001 -8.6631e-022 ]
+    hpr [ 90 -180 -180 ]
+    width [ 15 ]
+    wall [
+     height [ 10 ]
+     code [ "wall_md_board_ur" ]
+     color [ 0.57 0.7 0.35 1 ]
+     windows [
+      code [ "window_porthole_ur" ]
+      color [ 0 0.532747 0.317894 1 ]
+      count [ 1 ]
+     ]
+    ]
+    wall [
+     height [ 10 ]
+     code [ "wall_md_board_ur" ]
+     color [ 0.57 0.7 0.35 1 ]
+     windows [
+      code [ "window_porthole_ul" ]
+      color [ 0 0.532747 0.317894 1 ]
+      count [ 2 ]
+     ]
+    ]
+    prop "prop_stovepipe_DNARoot" [
+     code [ "prop_stovepipe" ]
+     pos [ 11.4167 0.781998 19.2258 ]
+     hpr [ 1.07068e-005 -0.000704363 -9.23327e-006 ]
+     scale [ 1 1 0.999987 ]
+     color [ 0.63 0.6 0.4 1 ]
+    ]
+    prop "DD_barrel_DNARoot" [
+     code [ "prop_crate" ]
+     pos [ 1.7987 -4.66499 2.28074e-013 ]
+     hpr [ -60 -3.25689e-012 5.86217e-012 ]
+     scale [ 0.992513 0.992516 0.992515 ]
+     color [ 0.75 0.75 0.75 1 ]
+    ]
+    prop "DD_barrel_DNARoot" [
+     code [ "DD_barrel" ]
+     pos [ -1.4835 -2.75099 -5.65411e-016 ]
+     hpr [ -60 8.29813e-007 -1.21642e-006 ]
+     scale [ 1.47424 1.47424 1.47424 ]
+    ]
+    prop "streetlight_DD_left_DNARoot" [
+     code [ "streetlight_DD_left" ]
+     pos [ -2.7944 -8.61699 9.65656e-014 ]
+     hpr [ -90 0.0055945 -0.0055945 ]
+    ]
+    prop "prop_2ftdockpiling_DNARoot" [
+     code [ "prop_2ftdockpiling" ]
+     pos [ -1.85029 -31.488 -9.54506e-005 ]
+     hpr [ -90.0003 -1.52588e-005 1.52588e-005 ]
+     scale [ 0.999999 1 1 ]
+    ]
+   ]
+   flat_building "tb9:random20_DNARoot" [
+    pos [ 255 15 0 ]
+    hpr [ 90 19.0532 19.0532 ]
+    width [ 5 ]
+    wall [
+     height [ 20 ]
+     code [ "wall_bricks_ur" ]
+     color [ 0.63 0.6 0.4 1 ]
+     windows [
+      code [ "window_sm_shuttered_ur" ]
+      color [ 0 0.53 0.32 1 ]
+      count [ 0 ]
+     ]
+    ]
+   ]
+   landmark_building "tb20:toon_landmark_DD_C1_DNARoot" [
+    code [ "toon_landmark_DD_C1" ]
+    title [ "" ]
+    pos [ 260 50 -1.49452e-023 ]
+    hpr [ 0 0 3.5649e-030 ]
+    door [
+     code [ "door_double_wood_ur" ]
+     color [ 1 0.59 0.59 1 ]
+    ]
+    sign [
+     code [ "DD_sign2" ]
+     pos [ 0 0 0.214401 ]
+     scale [ 0.8 1 0.8 ]
+     baseline [
+      code [ "DD_Portago" ]
+      color [ 0 0.25098 0.501961 1 ]
+      pos [ 0 0 -0.431714 ]
+      scale [ 1.3 1 1.3 ]
+      kern [ 0.052467 ]
+      wiggle [ 2.42112 ]
+      stumble [ 0.000708 ]
+      stomp [ -0.036538 ]
+      text [
+       letters [ "F" ]
+      ]
+      text [
+       letters [ "R" ]
+      ]
+      text [
+       letters [ "O" ]
+      ]
+      text [
+       letters [ "M" ]
+      ]
+      text [
+       letters [ " " ]
+      ]
+      text [
+       letters [ "F" ]
+      ]
+      text [
+       letters [ "O" ]
+      ]
+      text [
+       letters [ "R" ]
+      ]
+      text [
+       letters [ "E" ]
+      ]
+      text [
+       letters [ " " ]
+      ]
+      text [
+       letters [ "T" ]
+      ]
+      text [
+       letters [ "O" ]
+      ]
+      text [
+       letters [ " " ]
+      ]
+      text [
+       letters [ "A" ]
+      ]
+      text [
+       letters [ "F" ]
+      ]
+      text [
+       letters [ "T" ]
+      ]
+     ]
+    ]
+    prop "prop_2ftdockpiling_DNARoot" [
+     code [ "prop_2ftdockpiling" ]
+     pos [ 4.12701 -9.4737 -2.80071e-027 ]
+     hpr [ -30 4.79993e-006 -3.14267e-006 ]
+    ]
+   ]
+  ]
+  group "props" [
+  ]
+ ]
+ visgroup "1110" [
+  vis [   "1107"   "1108"   "1109"   "1110"   "1111"   "1112"   "1113"   "1114"   "1106"   "1123"   "1124"   ]
+  suit_edge [ 69 73 ]
+  suit_edge [ 73 74 ]
+  suit_edge [ 76 70 ]
+  suit_edge [ 73 77 ]
+  suit_edge [ 77 73 ]
+  suit_edge [ 76 77 ]
+  suit_edge [ 77 76 ]
+  suit_edge [ 81 76 ]
+  battle_cell [ 20 20 274.999 -10.0014 0 ]
+  group "streets" [
+  ]
+  group "buildings" [
+   landmark_building "tb9:toon_landmark_DD_B2_DNARoot" [
+    code [ "toon_landmark_DD_B2" ]
+    title [ "" ]
+    pos [ 255 -1.81198e-005 3.99266e-021 ]
+    hpr [ 90 1.50105e-019 0 ]
+    door [
+     code [ "door_double_wood_ur" ]
+     color [ 1 1 1 1 ]
+    ]
+    sign [
+     code [ "DD_sign3" ]
+     pos [ 0 0 2.09113 ]
+     hpr [ 0 0 6.59064 ]
+     baseline [
+      code [ "comic" ]
+      color [ 1 1 0 1 ]
+      pos [ -1.12862 0 -0.310407 ]
+      scale [ 1.1 1 1.1 ]
+      wiggle [ 6 ]
+      stumble [ 0.05 ]
+      stomp [ 0.02 ]
+      flags [ "d" ]
+      text [
+       letters [ "E" ]
+      ]
+      text [
+       letters [ "v" ]
+      ]
+      text [
+       letters [ "e" ]
+      ]
+      text [
+       letters [ "r" ]
+      ]
+      text [
+       letters [ "y" ]
+      ]
+      text [
+       letters [ " " ]
+      ]
+      text [
+       letters [ "L" ]
+      ]
+      text [
+       letters [ "i" ]
+      ]
+      text [
+       letters [ "t" ]
+      ]
+      text [
+       letters [ "t" ]
+      ]
+      text [
+       letters [ "l" ]
+      ]
+      text [
+       letters [ "e" ]
+      ]
+      text [
+       letters [ " " ]
+      ]
+      text [
+       letters [ "B" ]
+      ]
+      text [
+       letters [ "a" ]
+      ]
+      text [
+       letters [ "i" ]
+      ]
+      text [
+       letters [ "t" ]
+      ]
+     ]
+    ]
+   ]
+   flat_building "tb8:random20_DNARoot" [
+    pos [ 295 9.9997 3.95613e-021 ]
+    hpr [ -90 3.4849e-027 0 ]
+    width [ 15 ]
+    wall [
+     height [ 10 ]
+     code [ "wall_md_board_ur" ]
+     color [ 0.929134 0.153034 0.153034 1 ]
+     windows [
+      code [ "window_porthole_ur" ]
+      color [ 0 0.532747 0.317894 1 ]
+      count [ 1 ]
+     ]
+    ]
+    wall [
+     height [ 10 ]
+     code [ "wall_md_board_ur" ]
+     color [ 0.929134 0.153034 0.153034 1 ]
+     windows [
+      code [ "window_porthole_ur" ]
+      color [ 0 0.532747 0.317894 1 ]
+      count [ 0 ]
+     ]
+    ]
+    prop "prop_palm_tree_topflat_DNARoot" [
+     code [ "prop_palm_tree_topflat" ]
+     pos [ 2.9997 -8 -1.06244e-007 ]
+     hpr [ 0 -1.0422e-009 1.36728e-010 ]
+     scale [ 0.661744 0.661744 0.661744 ]
+     color [ 0.74902 0.74902 0.74902 1 ]
+    ]
+   ]
+   flat_building "tb8:random20_DNARoot" [
+    pos [ 295 -4.99999 -9.62567e-023 ]
+    hpr [ -90 180 -180 ]
+    width [ 10 ]
+    wall [
+     height [ 10 ]
+     code [ "wall_md_blank_ur" ]
+     color [ 0.384314 0.305635 0.187618 1 ]
+     windows [
+      code [ "window_sm_round_ul" ]
+      color [ 0.779528 0.489115 0.293469 1 ]
+      count [ 2 ]
+     ]
+    ]
+    wall [
+     height [ 10 ]
+     code [ "wall_md_blank_dr" ]
+     color [ 0.384314 0.301961 0.184314 1 ]
+     windows [
+      code [ "window_sm_round_ur" ]
+      color [ 0.779528 0.489115 0.293469 1 ]
+      count [ 1 ]
+     ]
+     cornice [
+      code [ "cornice_dental_ur" ]
+      color [ 0.574803 0.38771 0.340374 1 ]
+     ]
+    ]
+   ]
+   flat_building "tb9:random20_DNARoot" [
+    pos [ 255 -20 -3.85027e-022 ]
+    hpr [ 90 -180 -180 ]
+    width [ 20 ]
+    wall [
+     height [ 20 ]
+     code [ "wall_sm_wood_ur" ]
+     color [ 0.75 0.75 0.75 1 ]
+     windows [
+      code [ "window_sm_shuttered_ur" ]
+      color [ 0.874016 0.548402 0.329041 1 ]
+      count [ 0 ]
+     ]
+    ]
+    prop "prop_2ftdockpiling_DNARoot" [
+     code [ "prop_2ftdockpiling" ]
+     pos [ 10 -8.99998 1.68104e-012 ]
+     hpr [ -120 6.81069e-006 -1.52588e-005 ]
+    ]
+   ]
+   flat_building "tb9:random20_DNARoot" [
+    pos [ 255 -35 7.1958e-030 ]
+    hpr [ 90 -1.52587e-005 -1.52588e-005 ]
+    width [ 15 ]
+    wall [
+     height [ 20 ]
+     code [ "wall_md_blank_ur" ]
+     color [ 0.415686 0.156863 0.156863 1 ]
+     cornice [
+      code [ "cornice_marble_ur" ]
+      color [ 0.76378 0.572086 0.287541 1 ]
+     ]
+     windows [
+      code [ "window_sm_square_ur" ]
+      color [ 1 0.5 0.38 1 ]
+      count [ 4 ]
+     ]
+    ]
+    prop "prop_palm_tree_topflat_DNARoot" [
+     code [ "prop_palm_tree_topflat" ]
+     pos [ 9.2442 -7.69899 1.33845e-011 ]
+     hpr [ 90 0.000640869 0.000640869 ]
+     scale [ 0.437457 0.437457 0.437457 ]
+    ]
+    prop "prop_palm_tree_topflat_DNARoot" [
+     code [ "prop_palm_tree_topflat" ]
+     pos [ 2 -7.99998 -1.15869e-006 ]
+     hpr [ -30 -8.12056e-007 7.64682e-007 ]
+     scale [ 0.74724 0.747231 0.74724 ]
+    ]
+   ]
+   flat_building "tb9:random20_DNARoot" [
+    pos [ 295 -15 0 ]
+    hpr [ -90 1.00899e-028 0 ]
+    width [ 15 ]
+    wall [
+     height [ 10 ]
+     code [ "wall_sm_wood_ur" ]
+     color [ 0.75 0.75 0.75 1 ]
+     windows [
+      code [ "window_sm_round_ul" ]
+      color [ 0 0.61 0.36 1 ]
+      count [ 2 ]
+     ]
+    ]
+    wall [
+     height [ 10 ]
+     code [ "wall_sm_wood_dr" ]
+     color [ 0.75 0.75 0.75 1 ]
+     windows [
+      code [ "window_sm_round_ul" ]
+      color [ 0 0.61 0.36 1 ]
+      count [ 2 ]
+     ]
+     cornice [
+      code [ "cornice_curved_ur" ]
+      color [ 0.9 0.56 0.34 1 ]
+     ]
+    ]
+    prop "prop_2ftdockpiling_DNARoot" [
+     code [ "prop_2ftdockpiling" ]
+     pos [ 9 -9 -9.63615e-013 ]
+     hpr [ 60 -2.39353e-006 -6.83078e-006 ]
+    ]
+   ]
+  ]
+  group "props" [
+   prop "prop_stovepipe_DNARoot" [
+    code [ "prop_stovepipe" ]
+    pos [ 295.821 -16.0534 19.7595 ]
+    hpr [ -90 -69.5738 69.5737 ]
+    scale [ 1 0.999997 1.00001 ]
+    color [ 0.45 0.31 0.17 1 ]
+   ]
+  ]
+  street "street_40x40_DNARoot" [
+   code [ "street_40x40" ]
+   pos [ 295 -30 -1.73554e-012 ]
+   hpr [ 90 4.57764e-005 4.57764e-005 ]
+   texture [ "street_street_DD_tex" ]
+   texture [ "street_sidewalk_DD_tex" ]
+  ]
+ ]
+ visgroup "1111" [
+  vis [   "1111"   "1112"   "1113"   "1114"   "1115"   "1124"   "1123"   "1110"   "1109"   "1108"   ]
+  suit_edge [ 91 92 ]
+  suit_edge [ 92 93 ]
+  suit_edge [ 93 94 ]
+  suit_edge [ 95 95 ]
+  suit_edge [ 92 95 ]
+  suit_edge [ 95 92 ]
+  suit_edge [ 89 158 ]
+  suit_edge [ 158 159 ]
+  suit_edge [ 158 95 ]
+  suit_edge [ 95 158 ]
+  suit_edge [ 83 89 ]
+  battle_cell [ 20 20 275 -140 -4.89835e-015 ]
+  group "streets" [
+   street "street_full_corner_DNARoot" [
+    code [ "street_full_corner" ]
+    pos [ 295 -160 -1.28215e-011 ]
+    hpr [ 90 20.0886 20.0887 ]
+    texture [ "street_street_DD_tex" ]
+    texture [ "street_sidewalk_DD_tex" ]
+   ]
+   street "street_10x40_DNARoot" [
+    code [ "street_10x40" ]
+    pos [ 305 -120 3.2708e-026 ]
+    hpr [ -180 -3.12508e-027 0 ]
+    texture [ "street_street_DD_tex" ]
+    texture [ "street_sidewalk_DD_tex" ]
+   ]
+  ]
+  group "buildings" [
+   flat_building "tb12:random20_DNARoot" [
+    pos [ 295 -120 0 ]
+    hpr [ 1.4033e-014 -1.77393e-028 0 ]
+    width [ 10 ]
+    wall [
+     height [ 10 ]
+     code [ "wall_md_board_ur" ]
+     color [ 0.929134 0.153034 0.153034 1 ]
+     windows [
+      code [ "window_porthole_ul" ]
+      color [ 0 0.532747 0.317894 1 ]
+      count [ 2 ]
+     ]
+    ]
+    wall [
+     height [ 10 ]
+     code [ "wall_md_board_ur" ]
+     color [ 0.929134 0.153034 0.153034 1 ]
+     windows [
+      code [ "window_porthole_ur" ]
+      color [ 0 0.532747 0.317894 1 ]
+      count [ 1 ]
+     ]
+    ]
+    prop "prop_2ftdockpiling_DNARoot" [
+     code [ "prop_2ftdockpiling" ]
+     pos [ -8 -8 -2.23838e-006 ]
+     hpr [ 90 -8.12975 -8.12976 ]
+    ]
+    prop "streetlight_DD_left_DNARoot" [
+     code [ "streetlight_DD_left" ]
+     pos [ -2.61499 -8.13 -4.82879e-022 ]
+     hpr [ -90 -1.52588e-005 1.52588e-005 ]
+    ]
+   ]
+   flat_building "tb28:random20_DNARoot" [
+    pos [ 255 -145 -3.85027e-022 ]
+    hpr [ 90 -180 -180 ]
+    width [ 15 ]
+    wall [
+     height [ 10 ]
+     code [ "wall_lg_brick_ur" ]
+     color [ 0.166003 0.440945 0.276671 1 ]
+     windows [
+      code [ "window_md_curtains_ul" ]
+      color [ 0.17258 0.637795 0.450208 1 ]
+      count [ 2 ]
+     ]
+    ]
+    wall [
+     height [ 10 ]
+     code [ "wall_md_board_ur" ]
+     color [ 0.929134 0.153034 0.153034 1 ]
+     windows [
+      code [ "window_porthole_ur" ]
+      color [ 0 0.532747 0.317894 1 ]
+      count [ 1 ]
+     ]
+     cornice [
+      code [ "cornice_shingles_ur" ]
+      color [ 0.91 0.63 0.44 1 ]
+     ]
+    ]
+    prop "prop_hydrant_DNARoot" [
+     code [ "prop_hydrant" ]
+     pos [ 7.70799 -9.23198 3.67701e-012 ]
+     hpr [ 1.86693e-005 -1.02152e-008 -3.12678e-010 ]
+    ]
+   ]
+   flat_building "tb27:random20_DNARoot" [
+    pos [ 305 -160 8.49447e-022 ]
+    hpr [ -180 -3.72976e-027 0 ]
+    width [ 10 ]
+    wall [
+     height [ 10 ]
+     code [ "wall_md_blank_ur" ]
+     color [ 0.384314 0.305635 0.187618 1 ]
+     windows [
+      code [ "window_sm_round_ur" ]
+      color [ 0.779528 0.489115 0.293469 1 ]
+      count [ 1 ]
+     ]
+    ]
+    wall [
+     height [ 10 ]
+     code [ "wall_md_blank_dr" ]
+     color [ 0.384314 0.301961 0.184314 1 ]
+     cornice [
+      code [ "cornice_marble_ur" ]
+      color [ 1 0.5 0.38 1 ]
+     ]
+    ]
+   ]
+   flat_building "tb27:random20_DNARoot" [
+    pos [ 270 -160 -2.23838e-006 ]
+    hpr [ -180 2.30401e-012 -0.000106812 ]
+    width [ 15 ]
+    wall [
+     height [ 20 ]
+     code [ "wall_sm_wood_ur" ]
+     color [ 0.75 0.75 0.75 1 ]
+     windows [
+      code [ "window_porthole_ur" ]
+      color [ 0.0745098 0.470588 0.313726 1 ]
+      count [ 0 ]
+     ]
+    ]
+   ]
+   flat_building "tb27:random20_DNARoot" [
+    pos [ 255 -160 1.56745e-013 ]
+    hpr [ 90 -3.63853e-019 0 ]
+    width [ 15 ]
+    wall [
+     height [ 10 ]
+     code [ "wall_md_board_ur" ]
+     color [ 0.63 0.47 0.24 1 ]
+     windows [
+      code [ "window_porthole_ur" ]
+      color [ 0 0.532747 0.317894 1 ]
+      count [ 0 ]
+     ]
+    ]
+    wall [
+     height [ 10 ]
+     code [ "wall_md_board_ur" ]
+     color [ 0.71 0.49 0.35 1 ]
+     windows [
+      code [ "window_porthole_ul" ]
+      color [ 0 0.532747 0.317894 1 ]
+      count [ 2 ]
+     ]
+    ]
+    prop "prop_palm_tree_topflat_DNARoot" [
+     code [ "prop_palm_tree_topflat" ]
+     pos [ 11 -6.99998 -1.11143e-006 ]
+     hpr [ 45 8.63159e-005 0.00012207 ]
+     scale [ 0.608271 0.608273 0.608271 ]
+    ]
+    prop "prop_ship_wheel_DNARoot" [
+     code [ "prop_ship_wheel" ]
+     pos [ 2.295 -2.42598 -1.56745e-013 ]
+     hpr [ 45 0.000601667 0.000228882 ]
+     scale [ 0.600001 0.599988 0.599987 ]
+    ]
+    prop "prop_2ftdockpiling_DNARoot" [
+     code [ "prop_2ftdockpiling" ]
+     pos [ 9 -8.99998 -2.23838e-006 ]
+     hpr [ -90 6.10352e-005 -6.10352e-005 ]
+    ]
+    prop "prop_crate_DNARoot" [
+     code [ "prop_crate" ]
+     pos [ 5 -12 -1.56745e-013 ]
+     hpr [ -90 -64.2489 64.2489 ]
+     scale [ 1.00001 1 1 ]
+    ]
+    prop "prop_crate_DNARoot" [
+     code [ "prop_crate" ]
+     pos [ 7 -14 -1.56745e-013 ]
+     hpr [ -60 0.000230421 -0.000194438 ]
+     scale [ 1.00001 1 1 ]
+    ]
+   ]
+   landmark_building "tb27:toon_landmark_DD_D1_DNARoot" [
+    code [ "toon_landmark_DD_D1" ]
+    title [ "" ]
+    pos [ 297 -160 0 ]
+    hpr [ -180 -8.40968e-005 -0.000259399 ]
+    door [
+     code [ "door_double_wood_ur" ]
+     color [ 1 0.59 0.59 1 ]
+    ]
+    sign [
+     code [ "tunnel_sign_red" ]
+     color [ 1 1 0.756863 1 ]
+     scale [ 1.22328 1 1.03641 ]
+     baseline [
+      code [ "mickey" ]
+      color [ 0 0.658824 0 1 ]
+      pos [ 0 0 -1.06546 ]
+      scale [ 1.58156 1 1.82078 ]
+      kern [ 0.051184 ]
+      wiggle [ 9.68474 ]
+      stumble [ 0.15304 ]
+      stomp [ -0.007111 ]
+      width [ 32.7193 ]
+      height [ 32.7193 ]
+      text [
+       letters [ "B" ]
+      ]
+      text [
+       letters [ "o" ]
+      ]
+      text [
+       letters [ "a" ]
+      ]
+      text [
+       letters [ "t" ]
+      ]
+      text [
+       letters [ " " ]
+      ]
+      text [
+       letters [ "R" ]
+      ]
+      text [
+       letters [ "e" ]
+      ]
+      text [
+       letters [ "n" ]
+      ]
+      text [
+       letters [ "t" ]
+      ]
+      text [
+       letters [ "a" ]
+      ]
+      text [
+       letters [ "l" ]
+      ]
+      text [
+       letters [ "s" ]
+      ]
+     ]
+    ]
+    prop "streetlight_DD_left_DNARoot" [
+     code [ "streetlight_DD_left" ]
+     pos [ 21 -9 -0.000108284 ]
+     hpr [ -89.9999 71.5821 -71.5824 ]
+     scale [ 0.999995 1.00001 1 ]
+    ]
+    prop "prop_2ftdockpiling_DNARoot" [
+     code [ "prop_2ftdockpiling" ]
+     pos [ 10 -9 -6.07218e-005 ]
+     hpr [ -180 -8.40967e-005 -0.000274658 ]
+    ]
+    prop "prop_palm_tree_topflat_DNARoot" [
+     code [ "prop_palm_tree_topflat" ]
+     pos [ -5.99999 -7.968 1.54694e-005 ]
+     hpr [ -89.9999 71.5822 -71.5825 ]
+     scale [ 0.773058 0.773059 0.773058 ]
+    ]
+   ]
+  ]
+  group "props" [
+   prop "prop_stovepipe_DNARoot" [
+    code [ "prop_stovepipe" ]
+    pos [ 269.054 -161.674 19.1457 ]
+    hpr [ -180 -7.96445e-005 0.000518799 ]
+    scale [ 1.00001 0.999997 1 ]
+    color [ 0.87 0.69 0.42 1 ]
+   ]
+  ]
+  flat_building "tb28:20_DNARoot" [
+   pos [ 255 -130 -9.79688e-015 ]
+   hpr [ 90 68.1986 68.1986 ]
+   width [ 10 ]
+   wall [
+    height [ 20 ]
+    code [ "wall_sm_wood_ur" ]
+    color [ 0.48 0.93 0.74 1 ]
+    windows [
+     code [ "window_porthole_ur" ]
+     color [ 0.08 0.47 0.31 1 ]
+     count [ 3 ]
+    ]
+   ]
+   prop "prop_stovepipe_DNARoot" [
+    code [ "prop_stovepipe" ]
+    pos [ 0.807999 0.362 19.5227 ]
+    hpr [ 4.88237e-006 -9.73302e-005 4.49243e-006 ]
+    scale [ 0.999999 0.999996 1 ]
+    color [ 0.63 0.47 0.24 1 ]
+   ]
+  ]
+ ]
+ visgroup "1112" [
+  vis [   "1109"   "1110"   "1111"   "1123"   "1124"   "1112"   "1113"   "1114"   "1115"   ]
+  suit_edge [ 96 97 ]
+  suit_edge [ 97 98 ]
+  suit_edge [ 99 100 ]
+  suit_edge [ 100 101 ]
+  suit_edge [ 101 91 ]
+  suit_edge [ 101 102 ]
+  suit_edge [ 102 101 ]
+  suit_edge [ 96 102 ]
+  suit_edge [ 102 96 ]
+  suit_edge [ 159 96 ]
+  battle_cell [ 20 20 324.999 -140 7.34753e-015 ]
+  group "streets" [
+   street "street_full_corner_DNARoot" [
+    code [ "street_full_corner" ]
+    pos [ 305 -120 -2.02131e-022 ]
+    hpr [ -90 180 -180 ]
+    texture [ "street_street_DD_tex" ]
+    texture [ "street_sidewalk_DD_tex" ]
+   ]
+  ]
+  group "buildings" [
+   flat_building "tb12:random20_DNARoot" [
+    pos [ 330 -120 0 ]
+    hpr [ 0 2.47484e-029 -1.09129e-029 ]
+    width [ 15 ]
+    wall [
+     height [ 10 ]
+     code [ "wall_lg_brick_ur" ]
+     color [ 0.166003 0.440945 0.276671 1 ]
+     windows [
+      code [ "window_md_curtains_ul" ]
+      color [ 0.17258 0.637795 0.450208 1 ]
+      count [ 2 ]
+     ]
+    ]
+    wall [
+     height [ 10 ]
+     code [ "wall_lg_brick_ur" ]
+     color [ 0.166003 0.440945 0.276671 1 ]
+     windows [
+      code [ "window_md_curtains_ul" ]
+      color [ 0.17258 0.637795 0.450208 1 ]
+      count [ 2 ]
+     ]
+    ]
+    prop "neighborhood_sign_DD_DNARoot" [
+     code [ "neighborhood_sign_DD" ]
+     pos [ 6.5662 -1.15399 -2.23354e-012 ]
+     hpr [ -180 -4.66685e-005 -7.62939e-005 ]
+     scale [ 1.5 1.5 1.5 ]
+    ]
+   ]
+   flat_building "tb12:random20_DNARoot" [
+    pos [ 345 -120 0 ]
+    hpr [ -90 0 0 ]
+    width [ 20 ]
+    wall [
+     height [ 20 ]
+     code [ "wall_md_board_ur" ]
+     color [ 0.929134 0.153034 0.153034 1 ]
+     windows [
+      code [ "window_porthole_ul" ]
+      color [ 0 0.532747 0.317894 1 ]
+      count [ 2 ]
+     ]
+     cornice [
+      code [ "cornice_shingles_ur" ]
+      color [ 0.73 0.51 0.51 1 ]
+     ]
+    ]
+    prop "prop_mailbox_DD_DNARoot" [
+     code [ "prop_mailbox_DD" ]
+     pos [ 18 -9 -2.12345e-012 ]
+     hpr [ 8.14222e-013 -2.08441e-009 8.70091e-011 ]
+     scale [ 1 1 0.999996 ]
+    ]
+   ]
+   flat_building "tb12:random20_DNARoot" [
+    pos [ 345 -140 0 ]
+    hpr [ -90 180 -180 ]
+    width [ 15 ]
+    wall [
+     height [ 20 ]
+     code [ "wall_sm_wood_ur" ]
+     color [ 0.48 0.93 0.74 1 ]
+     windows [
+      code [ "window_porthole_ur" ]
+      color [ 0.73 0.63 0.45 1 ]
+      count [ 4 ]
+     ]
+     cornice [
+      code [ "cornice_dental_ur" ]
+      color [ 0.760784 0.568627 0.286275 1 ]
+     ]
+    ]
+    prop "streetlight_DD_left_DNARoot" [
+     code [ "streetlight_DD_left" ]
+     pos [ 13 -9 -4.62275e-012 ]
+     hpr [ -90.0004 85.3078 -85.3078 ]
+    ]
+    prop "prop_2ftdockpiling_DNARoot" [
+     code [ "prop_2ftdockpiling" ]
+     pos [ 12 -32 -2.23838e-006 ]
+     hpr [ 89.9997 -88.0548 -88.0548 ]
+     scale [ 0.999995 1 1 ]
+    ]
+    prop "neighborhood_sign_TT_DNARoot" [
+     code [ "neighborhood_sign_TT" ]
+     pos [ 2.58237 -1.16486 9.86818e-015 ]
+     hpr [ -5.00896e-006 0.000223549 7.67592e-006 ]
+     scale [ 1.50001 1.5 1.5 ]
+    ]
+   ]
+   landmark_building "tb12:toon_landmark_DD_A2_DNARoot" [
+    code [ "toon_landmark_DD_A2" ]
+    title [ "" ]
+    pos [ 305 -120 -1.20331e-025 ]
+    hpr [ 4.38624e-006 1.76606e-020 -1.76606e-020 ]
+    door [
+     code [ "door_double_wood_ur" ]
+     color [ 0.63 0.48 0.34 1 ]
+    ]
+    sign [
+     code [ "DD_sign2" ]
+     pos [ 0 0 -2.37497 ]
+     baseline [
+      code [ "DD_Portago" ]
+      color [ 0 0.733333 0.568627 1 ]
+      pos [ 0 0 -0.489409 ]
+      scale [ 1.3 1 1.3 ]
+      kern [ 0.04371 ]
+      wiggle [ 2.99466 ]
+      stomp [ 0.02 ]
+      text [
+       letters [ "Q" ]
+      ]
+      text [
+       letters [ "U" ]
+      ]
+      text [
+       letters [ "A" ]
+      ]
+      text [
+       letters [ "R" ]
+      ]
+      text [
+       letters [ "T" ]
+      ]
+      text [
+       letters [ "E" ]
+      ]
+      text [
+       letters [ "R" ]
+      ]
+      text [
+       letters [ "D" ]
+      ]
+      text [
+       letters [ "E" ]
+      ]
+      text [
+       letters [ "C" ]
+      ]
+      text [
+       letters [ "K" ]
+      ]
+      text [
+       letters [ " " ]
+      ]
+      text [
+       letters [ "B" ]
+      ]
+      text [
+       letters [ "A" ]
+      ]
+      text [
+       letters [ "N" ]
+      ]
+      text [
+       letters [ "K" ]
+      ]
+     ]
+    ]
+    prop "prop_trashcan_DD_DNARoot" [
+     code [ "prop_trashcan_DD" ]
+     pos [ 1.99999 -8 -4.49334e-012 ]
+     hpr [ 180 -1.16813e-011 -0.000152588 ]
+    ]
+    prop "prop_2ftdockpiling_DNARoot" [
+     code [ "prop_2ftdockpiling" ]
+     pos [ 31 -9 -2.12345e-012 ]
+     hpr [ -8.59932e-006 -4.26908e-006 -8.53846e-007 ]
+    ]
+    prop "prop_palm_tree_topflat_DNARoot" [
+     code [ "prop_palm_tree_topflat" ]
+     pos [ 34.0066 -14.2059 -2.18367e-012 ]
+     hpr [ -90 -45.7199 45.7198 ]
+     scale [ 0.648142 0.648149 0.648139 ]
+    ]
+   ]
+  ]
+  group "props" [
+  ]
+ ]
+ visgroup "1113" [
+  vis [   "1109"   "1110"   "1111"   "1112"   "1113"   "1114"   "1115"   "1124"   "1123"   ]
+  suit_edge [ 98 103 ]
+  suit_edge [ 103 104 ]
+  suit_edge [ 106 99 ]
+  suit_edge [ 103 107 ]
+  suit_edge [ 107 103 ]
+  suit_edge [ 106 107 ]
+  suit_edge [ 107 106 ]
+  suit_edge [ 115 106 ]
+  battle_cell [ 20 20 324.999 -185.001 7.34753e-015 ]
+  group "streets" [
+   street "street_40x40_DNARoot" [
+    code [ "street_40x40" ]
+    pos [ 305 -160 0 ]
+    hpr [ -90 1.36117e-027 0 ]
+    texture [ "street_street_DD_tex" ]
+    texture [ "street_sidewalk_DD_tex" ]
+   ]
+   street "street_10x40_DNARoot" [
+    code [ "street_10x40" ]
+    pos [ 305 -200 2.42244e-022 ]
+    hpr [ -90 -7.8124e-023 0 ]
+    texture [ "street_street_DD_tex" ]
+    texture [ "street_sidewalk_DD_tex" ]
+   ]
+  ]
+  group "buildings" [
+   flat_building "tb12:random20_DNARoot" [
+    pos [ 345 -155 -4.63637e-013 ]
+    hpr [ -90 1.52588e-005 -1.52588e-005 ]
+    width [ 20 ]
+    wall [
+     height [ 10 ]
+     code [ "wall_md_blank_ur" ]
+     color [ 0.417323 0.15711 0.15711 1 ]
+     windows [
+      code [ "window_sm_square_ur" ]
+      color [ 0.874016 0.654655 0.329041 1 ]
+      count [ 0 ]
+     ]
+    ]
+    wall [
+     height [ 10 ]
+     code [ "wall_md_blank_dr" ]
+     color [ 0.415686 0.156863 0.156863 1 ]
+     windows [
+      code [ "window_sm_square_ur" ]
+      color [ 0.874016 0.654655 0.329041 1 ]
+      count [ 1 ]
+     ]
+    ]
+    prop "prop_roof_access_DNARoot" [
+     code [ "prop_roof_access" ]
+     pos [ 4.42999 4.755 18.7418 ]
+     hpr [ 4.73527e-006 -0.000105868 8.1229e-006 ]
+     scale [ 1 0.999998 1 ]
+     color [ 0.71 0.49 0.35 1 ]
+    ]
+    prop "prop_palm_tree_topflat_DNARoot" [
+     code [ "prop_palm_tree_topflat" ]
+     pos [ 11 -8 6.12528e-006 ]
+     hpr [ 0 1.02152e-008 -3.40579e-010 ]
+     scale [ 1.24455 1.24455 1.24455 ]
+    ]
+    prop "prop_trashcan_DD_DNARoot" [
+     code [ "DD_barrel" ]
+     pos [ 20 -2 1.77333e-006 ]
+     hpr [ 90.0002 -86.9388 -86.9388 ]
+     scale [ 1.36476 1.36476 1.36476 ]
+    ]
+   ]
+   flat_building "tb13:random20_DNARoot" [
+    pos [ 345 -175 -5.40064e-013 ]
+    hpr [ -90 1.52587e-005 -1.52588e-005 ]
+    width [ 15 ]
+    wall [
+     height [ 10 ]
+     code [ "wall_bricks_dr" ]
+     color [ 0.63 0.47 0.24 1 ]
+     windows [
+      code [ "window_sm_shuttered_ul" ]
+      color [ 1 0.63 0.38 1 ]
+      count [ 2 ]
+     ]
+    ]
+    wall [
+     height [ 10 ]
+     code [ "wall_bricks_ur" ]
+     color [ 0.63 0.47 0.24 1 ]
+     windows [
+      code [ "window_sm_shuttered_ur" ]
+      color [ 1 0.63 0.38 1 ]
+      count [ 1 ]
+     ]
+     cornice [
+      code [ "cornice_marble_ur" ]
+      color [ 1 0.69 0.49 1 ]
+     ]
+    ]
+    prop "prop_stovepipe_DNARoot" [
+     code [ "prop_stovepipe" ]
+     pos [ 12.121 1.57136 19.6071 ]
+     hpr [ 0 -0.000399566 4.27852e-006 ]
+     scale [ 0.999983 0.999987 0.999975 ]
+     color [ 0.91 0.54 0.54 1 ]
+    ]
+    prop "prop_crate_DNARoot" [
+     code [ "prop_crate" ]
+     pos [ 3 -5 -1.06664e-011 ]
+     hpr [ 45 1.45087e-010 1.00106e-010 ]
+    ]
+    prop "prop_2ftdockpiling_DNARoot" [
+     code [ "prop_2ftdockpiling" ]
+     pos [ 0 -8 -1.59079e-011 ]
+     hpr [ 90 -3.62691 -3.62691 ]
+    ]
+    prop "prop_trashcan_DD_DNARoot" [
+     code [ "prop_trashcan_DD" ]
+     pos [ 19.358 -3.30801 2.38413e-007 ]
+     hpr [ -180 -8.37041e-011 -1.52588e-005 ]
+    ]
+   ]
+   flat_building "tb13:random20_DNARoot" [
+    pos [ 345 -190 -5.97385e-013 ]
+    hpr [ -90 1.52588e-005 -1.52588e-005 ]
+    width [ 15 ]
+    wall [
+     height [ 10 ]
+     code [ "wall_sm_wood_ur" ]
+     color [ 0.909804 0.537255 0.537255 1 ]
+     windows [
+      code [ "window_sm_shuttered_ur" ]
+      color [ 0.87 0.65 0.33 1 ]
+      count [ 1 ]
+     ]
+    ]
+    wall [
+     height [ 10 ]
+     code [ "wall_md_blank_ur" ]
+     color [ 0.384314 0.301961 0.184314 1 ]
+     windows [
+      code [ "window_porthole_ul" ]
+      color [ 1 0.5 0.38 1 ]
+      count [ 2 ]
+     ]
+     cornice [
+      code [ "cornice_shingles_ur" ]
+      color [ 1 0.71 0.27 1 ]
+     ]
+    ]
+    prop "prop_palm_tree_topflat_DNARoot" [
+     code [ "prop_palm_tree_topflat" ]
+     pos [ 16 -8 -3.18452e-012 ]
+     hpr [ 45 2.30297e-012 -8.5753e-013 ]
+     scale [ 0.677083 0.677083 0.677083 ]
+    ]
+    prop "prop_2ftdockpiling_DNARoot" [
+     code [ "prop_2ftdockpiling" ]
+     pos [ 0 -31 -2.40714e-012 ]
+     hpr [ 90 -4.815 -4.815 ]
+    ]
+   ]
+   flat_building "tb13:random20_DNARoot" [
+    pos [ 345 -205 1.95828e-022 ]
+    hpr [ -90 180 -180 ]
+    width [ 5 ]
+    wall [
+     height [ 10 ]
+     code [ "wall_bricks_dr" ]
+     color [ 0.57 0.7 0.35 1 ]
+    ]
+    wall [
+     height [ 10 ]
+     code [ "wall_bricks_ur" ]
+     color [ 0.57 0.7 0.35 1 ]
+    ]
+   ]
+   flat_building "tb13:random20_DNARoot" [
+    pos [ 305 -220 0 ]
+    hpr [ 90 -1.52588e-005 -1.52588e-005 ]
+    width [ 15.6 ]
+    wall [
+     height [ 10 ]
+     code [ "wall_lg_brick_ur" ]
+     color [ 0.164706 0.439216 0.27451 1 ]
+     windows [
+      code [ "window_md_curtains_ur" ]
+      color [ 0.5 0.5 0.5 1 ]
+      count [ 1 ]
+     ]
+    ]
+    wall [
+     height [ 10 ]
+     code [ "wall_lg_brick_ur" ]
+     color [ 0.164706 0.439216 0.27451 1 ]
+     windows [
+      code [ "window_md_curtains_ur" ]
+      color [ 0.5 0.5 0.5 1 ]
+      count [ 1 ]
+     ]
+    ]
+    prop "prop_palm_tree_topflat_DNARoot" [
+     code [ "prop_palm_tree_topflat" ]
+     pos [ 9 -8 -1.44225e-012 ]
+     hpr [ 90.0014 89.4603 89.4603 ]
+     scale [ 0.785067 0.785066 0.785066 ]
+    ]
+    prop "streetlight_DD_left_DNARoot" [
+     code [ "streetlight_DD_left" ]
+     pos [ 3.755 -8.15799 6.89414e-014 ]
+     hpr [ -90 -0.0735016 0.0735016 ]
+     scale [ 1 1 0.999991 ]
+    ]
+   ]
+   flat_building "tb13:random20_DNARoot" [
+    pos [ 305 -185 -3.58596e-022 ]
+    hpr [ 90 -1.4033e-014 0 ]
+    width [ 25 ]
+    wall [
+     height [ 20 ]
+     code [ "wall_md_blank_ur" ]
+     color [ 0.384314 0.305635 0.187618 1 ]
+     windows [
+      code [ "window_sm_round_ur" ]
+      color [ 0.779528 0.489115 0.293469 1 ]
+      count [ 3 ]
+     ]
+     cornice [
+      code [ "cornice_marble_ur" ]
+      color [ 0.9 0.56 0.34 1 ]
+     ]
+    ]
+    prop "prop_crate_DNARoot" [
+     code [ "prop_crate" ]
+     pos [ 16 -3 3.06007e-013 ]
+     hpr [ 15 2.11644e-006 8.17718e-006 ]
+    ]
+    prop "prop_hydrant_DNARoot" [
+     code [ "prop_hydrant" ]
+     pos [ 6.97031 -7.2377 -1.77267e-015 ]
+     hpr [ -180 0.000165652 -4.57764e-005 ]
+     scale [ 1 1 0.999997 ]
+    ]
+   ]
+   landmark_building "tb13:toon_landmark_DD_C1_DNARoot" [
+    code [ "toon_landmark_DD_C1" ]
+    title [ "" ]
+    pos [ 305 -205 -1.24084e-021 ]
+    hpr [ 90 -180 -180 ]
+    door [
+     code [ "door_double_wood_ur" ]
+     color [ 0.97 0.55 0.4 1 ]
+    ]
+    sign [
+     code [ "DD_sign1" ]
+     pos [ 0 0 -0.770973 ]
+     scale [ 0.8 1 0.8 ]
+     baseline [
+      code [ "mickey" ]
+      color [ 0 0.501961 0.501961 1 ]
+      pos [ 0 0 0.307743 ]
+      scale [ 0.8 1 1 ]
+      text [
+       letters [ "S" ]
+      ]
+      text [
+       letters [ "U" ]
+      ]
+      text [
+       letters [ "N" ]
+      ]
+      text [
+       letters [ "D" ]
+      ]
+      text [
+       letters [ "I" ]
+      ]
+      text [
+       letters [ "A" ]
+      ]
+      text [
+       letters [ "L" ]
+      ]
+      text [
+       letters [ " " ]
+      ]
+      text [
+       letters [ "P" ]
+      ]
+      text [
+       letters [ "H" ]
+      ]
+      text [
+       letters [ "O" ]
+      ]
+      text [
+       letters [ "N" ]
+      ]
+      text [
+       letters [ "E" ]
+      ]
+      text [
+       letters [ " " ]
+      ]
+      text [
+       letters [ "C" ]
+      ]
+      text [
+       letters [ "O" ]
+      ]
+      text [
+       letters [ "." ]
+      ]
+     ]
+    ]
+   ]
+  ]
+  group "props" [
+  ]
+ ]
+ visgroup "1114" [
+  vis [   "1109"   "1110"   "1111"   "1112"   "1113"   "1114"   "1115"   "1116"   "1124"   "1123"   "1125"   "1117"   "1126"   ]
+  suit_edge [ 109 110 ]
+  suit_edge [ 110 111 ]
+  suit_edge [ 112 113 ]
+  suit_edge [ 113 114 ]
+  suit_edge [ 114 115 ]
+  suit_edge [ 110 116 ]
+  suit_edge [ 116 110 ]
+  suit_edge [ 113 116 ]
+  suit_edge [ 116 113 ]
+  suit_edge [ 104 109 ]
+  battle_cell [ 20 20 325 -230 -2.727e-023 ]
+  group "streets" [
+   street "street_full_corner_DNARoot" [
+    code [ "street_full_corner" ]
+    pos [ 345 -250 0 ]
+    hpr [ 90 -7.81243e-023 0 ]
+    texture [ "street_street_DD_tex" ]
+    texture [ "street_sidewalk_DD_tex" ]
+   ]
+  ]
+  group "buildings" [
+   flat_building "tb13:random20_DNARoot" [
+    pos [ 305 -250 -3.81796e-022 ]
+    hpr [ 90 7.82287e-028 0 ]
+    width [ 15 ]
+    wall [
+     height [ 20 ]
+     code [ "wall_sm_wood_ur" ]
+     color [ 0.913386 0.540868 0.540868 1 ]
+     windows [
+      code [ "window_porthole_ur" ]
+      color [ 0.0778138 0.472441 0.314961 1 ]
+      count [ 4 ]
+     ]
+     cornice [
+      code [ "cornice_shingles_ur" ]
+      color [ 0.732283 0.511163 0.511163 1 ]
+     ]
+    ]
+    prop "prop_lifesaver_DNARoot" [
+     code [ "prop_lifesaver" ]
+     pos [ 3.33 -3.38699 -0.229229 ]
+     hpr [ 45 -0.000112808 -7.72967e-028 ]
+     scale [ 0.800001 0.799976 0.799988 ]
+    ]
+    prop "prop_2ftdockpiling_DNARoot" [
+     code [ "prop_2ftdockpiling" ]
+     pos [ 9 -9 3.81796e-022 ]
+     hpr [ -90 -3.05176e-005 3.05176e-005 ]
+     scale [ 0.999997 1 1 ]
+    ]
+   ]
+   flat_building "tb13:random20_DNARoot" [
+    pos [ 305 -235 -1.04994e-021 ]
+    hpr [ 90 -180 -180 ]
+    width [ 15 ]
+    wall [
+     height [ 20 ]
+     code [ "wall_md_board_ur" ]
+     color [ 0.93 0.15 0.15 1 ]
+     windows [
+      code [ "window_porthole_ul" ]
+      color [ 0 0.532747 0.317894 1 ]
+      count [ 2 ]
+     ]
+    ]
+    prop "prop_billboard_DNARoot" [
+     code [ "prop_billboard" ]
+     pos [ 5 -0.00100708 20 ]
+     hpr [ 30 -1.88037e-012 2.10144e-012 ]
+     scale [ 0.999999 1.00001 0.999997 ]
+     color [ 0.75 0.75 0.75 1 ]
+     sign [
+      color [ 0.25 0.25 0.25 1 ]
+      baseline [
+       code [ "mickey" ]
+       color [ 0 0.501961 0.752941 1 ]
+       pos [ 0 0 1.44068 ]
+       hpr [ 0 0 3.53887 ]
+       scale [ 0.65 1 0.7 ]
+       width [ 27.008 ]
+       height [ 27.008 ]
+       text [
+        letters [ "T" ]
+       ]
+       text [
+        letters [ "I" ]
+       ]
+       text [
+        letters [ "R" ]
+       ]
+       text [
+        letters [ "E" ]
+       ]
+       text [
+        letters [ "D" ]
+       ]
+       text [
+        letters [ "?" ]
+       ]
+       text [
+        letters [ " " ]
+       ]
+       text [
+        letters [ "S" ]
+       ]
+       text [
+        letters [ "T" ]
+       ]
+       text [
+        letters [ "A" ]
+       ]
+       text [
+        letters [ "Y" ]
+       ]
+       text [
+        letters [ " " ]
+       ]
+       text [
+        letters [ " " ]
+       ]
+       text [
+        letters [ "A" ]
+       ]
+       text [
+        letters [ "T" ]
+       ]
+       text [
+        letters [ " " ]
+       ]
+       text [
+        letters [ " " ]
+       ]
+       text [
+        letters [ "T" ]
+       ]
+       text [
+        letters [ "H" ]
+       ]
+       text [
+        letters [ "E" ]
+       ]
+      ]
+      baseline [
+       code [ "mickey" ]
+       color [ 0.501961 0 1 1 ]
+       pos [ 0 0 0.146728 ]
+       hpr [ 0 0 3.04707 ]
+       scale [ 1 1 1.1 ]
+       width [ 41.5921 ]
+       height [ 41.5921 ]
+       text [
+        letters [ "T" ]
+       ]
+       text [
+        letters [ "U" ]
+       ]
+       text [
+        letters [ "C" ]
+       ]
+       text [
+        letters [ "K" ]
+       ]
+       text [
+        letters [ "E" ]
+       ]
+       text [
+        letters [ "R" ]
+       ]
+       text [
+        letters [ "E" ]
+       ]
+       text [
+        letters [ "D" ]
+       ]
+       text [
+        letters [ " " ]
+       ]
+       text [
+        letters [ "O" ]
+       ]
+       text [
+        letters [ "U" ]
+       ]
+       text [
+        letters [ "T" ]
+       ]
+      ]
+      baseline [
+       code [ "mickey" ]
+       color [ 0.501961 0 1 1 ]
+       pos [ 0 0 -1.14853 ]
+       scale [ 1.2 1 1.2 ]
+       wiggle [ 2.69487 ]
+       stumble [ 0.042241 ]
+       stomp [ 0.040246 ]
+       width [ 16.8979 ]
+       height [ 16.8979 ]
+       text [
+        letters [ "H" ]
+       ]
+       text [
+        letters [ "O" ]
+       ]
+       text [
+        letters [ "T" ]
+       ]
+       text [
+        letters [ "E" ]
+       ]
+       text [
+        letters [ "L" ]
+       ]
+      ]
+      baseline [
+       code [ "mickey" ]
+       color [ 0 0.501961 0.752941 1 ]
+       pos [ 0 0 -2.11306 ]
+       scale [ 0.5 1 0.5 ]
+       width [ 27.377 ]
+       height [ 27.377 ]
+       text [
+        letters [ "I" ]
+       ]
+       text [
+        letters [ "N" ]
+       ]
+       text [
+        letters [ " " ]
+       ]
+       text [
+        letters [ "D" ]
+       ]
+       text [
+        letters [ "O" ]
+       ]
+       text [
+        letters [ "N" ]
+       ]
+       text [
+        letters [ "A" ]
+       ]
+       text [
+        letters [ "L" ]
+       ]
+       text [
+        letters [ "D" ]
+       ]
+       text [
+        letters [ "'" ]
+       ]
+       text [
+        letters [ "S" ]
+       ]
+       text [
+        letters [ " " ]
+       ]
+       text [
+        letters [ "D" ]
+       ]
+       text [
+        letters [ "R" ]
+       ]
+       text [
+        letters [ "E" ]
+       ]
+       text [
+        letters [ "A" ]
+       ]
+       text [
+        letters [ "M" ]
+       ]
+       text [
+        letters [ "L" ]
+       ]
+       text [
+        letters [ "A" ]
+       ]
+       text [
+        letters [ "N" ]
+       ]
+       text [
+        letters [ "D" ]
+       ]
+      ]
+     ]
+    ]
+   ]
+   flat_building "tb14:random20_DNARoot" [
+    pos [ 330 -250 1.59051e-021 ]
+    hpr [ 180 -4.54172e-028 0 ]
+    width [ 25 ]
+    wall [
+     height [ 20 ]
+     code [ "wall_md_board_ur" ]
+     color [ 0.44 0.67 0.45 1 ]
+     windows [
+      code [ "window_porthole_ur" ]
+      color [ 0 0.532747 0.317894 1 ]
+      count [ 1 ]
+     ]
+    ]
+   ]
+   landmark_building "tb14:toon_landmark_DD_B2_DNARoot" [
+    code [ "toon_landmark_DD_B2" ]
+    title [ "" ]
+    pos [ 345.087 -249.994 0 ]
+    hpr [ 180 -4.33127e-006 0 ]
+    door [
+     code [ "door_double_wood_ur" ]
+     color [ 1 1 1 1 ]
+    ]
+    sign [
+     code [ "DD_sign1" ]
+     baseline [
+      code [ "humanist" ]
+      color [ 0 0.501961 0.25098 1 ]
+      pos [ 0 0 0.524099 ]
+      scale [ 1.2 1 1.2 ]
+      kern [ 0.056542 ]
+      wiggle [ 4.77385 ]
+      stomp [ 0.038494 ]
+      flags [ "d" ]
+      text [
+       letters [ "T" ]
+      ]
+      text [
+       letters [ "R" ]
+      ]
+      text [
+       letters [ "I" ]
+      ]
+      text [
+       letters [ "M" ]
+      ]
+      text [
+       letters [ " " ]
+      ]
+      text [
+       letters [ "T" ]
+      ]
+      text [
+       letters [ "H" ]
+      ]
+      text [
+       letters [ "E" ]
+      ]
+      text [
+       letters [ " " ]
+      ]
+      text [
+       letters [ "N" ]
+      ]
+      text [
+       letters [ "A" ]
+      ]
+      text [
+       letters [ "I" ]
+      ]
+      text [
+       letters [ "L" ]
+      ]
+     ]
+     baseline [
+      code [ "humanist" ]
+      color [ 0 0.501961 0.25098 1 ]
+      pos [ 0 0 -0.631079 ]
+      scale [ 1.2 1 1.2 ]
+      kern [ 0.058595 ]
+      wiggle [ 3.84213 ]
+      stomp [ 0.027375 ]
+      flags [ "d" ]
+      text [
+       letters [ "B" ]
+      ]
+      text [
+       letters [ "O" ]
+      ]
+      text [
+       letters [ "U" ]
+      ]
+      text [
+       letters [ "T" ]
+      ]
+      text [
+       letters [ "I" ]
+      ]
+      text [
+       letters [ "Q" ]
+      ]
+      text [
+       letters [ "U" ]
+      ]
+      text [
+       letters [ "E" ]
+      ]
+     ]
+    ]
+    prop "DD_barrel_DNARoot" [
+     code [ "DD_barrel" ]
+     pos [ 19.087 -2.994 -2.26331e-007 ]
+     hpr [ -90 3.51169 -3.51169 ]
+     scale [ 1.57002 1.57001 1.57001 ]
+    ]
+    prop "prop_mailbox_DD_DNARoot" [
+     code [ "prop_mailbox_DD" ]
+     pos [ 20.395 -8.63701 -4.14495e-007 ]
+     hpr [ 3.46858e-006 2.89323e-006 -3.05176e-005 ]
+    ]
+    prop "prop_2ftdockpiling_DNARoot" [
+     code [ "prop_2ftdockpiling" ]
+     pos [ 8.08698 -31.994 -2.41858e-006 ]
+     hpr [ 180 -2.62364e-006 1.52588e-005 ]
+    ]
+    prop "prop_crate_DNARoot" [
+     code [ "prop_crate" ]
+     pos [ 2.43998 -37.631 -1.03016e-005 ]
+     hpr [ 15 2.42303e-005 7.74545e-005 ]
+     scale [ 1.00002 1 1 ]
+     color [ 0.92 0.63 0.42 1 ]
+    ]
+   ]
+  ]
+  group "props" [
+   prop "prop_chimney_DNARoot" [
+    code [ "prop_chimney" ]
+    pos [ 312.404 -252.903 15.7901 ]
+    hpr [ -180 -0.000596913 7.62939e-005 ]
+    scale [ 0.999999 0.999995 0.999999 ]
+    color [ 0.45 0.31 0.17 1 ]
+   ]
+  ]
+ ]
+ visgroup "1115" [
+  vis [   "1113"   "1114"   "1115"   "1116"   "1117"   "1112"   "1111"   "1124"   "1123"   "1125"   "1126"   ]
+  suit_edge [ 111 117 ]
+  suit_edge [ 117 118 ]
+  suit_edge [ 119 120 ]
+  suit_edge [ 120 112 ]
+  battle_cell [ 20 20 379.999 -230 4.77226e-023 ]
+  group "streets" [
+   street "street_full_corner_DNARoot" [
+    code [ "street_full_corner" ]
+    pos [ 400 -210 0 ]
+    hpr [ -180 -4.60267e-027 0 ]
+    texture [ "street_street_DD_tex" ]
+    texture [ "street_sidewalk_DD_tex" ]
+   ]
+   street "street_5x40_DNARoot" [
+    code [ "street_5x40" ]
+    pos [ 360 -210 0 ]
+    hpr [ -180 -2.38932e-027 0 ]
+    texture [ "street_street_DD_tex" ]
+    texture [ "street_sidewalk_DD_tex" ]
+   ]
+   street "street_10x40_DNARoot" [
+    code [ "street_10x40" ]
+    pos [ 355 -210 4.82008e-036 ]
+    hpr [ 180 -7.81558e-028 0 ]
+    texture [ "street_street_DD_tex" ]
+    texture [ "street_sidewalk_DD_tex" ]
+   ]
+  ]
+  group "buildings" [
+   flat_building "tb0:random20_DNARoot" [
+    pos [ 345.001 -250 9.59502e-022 ]
+    hpr [ -180 6.79804e-027 0 ]
+    width [ 10 ]
+    wall [
+     height [ 10 ]
+     code [ "wall_md_blank_ur" ]
+     color [ 0.415686 0.156863 0.156863 1 ]
+     windows [
+      code [ "window_sm_square_ur" ]
+      color [ 0.874016 0.654655 0.329041 1 ]
+      count [ 0 ]
+     ]
+    ]
+    wall [
+     height [ 10 ]
+     code [ "wall_md_blank_ur" ]
+     color [ 0.417323 0.15711 0.15711 1 ]
+     windows [
+      code [ "window_sm_square_ur" ]
+      color [ 0.874016 0.654655 0.329041 1 ]
+      count [ 1 ]
+     ]
+    ]
+   ]
+   flat_building "tb14:random20_DNARoot" [
+    pos [ 360 -250 1.13091e-021 ]
+    hpr [ 180 -2.95739e-027 0 ]
+    width [ 15 ]
+    wall [
+     height [ 10 ]
+     code [ "wall_md_board_ur" ]
+     color [ 0.929134 0.153034 0.153034 1 ]
+     windows [
+      code [ "window_porthole_ur" ]
+      color [ 0 0.532747 0.317894 1 ]
+      count [ 1 ]
+     ]
+    ]
+    wall [
+     height [ 10 ]
+     code [ "wall_md_board_ur" ]
+     color [ 0.929134 0.153034 0.153034 1 ]
+     windows [
+      code [ "window_porthole_ur" ]
+      color [ 0 0.532747 0.317894 1 ]
+      count [ 0 ]
+     ]
+    ]
+    prop "prop_palm_tree_topflat_DNARoot" [
+     code [ "prop_palm_tree_topflat" ]
+     pos [ 10.05 -8.17999 -1.88314e-007 ]
+     hpr [ -90 0.00172424 -0.00172424 ]
+     scale [ 0.525881 0.525881 0.525879 ]
+    ]
+    prop "prop_2ftdockpiling_DNARoot" [
+     code [ "prop_2ftdockpiling" ]
+     pos [ 6.99999 -9 -1.13091e-021 ]
+     hpr [ 180 4.97208e-012 1.52588e-005 ]
+    ]
+    prop "prop_palm_tree_topflat_DNARoot" [
+     code [ "prop_palm_tree_topflat" ]
+     pos [ 2.97899 -8.17999 -1.12988e-006 ]
+     hpr [ 30 0.00124358 0.00248718 ]
+     scale [ 0.781584 0.781584 0.781584 ]
+    ]
+   ]
+   flat_building "tb14:random20_DNARoot" [
+    pos [ 380 -250 1.244e-021 ]
+    hpr [ -180 -1.87263e-027 0 ]
+    width [ 20 ]
+    wall [
+     height [ 10 ]
+     code [ "wall_md_blank_ur" ]
+     color [ 0.384314 0.301961 0.184314 1 ]
+     windows [
+      code [ "window_sm_round_ur" ]
+      color [ 1 0.5 0.38 1 ]
+      count [ 1 ]
+     ]
+    ]
+    wall [
+     height [ 10 ]
+     code [ "wall_md_blank_dr" ]
+     color [ 0.384314 0.301961 0.184314 1 ]
+     windows [
+      code [ "window_sm_round_ur" ]
+      color [ 0.779528 0.489115 0.293469 1 ]
+      count [ 1 ]
+     ]
+     cornice [
+      code [ "cornice_dental_ur" ]
+      color [ 0.574803 0.38771 0.340374 1 ]
+     ]
+    ]
+    prop "prop_trashcan_DD_DNARoot" [
+     code [ "prop_trashcan_DD" ]
+     pos [ 15 -6 -1.244e-021 ]
+     hpr [ -180 2.3561e-012 1.52588e-005 ]
+     scale [ 0.999998 1 1 ]
+    ]
+    prop "prop_roof_access_DNARoot" [
+     code [ "prop_roof_access" ]
+     pos [ 5.33601 4.34801 19.2464 ]
+     hpr [ 3.70749e-005 -0.000404623 1.52253e-029 ]
+     scale [ 1.00001 0.999995 1 ]
+     color [ 0.36 0.45 0.22 1 ]
+    ]
+   ]
+   flat_building "tb15:random20_DNARoot" [
+    pos [ 345 -210 5.17947e-012 ]
+    hpr [ 3.22761e-005 -7.01648e-015 5.69112e-018 ]
+    width [ 15 ]
+    wall [
+     height [ 10 ]
+     code [ "wall_bricks_dr" ]
+     color [ 0.568627 0.698039 0.34902 1 ]
+     windows [
+      code [ "window_sm_shuttered_ur" ]
+      color [ 0.73 0.63 0.37 1 ]
+      count [ 1 ]
+     ]
+    ]
+    wall [
+     height [ 10 ]
+     code [ "wall_bricks_dr" ]
+     color [ 0.57 0.7 0.35 1 ]
+     windows [
+      code [ "window_sm_shuttered_ur" ]
+      color [ 0.73 0.63 0.37 1 ]
+      count [ 1 ]
+     ]
+    ]
+    prop "streetlight_DD_left_DNARoot" [
+     code [ "streetlight_DD_left" ]
+     pos [ 9 -8 -2.39685e-006 ]
+     hpr [ -90 -1.52588e-005 1.52588e-005 ]
+     scale [ 0.99999 0.999989 1 ]
+    ]
+    prop "prop_palm_tree_topflat_DNARoot" [
+     code [ "prop_palm_tree_topflat" ]
+     pos [ 22 -5.00002 -5.18008e-012 ]
+     hpr [ -3.13496e-005 7.01648e-015 -5.61763e-018 ]
+     scale [ 0.794271 0.794268 0.794268 ]
+    ]
+    prop "prop_2ftdockpiling_DNARoot" [
+     code [ "prop_2ftdockpiling" ]
+     pos [ 23 -8.00002 -5.18045e-012 ]
+     hpr [ -3.13497e-005 -3.08935e-011 -4.62667e-011 ]
+    ]
+   ]
+   flat_building "tb14:random20_DNARoot" [
+    pos [ 400 -250 1.35709e-021 ]
+    hpr [ -180 -2.86699e-027 0 ]
+    width [ 20 ]
+    wall [
+     height [ 20 ]
+     code [ "wall_md_blank_ur" ]
+     color [ 0.417323 0.15711 0.15711 1 ]
+     windows [
+      code [ "window_sm_square_ur" ]
+      color [ 0.874016 0.654655 0.329041 1 ]
+      count [ 4 ]
+     ]
+    ]
+   ]
+   flat_building "tb14:random20_DNARoot" [
+    pos [ 400 -230 2.15778e-022 ]
+    hpr [ -90 -3.00698e-027 0 ]
+    width [ 20 ]
+    wall [
+     height [ 20 ]
+     code [ "wall_sm_wood_ur" ]
+     color [ 0.913386 0.540868 0.540868 1 ]
+     windows [
+      code [ "window_porthole_ur" ]
+      color [ 0.0778138 0.472441 0.314961 1 ]
+      count [ 3 ]
+     ]
+     cornice [
+      code [ "cornice_marble_ur" ]
+      color [ 0.76378 0.572086 0.287541 1 ]
+     ]
+    ]
+    prop "prop_nets_DNARoot" [
+     code [ "prop_nets" ]
+     pos [ 15.1786 -4.32772 3.67142e-006 ]
+     hpr [ -45 -0.000151055 0.000213623 ]
+     scale [ 1 0.999999 1 ]
+    ]
+    prop "prop_2ftdockpiling_DNARoot" [
+     code [ "prop_2ftdockpiling" ]
+     pos [ 11 -8.99997 -2.15778e-022 ]
+     hpr [ 90 -4.57764e-005 -4.57764e-005 ]
+     scale [ 0.999996 1 1 ]
+    ]
+    prop "prop_crate_DNARoot" [
+     code [ "prop_crate" ]
+     pos [ -3.72301 -4.38098 -2.16083e-005 ]
+     hpr [ 45 -9.44499e-011 -7.25437e-011 ]
+     scale [ 0.999997 1 1 ]
+     color [ 0.75 0.75 0.75 1 ]
+    ]
+    prop "prop_crate_DNARoot" [
+     code [ "DD_barrel" ]
+     pos [ -6.64301 -2.30798 2.38419e-007 ]
+     hpr [ -30 -0.000105752 0.000211432 ]
+     scale [ 1.58741 1.58741 1.58741 ]
+    ]
+   ]
+   flat_building "tb14:random20_DNARoot" [
+    pos [ 400 -210 1.04994e-021 ]
+    hpr [ -90 180 -180 ]
+    width [ 20 ]
+    wall [
+     height [ 10 ]
+     code [ "wall_bricks_ur" ]
+     color [ 0.627451 0.470588 0.235294 1 ]
+     windows [
+      code [ "window_sm_shuttered_ur" ]
+      color [ 1 0.627451 0.376471 1 ]
+      count [ 0 ]
+     ]
+    ]
+    wall [
+     height [ 10 ]
+     code [ "wall_bricks_ur" ]
+     color [ 0.627451 0.470588 0.235294 1 ]
+     cornice [
+      code [ "cornice_dental_ur" ]
+      color [ 1 0.709804 0.266667 1 ]
+     ]
+     windows [
+      code [ "window_sm_shuttered_ur" ]
+      color [ 1 0.5 0.38 1 ]
+      count [ 1 ]
+     ]
+    ]
+    prop "prop_palm_tree_topflat_DNARoot" [
+     code [ "prop_palm_tree_topflat" ]
+     pos [ 3.498 -7.88205 -3.83261e-014 ]
+     hpr [ -1.86336e-005 -0.00017417 8.16072e-007 ]
+     scale [ 0.705389 0.705388 0.70539 ]
+    ]
+   ]
+  ]
+  group "props" [
+  ]
+  prop "prop_hydrant_DNARoot" [
+   code [ "prop_hydrant" ]
+   pos [ 380 -241 0 ]
+   hpr [ 0 0 0 ]
+   scale [ 0.999994 1 1 ]
+  ]
+ ]
+ visgroup "1116" [
+  vis [   "1114"   "1115"   "1116"   "1117"   "1118"   "1119"   "1125"   "1126"   "1113"   ]
+  suit_edge [ 118 121 ]
+  suit_edge [ 121 122 ]
+  suit_edge [ 123 124 ]
+  suit_edge [ 124 125 ]
+  suit_edge [ 125 119 ]
+  suit_edge [ 124 126 ]
+  suit_edge [ 126 124 ]
+  suit_edge [ 121 126 ]
+  suit_edge [ 126 121 ]
+  battle_cell [ 20 20 379.999 -190 4.77226e-023 ]
+  group "streets" [
+   street "street_full_corner_DNARoot" [
+    code [ "street_full_corner" ]
+    pos [ 360 -210 -1.01066e-022 ]
+    hpr [ 5.61885e-006 -7.01648e-015 -3.40993e-028 ]
+    texture [ "street_street_DD_tex" ]
+    texture [ "street_sidewalk_DD_tex" ]
+   ]
+  ]
+  group "buildings" [
+   flat_building "tb15:random20_DNARoot" [
+    pos [ 360 -210 1.89472e-022 ]
+    hpr [ 90 -180 -180 ]
+    width [ 5 ]
+    wall [
+     height [ 10 ]
+     code [ "wall_bricks_dr" ]
+     color [ 0.568627 0.698039 0.34902 1 ]
+    ]
+    wall [
+     height [ 10 ]
+     code [ "wall_bricks_dr" ]
+     color [ 0.568627 0.698039 0.34902 1 ]
+    ]
+   ]
+   flat_building "tb15:random20_DNARoot" [
+    pos [ 360 -205 -7.61287e-013 ]
+    hpr [ 90 -3.63853e-019 0 ]
+    width [ 10 ]
+    wall [
+     height [ 20 ]
+     code [ "wall_md_board_ur" ]
+     color [ 0.929134 0.153034 0.153034 1 ]
+     windows [
+      code [ "window_porthole_ur" ]
+      color [ 0 0.532747 0.317894 1 ]
+      count [ 1 ]
+     ]
+    ]
+    prop "prop_crate_DNARoot" [
+     code [ "prop_crate" ]
+     pos [ 6.24899 -3.483 7.61287e-013 ]
+     hpr [ 180 1.06683e-010 1.52588e-005 ]
+    ]
+    prop "prop_crate_DNARoot" [
+     code [ "DD_barrel" ]
+     pos [ 4 -6 7.61287e-013 ]
+     hpr [ -150 7.62945e-006 -1.52588e-005 ]
+     scale [ 1.41906 1.41906 1.41906 ]
+    ]
+    prop "streetlight_DD_left_DNARoot" [
+     code [ "streetlight_DD_left" ]
+     pos [ -1 -32 7.61287e-013 ]
+     hpr [ 90.0002 -87.9586 -87.9586 ]
+     scale [ 0.999998 1 1 ]
+    ]
+   ]
+   flat_building "tb15:random20_DNARoot" [
+    pos [ 360 -195 0 ]
+    hpr [ 90 5.85306e-029 0 ]
+    width [ 15 ]
+    wall [
+     height [ 10 ]
+     code [ "wall_md_blank_ur" ]
+     color [ 0.417323 0.15711 0.15711 1 ]
+     windows [
+      code [ "window_sm_square_ul" ]
+      color [ 0.874016 0.654655 0.329041 1 ]
+      count [ 2 ]
+     ]
+    ]
+    wall [
+     height [ 10 ]
+     code [ "wall_md_blank_dr" ]
+     color [ 0.415686 0.156863 0.156863 1 ]
+     windows [
+      code [ "window_sm_square_ul" ]
+      color [ 0.874016 0.654655 0.329041 1 ]
+      count [ 2 ]
+     ]
+     cornice [
+      code [ "cornice_marble_ur" ]
+      color [ 0.91 0.54 0.44 1 ]
+     ]
+    ]
+    prop "prop_chimney_DNARoot" [
+     code [ "prop_chimney" ]
+     pos [ 0.867004 2.26199 20.232 ]
+     hpr [ -1.22428e-007 7.00094e-005 -1.50687e-006 ]
+     scale [ 1 0.999996 1 ]
+     color [ 0.64 0.24 0.32 1 ]
+    ]
+    prop "prop_trashcan_DD_DNARoot" [
+     code [ "prop_trashcan_DD" ]
+     pos [ 3 -8 3.35014e-013 ]
+     hpr [ 180 -1.04792e-009 -1.52588e-005 ]
+     scale [ 0.999999 0.999998 0.999999 ]
+    ]
+    prop "prop_2ftdockpiling_DNARoot" [
+     code [ "prop_2ftdockpiling" ]
+     pos [ -7 -32 4.05835e-020 ]
+     hpr [ -90 -42.4206 42.4206 ]
+     scale [ 1 0.999998 0.999998 ]
+    ]
+    prop "neighborhood_sign_DD_DNARoot" [
+     code [ "neighborhood_sign_DD" ]
+     pos [ 8.91118 -1.16573 7.40291e-021 ]
+     hpr [ -180 0.000128684 0 ]
+     scale [ 1.5 1.50004 1.49999 ]
+    ]
+   ]
+   flat_building "tb15:random20_DNARoot" [
+    pos [ 360 -180 -6.65753e-013 ]
+    hpr [ 90 -3.63853e-019 0 ]
+    width [ 10 ]
+    wall [
+     height [ 10 ]
+     code [ "wall_md_board_ur" ]
+     color [ 0.92 0.63 0.42 1 ]
+     windows [
+      code [ "window_porthole_ur" ]
+      color [ 0 0.532747 0.317894 1 ]
+      count [ 0 ]
+     ]
+    ]
+    wall [
+     height [ 10 ]
+     code [ "wall_lg_brick_ur" ]
+     color [ 0.166003 0.440945 0.276671 1 ]
+     windows [
+      code [ "window_md_curtains_ur" ]
+      color [ 0.17258 0.637795 0.450208 1 ]
+      count [ 0 ]
+     ]
+    ]
+   ]
+   flat_building "tb15:random20_DNARoot" [
+    pos [ 360 -170 0 ]
+    hpr [ 0 5.85306e-029 0 ]
+    width [ 15 ]
+    wall [
+     height [ 10 ]
+     code [ "wall_sm_wood_dr" ]
+     color [ 0.909804 0.537255 0.537255 1 ]
+     windows [
+      code [ "window_porthole_ul" ]
+      color [ 0.0778138 0.472441 0.314961 1 ]
+      count [ 2 ]
+     ]
+    ]
+    wall [
+     height [ 10 ]
+     code [ "wall_sm_wood_ur" ]
+     color [ 0.913386 0.540868 0.540868 1 ]
+     windows [
+      code [ "window_porthole_ul" ]
+      color [ 0.0778138 0.472441 0.314961 1 ]
+      count [ 2 ]
+     ]
+     cornice [
+      code [ "cornice_shingles_ur" ]
+      color [ 0.732283 0.511163 0.511163 1 ]
+     ]
+    ]
+    prop "prop_2ftdockpiling_DNARoot" [
+     code [ "prop_2ftdockpiling" ]
+     pos [ 8.51599 -8.67101 -0.000470852 ]
+     hpr [ -0.00042861 6.76906e-015 1.41759e-011 ]
+     scale [ 0.999997 1 1 ]
+    ]
+    prop "neighborhood_sign_TT_DNARoot" [
+     code [ "neighborhood_sign_TT" ]
+     pos [ 8.43137 -1.31618 1.34454e-030 ]
+     hpr [ 0 -8.22523e-005 0.000158517 ]
+     scale [ 1.49999 1.5 1.5 ]
+    ]
+   ]
+   flat_building "tb15:random20_DNARoot" [
+    pos [ 390 -170 -2.93742e-022 ]
+    hpr [ -2.76313e-005 -8.37276e-028 -5.01298e-028 ]
+    width [ 10 ]
+    wall [
+     height [ 10 ]
+     code [ "wall_bricks_ur" ]
+     color [ 0.57 0.7 0.35 1 ]
+     windows [
+      code [ "window_sm_shuttered_ul" ]
+      color [ 0.73 0.63 0.37 1 ]
+      count [ 1 ]
+     ]
+    ]
+    wall [
+     height [ 10 ]
+     code [ "wall_bricks_ur" ]
+     color [ 0.57 0.7 0.35 1 ]
+     windows [
+      code [ "window_sm_shuttered_ul" ]
+      color [ 0.73 0.63 0.37 1 ]
+      count [ 1 ]
+     ]
+     cornice [
+      code [ "cornice_dental_ur" ]
+      color [ 1 0.69 0.49 1 ]
+     ]
+    ]
+    prop "prop_palm_tree_topflat_DNARoot" [
+     code [ "prop_palm_tree_topflat" ]
+     pos [ 5.38799 -7.653 -4.24756e-022 ]
+     hpr [ -90 18.7918 -18.7919 ]
+     scale [ 0.549459 0.549457 0.549461 ]
+    ]
+   ]
+   landmark_building "tb15:toon_landmark_DD_B2_DNARoot" [
+    code [ "toon_landmark_DD_B2" ]
+    title [ "" ]
+    pos [ 375 -170 0 ]
+    hpr [ 0 4.33656e-029 -2.93453e-029 ]
+    door [
+     code [ "door_double_wood_ur" ]
+     color [ 0.79 0.47 0.47 1 ]
+    ]
+    sign [
+     code [ "DD_sign2" ]
+     baseline [
+      code [ "mickey" ]
+      color [ 0 0.501961 0.25098 1 ]
+      pos [ 0 0 -0.627012 ]
+      scale [ 1.1 1 1.1 ]
+      wiggle [ 7.09216 ]
+      stomp [ 0.032407 ]
+      flags [ "b" ]
+      text [
+       letters [ "Y" ]
+      ]
+      text [
+       letters [ "A" ]
+      ]
+      text [
+       letters [ "C" ]
+      ]
+      text [
+       letters [ "H" ]
+      ]
+      text [
+       letters [ "T" ]
+      ]
+      text [
+       letters [ "'" ]
+      ]
+      text [
+       letters [ "S" ]
+      ]
+      text [
+       letters [ " " ]
+      ]
+      text [
+       letters [ "A" ]
+      ]
+      text [
+       letters [ "L" ]
+      ]
+      text [
+       letters [ "L" ]
+      ]
+     ]
+    ]
+   ]
+  ]
+  group "props" [
+  ]
+ ]
+ visgroup "1117" [
+  vis [   "1115"   "1116"   "1117"   "1118"   "1119"   "1114"   "1126"   "1127"   "1125"   ]
+  suit_edge [ 131 131 ]
+  suit_edge [ 131 138 ]
+  suit_edge [ 138 131 ]
+  suit_edge [ 128 131 ]
+  suit_edge [ 131 133 ]
+  suit_edge [ 135 160 ]
+  suit_edge [ 160 137 ]
+  suit_edge [ 160 138 ]
+  suit_edge [ 138 160 ]
+  battle_cell [ 20 20 419.999 -159.999 1.02263e-022 ]
+  group "streets" [
+   street "street_20x40_DNARoot" [
+    code [ "street_20x40" ]
+    pos [ 400 -150 2.50626e-022 ]
+    hpr [ -90 3.88811e-027 0 ]
+    texture [ "street_street_DD_tex" ]
+    texture [ "street_sidewalk_DD_tex" ]
+   ]
+  ]
+  group "buildings" [
+   flat_building "tb17:random20_DNARoot" [
+    pos [ 400 -170 -1.00202e-022 ]
+    hpr [ 90 180 -180 ]
+    width [ 20 ]
+    wall [
+     height [ 10 ]
+     code [ "wall_bricks_ur" ]
+     color [ 0.57 0.7 0.35 1 ]
+     windows [
+      code [ "window_sm_shuttered_ul" ]
+      color [ 0.73 0.63 0.37 1 ]
+      count [ 2 ]
+     ]
+    ]
+    wall [
+     height [ 10 ]
+     code [ "wall_bricks_ur" ]
+     color [ 0.57 0.7 0.35 1 ]
+     windows [
+      code [ "window_sm_shuttered_ul" ]
+      color [ 0.73 0.63 0.37 1 ]
+      count [ 2 ]
+     ]
+     cornice [
+      code [ "cornice_dental_ur" ]
+      color [ 1 0.69 0.49 1 ]
+     ]
+    ]
+    prop "prop_crate_DNARoot" [
+     code [ "prop_crate" ]
+     pos [ 9.192 -4.54803 -5.51028e-006 ]
+     hpr [ 1.85249e-005 -0.000136376 1.6356e-006 ]
+     scale [ 1.13563 1.13563 1.13562 ]
+    ]
+    prop "prop_crate_DNARoot" [
+     code [ "prop_crate" ]
+     pos [ 6 -5.00003 -8.72578e-006 ]
+     hpr [ 45 -3.12257e-005 -6.82107e-006 ]
+    ]
+   ]
+   flat_building "tb19:random20_DNARoot" [
+    pos [ 390 -110 -8.57804e-023 ]
+    hpr [ -3.04544e-006 7.01648e-015 -3.25777e-027 ]
+    width [ 10 ]
+    wall [
+     height [ 10 ]
+     code [ "wall_sm_wood_dr" ]
+     color [ 0.87 0.61 0.61 1 ]
+     windows [
+      code [ "window_sm_shuttered_ur" ]
+      color [ 1 0.5 0.38 1 ]
+      count [ 1 ]
+     ]
+    ]
+    wall [
+     height [ 10 ]
+     code [ "wall_sm_wood_ur" ]
+     color [ 0.87 0.61 0.61 1 ]
+     windows [
+      code [ "window_sm_shuttered_ul" ]
+      color [ 0.87 0.55 0.33 1 ]
+      count [ 2 ]
+     ]
+    ]
+    prop "prop_mailbox_DD_DNARoot" [
+     code [ "prop_mailbox_DD" ]
+     pos [ 4.00001 -8 8.62701e-013 ]
+     hpr [ 180 -6.48153e-012 0.00012207 ]
+     scale [ 0.999999 0.999994 1 ]
+    ]
+    prop "streetlight_DD_right_DNARoot" [
+     code [ "streetlight_DD_right" ]
+     pos [ 6.3252e-006 -9 -2.69413e-015 ]
+     hpr [ 90 3.05176e-005 3.05176e-005 ]
+    ]
+    prop "prop_2ftdockpiling_DNARoot" [
+     code [ "prop_2ftdockpiling" ]
+     pos [ -7.87701 -7.706 -0.000336373 ]
+     hpr [ -0.00051214 -7.01193e-015 -1.41164e-011 ]
+    ]
+   ]
+   landmark_building "tb16:toon_landmark_DD_A2_DNARoot" [
+    code [ "toon_landmark_DD_A2" ]
+    title [ "" ]
+    pos [ 440 -145 0 ]
+    hpr [ -90 -13.1428 13.1428 ]
+    door [
+     code [ "door_double_wood_ur" ]
+     color [ 0.63 0.48 0.34 1 ]
+    ]
+    sign [
+     code [ "DD_sign2" ]
+     pos [ 0 0 -1.23667 ]
+     baseline [
+      code [ "DD_Portago" ]
+      color [ 0.996078 0.823529 0.596078 1 ]
+      pos [ -0.123335 0 -0.473122 ]
+      scale [ 1.1 1 1.1 ]
+      kern [ 0.02 ]
+      wiggle [ 3 ]
+      stumble [ 0.02 ]
+      stomp [ 0.01 ]
+      flags [ "cd" ]
+      text [
+       letters [ "B" ]
+      ]
+      text [
+       letters [ "e" ]
+      ]
+      text [
+       letters [ "l" ]
+      ]
+      text [
+       letters [ "f" ]
+      ]
+      text [
+       letters [ "r" ]
+      ]
+      text [
+       letters [ "y" ]
+      ]
+      text [
+       letters [ "'" ]
+      ]
+      text [
+       letters [ "s" ]
+      ]
+      text [
+       letters [ " " ]
+      ]
+      text [
+       letters [ "E" ]
+      ]
+      text [
+       letters [ "x" ]
+      ]
+      text [
+       letters [ "t" ]
+      ]
+      text [
+       letters [ "e" ]
+      ]
+      text [
+       letters [ "r" ]
+      ]
+      text [
+       letters [ "m" ]
+      ]
+      text [
+       letters [ "i" ]
+      ]
+      text [
+       letters [ "n" ]
+      ]
+      text [
+       letters [ "a" ]
+      ]
+      text [
+       letters [ "t" ]
+      ]
+      text [
+       letters [ "o" ]
+      ]
+      text [
+       letters [ "r" ]
+      ]
+      text [
+       letters [ "s" ]
+      ]
+     ]
+    ]
+    prop "prop_2ftdockpiling_DNARoot" [
+     code [ "prop_2ftdockpiling" ]
+     pos [ 14 -9 2.44688e-006 ]
+     hpr [ -5.90382e-006 1.76555e-013 5.44968e-006 ]
+    ]
+   ]
+  ]
+  group "props" [
+  ]
+ ]
+ visgroup "1118" [
+  vis [   "1117"   "1118"   "1119"   "1126"   "1125"   "1127"   ]
+  suit_edge [ 141 144 ]
+  suit_edge [ 144 145 ]
+  suit_edge [ 146 147 ]
+  suit_edge [ 147 142 ]
+  suit_edge [ 146 148 ]
+  suit_edge [ 148 147 ]
+  suit_edge [ 148 149 ]
+  suit_edge [ 149 148 ]
+  suit_edge [ 144 149 ]
+  suit_edge [ 149 144 ]
+  battle_cell [ 20 20 370 -129.999 3.40875e-023 ]
+  group "streets" [
+   street "street_10x40_DNARoot" [
+    code [ "street_10x40" ]
+    pos [ 390 -150 1.92435e-022 ]
+    hpr [ 0 -7.01648e-015 3.66851e-026 ]
+    texture [ "street_street_DD_tex" ]
+    texture [ "street_sidewalk_DD_tex" ]
+   ]
+   street "street_full_corner_DNARoot" [
+    code [ "street_full_corner" ]
+    pos [ 390 -150 -7.27427e-022 ]
+    hpr [ 90 2.40235e-027 0 ]
+    texture [ "street_street_DD_tex" ]
+    texture [ "street_sidewalk_DD_tex" ]
+   ]
+  ]
+  group "buildings" [
+   flat_building "tb17:random20_DNARoot" [
+    pos [ 400 -150 -8.23328e-023 ]
+    hpr [ 180 1.37029e-028 0 ]
+    width [ 15 ]
+    wall [
+     height [ 10 ]
+     code [ "wall_bricks_ur" ]
+     color [ 0.57 0.7 0.35 1 ]
+     windows [
+      code [ "window_sm_shuttered_ur" ]
+      color [ 1 0.627451 0.376471 1 ]
+      count [ 0 ]
+     ]
+    ]
+    wall [
+     height [ 10 ]
+     code [ "wall_bricks_dr" ]
+     color [ 0.57 0.7 0.35 1 ]
+     windows [
+      code [ "window_porthole_ur" ]
+      color [ 0 0.53 0.32 1 ]
+      count [ 0 ]
+     ]
+     cornice [
+      code [ "cornice_dental_ur" ]
+      color [ 0.57 0.39 0.34 1 ]
+     ]
+    ]
+   ]
+   flat_building "tb17:random20_DNARoot" [
+    pos [ 385 -150 0 ]
+    hpr [ -180 -1.43396e-030 0 ]
+    width [ 15 ]
+    wall [
+     height [ 20 ]
+     code [ "wall_sm_wood_ur" ]
+     color [ 0.75 0.75 0.75 1 ]
+     cornice [
+      code [ "cornice_shingles_ur" ]
+      color [ 1 0.69 0.49 1 ]
+     ]
+     windows [
+      code [ "window_porthole_ur" ]
+      color [ 0 0.53 0.32 1 ]
+      count [ 3 ]
+     ]
+    ]
+    prop "prop_hydrant_DNARoot" [
+     code [ "prop_trashcan_DD" ]
+     pos [ 6.00001 -7 -5.56734e-012 ]
+     hpr [ -180 -4.97195e-012 1.52588e-005 ]
+     scale [ 0.999994 1 1 ]
+    ]
+    prop "prop_shipmasts_DNARoot" [
+     code [ "prop_shipmasts" ]
+     pos [ 4.30802 5.358 17 ]
+     hpr [ 3.91067e-005 5.14133e-007 -3.05176e-005 ]
+     scale [ 0.851658 0.851647 0.851661 ]
+    ]
+   ]
+   flat_building "tb17:random20_DNARoot" [
+    pos [ 370 -150 0 ]
+    hpr [ -180 -1.43396e-030 0 ]
+    width [ 20 ]
+    wall [
+     height [ 10 ]
+     code [ "wall_md_blank_ur" ]
+     color [ 0.417323 0.15711 0.15711 1 ]
+     windows [
+      code [ "window_sm_square_ur" ]
+      color [ 0.874016 0.654655 0.329041 1 ]
+      count [ 0 ]
+     ]
+    ]
+    wall [
+     height [ 10 ]
+     code [ "wall_md_blank_dr" ]
+     color [ 0.415686 0.156863 0.156863 1 ]
+     windows [
+      code [ "window_sm_square_ur" ]
+      color [ 0.874016 0.654655 0.329041 1 ]
+      count [ 1 ]
+     ]
+    ]
+    prop "prop_shipmasts_DNARoot" [
+     code [ "prop_shipmasts" ]
+     pos [ -4.69799 3.23 17 ]
+     hpr [ 3.75723e-005 -1.78714e-014 9.33239e-037 ]
+     scale [ 0.999997 0.999988 1 ]
+    ]
+    prop "prop_shipmasts_DNARoot" [
+     code [ "prop_shipmasts" ]
+     pos [ 4.30802 3.358 14 ]
+     hpr [ 3.75723e-005 -1.54015e-006 -1.52588e-005 ]
+     scale [ 0.837889 0.837889 0.83789 ]
+    ]
+    prop "prop_2ftdockpiling_DNARoot" [
+     code [ "prop_2ftdockpiling" ]
+     pos [ 11 -9 2.72108e-012 ]
+     hpr [ -90 -6.81845 6.81845 ]
+    ]
+   ]
+   flat_building "tb17:random20_DNARoot" [
+    pos [ 350 -150 0 ]
+    hpr [ 90 -7.8126e-023 0 ]
+    width [ 10 ]
+    wall [
+     height [ 10 ]
+     code [ "wall_md_board_ur" ]
+     color [ 0.929134 0.153034 0.153034 1 ]
+     windows [
+      code [ "window_porthole_ur" ]
+      color [ 0 0.532747 0.317894 1 ]
+      count [ 0 ]
+     ]
+    ]
+    wall [
+     height [ 10 ]
+     code [ "wall_md_board_ur" ]
+     color [ 0.92549 0.152941 0.152941 1 ]
+     cornice [
+      code [ "cornice_shingles_ur" ]
+      color [ 0.944882 0.715146 0.659565 1 ]
+     ]
+     windows [
+      code [ "window_sm_round_ur" ]
+      color [ 0 0.53 0.32 1 ]
+      count [ 1 ]
+     ]
+    ]
+   ]
+   flat_building "tb17:random20_DNARoot" [
+    pos [ 350 -125 -1.74871e-022 ]
+    hpr [ 90 -3.96417e-028 0 ]
+    width [ 20 ]
+    wall [
+     height [ 10 ]
+     code [ "wall_md_blank_ur" ]
+     color [ 0.384314 0.305635 0.187618 1 ]
+     windows [
+      code [ "window_sm_round_ur" ]
+      color [ 0.779528 0.489115 0.293469 1 ]
+      count [ 1 ]
+     ]
+    ]
+    wall [
+     height [ 10 ]
+     code [ "wall_md_blank_dl" ]
+     color [ 0.384314 0.301961 0.184314 1 ]
+     windows [
+      code [ "window_sm_round_ur" ]
+      color [ 0.779528 0.489115 0.293469 1 ]
+      count [ 1 ]
+     ]
+     cornice [
+      code [ "cornice_dental_ur" ]
+      color [ 0.91 0.63 0.44 1 ]
+     ]
+    ]
+   ]
+   landmark_building "tb17:toon_landmark_DD_B1_DNARoot" [
+    code [ "toon_landmark_DD_B1" ]
+    title [ "" ]
+    pos [ 350 -140 0 ]
+    hpr [ 90 -180 -180 ]
+    door [
+     code [ "door_double_wood_ur" ]
+     color [ 0.45 0.53 0.45 1 ]
+    ]
+    sign [
+     code [ "DD_sign1" ]
+     pos [ 0 0 -1.05569 ]
+     baseline [
+      code [ "mickey" ]
+      color [ 0.501961 0 0.25098 1 ]
+      pos [ 0 0 0.401898 ]
+      scale [ 1.5 1 1.5 ]
+      text [
+       letters [ "P" ]
+      ]
+      text [
+       letters [ "U" ]
+      ]
+      text [
+       letters [ "T" ]
+      ]
+      text [
+       letters [ " " ]
+      ]
+      text [
+       letters [ "T" ]
+      ]
+      text [
+       letters [ "O" ]
+      ]
+      text [
+       letters [ " " ]
+      ]
+      text [
+       letters [ "S" ]
+      ]
+      text [
+       letters [ "E" ]
+      ]
+      text [
+       letters [ "E" ]
+      ]
+     ]
+     baseline [
+      code [ "mickey" ]
+      color [ 0 0.501961 0.501961 1 ]
+      pos [ 0 0 -0.708192 ]
+      text [
+       letters [ "O" ]
+      ]
+      text [
+       letters [ "P" ]
+      ]
+      text [
+       letters [ "T" ]
+      ]
+      text [
+       letters [ "I" ]
+      ]
+      text [
+       letters [ "C" ]
+      ]
+      text [
+       letters [ "S" ]
+      ]
+     ]
+    ]
+    prop "prop_crate_DNARoot" [
+     code [ "prop_crate" ]
+     pos [ 0 -5 1.42109e-013 ]
+     hpr [ -45 -2.30297e-012 4.67006e-012 ]
+    ]
+    prop "prop_crate_DNARoot" [
+     code [ "prop_crate" ]
+     pos [ 5 -5 5.32971e-012 ]
+     hpr [ -90 -4.40709e-006 4.40709e-006 ]
+    ]
+   ]
+  ]
+  group "props" [
+   prop "prop_palm_tree_topflat_DNARoot" [
+    code [ "prop_palm_tree_topflat" ]
+    pos [ 617.938 -244.353 0 ]
+    hpr [ 0 -3.92258e-011 0.000106333 ]
+    scale [ 0.735692 0.735703 0.735705 ]
+    color [ 0.74902 0.74902 0.74902 1 ]
+   ]
+   prop "prop_hydrant_DNARoot" [
+    code [ "prop_hydrant" ]
+    pos [ 359.03 -123.806 -1.09009e-018 ]
+    hpr [ -3.07249e-005 3.43753e-021 2.61897e-017 ]
+   ]
+  ]
+  prop "prop_palm_tree_topflat_DNARoot" [
+   code [ "prop_palm_tree_topflat" ]
+   pos [ 358 -109 9.07833e-013 ]
+   hpr [ 30 1.49846e-018 2.68669e-018 ]
+   scale [ 1.25149 1.25149 1.25149 ]
+  ]
+ ]
+ visgroup "1119" [
+  vis [   "1116"   "1117"   "1118"   "1119"   "1126"   "1125"   "1127"   ]
+  suit_edge [ 145 150 ]
+  suit_edge [ 150 151 ]
+  suit_edge [ 152 153 ]
+  suit_edge [ 153 146 ]
+  suit_edge [ 150 154 ]
+  suit_edge [ 154 150 ]
+  suit_edge [ 153 154 ]
+  suit_edge [ 154 153 ]
+  battle_cell [ 20 20 370 -89.9996 -4.29726e-011 ]
+  group "streets" [
+  ]
+  group "buildings" [
+   flat_building "tb24:random20_DNARoot" [
+    pos [ 350 -105 0 ]
+    hpr [ 90 -1.52588e-005 -1.52588e-005 ]
+    width [ 20 ]
+    wall [
+     height [ 20 ]
+     code [ "wall_md_board_ur" ]
+     color [ 0.929134 0.153034 0.153034 1 ]
+     windows [
+      code [ "window_porthole_ur" ]
+      color [ 0 0.532747 0.317894 1 ]
+      count [ 3 ]
+     ]
+     cornice [
+      code [ "cornice_shingles_ur" ]
+      color [ 1 0.88 0.8 1 ]
+     ]
+    ]
+    prop "prop_chimney_DNARoot" [
+     code [ "prop_chimney" ]
+     pos [ 14.1244 4.87598 18.8859 ]
+     hpr [ -6.00345e-006 -0.000102453 8.72003e-006 ]
+     scale [ 0.999996 1.00001 1 ]
+     color [ 0.75 0.45 0.45 1 ]
+    ]
+   ]
+   flat_building "tb19:random20_DNARoot" [
+    pos [ 390 -80.0001 4.37178e-022 ]
+    hpr [ -90 180 -180 ]
+    width [ 20 ]
+    wall [
+     height [ 20 ]
+     code [ "wall_md_board_ur" ]
+     color [ 0.92549 0.152941 0.152941 1 ]
+     windows [
+      code [ "window_sm_round_ur" ]
+      color [ 0 0.607843 0.356863 1 ]
+      count [ 3 ]
+     ]
+    ]
+    prop "prop_crate_DNARoot" [
+     code [ "prop_crate" ]
+     pos [ 5.0502 -5.35199 6.16956e-011 ]
+     hpr [ 180 1.12941e-012 -1.52588e-005 ]
+    ]
+    prop "prop_crate_DNARoot" [
+     code [ "DD_barrel" ]
+     pos [ 2.9999 -3 7.39886e-014 ]
+     hpr [ 135 1.07896e-005 1.52588e-005 ]
+     scale [ 1.40183 1.40183 1.40183 ]
+    ]
+   ]
+   flat_building "tb19:random20_DNARoot" [
+    pos [ 390 -99.9999 -4.65289e-023 ]
+    hpr [ -90 180 -180 ]
+    width [ 10 ]
+    wall [
+     height [ 20 ]
+     code [ "wall_sm_wood_ur" ]
+     color [ 0.874016 0.610097 0.610097 1 ]
+    ]
+    prop "prop_palm_tree_topflat_DNARoot" [
+     code [ "prop_palm_tree_topflat" ]
+     pos [ 8.7011 -7.69601 -0.000336373 ]
+     hpr [ 89.9994 -1.24389e-006 -1.24388e-006 ]
+     scale [ 0.731152 0.731152 0.731152 ]
+     color [ 0.74902 0.74902 0.74902 1 ]
+    ]
+   ]
+   flat_building "tb24:random20_DNARoot" [
+    pos [ 350 -85 0 ]
+    hpr [ 90 -180 -180 ]
+    width [ 20 ]
+    wall [
+     height [ 10 ]
+     code [ "wall_bricks_ur" ]
+     color [ 0.627451 0.470588 0.235294 1 ]
+     windows [
+      code [ "window_sm_square_ur" ]
+      color [ 0.64 0.93 0.45 1 ]
+      count [ 1 ]
+     ]
+    ]
+    wall [
+     height [ 10 ]
+     code [ "wall_bricks_ur" ]
+     color [ 0.627451 0.470588 0.235294 1 ]
+     windows [
+      code [ "window_sm_square_ur" ]
+      color [ 0.82 0.82 0.4 1 ]
+      count [ 1 ]
+     ]
+    ]
+    prop "prop_2ftdockpiling_DNARoot" [
+     code [ "prop_2ftdockpiling" ]
+     pos [ 2 -8 3.89246e-012 ]
+     hpr [ 1.76839e-005 -1.70755e-006 -4.17441e-006 ]
+    ]
+    prop "streetlight_DD_left_DNARoot" [
+     code [ "streetlight_DD_left" ]
+     pos [ 11 -9 8.39745e-013 ]
+     hpr [ -90 6.27155e-007 -6.27152e-007 ]
+    ]
+   ]
+   landmark_building "tb19:toon_landmark_DD_C1_DNARoot" [
+    code [ "toon_landmark_DD_C1" ]
+    title [ "" ]
+    pos [ 390 -60 0 ]
+    hpr [ -90 -54.0808 54.0808 ]
+    door [
+     code [ "door_double_wood_ur" ]
+     color [ 0.86 0.48 0.23 1 ]
+    ]
+    sign [
+     code [ "DD_sign1" ]
+     pos [ 0 0 -1.1745 ]
+     scale [ 0.8 1 0.8 ]
+     baseline [
+      code [ "DD_Portago" ]
+      color [ 0 0.501961 0.501961 1 ]
+      pos [ 0 0 -0.650714 ]
+      kern [ 0.069733 ]
+      wiggle [ 2.75667 ]
+      stumble [ 0.014603 ]
+      stomp [ 0.02 ]
+      text [
+       letters [ "T" ]
+      ]
+      text [
+       letters [ "R" ]
+      ]
+      text [
+       letters [ "E" ]
+      ]
+      text [
+       letters [ "E" ]
+      ]
+      text [
+       letters [ " " ]
+      ]
+      text [
+       letters [ "S" ]
+      ]
+      text [
+       letters [ "U" ]
+      ]
+      text [
+       letters [ "R" ]
+      ]
+      text [
+       letters [ "G" ]
+      ]
+      text [
+       letters [ "E" ]
+      ]
+      text [
+       letters [ "O" ]
+      ]
+      text [
+       letters [ "N" ]
+      ]
+      text [
+       letters [ "S" ]
+      ]
+     ]
+     baseline [
+      code [ "DD_Portago" ]
+      color [ 0 0.501961 0.501961 1 ]
+      pos [ 0 0 0.381458 ]
+      scale [ 1.3 1 1.3 ]
+      kern [ 0.043816 ]
+      wiggle [ 1.85353 ]
+      stomp [ 0.02 ]
+      text [
+       letters [ "D" ]
+      ]
+      text [
+       letters [ "I" ]
+      ]
+      text [
+       letters [ "S" ]
+      ]
+      text [
+       letters [ "E" ]
+      ]
+      text [
+       letters [ "M" ]
+      ]
+      text [
+       letters [ "B" ]
+      ]
+      text [
+       letters [ "A" ]
+      ]
+      text [
+       letters [ "R" ]
+      ]
+      text [
+       letters [ "K" ]
+      ]
+     ]
+    ]
+    prop "prop_2ftdockpiling_DNARoot" [
+     code [ "prop_2ftdockpiling" ]
+     pos [ 15 -8 2.45595e-006 ]
+     hpr [ -180 1.70755e-006 1.52588e-005 ]
+    ]
+   ]
+  ]
+  group "props" [
+  ]
+  street "street_40x40_DNARoot" [
+   code [ "street_40x40" ]
+   pos [ 350 -70 0 ]
+   hpr [ -90 0.000541406 -0.000541406 ]
+   texture [ "street_street_DD_tex" ]
+   texture [ "street_sidewalk_DD_tex" ]
+  ]
+ ]
+ visgroup "1120" [
+  vis [   "1120"   "1103"   "1102"   "1101"   "1121"   "1104"   "1105"   "1122"   ]
+  suit_edge [ 29 30 ]
+  suit_edge [ 30 31 ]
+  suit_edge [ 32 33 ]
+  suit_edge [ 33 34 ]
+  suit_edge [ 30 35 ]
+  suit_edge [ 35 30 ]
+  suit_edge [ 33 35 ]
+  suit_edge [ 35 33 ]
+  battle_cell [ 20 20 225 50 0 ]
+  street "street_40x40_DNARoot" [
+   code [ "street_40x40" ]
+   pos [ 245 30 0 ]
+   hpr [ 90 0 0 ]
+   texture [ "street_street_DD_tex" ]
+   texture [ "street_sidewalk_DD_tex" ]
+  ]
+  flat_building "tb21:20_DNARoot" [
+   pos [ 245 44.9999 1.16271e-021 ]
+   hpr [ -90 0 0 ]
+   width [ 15 ]
+   wall [
+    height [ 10 ]
+    code [ "wall_lg_brick_ur" ]
+    color [ 0.71 0.49 0.35 1 ]
+    windows [
+     code [ "window_md_curtains_ur" ]
+     color [ 0.79 0.47 0.47 1 ]
+     count [ 1 ]
+    ]
+   ]
+   wall [
+    height [ 10 ]
+    code [ "wall_lg_brick_ur" ]
+    color [ 0.71 0.49 0.35 1 ]
+    windows [
+     code [ "window_md_curtains_ur" ]
+     color [ 0.79 0.47 0.47 1 ]
+     count [ 1 ]
+    ]
+   ]
+  ]
+  flat_building "tb21:20_DNARoot" [
+   pos [ 245 59.9999 1.16271e-021 ]
+   hpr [ -90 0 0 ]
+   width [ 15 ]
+   wall [
+    height [ 20 ]
+    code [ "wall_lg_brick_ur" ]
+    color [ 0.16 0.44 0.27 1 ]
+    windows [
+     code [ "window_sm_round_ur" ]
+     color [ 0.31 0.63 0.37 1 ]
+     count [ 4 ]
+    ]
+   ]
+   prop "prop_trashcan_DD_DNARoot" [
+    code [ "prop_trashcan_DD" ]
+    pos [ 10.9999 -7 -1.16271e-021 ]
+    hpr [ -180 8.22883e-012 -1.52588e-005 ]
+    scale [ 0.999993 0.999998 0.999996 ]
+   ]
+   prop "prop_2ftdockpiling_DNARoot" [
+    code [ "prop_2ftdockpiling" ]
+    pos [ 0.999901 -9 -8.3345e-013 ]
+    hpr [ -180 1.70755e-006 -1.52588e-005 ]
+    scale [ 1 0.999998 1 ]
+   ]
+  ]
+  flat_building "tb26:random_DNARoot" [
+   pos [ 205 60 1.83985e-012 ]
+   hpr [ 90 -0.000198364 -0.000198364 ]
+   width [ 10 ]
+   wall [
+    height [ 20 ]
+    code [ "wall_sm_wood_ur" ]
+    color [ 0.48 0.93 0.74 1 ]
+    windows [
+     code [ "window_porthole_ur" ]
+     color [ 0.08 0.47 0.31 1 ]
+     count [ 3 ]
+    ]
+   ]
+  ]
+  flat_building "tb26:20_DNARoot" [
+   pos [ 205 35 0 ]
+   hpr [ 90 40.1902 40.1906 ]
+   width [ 25 ]
+   wall [
+    height [ 10 ]
+    code [ "wall_lg_brick_ur" ]
+    color [ 0.17 0.44 0.28 1 ]
+    windows [
+     code [ "window_md_curtains_ul" ]
+     color [ 0.17 0.64 0.45 1 ]
+     count [ 2 ]
+    ]
+   ]
+   wall [
+    height [ 10 ]
+    code [ "wall_lg_brick_ur" ]
+    color [ 0.17 0.44 0.28 1 ]
+    windows [
+     code [ "window_md_curtains_ur" ]
+     color [ 0.17 0.64 0.45 1 ]
+     count [ 1 ]
+    ]
+    cornice [
+     code [ "cornice_dental_ur" ]
+     color [ 0.57 0.39 0.34 1 ]
+    ]
+   ]
+   prop "streetlight_DD_left_DNARoot" [
+    code [ "streetlight_DD_left" ]
+    pos [ 3 -9.00002 -6.32529e-005 ]
+    hpr [ -90.0004 -89.0944 89.0944 ]
+    scale [ 0.883991 0.883991 0.883991 ]
+   ]
+   prop "prop_crate_DNARoot" [
+    code [ "prop_crate" ]
+    pos [ 6 -3.00002 -2.05586e-005 ]
+    hpr [ -15 0.000418965 -0.000102412 ]
+   ]
+   prop "prop_crate_DNARoot" [
+    code [ "DD_barrel" ]
+    pos [ 9.0261 -4.87001 -4.23875e-005 ]
+    hpr [ 15 0.000448594 0.00022894 ]
+    scale [ 1.35135 1.35135 1.35135 ]
+   ]
+   prop "prop_smokestack_DNARoot" [
+    code [ "prop_smokestack" ]
+    pos [ 17.1802 3.25737 12.4778 ]
+    hpr [ 0 0.000404795 6.27393e-006 ]
+    scale [ 0.999991 1.00001 1 ]
+    color [ 0.38 0.68 0.46 1 ]
+   ]
+   prop "prop_2ftdockpiling_DNARoot" [
+    code [ "prop_2ftdockpiling" ]
+    pos [ 24 -9.00002 -6.1045e-005 ]
+    hpr [ 2.15609e-006 0.000394017 5.08078e-006 ]
+    scale [ 1 0.999999 0.999999 ]
+   ]
+   prop "streetlight_DD_left_DNARoot" [
+    code [ "prop_palm_tree_topflat" ]
+    pos [ 31 -8.00003 -5.32459e-005 ]
+    hpr [ -90.0002 -87.9123 87.9124 ]
+    scale [ 0.699053 0.699046 0.699039 ]
+   ]
+  ]
+  landmark_building "tb21:toon_landmark_DD_B2_DNARoot" [
+   code [ "toon_landmark_DD_B2" ]
+   title [ "" ]
+   pos [ 245 74.9999 1.16271e-021 ]
+   hpr [ -90 33.6901 -33.6901 ]
+   door [
+    code [ "door_double_wood_ur" ]
+    color [ 1 0.59 0.59 1 ]
+   ]
+   sign [
+    code [ "DD_sign2" ]
+    baseline [
+     code [ "DD_Portago" ]
+     color [ 0 0.317647 0.156863 1 ]
+     pos [ 0 0 -0.734498 ]
+     scale [ 1.8 1 1.8 ]
+     kern [ 0.020009 ]
+     wiggle [ 2.71389 ]
+     stomp [ 0.03 ]
+     text [
+      letters [ "P" ]
+     ]
+     text [
+      letters [ "O" ]
+     ]
+     text [
+      letters [ "O" ]
+     ]
+     text [
+      letters [ "P" ]
+     ]
+     text [
+      letters [ " " ]
+     ]
+     text [
+      letters [ "D" ]
+     ]
+     text [
+      letters [ "E" ]
+     ]
+     text [
+      letters [ "C" ]
+     ]
+     text [
+      letters [ "K" ]
+     ]
+     text [
+      letters [ " " ]
+     ]
+     text [
+      letters [ "G" ]
+     ]
+     text [
+      letters [ "Y" ]
+     ]
+     text [
+      letters [ "M" ]
+     ]
+    ]
+   ]
+  ]
+ ]
+ visgroup "1121" [
+  vis [   "1121"   "1120"   "1103"   "1102"   "1101"   "1122"   "1105"   "1104"   "1106"   ]
+  suit_edge [ 31 36 ]
+  suit_edge [ 37 32 ]
+  battle_cell [ 20 20 225 80.0002 0 ]
+  street "street_20x40_DNARoot" [
+   code [ "street_20x40" ]
+   pos [ 245 70 0 ]
+   hpr [ 90 14.9419 14.9419 ]
+   texture [ "street_street_DD_tex" ]
+   texture [ "street_sidewalk_DD_tex" ]
+  ]
+  flat_building "tb21:20_DNARoot" [
+   pos [ 245 90 -2.25411e-007 ]
+   hpr [ -90 0 0 ]
+   width [ 15 ]
+   wall [
+    height [ 10 ]
+    code [ "wall_md_blank_ur" ]
+    color [ 0.38 0.31 0.19 1 ]
+    windows [
+     code [ "window_sm_round_ul" ]
+     color [ 0.78 0.49 0.29 1 ]
+     count [ 2 ]
+    ]
+   ]
+   wall [
+    height [ 10 ]
+    code [ "wall_sm_wood_ur" ]
+    color [ 0.87 0.61 0.61 1 ]
+    windows [
+     code [ "window_sm_shuttered_ur" ]
+     color [ 0.87 0.55 0.33 1 ]
+     count [ 1 ]
+    ]
+   ]
+   prop "prop_palm_tree_topflat_DNARoot" [
+    code [ "prop_palm_tree_topflat" ]
+    pos [ 1.7771 -6.49699 2.25411e-007 ]
+    hpr [ 8.45383e-006 -0.000799986 9.29302e-006 ]
+    scale [ 0.662642 0.66263 0.662638 ]
+   ]
+  ]
+  flat_building "tb4:20_DNARoot" [
+   pos [ 205 70 -2.25411e-007 ]
+   hpr [ 90 21.8013 21.8014 ]
+   width [ 20 ]
+   wall [
+    height [ 20 ]
+    code [ "wall_md_board_ur" ]
+    color [ 0.93 0.15 0.15 1 ]
+    windows [
+     code [ "window_porthole_ur" ]
+     color [ 0 0.53 0.32 1 ]
+     count [ 4 ]
+    ]
+   ]
+   prop "prop_mailbox_DD_DNARoot" [
+    code [ "prop_mailbox_DD" ]
+    pos [ 18 -8 -1.29776e-005 ]
+    hpr [ 180 -0.000203198 -1.52588e-005 ]
+    scale [ 0.999996 0.999998 1.00001 ]
+   ]
+  ]
+ ]
+ visgroup "1122" [
+  vis [   "1122"   "1106"   "1107"   "1108"   "1105"   "1104"   "1120"   "1121"   ]
+  suit_edge [ 46 48 ]
+  suit_edge [ 48 49 ]
+  suit_edge [ 50 51 ]
+  suit_edge [ 51 47 ]
+  suit_edge [ 48 52 ]
+  suit_edge [ 52 48 ]
+  suit_edge [ 51 52 ]
+  suit_edge [ 52 51 ]
+  battle_cell [ 20 20 289.999 110.001 0 ]
+  street "street_40x40_DNARoot" [
+   code [ "street_40x40" ]
+   pos [ 265 90 0 ]
+   hpr [ 0 0 0 ]
+   texture [ "street_street_DD_tex" ]
+   texture [ "street_sidewalk_DD_tex" ]
+  ]
+  flat_building "tb4:20_DNARoot" [
+   pos [ 265 130 5.13366e-022 ]
+   hpr [ 0 0 0 ]
+   width [ 15 ]
+   wall [
+    height [ 10 ]
+    code [ "wall_bricks_ur" ]
+    color [ 0.63 0.47 0.24 1 ]
+    windows [
+     code [ "window_sm_shuttered_ur" ]
+     color [ 1 0.63 0.38 1 ]
+     count [ 1 ]
+    ]
+   ]
+   wall [
+    height [ 10 ]
+    code [ "wall_bricks_ur" ]
+    color [ 0.63 0.47 0.24 1 ]
+    windows [
+     code [ "window_sm_shuttered_ur" ]
+     color [ 1 0.63 0.38 1 ]
+     count [ 1 ]
+    ]
+    cornice [
+     code [ "cornice_marble_ur" ]
+     color [ 0.76 0.57 0.29 1 ]
+    ]
+   ]
+   prop "prop_palm_tree_topflat_DNARoot" [
+    code [ "prop_palm_tree_topflat" ]
+    pos [ 7 -7 2.34358e-005 ]
+    hpr [ 30 1.81175e-011 2.65527e-011 ]
+    scale [ 1.34551 1.3455 1.34551 ]
+   ]
+   prop "prop_2ftdockpiling_DNARoot" [
+    code [ "prop_2ftdockpiling" ]
+    pos [ 12 -9 -2.29626e-012 ]
+    hpr [ -30 7.04402e-005 3.4998e-005 ]
+    scale [ 0.999998 0.999999 0.999998 ]
+   ]
+  ]
+  flat_building "tb22:20_DNARoot" [
+   pos [ 305 90 0 ]
+   hpr [ 180 0 0 ]
+   width [ 15 ]
+   wall [
+    height [ 10 ]
+    code [ "wall_lg_brick_ur" ]
+    color [ 0.17 0.44 0.28 1 ]
+    windows [
+     code [ "window_md_curtains_ul" ]
+     color [ 0.17 0.64 0.45 1 ]
+     count [ 2 ]
+    ]
+   ]
+   wall [
+    height [ 10 ]
+    code [ "wall_lg_brick_ur" ]
+    color [ 0.17 0.44 0.28 1 ]
+    windows [
+     code [ "window_md_curtains_ur" ]
+     color [ 0.17 0.64 0.45 1 ]
+     count [ 1 ]
+    ]
+    cornice [
+     code [ "cornice_dental_ur" ]
+     color [ 0.57 0.39 0.34 1 ]
+    ]
+   ]
+  ]
+  flat_building "tb22:20_DNARoot" [
+   pos [ 280 130 5.13366e-022 ]
+   hpr [ 0 4.26884e-006 0.000169047 ]
+   width [ 15 ]
+   wall [
+    height [ 20 ]
+    code [ "wall_sm_wood_ur" ]
+    color [ 0.91 0.54 0.54 1 ]
+    windows [
+     code [ "window_porthole_ul" ]
+     color [ 0.08 0.47 0.31 1 ]
+     count [ 2 ]
+    ]
+    cornice [
+     code [ "cornice_marble_ur" ]
+     color [ 1 0.5 0.38 1 ]
+    ]
+   ]
+   prop "prop_crate_DNARoot" [
+    code [ "prop_crate" ]
+    pos [ 12 -7 -3.48836e-005 ]
+    hpr [ -30 -4.92922e-006 -0.000166582 ]
+    scale [ 0.999994 0.999998 0.99999 ]
+   ]
+   prop "prop_shipmasts_DNARoot" [
+    code [ "prop_shipmasts" ]
+    pos [ 2.00003 12 12 ]
+    hpr [ -30 5.51886e-005 -0.000235591 ]
+    scale [ 1.97446 1.97445 1.97444 ]
+   ]
+   prop "prop_crate_DNARoot" [
+    code [ "DD_barrel" ]
+    pos [ 8 -7 -2.30818e-005 ]
+    hpr [ 30 -4.92924e-006 -0.000171512 ]
+    scale [ 1.52661 1.5266 1.52661 ]
+   ]
+  ]
+  flat_building "tb22:20_DNARoot" [
+   pos [ 295 130 5.13366e-022 ]
+   hpr [ 0 3.41509e-006 5.84835e-005 ]
+   width [ 10 ]
+   wall [
+    height [ 10 ]
+    code [ "wall_lg_brick_ur" ]
+    color [ 0.17 0.44 0.28 1 ]
+    windows [
+     code [ "window_md_curtains_ul" ]
+     color [ 0.17 0.64 0.45 1 ]
+     count [ 2 ]
+    ]
+   ]
+   wall [
+    height [ 10 ]
+    code [ "wall_lg_brick_ur" ]
+    color [ 0.17 0.44 0.28 1 ]
+    windows [
+     code [ "window_md_curtains_ur" ]
+     color [ 0.17 0.64 0.45 1 ]
+     count [ 1 ]
+    ]
+    cornice [
+     code [ "cornice_dental_ur" ]
+     color [ 0.57 0.39 0.34 1 ]
+    ]
+   ]
+  ]
+  landmark_building "tb22:toon_landmark_DD_C1_DNARoot" [
+   code [ "toon_landmark_DD_C1" ]
+   title [ "" ]
+   pos [ 290 90.1 -6.27255e-008 ]
+   hpr [ 180 5.97643e-006 4.57764e-005 ]
+   door [
+    code [ "door_double_wood_ur" ]
+    color [ 1 0.59 0.59 1 ]
+   ]
+   prop "prop_2ftdockpiling_DNARoot" [
+    code [ "prop_2ftdockpiling" ]
+    pos [ 16 -6.00001 1.3409e-005 ]
+    hpr [ 90 -21.0009 -21.0009 ]
+   ]
+   prop "prop_trashcan_DD_DNARoot" [
+    code [ "prop_trashcan_DD" ]
+    pos [ -3.80399 -4.3923 -2.58105e-006 ]
+    hpr [ 180 5.97645e-006 6.10352e-005 ]
+   ]
+   sign [
+    code [ "DD_sign1" ]
+    pos [ 0 0 -0.700159 ]
+    scale [ 0.7 1 0.7 ]
+    baseline [
+     code [ "DD_Portago" ]
+     color [ 0 0 0 1 ]
+     pos [ -0.549421 0 0.029007 ]
+     scale [ 1.3 1 1.3 ]
+     kern [ 0.036383 ]
+     wiggle [ 0.09381 ]
+     stomp [ 0.049752 ]
+     text [
+      letters [ "A" ]
+     ]
+     text [
+      letters [ "S" ]
+     ]
+     text [
+      letters [ "L" ]
+     ]
+     text [
+      letters [ "A" ]
+     ]
+     text [
+      letters [ "N" ]
+     ]
+     text [
+      letters [ "'" ]
+     ]
+     text [
+      letters [ "S" ]
+     ]
+     text [
+      letters [ " " ]
+     ]
+     text [
+      letters [ "O" ]
+     ]
+     text [
+      letters [ "A" ]
+     ]
+     text [
+      letters [ "R" ]
+     ]
+     text [
+      letters [ "S" ]
+     ]
+    ]
+   ]
+  ]
+ ]
+ visgroup "1123" [
+  vis [   "1123"   "1110"   "1109"   "1108"   "1107"   "1106"   "1124"   "1111"   "1112"   "1113"   "1114"   "1115"   ]
+  suit_edge [ 80 81 ]
+  suit_edge [ 74 79 ]
+  battle_cell [ 20 20 275 -50.0003 -7.5931e-007 ]
+  street "street_40x40_DNARoot" [
+   code [ "street_40x40" ]
+   pos [ 295 -70 0 ]
+   hpr [ 90 0.93408 0.934082 ]
+   texture [ "street_street_DD_tex" ]
+   texture [ "street_sidewalk_DD_tex" ]
+  ]
+  prop "streetlight_DD_left_DNARoot" [
+   code [ "streetlight_DD_left" ]
+   pos [ 286 -68 7.1958e-030 ]
+   hpr [ -180 0 0 ]
+  ]
+  flat_building "tb9:20_DNARoot" [
+   pos [ 295 -30 7.1958e-030 ]
+   hpr [ -90 0 0 ]
+   width [ 15 ]
+   wall [
+    height [ 20 ]
+    code [ "wall_sm_wood_ur" ]
+    color [ 0.91 0.54 0.54 1 ]
+    windows [
+     code [ "window_porthole_ul" ]
+     color [ 0.08 0.47 0.31 1 ]
+     count [ 2 ]
+    ]
+    cornice [
+     code [ "cornice_marble_ur" ]
+     color [ 1 0.5 0.38 1 ]
+    ]
+   ]
+   prop "prop_palm_tree_topflat_DNARoot" [
+    code [ "prop_palm_tree_topflat" ]
+    pos [ 1 -6 1.89084e-005 ]
+    hpr [ -45 -0.000323689 0.000457764 ]
+    scale [ 1.24853 1.24853 1.24853 ]
+   ]
+   prop "prop_smokestack_DNARoot" [
+    code [ "prop_smokestack" ]
+    pos [ 9.1767 2.435 18.0446 ]
+    hpr [ 1.17001e-007 0.000249302 1.47331e-006 ]
+    scale [ 0.634191 0.634184 0.634185 ]
+    color [ 0.75 0.45 0.45 1 ]
+   ]
+   prop "prop_hydrant_DNARoot" [
+    code [ "prop_hydrant" ]
+    pos [ 11 -8 -1.75806e-012 ]
+    hpr [ -180 -7.19451e-005 1.52588e-005 ]
+    scale [ 0.999995 1 1 ]
+   ]
+  ]
+  flat_building "tb9:20_DNARoot" [
+   pos [ 295 -45 7.1958e-030 ]
+   hpr [ -90 0 0 ]
+   width [ 10 ]
+   wall [
+    height [ 20 ]
+    code [ "wall_md_board_ur" ]
+    color [ 0.63 0.6 0.4 1 ]
+    windows [
+     code [ "window_porthole_ur" ]
+     color [ 0 0.61 0.36 1 ]
+     count [ 3 ]
+    ]
+   ]
+  ]
+  flat_building "tb9:20_DNARoot" [
+   pos [ 295 -55 0 ]
+   hpr [ -90 -50.1946 50.1945 ]
+   width [ 15 ]
+   wall [
+    height [ 20 ]
+    code [ "wall_sm_wood_ur" ]
+    color [ 0.48 0.93 0.74 1 ]
+    windows [
+     code [ "window_porthole_ur" ]
+     color [ 0.08 0.47 0.31 1 ]
+     count [ 3 ]
+    ]
+   ]
+  ]
+  flat_building "tb28:20_DNARoot" [
+   pos [ 255 -70 0 ]
+   hpr [ 90 90 90 ]
+   width [ 20 ]
+   wall [
+    height [ 10 ]
+    code [ "wall_lg_brick_ur" ]
+    color [ 0.17 0.44 0.28 1 ]
+    windows [
+     code [ "window_md_curtains_ul" ]
+     color [ 0.17 0.64 0.45 1 ]
+     count [ 2 ]
+    ]
+   ]
+   wall [
+    height [ 10 ]
+    code [ "wall_lg_brick_ur" ]
+    color [ 0.17 0.44 0.28 1 ]
+    windows [
+     code [ "window_md_curtains_ur" ]
+     color [ 0.17 0.64 0.45 1 ]
+     count [ 1 ]
+    ]
+    cornice [
+     code [ "cornice_dental_ur" ]
+     color [ 0.57 0.39 0.34 1 ]
+    ]
+   ]
+   prop "prop_crate_DNARoot" [
+    code [ "prop_crate" ]
+    pos [ 19 -4.00002 -3.17323e-006 ]
+    hpr [ -150 2.96206e-006 -1.52588e-005 ]
+   ]
+   prop "prop_roof_access_DNARoot" [
+    code [ "prop_roof_access" ]
+    pos [ 6.9554 5.65898 19.1511 ]
+    hpr [ 6.97682e-006 0.000102453 -3.13306e-006 ]
+    scale [ 1 0.999997 1.00001 ]
+    color [ 0.17 0.45 0.23 1 ]
+   ]
+   prop "prop_trashcan_DD_DNARoot" [
+    code [ "prop_trashcan_DD" ]
+    pos [ 6 -5.00002 -2.19179e-006 ]
+    hpr [ 180 -8.29635e-012 -1.52588e-005 ]
+   ]
+   prop "prop_palm_tree_topflat_DNARoot" [
+    code [ "prop_palm_tree_topflat" ]
+    pos [ 3 -9.00002 -1.55935e-006 ]
+    hpr [ -15 2.12856e-006 -7.36122e-006 ]
+    scale [ 0.487726 0.487726 0.487726 ]
+   ]
+  ]
+  flat_building "tb28:20_DNARoot" [
+   pos [ 255 -50 7.1958e-030 ]
+   hpr [ 90 0 0 ]
+   width [ 15 ]
+   wall [
+    height [ 10 ]
+    code [ "wall_md_board_ur" ]
+    color [ 0.93 0.15 0.15 1 ]
+    windows [
+     code [ "window_porthole_ul" ]
+     color [ 0 0.53 0.32 1 ]
+     count [ 2 ]
+    ]
+   ]
+   wall [
+    height [ 10 ]
+    code [ "wall_md_board_ur" ]
+    color [ 0.93 0.15 0.15 1 ]
+    windows [
+     code [ "window_porthole_ur" ]
+     color [ 0 0.53 0.32 1 ]
+     count [ 1 ]
+    ]
+    cornice [
+     code [ "cornice_shingles_ur" ]
+     color [ 0.73 0.51 0.51 1 ]
+    ]
+   ]
+   prop "prop_crate_DNARoot" [
+    code [ "prop_crate" ]
+    pos [ 3 -3.00002 -1.06238e-007 ]
+    hpr [ 180 -5.45342e-012 -1.52588e-005 ]
+    scale [ 1.35544 1.35543 1.35543 ]
+   ]
+  ]
+ ]
+ visgroup "1124" [
+  vis [   "1124"   "1123"   "1110"   "1109"   "1108"   "1107"   "1106"   "1111"   "1112"   "1113"   "1114"   "1115"   ]
+  suit_edge [ 79 82 ]
+  suit_edge [ 82 83 ]
+  suit_edge [ 85 80 ]
+  suit_edge [ 82 86 ]
+  suit_edge [ 86 82 ]
+  suit_edge [ 85 86 ]
+  suit_edge [ 86 85 ]
+  suit_edge [ 94 85 ]
+  battle_cell [ 20 20 275 -95.0011 -7.27243e-007 ]
+  street "street_40x40_DNARoot" [
+   code [ "street_40x40" ]
+   pos [ 295 -110 0 ]
+   hpr [ 90 0.934075 0.934082 ]
+   texture [ "street_street_DD_tex" ]
+   texture [ "street_sidewalk_DD_tex" ]
+  ]
+  street "street_10x40_DNARoot" [
+   code [ "street_10x40" ]
+   pos [ 295 -120 0 ]
+   hpr [ 90 -8.11755 -8.11755 ]
+   texture [ "street_street_DD_tex" ]
+   texture [ "street_sidewalk_DD_tex" ]
+  ]
+  flat_building "tb12:20_DNARoot" [
+   pos [ 295 -70 -2.85035e-008 ]
+   hpr [ -90 0 0 ]
+   width [ 15 ]
+   wall [
+    height [ 20 ]
+    code [ "wall_md_board_ur" ]
+    color [ 0.63 0.6 0.4 1 ]
+    windows [
+     code [ "window_porthole_ur" ]
+     color [ 0 0.61 0.36 1 ]
+     count [ 3 ]
+    ]
+   ]
+   prop "prop_chimney_DNARoot" [
+    code [ "prop_chimney" ]
+    pos [ 9 2 18 ]
+    hpr [ 1.21644e-006 -9.73302e-005 -4.60764e-006 ]
+    scale [ 1 0.999988 0.999994 ]
+    color [ 0.17 0.45 0.23 1 ]
+   ]
+   prop "prop_2ftdockpiling_DNARoot" [
+    code [ "prop_2ftdockpiling" ]
+    pos [ 7 -9 -1.19908e-006 ]
+    hpr [ -180 2.13448e-007 -1.52588e-005 ]
+   ]
+   prop "prop_crate_DNARoot" [
+    code [ "prop_crate" ]
+    pos [ 15 -1 -7.77355e-008 ]
+    hpr [ 0 1.01615e-009 -6.21494e-011 ]
+    color [ 0.87 0.61 0.61 1 ]
+   ]
+  ]
+  flat_building "tb12:20_DNARoot" [
+   pos [ 295 -85 -2.85035e-008 ]
+   hpr [ -90 -66.0375 66.0375 ]
+   width [ 15 ]
+   wall [
+    height [ 10 ]
+    code [ "wall_bricks_ur" ]
+    color [ 0.57 0.7 0.35 1 ]
+    windows [
+     code [ "window_sm_shuttered_ul" ]
+     color [ 0.73 0.63 0.37 1 ]
+     count [ 2 ]
+    ]
+   ]
+   wall [
+    height [ 10 ]
+    code [ "wall_bricks_ur" ]
+    color [ 0.57 0.7 0.35 1 ]
+    windows [
+     code [ "window_sm_shuttered_ul" ]
+     color [ 0.73 0.63 0.37 1 ]
+     count [ 2 ]
+    ]
+    cornice [
+     code [ "cornice_dental_ur" ]
+     color [ 1 0.69 0.49 1 ]
+    ]
+   ]
+   prop "prop_crate_DNARoot" [
+    code [ "prop_crate" ]
+    pos [ 3 -3 4.5831e-007 ]
+    hpr [ -30 3.76722e-005 -6.9771e-005 ]
+    scale [ 1 0.999998 1 ]
+    color [ 0.75 0.75 0.75 1 ]
+   ]
+   prop "prop_mailbox_DD_DNARoot" [
+    code [ "prop_mailbox_DD" ]
+    pos [ 10 -7 1.49603e-006 ]
+    hpr [ -5.5435e-006 -1.70859e-006 8.5302e-006 ]
+   ]
+  ]
+  flat_building "tb12:20_DNARoot" [
+   pos [ 295 -100 -2.85035e-008 ]
+   hpr [ -90 -1.0357e-030 0 ]
+   width [ 10 ]
+   wall [
+    height [ 10 ]
+    code [ "wall_md_blank_ur" ]
+    color [ 0.42 0.16 0.16 1 ]
+    windows [
+     code [ "window_sm_round_ul" ]
+     color [ 0 0.61 0.36 1 ]
+     count [ 2 ]
+    ]
+   ]
+   wall [
+    height [ 10 ]
+    code [ "wall_md_board_ur" ]
+    color [ 0.93 0.15 0.15 1 ]
+    windows [
+     code [ "window_sm_round_ul" ]
+     color [ 0 0.61 0.36 1 ]
+     count [ 2 ]
+    ]
+    cornice [
+     code [ "cornice_shingles_ur" ]
+     color [ 0.9 0.56 0.34 1 ]
+    ]
+   ]
+  ]
+  flat_building "tb12:20_DNARoot" [
+   pos [ 295 -110 -2.85035e-008 ]
+   hpr [ -90 -88.1524 88.1524 ]
+   width [ 10 ]
+   wall [
+    height [ 20 ]
+    code [ "wall_md_board_ur" ]
+    color [ 0.93 0.15 0.15 1 ]
+    windows [
+     code [ "window_porthole_ur" ]
+     color [ 0 0.53 0.32 1 ]
+     count [ 4 ]
+    ]
+   ]
+   prop "prop_palm_tree_topflat_DNARoot" [
+    code [ "prop_palm_tree_topflat" ]
+    pos [ 6.769 -7.35001 1.15812e-006 ]
+    hpr [ -4.47091e-006 0.000705004 1.30702e-006 ]
+    scale [ 0.724893 0.724906 0.724892 ]
+   ]
+  ]
+  flat_building "tb28:20_DNARoot" [
+   pos [ 255 -80 -2.85035e-008 ]
+   hpr [ 90 8.28189e-005 0 ]
+   width [ 10 ]
+   wall [
+    height [ 10 ]
+    code [ "wall_md_board_ur" ]
+    color [ 0.87 0.69 0.42 1 ]
+    windows [
+     code [ "window_porthole_ur" ]
+     color [ 0.5 0.38 0.22 1 ]
+     count [ 1 ]
+    ]
+   ]
+   wall [
+    height [ 10 ]
+    code [ "wall_md_board_ur" ]
+    color [ 0.87 0.69 0.42 1 ]
+    windows [
+     code [ "window_porthole_ul" ]
+     color [ 0.5 0.38 0.22 1 ]
+     count [ 2 ]
+    ]
+    cornice [
+     code [ "cornice_shingles_ur" ]
+     color [ 0.76 0.73 0.64 1 ]
+    ]
+   ]
+   prop "prop_palm_tree_topflat_DNARoot" [
+    code [ "prop_palm_tree_topflat" ]
+    pos [ 8 -9.00002 1.19422e-005 ]
+    hpr [ 90.0001 84.2196 84.2196 ]
+    scale [ 0.696377 0.696382 0.696377 ]
+   ]
+  ]
+  flat_building "tb28:20_DNARoot" [
+   pos [ 255 -120 -2.85035e-008 ]
+   hpr [ 90 -0.000128184 -1.52588e-005 ]
+   width [ 15 ]
+   wall [
+    height [ 20 ]
+    code [ "wall_md_blank_ur" ]
+    color [ 0.42 0.16 0.16 1 ]
+    windows [
+     code [ "window_sm_square_ur" ]
+     color [ 0.87 0.65 0.33 1 ]
+     count [ 3 ]
+    ]
+    cornice [
+     code [ "cornice_shingles_ur" ]
+     color [ 0.73 0.51 0.51 1 ]
+    ]
+   ]
+   prop "prop_crate_DNARoot" [
+    code [ "prop_crate" ]
+    pos [ 8 -1.99998 -4.01955e-006 ]
+    hpr [ -30 0.000130395 -6.51974e-005 ]
+   ]
+   prop "prop_crate_DNARoot" [
+    code [ "prop_crate" ]
+    pos [ 11 -1 -2.04864e-006 ]
+    hpr [ -8.14222e-013 0.000112925 -2.18765e-010 ]
+   ]
+  ]
+  landmark_building "tb28:toon_landmark_DD_A1_DNARoot" [
+   code [ "toon_landmark_DD_A1" ]
+   title [ "" ]
+   pos [ 255 -105 3.88851e-006 ]
+   hpr [ 90 -0.00181578 -0.0018158 ]
+   door [
+    code [ "door_double_wood_ur" ]
+    color [ 1 0.59 0.59 1 ]
+   ]
+   prop "prop_2ftdockpiling_DNARoot" [
+    code [ "prop_2ftdockpiling" ]
+    pos [ 16 -9.00002 -3.99166e-006 ]
+    hpr [ -8.82446e-007 -1.72777e-006 -3.96211e-006 ]
+   ]
+   sign [
+    pos [ 0 0 -3.1445 ]
+    baseline [
+     code [ "DD_Portago" ]
+     color [ 0 0 0 1 ]
+     pos [ 0.202357 0 0.662466 ]
+     scale [ 2 1 2 ]
+     kern [ 0.04 ]
+     wiggle [ 2.60282 ]
+     stomp [ 0.02 ]
+     width [ 33.3333 ]
+     height [ 33.3333 ]
+     text [
+      letters [ "P" ]
+     ]
+     text [
+      letters [ "L" ]
+     ]
+     text [
+      letters [ "A" ]
+     ]
+     text [
+      letters [ "N" ]
+     ]
+     text [
+      letters [ "K" ]
+     ]
+     text [
+      letters [ "I" ]
+     ]
+     text [
+      letters [ "N" ]
+     ]
+     text [
+      letters [ "G" ]
+     ]
+     text [
+      letters [ " " ]
+     ]
+     text [
+      letters [ "B" ]
+     ]
+     text [
+      letters [ "Y" ]
+     ]
+     text [
+      letters [ " " ]
+     ]
+     text [
+      letters [ "P" ]
+     ]
+     text [
+      letters [ "O" ]
+     ]
+     text [
+      letters [ "U" ]
+     ]
+     text [
+      letters [ "S" ]
+     ]
+     text [
+      letters [ "S" ]
+     ]
+     text [
+      letters [ "I" ]
+     ]
+     text [
+      letters [ "N" ]
+     ]
+    ]
+   ]
+  ]
+ ]
+ visgroup "1125" [
+  vis [   "1125"   "1116"   "1115"   "1114"   "1117"   "1126"   "1127"   "1119"   "1118"   ]
+  suit_edge [ 122 127 ]
+  suit_edge [ 127 128 ]
+  suit_edge [ 130 123 ]
+  suit_edge [ 137 130 ]
+  battle_cell [ 20 20 419.999 -190 1.02263e-022 ]
+  street "street_full_corner_DNARoot" [
+   code [ "street_full_corner" ]
+   pos [ 440 -170 0 ]
+   hpr [ 180 0 0 ]
+   texture [ "street_street_DD_tex" ]
+   texture [ "street_sidewalk_DD_tex" ]
+  ]
+  flat_building "tb16:20_DNARoot" [
+   pos [ 415 -210 0 ]
+   hpr [ -180 -5.79343e-007 0 ]
+   width [ 15 ]
+   wall [
+    height [ 10 ]
+    code [ "wall_bricks_ur" ]
+    color [ 0.63 0.47 0.24 1 ]
+    windows [
+     code [ "window_sm_shuttered_ur" ]
+     color [ 1 0.63 0.38 1 ]
+     count [ 1 ]
+    ]
+   ]
+   wall [
+    height [ 10 ]
+    code [ "wall_bricks_ur" ]
+    color [ 0.63 0.47 0.24 1 ]
+    windows [
+     code [ "window_sm_shuttered_ur" ]
+     color [ 1 0.63 0.38 1 ]
+     count [ 1 ]
+    ]
+    cornice [
+     code [ "cornice_marble_ur" ]
+     color [ 0.76 0.57 0.29 1 ]
+    ]
+   ]
+   prop "prop_mailbox_DD_DNARoot" [
+    code [ "prop_mailbox_DD" ]
+    pos [ 6 -8 -8.08916e-008 ]
+    hpr [ -7.84542e-006 5.79333e-007 -3.05176e-005 ]
+    scale [ 1 0.999994 1 ]
+   ]
+  ]
+  flat_building "tb16:20_DNARoot" [
+   pos [ 430 -210 0 ]
+   hpr [ 180 -2.03556e-013 0 ]
+   width [ 15 ]
+   wall [
+    height [ 10 ]
+    code [ "wall_bricks_ur" ]
+    color [ 0.57 0.7 0.35 1 ]
+    windows [
+     code [ "window_sm_shuttered_ul" ]
+     color [ 0.73 0.63 0.37 1 ]
+     count [ 2 ]
+    ]
+   ]
+   wall [
+    height [ 10 ]
+    code [ "wall_bricks_ur" ]
+    color [ 0.57 0.7 0.35 1 ]
+    windows [
+     code [ "window_sm_shuttered_ul" ]
+     color [ 0.73 0.63 0.37 1 ]
+     count [ 2 ]
+    ]
+    cornice [
+     code [ "cornice_dental_ur" ]
+     color [ 1 0.69 0.49 1 ]
+    ]
+   ]
+   prop "prop_stovepipe_DNARoot" [
+    code [ "prop_stovepipe" ]
+    pos [ 10.002 0.998993 20 ]
+    hpr [ -2.40399e-006 6.14762e-005 -4.57764e-005 ]
+    scale [ 0.999985 0.999999 0.999997 ]
+    color [ 0.71 0.49 0.35 1 ]
+   ]
+  ]
+  flat_building "tb16:20_DNARoot" [
+   pos [ 440 -210 0 ]
+   hpr [ 180 -2.03556e-013 0 ]
+   width [ 10 ]
+   wall [
+    height [ 10 ]
+    code [ "wall_sm_wood_ur" ]
+    color [ 0.75 0.75 0.75 1 ]
+    windows [
+     code [ "window_porthole_ur" ]
+     color [ 0 0.61 0.36 1 ]
+     count [ 1 ]
+    ]
+   ]
+   wall [
+    height [ 10 ]
+    code [ "wall_md_board_ur" ]
+    color [ 0.93 0.15 0.15 1 ]
+    windows [
+     code [ "window_porthole_ul" ]
+     color [ 0 0.53 0.32 1 ]
+     count [ 2 ]
+    ]
+    cornice [
+     code [ "cornice_shingles_ur" ]
+     color [ 0.57 0.38 0.34 1 ]
+    ]
+   ]
+  ]
+  flat_building "tb16:20_DNARoot" [
+   pos [ 440 -195 1.51672e-007 ]
+   hpr [ -90 23.0046 -23.0046 ]
+   width [ 15 ]
+   wall [
+    height [ 10 ]
+    code [ "wall_lg_brick_ur" ]
+    color [ 0.71 0.49 0.35 1 ]
+    windows [
+     code [ "window_md_curtains_ur" ]
+     color [ 0.79 0.47 0.47 1 ]
+     count [ 1 ]
+    ]
+   ]
+   wall [
+    height [ 10 ]
+    code [ "wall_lg_brick_ur" ]
+    color [ 0.71 0.49 0.35 1 ]
+    windows [
+     code [ "window_md_curtains_ur" ]
+     color [ 0.79 0.47 0.47 1 ]
+     count [ 1 ]
+    ]
+   ]
+   prop "prop_chimney_DNARoot" [
+    code [ "prop_chimney" ]
+    pos [ 0.998993 3 19 ]
+    hpr [ -7.42354e-007 -7.02368e-005 -3.64804e-006 ]
+    scale [ 1.00001 1.00001 0.999998 ]
+    color [ 0.92 0.63 0.42 1 ]
+   ]
+   prop "prop_lifesaver_DNARoot" [
+    code [ "prop_lifesaver" ]
+    pos [ 10.7731 -4.22592 -8.11874e-007 ]
+    hpr [ -45 -0.00017022 0.000238786 ]
+    scale [ 1.00002 1 1 ]
+   ]
+   prop "prop_2ftdockpiling_DNARoot" [
+    code [ "prop_2ftdockpiling" ]
+    pos [ 6 -8.99899 -6.50214e-007 ]
+    hpr [ -6.15354e-007 1.28066e-005 -5.1826e-006 ]
+   ]
+  ]
+  flat_building "tb16:20_DNARoot" [
+   pos [ 440 -185 2.52786e-007 ]
+   hpr [ -90 -1.00179e-005 0 ]
+   width [ 10 ]
+   wall [
+    height [ 10 ]
+    code [ "wall_md_blank_ur" ]
+    color [ 0.38 0.3 0.18 1 ]
+    windows [
+     code [ "window_sm_round_ul" ]
+     color [ 0.78 0.49 0.29 1 ]
+     count [ 2 ]
+    ]
+   ]
+   wall [
+    height [ 10 ]
+    code [ "wall_md_blank_dl" ]
+    color [ 0.38 0.3 0.18 1 ]
+    windows [
+     code [ "window_sm_round_ur" ]
+     color [ 0.78 0.49 0.29 1 ]
+     count [ 1 ]
+    ]
+    cornice [
+     code [ "cornice_shingles_ur" ]
+     color [ 0.82 0.91 0.44 1 ]
+    ]
+   ]
+  ]
+  flat_building "tb16:random_DNARoot" [
+   pos [ 440 -170 4.04458e-007 ]
+   hpr [ -90 0.000213623 -0.000213623 ]
+   width [ 15 ]
+   wall [
+    height [ 20 ]
+    code [ "wall_md_blank_ur" ]
+    color [ 0.42 0.16 0.16 1 ]
+    windows [
+     code [ "window_sm_square_ur" ]
+     color [ 0.87 0.65 0.33 1 ]
+     count [ 1 ]
+    ]
+    cornice [
+     code [ "cornice_shingles_ur" ]
+     color [ 0.73 0.51 0.51 1 ]
+    ]
+   ]
+   prop "prop_hydrant_DNARoot" [
+    code [ "prop_hydrant" ]
+    pos [ 14 -8.00101 -1.38484e-005 ]
+    hpr [ -89.9992 88.0479 -88.0479 ]
+    scale [ 0.999994 1 1 ]
+   ]
+   prop "streetlight_DD_right_DNARoot" [
+    code [ "streetlight_DD_right" ]
+    pos [ 4.95 -8.181 -4.86696e-012 ]
+    hpr [ 90 -9.15527e-005 -9.15527e-005 ]
+   ]
+   prop "prop_2ftdockpiling_DNARoot" [
+    code [ "prop_2ftdockpiling" ]
+    pos [ 7 -32.001 -1.2547e-011 ]
+    hpr [ 1.18603e-006 -0.000100745 -4.55369e-006 ]
+    scale [ 1 0.999999 1 ]
+   ]
+  ]
+ ]
+ visgroup "1126" [
+  vis [   "1126"   "1118"   "1119"   "1127"   "1117"   "1125"   "1116"   "1115"   ]
+  suit_edge [ 133 140 ]
+  suit_edge [ 140 141 ]
+  suit_edge [ 142 143 ]
+  suit_edge [ 143 135 ]
+  battle_cell [ 20 20 419.999 -129.999 1.02263e-022 ]
+  street "street_full_corner_DNARoot" [
+   code [ "street_full_corner" ]
+   pos [ 400 -110 0 ]
+   hpr [ -90 0 0 ]
+   texture [ "street_street_DD_tex" ]
+   texture [ "street_sidewalk_DD_tex" ]
+  ]
+  prop "prop_2ftdockpiling_DNARoot" [
+   code [ "prop_2ftdockpiling" ]
+   pos [ 408.902 -118.236 -7.62939e-006 ]
+   hpr [ 90 6.75655e-012 0 ]
+   scale [ 0.999997 1 0.99999 ]
+  ]
+  flat_building "tb16:20_DNARoot" [
+   pos [ 440 -130 0 ]
+   hpr [ -90 9.46221 -9.46233 ]
+   width [ 15 ]
+   wall [
+    height [ 20 ]
+    code [ "wall_md_board_ur" ]
+    color [ 0.63 0.6 0.4 1 ]
+    windows [
+     code [ "window_porthole_ur" ]
+     color [ 0 0.61 0.36 1 ]
+     count [ 3 ]
+    ]
+   ]
+   prop "prop_roof_access_DNARoot" [
+    code [ "prop_roof_access" ]
+    pos [ 1.239 5.62096 18.2775 ]
+    hpr [ -1.13638e-007 0.000350047 -1.03524e-006 ]
+    scale [ 0.999986 0.999981 1 ]
+    color [ 0.57 0.7 0.35 1 ]
+   ]
+   prop "prop_palm_tree_topflat_DNARoot" [
+    code [ "prop_palm_tree_topflat" ]
+    pos [ 8 -8 -1.70228e-005 ]
+    hpr [ 45 0.000170246 0.000118847 ]
+    scale [ 0.672527 0.672532 0.672527 ]
+   ]
+   prop "prop_trashcan_DD_DNARoot" [
+    code [ "prop_trashcan_DD" ]
+    pos [ 3 -8 -1.68889e-005 ]
+    hpr [ -180 -0.000120392 -1.52588e-005 ]
+    scale [ 1 0.999989 1 ]
+   ]
+   prop "prop_palm_tree_topflat_DNARoot" [
+    code [ "prop_palm_tree_topflat" ]
+    pos [ 16 -34.999 -7.39637e-005 ]
+    hpr [ 8.24051e-006 2.39057e-005 7.74984e-006 ]
+    scale [ 0.75746 0.757447 0.757466 ]
+   ]
+   prop "prop_2ftdockpiling_DNARoot" [
+    code [ "prop_2ftdockpiling" ]
+    pos [ 12 -32 -6.75555e-005 ]
+    hpr [ -180 -0.000120169 -1.52588e-005 ]
+   ]
+   prop "streetlight_DD_left_DNARoot" [
+    code [ "streetlight_DD_left" ]
+    pos [ 11 -38 -8.01351e-005 ]
+    hpr [ -180 -0.000120383 -1.52588e-005 ]
+    scale [ 0.999999 1 0.999995 ]
+   ]
+  ]
+  flat_building "tb16:20_DNARoot" [
+   pos [ 440 -110 0 ]
+   hpr [ -90 0 0 ]
+   width [ 20 ]
+   wall [
+    height [ 10 ]
+    code [ "wall_sm_wood_ur" ]
+    color [ 0.75 0.75 0.75 1 ]
+    windows [
+     code [ "window_porthole_ur" ]
+     color [ 0 0.61 0.36 1 ]
+     count [ 1 ]
+    ]
+   ]
+   wall [
+    height [ 10 ]
+    code [ "wall_md_board_ur" ]
+    color [ 0.93 0.15 0.15 1 ]
+    windows [
+     code [ "window_porthole_ul" ]
+     color [ 0 0.53 0.32 1 ]
+     count [ 2 ]
+    ]
+    cornice [
+     code [ "cornice_shingles_ur" ]
+     color [ 0.57 0.38 0.34 1 ]
+    ]
+   ]
+   prop "prop_2ftdockpiling_DNARoot" [
+    code [ "prop_2ftdockpiling" ]
+    pos [ 9 -9 -4.84272e-012 ]
+    hpr [ -180 0.000303943 -1.52588e-005 ]
+    scale [ 0.999997 1 0.99999 ]
+   ]
+   prop "prop_shipmasts_DNARoot" [
+    code [ "prop_shipmasts" ]
+    pos [ -30.6941 -7.38602 12.0301 ]
+    hpr [ 45 -0.00020195 -4.25652e-006 ]
+    scale [ 1.88827 1.88824 1.88827 ]
+   ]
+   prop "prop_shipmasts_DNARoot" [
+    code [ "prop_shipmasts" ]
+    pos [ -20.1172 -31.111 11.8701 ]
+    hpr [ 45 -0.00013466 -8.59817e-007 ]
+    scale [ 1.88827 1.88825 1.88827 ]
+   ]
+  ]
+  flat_building "tb16:20_DNARoot" [
+   pos [ 425 -110 0 ]
+   hpr [ 0 -3.84226e-006 -7.87773e-006 ]
+   width [ 15 ]
+   wall [
+    height [ 10 ]
+    code [ "wall_bricks_ur" ]
+    color [ 0.57 0.7 0.35 1 ]
+    windows [
+     code [ "window_sm_shuttered_ul" ]
+     color [ 0.73 0.63 0.37 1 ]
+     count [ 2 ]
+    ]
+   ]
+   wall [
+    height [ 10 ]
+    code [ "wall_bricks_ur" ]
+    color [ 0.57 0.7 0.35 1 ]
+    windows [
+     code [ "window_sm_shuttered_ul" ]
+     color [ 0.73 0.63 0.37 1 ]
+     count [ 2 ]
+    ]
+    cornice [
+     code [ "cornice_dental_ur" ]
+     color [ 1 0.69 0.49 1 ]
+    ]
+   ]
+   prop "neighborhood_sign_DD_DNARoot" [
+    code [ "neighborhood_sign_DD" ]
+    pos [ 13.7889 -16.918 7.61351e-007 ]
+    hpr [ -90 -3.25099 3.25102 ]
+    scale [ 1.5 1.5 1.5 ]
+   ]
+  ]
+  flat_building "tb16:20_DNARoot" [
+   pos [ 415 -110 0 ]
+   hpr [ 0 1.66498e-005 6.86949e-005 ]
+   width [ 10 ]
+   wall [
+    height [ 20 ]
+    code [ "wall_md_blank_ur" ]
+    color [ 0.42 0.16 0.16 1 ]
+    windows [
+     code [ "window_sm_square_ur" ]
+     color [ 0.87 0.65 0.33 1 ]
+     count [ 3 ]
+    ]
+    cornice [
+     code [ "cornice_shingles_ur" ]
+     color [ 0.73 0.51 0.51 1 ]
+    ]
+   ]
+   prop "neighborhood_sign_TT_DNARoot" [
+    code [ "neighborhood_sign_TT" ]
+    pos [ 7.7283 -1.14548 -8.93301e-006 ]
+    hpr [ 180 2.07376e-005 -7.62939e-005 ]
+    scale [ 1.5 1.5 1.5 ]
+   ]
+  ]
+  flat_building "tb19:20_DNARoot" [
+   pos [ 400.001 -110.002 -1.01066e-022 ]
+   hpr [ 0 0 0 ]
+   width [ 15 ]
+   wall [
+    height [ 20 ]
+    code [ "wall_md_board_ur" ]
+    color [ 0.93 0.15 0.15 1 ]
+    windows [
+     code [ "window_porthole_ur" ]
+     color [ 0 0.53 0.32 1 ]
+     count [ 4 ]
+    ]
+   ]
+  ]
+ ]
+ visgroup "1127" [
+  vis [   "1127"   "1119"   "1118"   "1126"   "1117"   "1125"   ]
+  suit_edge [ 151 155 ]
+  suit_edge [ 155 156 ]
+  suit_edge [ 156 152 ]
+  suit_edge [ 156 157 ]
+  suit_edge [ 157 156 ]
+  suit_edge [ 155 157 ]
+  suit_edge [ 157 155 ]
+  battle_cell [ 20 20 370 -55 0 ]
+  street "street_40x40_DNARoot" [
+   code [ "street_40x40" ]
+   pos [ 350 -30 0 ]
+   hpr [ -90 8.65142e-006 -8.65142e-006 ]
+   texture [ "street_street_DD_tex" ]
+   texture [ "street_sidewalk_DD_tex" ]
+  ]
+  flat_building "tb24:20_DNARoot" [
+   pos [ 350 -43.9985 -1.65217e-011 ]
+   hpr [ 90 0 0 ]
+   width [ 15 ]
+   wall [
+    height [ 20 ]
+    code [ "wall_md_board_ur" ]
+    color [ 0.63 0.6 0.4 1 ]
+    windows [
+     code [ "window_porthole_ur" ]
+     color [ 0 0.61 0.36 1 ]
+     count [ 3 ]
+    ]
+   ]
+   prop "prop_2ftdockpiling_DNARoot" [
+    code [ "prop_2ftdockpiling" ]
+    pos [ 9.9985 -9 1.76883e-011 ]
+    hpr [ -1.1645e-008 2.13443e-007 4.66123e-007 ]
+   ]
+  ]
+  flat_building "tb19:20_DNARoot" [
+   pos [ 389.999 -29.9984 -1.65217e-011 ]
+   hpr [ -90 6.81545e-017 0 ]
+   width [ 15 ]
+   wall [
+    height [ 10 ]
+    code [ "wall_bricks_ur" ]
+    color [ 0.57 0.7 0.35 1 ]
+    windows [
+     code [ "window_sm_shuttered_ul" ]
+     color [ 0.73 0.63 0.37 1 ]
+     count [ 2 ]
+    ]
+   ]
+   wall [
+    height [ 10 ]
+    code [ "wall_bricks_ur" ]
+    color [ 0.57 0.7 0.35 1 ]
+    windows [
+     code [ "window_sm_shuttered_ul" ]
+     color [ 0.73 0.63 0.37 1 ]
+     count [ 2 ]
+    ]
+    cornice [
+     code [ "cornice_dental_ur" ]
+     color [ 1 0.69 0.49 1 ]
+    ]
+   ]
+  ]
+  prop "linktunnel_tt_2340_DNARoot" [
+   code [ "prop_neighborhood_tunnel" ]
+   pos [ 370 -30 0 ]
+   hpr [ 0 -1.48703e-011 1.24291e-011 ]
+   scale [ 0.999999 1 1 ]
+   sign [
+    code [ "tunnel_sign_orange" ]
+    scale [ 1.5 1 1.5 ]
+    baseline [
+     code [ "mickey" ]
+     color [ 0.0627451 0.803922 0.101961 1 ]
+     pos [ 0 0 -0.834604 ]
+     hpr [ 0 0 1.14097 ]
+     scale [ 1.4 1 1.4 ]
+     wiggle [ 0.79792 ]
+     width [ 61.9924 ]
+     height [ 61.9924 ]
+     flags [ "b" ]
+     text [
+      letters [ "T" ]
+     ]
+     text [
+      letters [ "O" ]
+     ]
+     text [
+      letters [ "O" ]
+     ]
+     text [
+      letters [ "N" ]
+     ]
+     text [
+      letters [ "T" ]
+     ]
+     text [
+      letters [ "O" ]
+     ]
+     text [
+      letters [ "W" ]
+     ]
+     text [
+      letters [ "N" ]
+     ]
+     text [
+      letters [ " " ]
+     ]
+    ]
+    baseline [
+     code [ "mickey" ]
+     color [ 0.0627451 0.803922 0.101961 1 ]
+     pos [ 0 0 -1.88604 ]
+     scale [ 1.3 1 1.3 ]
+     width [ 33.5469 ]
+     height [ 33.5469 ]
+     text [
+      letters [ "C" ]
+     ]
+     text [
+      letters [ "E" ]
+     ]
+     text [
+      letters [ "N" ]
+     ]
+     text [
+      letters [ "T" ]
+     ]
+     text [
+      letters [ "R" ]
+     ]
+     text [
+      letters [ "A" ]
+     ]
+     text [
+      letters [ "L" ]
+     ]
+    ]
+    baseline [
+     pos [ 0 0 1.58653 ]
+     scale [ 2.5 1 2.5 ]
+     graphic [
+      code [ "mickeySZ" ]
+     ]
+    ]
+   ]
+  ]
+  landmark_building "tb24:toon_landmark_DD_A2_DNARoot" [
+   code [ "toon_landmark_DD_A2" ]
+   title [ "" ]
+   pos [ 350 -68.9994 -1.65217e-011 ]
+   hpr [ 90 89.2044 89.2043 ]
+   door [
+    code [ "door_double_wood_ur" ]
+    color [ 1 0.59 0.59 1 ]
+   ]
+   sign [
+    code [ "DD_sign1" ]
+    pos [ 0 0 -2.31478 ]
+    baseline [
+     code [ "DD_Portago" ]
+     color [ 0 0 0 1 ]
+     pos [ 0.233681 0 0 ]
+     scale [ 1.5 1 1.5 ]
+     kern [ 0.066506 ]
+     wiggle [ 2 ]
+     stomp [ 0.045789 ]
+     text [
+      letters [ "R" ]
+     ]
+     text [
+      letters [ "U" ]
+     ]
+     text [
+      letters [ "D" ]
+     ]
+     text [
+      letters [ "D" ]
+     ]
+     text [
+      letters [ "E" ]
+     ]
+     text [
+      letters [ "R" ]
+     ]
+     text [
+      letters [ "'" ]
+     ]
+     text [
+      letters [ "S" ]
+     ]
+     text [
+      letters [ " " ]
+     ]
+     text [
+      letters [ "G" ]
+     ]
+     text [
+      letters [ "U" ]
+     ]
+     text [
+      letters [ "T" ]
+     ]
+     text [
+      letters [ "T" ]
+     ]
+     text [
+      letters [ "E" ]
+     ]
+     text [
+      letters [ "R" ]
+     ]
+     text [
+      letters [ "S" ]
+     ]
+    ]
+   ]
+  ]
+  flat_building "tb19:20_DNARoot" [
+   pos [ 389.999 -44.9989 -7.97498e-011 ]
+   hpr [ -90 -1.89012e-005 1.52588e-005 ]
+   width [ 15.6 ]
+   wall [
+    height [ 20 ]
+    code [ "wall_lg_brick_ur" ]
+    color [ 0.16 0.44 0.27 1 ]
+    windows [
+     code [ "window_sm_round_ur" ]
+     color [ 0.31 0.63 0.37 1 ]
+     count [ 4 ]
+    ]
+   ]
+  ]
+ ]
+]

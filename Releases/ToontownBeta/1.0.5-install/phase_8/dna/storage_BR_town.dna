@@ -1,0 +1,24 @@
+
+
+
+place_model "phase_8/models/props/roman_entrance_BR" [
+	store_node [ "prop" "prop_BR_roman_entrance" "" ]
+	]
+
+place_model "phase_8/models/modules/neighborhood_tunnel_BR" [
+	store_node [ "prop" "prop_neighborhood_tunnel" ]
+        ]
+
+place_model "phase_8/models/modules/safe_zone_entrance_tunnel_BR" [
+	store_node [ "prop" "prop_safe_zone_entrance_tunnel" ]
+        ]
+
+
+place_model "phase_8/models/props/BR_hydrant" [
+	store_node [ "prop" "BR_hydrant" "" ]
+	]
+
+
+place_model "phase_8/models/props/potbelly_stove" [
+	store_node [ "prop" "BR_potbelly_stove" "" ]
+	]

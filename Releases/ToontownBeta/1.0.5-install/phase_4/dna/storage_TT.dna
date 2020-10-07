@@ -1,0 +1,51 @@
+
+hood_model "phase_4/models/modules/TT_A1" [
+	store_node [ "toon_landmark" "toon_landmark_TT_A1" "TT_A1"  ]
+	]
+hood_model "phase_4/models/modules/TT_A2" [
+	store_node [ "toon_landmark" "toon_landmark_TT_A2" "TT_A2"  ]
+	]
+hood_model "phase_4/models/modules/TT_A3" [
+	store_node [ "toon_landmark" "toon_landmark_TT_A3" "TT_A3"  ]
+	]
+hood_model "phase_4/models/modules/TT_B1" [
+	store_node [ "toon_landmark" "toon_landmark_TT_B1" "TT_B1"  ]
+	]
+hood_model "phase_4/models/modules/TT_B2" [
+	store_node [ "toon_landmark" "toon_landmark_TT_B2" "TT_B2"  ]
+	]
+hood_model "phase_4/models/modules/TT_C1" [
+	store_node [ "toon_landmark" "toon_landmark_TT_C1" "TT_C1"  ]
+	]
+
+hood_model "phase_4/models/props/trees" [
+	store_node [ "prop" "prop_tree_large_brickbox_ur" ]
+	store_node [ "prop" "prop_tree_large_brickbox_ul" ]
+	store_node [ "prop" "prop_tree_small_brickbox_ur" ]
+	store_node [ "prop" "prop_tree_small_brickbox_ul" ]
+
+	store_node [ "prop" "prop_tree_large_woodbox_ur" ]
+	store_node [ "prop" "prop_tree_large_woodbox_ul" ]
+	store_node [ "prop" "prop_tree_small_woodbox_ur" ]
+	store_node [ "prop" "prop_tree_small_woodbox_ul" ]
+
+	store_node [ "prop" "prop_tree_large_ur" "prop_tree_large_no_box_ur" ]
+	store_node [ "prop" "prop_tree_large_ul" "prop_tree_large_no_box_ul" ]
+	store_node [ "prop" "prop_tree_small_ur" "prop_tree_small_nobox_ur" ]
+	store_node [ "prop" "prop_tree_small_ul" "prop_tree_small_no_box_ul" ]
+	]
+
+store_texture [ "texture" "street_street_TT_tex"	
+		"phase_4/maps/sidewalk2.jpg"		]
+store_texture [ "texture" "street_sidewalk_TT_tex"
+		"phase_4/maps/brick_floorBrown.jpg"	]
+
+hood_model "phase_4/models/fonts/Comedy" [
+	store_node [ "font" "TT_Comedy" "" ]
+	]
+
+hood_model "phase_4/models/props/signs_TTC" [
+	store_node [ "sign" "TTC_sign1" ]
+	store_node [ "sign" "TTC_sign2" ]
+	store_node [ "sign" "TTC_sign3" ]
+	]

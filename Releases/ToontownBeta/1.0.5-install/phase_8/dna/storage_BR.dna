@@ -1,0 +1,116 @@
+
+hood_model "phase_8/models/modules/BR_A1" [
+	store_node [ "toon_landmark" "toon_landmark_BR_A1" "BR_A1"  ]
+	]
+hood_model "phase_8/models/modules/BR_A2" [
+	store_node [ "toon_landmark" "toon_landmark_BR_A2" "BR_A2"  ]
+	]
+hood_model "phase_8/models/modules/BR_B1" [
+	store_node [ "toon_landmark" "toon_landmark_BR_B1" "BR_B1"  ]
+	]
+hood_model "phase_8/models/modules/BR_B2" [
+	store_node [ "toon_landmark" "toon_landmark_BR_B2" "BR_B2"  ]
+	]
+hood_model "phase_8/models/modules/BR_B3" [
+	store_node [ "toon_landmark" "toon_landmark_BR_B3" "BR_B3"  ]
+	]
+hood_model "phase_8/models/modules/BR_C1" [
+	store_node [ "toon_landmark" "toon_landmark_BR_C1" "BR_C1"  ]
+	]
+
+hood_model "phase_8/models/props/snowman" [
+	store_node [ "prop" "prop_snowman" "" ]
+	]
+
+hood_model "phase_8/models/props/pine_trees" [
+	store_node [ "prop" "prop_snow_tree_large_brickbox_ur" ]
+	store_node [ "prop" "prop_snow_tree_large_brickbox_ul" ]
+	store_node [ "prop" "prop_snow_tree_small_brickbox_ur" ]
+	store_node [ "prop" "prop_snow_tree_small_brickbox_ul" ]
+
+	store_node [ "prop" "prop_snow_tree_large_woodbox_ur" ]
+	store_node [ "prop" "prop_snow_tree_large_woodbox_ul" ]
+	store_node [ "prop" "prop_snow_tree_small_woodbox_ur" ]
+	store_node [ "prop" "prop_snow_tree_small_woodbox_ul" ]
+
+	store_node [ "prop" "prop_snow_tree_large_ur" "prop_snow_tree_large_nobox_ur" ]
+	store_node [ "prop" "prop_snow_tree_large_ul" "prop_snow_tree_large_nobox_ul" ]
+	store_node [ "prop" "prop_snow_tree_small_ur" "prop_snow_tree_small_nobox_ur" ]
+	store_node [ "prop" "prop_snow_tree_small_ul" "prop_snow_tree_small_nobox_ul" ]
+	]
+
+hood_model "phase_8/models/props/streetlight_BR" [
+	store_node [ "prop" "prop_post_sign" ]
+	store_node [ "prop" "prop_post_one_light" ]
+	store_node [ "prop" "prop_post_three_light" ]
+	]
+
+hood_model "phase_8/models/modules/BR_windows" [
+	store_node [ "window" "window_BR_porthole_ur" "window_porthole_ur" ]
+	store_node [ "window" "window_BR_porthole_ul" "window_porthole_ul" ]
+
+	store_node [ "window" "window_BR_sm_curved_ur" "window_sm_curved_ur" ]
+	store_node [ "window" "window_BR_sm_curved_ul" "window_sm_curved_ul" ]
+
+	store_node [ "window" "window_BR_sm_round_ur" "window_sm_round_ur" ]
+	store_node [ "window" "window_BR_sm_round_ul" "window_sm_round_ul" ]
+	]
+
+
+
+store_texture [ "texture" "street_street_BR_tex"
+		"phase_4/maps/burrrgh_sidewalk.jpg"	]
+store_texture [ "texture" "street_sidewalk_BR_tex"
+		"phase_4/maps/snow.jpg" 	]
+
+hood_model "phase_8/models/fonts/Aftershock" [
+	store_node [ "font" "BR_Aftershock" "" ]
+	]
+
+hood_model "phase_8/models/props/signs_BR" [
+	store_node [ "sign" "TB_sign1" "BR_sign1" ]
+	store_node [ "sign" "TB_sign2" "BR_sign2" ]
+	store_node [ "sign" "TB_sign3" "BR_sign3" ]
+	store_node [ "sign" "TB_sign4" "BR_sign4" ]
+	]
+
+hood_model "phase_8/models/props/snow_pile_full" [
+	store_node [ "prop" "prop_snow_pile_full" "" ]
+	]
+
+hood_model "phase_8/models/props/snow_pile_half" [
+	store_node [ "prop" "prop_snow_pile_half" "" ]
+	]
+
+hood_model "phase_8/models/props/snow_pile_quarter" [
+	store_node [ "prop" "prop_snow_pile_quarter" "" ]
+	]
+
+
+hood_model "phase_5/models/props/chimneys" [
+	store_node [ "prop" "prop_chimney" ]
+	store_node [ "prop" "prop_stovepipe" ]
+	store_node [ "prop" "prop_smokestack" ]
+	]
+
+hood_model "phase_8/models/props/BR_flats" [
+	store_node [ "prop" "prop_ski_flat" "Prop_ski" ]
+	store_node [ "prop" "prop_snowman_flat" "Prop_snowman" ]
+	store_node [ "prop" "prop_skates_flat" "Prop_skates" ]
+	]
+
+hood_model "phase_8/models/props/BR_trashcan" [
+	store_node [ "prop" "prop_BR_trashcan" "" ]
+	]
+
+hood_model "phase_8/models/props/BR_mailbox" [
+	store_node [ "prop" "BR_mailbox" "" ]
+	]
+
+hood_model "phase_8/models/props/icecube" [
+	store_node [ "prop" "prop_icecube_glove" "icecube_glove" ]
+	store_node [ "prop" "prop_icecube_ear_protection" "icecube_ear_protection" ]
+	store_node [ "prop" "prop_icecube_sunglasses" "icecube_sunglasses" ]
+	store_node [ "prop" "prop_icecube_shoe_v" "icecube_shoe_v" ]
+	store_node [ "prop" "prop_icecube_shoe_h" "icecube_shoe_h" ]
+	]

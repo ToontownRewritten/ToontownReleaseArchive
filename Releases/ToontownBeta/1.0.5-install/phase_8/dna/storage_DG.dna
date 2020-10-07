@@ -1,0 +1,79 @@
+
+hood_model "phase_8/models/modules/cornices_DG" [
+	store_node [ "cornice" "cornice_brickDG_ur" ]
+	store_node [ "cornice" "cornice_brickDG_ul" ]
+
+	store_node [ "cornice" "cornice_shinglesDG_ur" ]
+	store_node [ "cornice" "cornice_shinglesDG_ul" ]
+	]
+
+hood_model "phase_8/models/modules/walls_DG" [
+	store_node [ "wall" "wall_basement_brick_ur" ]
+	store_node [ "wall" "wall_basement_brick_ul" ]
+	store_node [ "wall" "wall_basement_brick_dr" ]
+	store_node [ "wall" "wall_basement_brick_dl" ]
+
+	store_node [ "wall" "wall_basement_rock_ur" ]
+	store_node [ "wall" "wall_basement_rock_ul" ]
+	store_node [ "wall" "wall_basement_rock_dr" ]
+	store_node [ "wall" "wall_basement_rock_dl" ]
+	]
+
+hood_model "phase_8/models/modules/DG_windows" [
+	store_node [ "window" "window_sm_pointed_DG_ur" ]
+	store_node [ "window" "window_sm_pointed_DG_ul" ]
+
+	store_node [ "window" "window_flower_porthole_ur" ]
+	store_node [ "window" "window_flower_porthole_ul" ]
+
+	store_node [ "window" "window_md_curved_DG_ur" ]
+	store_node [ "window" "window_md_curved_DG_ul" ]
+	]
+
+hood_model "phase_8/models/modules/DG_A1" [
+	store_node [ "toon_landmark" "toon_landmark_DG_A1" "DG_A1"  ]
+	]
+hood_model "phase_8/models/modules/DG_A2" [
+	store_node [ "toon_landmark" "toon_landmark_DG_A2" "DG_A2"  ]
+	]
+hood_model "phase_8/models/modules/DG_B1" [
+	store_node [ "toon_landmark" "toon_landmark_DG_B1" "DG_B1"  ]
+	]
+hood_model "phase_8/models/modules/DG_C1" [
+	store_node [ "toon_landmark" "toon_landmark_DG_C1" "DG_C1"  ]
+	]
+hood_model "phase_8/models/modules/DG_D1" [
+	store_node [ "toon_landmark" "toon_landmark_DG_D1" "DG_D1"  ]
+	]
+
+hood_model "phase_8/models/props/daisys_fountain" [
+	store_node [ "prop" "prop_daisys_fountain" "" ]
+	]
+
+hood_model "phase_8/models/props/stairs_DG" [
+	store_node [ "prop" "prop_stairs_DG" "" ]
+	]
+
+//hood_model "phase_8/models/props/daisys_park_bench" [
+//	store_node [ "prop" "prop_daisys_park_bench" "" ]
+//	]
+
+hood_model "phase_8/models/props/daisy_park_table" [
+	store_node [ "prop" "prop_daisy_park_table" "" ]
+	]
+
+store_texture [ "texture" "street_street_DG_tex"	
+		"phase_4/maps/dustroad.jpg"		]
+store_texture [ "texture" "street_sidewalk_DG_tex"
+		"phase_4/maps/grass.jpg"	]
+
+
+hood_model "phase_8/models/fonts/Ironwork" [
+	store_node [ "font" "DG_Ironwork" "" ]
+	]
+
+hood_model "phase_8/models/props/signs_DG" [
+	store_node [ "sign" "DG_sign1" ]
+	store_node [ "sign" "DG_sign2" ]
+	store_node [ "sign" "DG_sign3" ]
+	]

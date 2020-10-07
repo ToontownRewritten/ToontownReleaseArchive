@@ -1,0 +1,71 @@
+
+hood_model "phase_8/models/modules/DL_A1" [
+	store_node [ "toon_landmark" "toon_landmark_DL_A1" "DL_A1" ]
+	]
+hood_model "phase_8/models/modules/DL_B1" [
+	store_node [ "toon_landmark" "toon_landmark_DL_B1" "DL_B1" ]
+	]
+hood_model "phase_8/models/modules/DL_C1" [
+	store_node [ "toon_landmark" "toon_landmark_DL_C1" "DL_C1" ]
+	]
+hood_model "phase_8/models/modules/DL_D1" [
+	store_node [ "toon_landmark" "toon_landmark_DL_D1" "DL_D1" ]
+	]
+hood_model "phase_8/models/modules/DL_E1" [
+	store_node [ "toon_landmark" "toon_landmark_DL_E1" "DL_E1" ]
+	]
+
+
+hood_model "phase_8/models/modules/DL_windows" [
+	store_node [ "window" "window_md_curvedDL_ur" 	]
+	store_node [ "window" "window_md_curvedDL_ul"	]
+
+	store_node [ "window" "window_md_curved2DL_ur"	]
+	store_node [ "window" "window_md_curved2DL_ul"	]
+
+	store_node [ "window" "window_sm_shutteredDL_ur"]
+	store_node [ "window" "window_sm_shutteredDL_ul"]
+
+	store_node [ "window" "window_sm_squareDL_ur"	]
+	store_node [ "window" "window_sm_squareDL_ul"	]
+
+	store_node [ "window" "window_sm_curvedDL_ur"	]
+	store_node [ "window" "window_sm_curvedDL_ul"	]
+
+	store_node [ "window" "window_sm_curved2DL_ur"	]
+	store_node [ "window" "window_sm_curved2DL_ul"	]
+
+	store_node [ "window" "window_sm_roundDL_ur"	]
+	store_node [ "window" "window_sm_roundDL_ul"	]
+
+	store_node [ "window" "window_sm_round2DL_ur"	]
+	store_node [ "window" "window_sm_round2DL_ul"	]
+	]
+
+hood_model "phase_8/models/modules/DL_doors_practical" [
+// hood_model "phase_8/models/modules/DL_doors" [
+	store_node [ "door" "door_double_curvedDL_ur" ]
+	store_node [ "door" "door_double_curvedDL_ul" ]
+	]
+
+hood_model "phase_8/models/props/streetlight_DL" [
+	store_node [ "prop" "prop_DL_post_one_light" "prop_post_one_light" ]
+	store_node [ "prop" "prop_DL_post_three_light" "prop_post_three_light"]
+	]
+
+store_texture [ "texture" "street_sidewalk_DL_tex"	
+		"phase_4/maps/DL_brick_floor.jpg"	]
+store_texture [ "texture" "street_street_DL_tex"
+		"phase_4/maps/DL_sidewalk.jpg"		]
+
+
+hood_model "phase_8/models/fonts/JiggeryPokery" [
+	store_node [ "font" "DL_JiggeryPokery" "" ]
+	]
+
+hood_model "phase_8/models/props/signs_DL" [
+	store_node [ "sign" "DL_sign1" ]
+	store_node [ "sign" "DL_sign2" ]
+	store_node [ "sign" "DL_sign3" ]
+	store_node [ "sign" "DL_sign4" ]
+	]

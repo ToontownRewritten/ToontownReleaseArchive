@@ -1,0 +1,59 @@
+
+// This file is for putting generic things that all town use
+// but are not used in any safe zones. It gets loaded and 
+// unloaded every time we enter/leave the Town state data
+
+place_model "phase_5/models/modules/suit_walls" [
+	store_node [ "suit_wall" "wall_suit_build1_ur" ]
+	store_node [ "suit_wall" "wall_suit_build1_ul" ]
+
+	store_node [ "suit_wall" "wall_suit_build2_ur" ]
+	store_node [ "suit_wall" "wall_suit_build2_ul" ]
+
+	store_node [ "suit_wall" "wall_suit_build3_ur" ]
+	store_node [ "suit_wall" "wall_suit_build3_ul" ]
+
+	store_node [ "suit_wall" "wall_suit_build4_ur" ]
+	store_node [ "suit_wall" "wall_suit_build4_ul" ]
+
+	store_node [ "suit_wall" "wall_suit_build5_ur" ]
+	store_node [ "suit_wall" "wall_suit_build5_ul" ]
+	]
+
+// Each track will have 5 building references (one for each difficulty level)
+// It is ok for these to point to the same node if we do not have custom
+// models for every single difficulty level
+hood_model "phase_5/models/modules/suit_landmark_corp" [
+	store_node [ "suit_landmark" "suit_landmark_c1" "" ]
+	store_node [ "suit_landmark" "suit_landmark_c2" "" ]
+	store_node [ "suit_landmark" "suit_landmark_c3" "" ]
+	store_node [ "suit_landmark" "suit_landmark_c4" "" ]
+	store_node [ "suit_landmark" "suit_landmark_c5" "" ]
+	]
+hood_model "phase_5/models/modules/suit_landmark_legal" [
+	store_node [ "suit_landmark" "suit_landmark_l1" "" ]
+	store_node [ "suit_landmark" "suit_landmark_l2" "" ]
+	store_node [ "suit_landmark" "suit_landmark_l3" "" ]
+	store_node [ "suit_landmark" "suit_landmark_l4" "" ]
+	store_node [ "suit_landmark" "suit_landmark_l5" "" ]
+	]
+hood_model "phase_5/models/modules/suit_landmark_sales" [
+	store_node [ "suit_landmark" "suit_landmark_s1" "" ]
+	store_node [ "suit_landmark" "suit_landmark_s2" "" ]
+	store_node [ "suit_landmark" "suit_landmark_s3" "" ]
+	store_node [ "suit_landmark" "suit_landmark_s4" "" ]
+	store_node [ "suit_landmark" "suit_landmark_s5" "" ]
+	]
+hood_model "phase_5/models/modules/suit_landmark_money2" [
+	store_node [ "suit_landmark" "suit_landmark_m1" "" ]
+	store_node [ "suit_landmark" "suit_landmark_m2" "" ]
+	]
+hood_model "phase_5/models/modules/suit_landmark_money" [
+	store_node [ "suit_landmark" "suit_landmark_m3" "" ]
+	store_node [ "suit_landmark" "suit_landmark_m4" "" ]
+	store_node [ "suit_landmark" "suit_landmark_m5" "" ]
+	]
+
+hood_model "phase_5/models/modules/elevator" [
+	store_node [ "elevator" "elevator" "" ]
+	]

@@ -1,0 +1,42 @@
+
+
+place_model "phase_6/models/props/ship_masts" [
+	store_node [ "prop" "prop_shipmasts" "" ]
+	]
+
+place_model "phase_6/models/props/mailbox_DD" [
+	store_node [ "prop" "prop_mailbox_DD" "" ]
+	]
+
+place_model "phase_6/models/props/trashcan_DD" [
+	store_node [ "prop" "prop_trashcan_DD" "" ]
+	]
+
+place_model "phase_6/models/modules/neighborhood_tunnel_DD" [
+	store_node [ "prop" "prop_neighborhood_tunnel" ]
+        ]
+
+place_model "phase_6/models/modules/safe_zone_entrance_tunnel_DD" [
+	store_node [ "prop" "prop_safe_zone_entrance_tunnel" ]
+        ]
+
+place_model "phase_5/models/props/TT_hydrant" [
+	store_node [ "prop" "prop_hydrant" ]
+	]
+
+place_model "phase_5/models/props/billboard_ads" [
+	store_node [ "prop" "prop_signpost" ]
+	store_node [ "prop" "prop_billboard" ]
+	]
+
+place_model "phase_5/models/props/roof_access" [
+	store_node [ "prop" "prop_roof_access" "" ]
+	]
+
+place_model "phase_6/models/props/DD_lighthouse" [
+	store_node [ "prop" "prop_DD_lighthouse" "" ]
+	]
+
+place_model "phase_6/models/props/DD_street_water" [
+	store_node [ "prop" "prop_DD_street_water" "" ]
+	]

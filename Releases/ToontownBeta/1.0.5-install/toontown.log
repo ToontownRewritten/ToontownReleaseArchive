@@ -1,0 +1,189 @@
+
+
+Starting Toontown...
+Current time: Sat Sep 01 16:42:38 2001 PST
+CONFIG_CONFIG is set to: :configpath=CFG_PATH:configpath=ETC_PATH
+Resetting CONFIG_CONFIG to nothing
+generating configrc file
+:09-01-2001 16:42:38 :express: Not trusting the high resolution clock.
+Launcher: downloadServerPath: 'http://www.disneyblast.go.com/toontown2/'
+Launcher: downloadServer: 'www.disneyblast.go.com'
+Launcher: downloadDirectory: '/toontown2/content/'
+Launcher: gameServer: ''
+:09-01-2001 16:42:38 Launcher(info): proxyString from registry: 0
+:09-01-2001 16:42:38 Launcher(info): connectToDownloadServer: no proxy server detected
+:09-01-2001 16:42:38 Launcher(info): connectToDownlo.0adServer: Attempt 0 to connect to server: www.disneyblast.go.com
+:09-01-2001 16:42:38 Launcher(info): connectToDownloadServer: Connected to server: www.disneyblast.go.com port: 80 errorCode: EU_success
+:09-01-2001 16:42:38 Launcher(info): foreground: Launcher now operating in foreground
+:09-01-2001 16:42:38 Launcher(info): prepareClient: Preparing client for install
+:09-01-2001 16:42:38 Launcher(info): Downloading server db file
+:09-01-2001 16:42:38 Launcher(info): Download request: /toontown2/content/server.ddb.pz
+:09-01-2001 16:42:39 Launcher(info): downloadTask: Download done: /toontown2/content/server.ddb.pz
+:09-01-2001 16:42:39 Launcher(info): Client Db exists
+:09-01-2001 16:42:39 Launcher(info): Creating downloadDb
+:09-01-2001 16:42:39 Launcher(info): Client file name: C:/Program Files/Disney/Disney Online/Toontown/db/client.ddb
+:09-01-2001 16:42:39 :downloader(debug): ZDecompressor::ZDecompressor() - Zlib inflate initialized
+:09-01-2001 16:42:39 :downloader(debug): ZDecompressor::ZDecompressor() - Zlib inflate initialized
+:09-01-2001 16:42:39 Launcher(info): Finished decompress
+:09-01-2001 16:42:39 :downloader(debug): Parsed magic number: 4277010157
+:09-01-2001 16:42:39 :downloader(debug): Parsed number of multifiles: 7
+:09-01-2001 16:42:39 :downloader(debug): Parsed multifile record: phase_2.mf.pz phase: 2 size: 1130734 status: 3 num_files: 0
+:09-01-2001 16:42:39 :downloader(debug): Parsed multifile record: phase_3.mf.pz phase: 3 size: 4358309 status: 3 num_files: 0
+:09-01-2001 16:42:39 :downloader(debug): Parsed multifile record: phase_4.mf.pz phase: 4 size: 2735469 status: 3 num_files: 0
+:09-01-2001 16:42:39 :downloader(debug): Parsed multifile record: phase_5.mf.pz phase: 5 size: 6555435 status: 3 num_files: 0
+:09-01-2001 16:42:39 :downloader(debug): Parsed multifile record: phase_6.mf.pz phase: 6 size: 1669516 status: 3 num_files: 0
+:09-01-2001 16:42:39 :downloader(debug): Parsed multifile record: phase_7.mf.pz phase: 7 size: 21086 status: 3 num_files: 0
+:09-01-2001 16:42:39 :downloader(debug): Parsed multifile record: phase_8.mf.pz phase: 8 size: 1339087 status: 3 num_files: 0
+:09-01-2001 16:42:39 :downloader(debug): Parsed magic number: 4277010157
+:09-01-2001 16:42:39 :downloader(debug): Parsed number of multifiles: 7
+:09-01-2001 16:42:39 :downloader(debug): Parsed multifile record: phase_2.mf.pz phase: 2 size: 1130734 status: 0 num_files: 46
+:09-01-2001 16:42:39 :downloader(debug): Parsed multifile record: phase_3.mf.pz phase: 3 size: 4358309 status: 0 num_files: 290
+:09-01-2001 16:42:39 :downloader(debug): Parsed multifile record: phase_4.mf.pz phase: 4 size: 2735469 status: 0 num_files: 0
+:09-01-2001 16:42:39 :downloader(debug): Parsed multifile record: phase_5.mf.pz phase: 5 size: 6555435 status: 0 num_files: 1
+:09-01-2001 16:42:39 :downloader(debug): Parsed multifile record: phase_6.mf.pz phase: 6 size: 1669516 status: 0 num_files: 0
+:09-01-2001 16:42:39 :downloader(debug): Parsed multifile record: phase_7.mf.pz phase: 7 size: 21086 status: 0 num_files: 1
+:09-01-2001 16:42:39 :downloader(debug): Parsed multifile record: phase_8.mf.pz phase: 8 size: 1339087 status: 0 num_files: 0
+:09-01-2001 16:42:39 Launcher(info): created download db
+:09-01-2001 16:42:39 Launcher(info): Updating multifiles in phase: 3
+:09-01-2001 16:42:39 Launcher(info): Downloading multifile: phase_3.mf.pz
+:09-01-2001 16:42:39 Launcher(info): Multifile already complete: phase_3.mf.pz
+:09-01-2001 16:42:39 Launcher(info): decompressMultifile: Multifile already decompressed: phase_3.mf.pz
+:09-01-2001 16:42:39 Launcher(info): extractMultifile: Multifile already extracted: phase_3.mf.pz
+:09-01-2001 16:42:39 Launcher(info): extractMultifileDone: Finished updating multifile: phase_3.mf.pz
+:09-01-2001 16:42:39 Launcher(info): patchMultifile: Checking for patches on multifile: phase_3.mf.pz
+:09-01-2001 16:42:43 Launcher(info): Done updating multifiles in phase: 3
+:09-01-2001 16:42:43 Launcher(info): Updating multifiles in phase: 4
+:09-01-2001 16:42:43 Launcher(info): Downloading multifile: phase_4.mf.pz
+:09-01-2001 16:42:43 Launcher(info): Multifile already complete: phase_4.mf.pz
+:09-01-2001 16:42:43 Launcher(info): decompressMultifile: Multifile already decompressed: phase_4.mf.pz
+:09-01-2001 16:42:43 Launcher(info): extractMultifile: Multifile already extracted: phase_4.mf.pz
+:09-01-2001 16:42:43 Launcher(info): extractMultifileDone: Finished updating multifile: phase_4.mf.pz
+:09-01-2001 16:42:43 Launcher(info): patchMultifile: Checking for patches on multifile: phase_4.mf.pz
+:09-01-2001 16:42:43 Launcher(info): Done updating multifiles in phase: 4
+:09-01-2001 16:42:43 Launcher(info): Updating multifiles in phase: 5
+:09-01-2001 16:42:43 Launcher(info): Downloading multifile: phase_5.mf.pz
+:09-01-2001 16:42:43 Launcher(info): Multifile already complete: phase_5.mf.pz
+:09-01-2001 16:42:43 Launcher(info): decompressMultifile: Multifile already decompressed: phase_5.mf.pz
+:09-01-2001 16:42:43 Launcher(info): extractMultifile: Multifile already extracted: phase_5.mf.pz
+:09-01-2001 16:42:43 Launcher(info): extractMultifileDone: Finished updating multifile: phase_5.mf.pz
+:09-01-2001 16:42:43 Launcher(info): patchMultifile: Checking for patches on multifile: phase_5.mf.pz
+:09-01-2001 16:42:45 Launcher(info): Done updating multifiles in phase: 5
+:09-01-2001 16:42:45 Launcher(info): Updating multifiles in phase: 6
+:09-01-2001 16:42:45 Launcher(info): Downloading multifile: phase_6.mf.pz
+:09-01-2001 16:42:45 Launcher(info): Multifile already complete: phase_6.mf.pz
+:09-01-2001 16:42:45 Launcher(info): decompressMultifile: Multifile already decompressed: phase_6.mf.pz
+:09-01-2001 16:42:45 Launcher(info): extractMultifile: Multifile already extracted: phase_6.mf.pz
+:09-01-2001 16:42:45 Launcher(info): extractMultifileDone: Finished updating multifile: phase_6.mf.pz
+:09-01-2001 16:42:45 Launcher(info): patchMultifile: Checking for patches on multifile: phase_6.mf.pz
+:09-01-2001 16:42:46 Launcher(info): Done updating multifiles in phase: 6
+:09-01-2001 16:42:46 Launcher(info): Updating multifiles in phase: 7
+:09-01-2001 16:42:46 Launcher(info): Downloading multifile: phase_7.mf.pz
+:09-01-2001 16:42:46 Launcher(info): Multifile already complete: phase_7.mf.pz
+:09-01-2001 16:42:46 Launcher(info): decompressMultifile: Multifile already decompressed: phase_7.mf.pz
+:09-01-2001 16:42:46 Launcher(info): extractMultifile: Multifile already extracted: phase_7.mf.pz
+:09-01-2001 16:42:46 Launcher(info): extractMultifileDone: Finished updating multifile: phase_7.mf.pz
+:09-01-2001 16:42:46 Launcher(info): patchMultifile: Checking for patches on multifile: phase_7.mf.pz
+:09-01-2001 16:42:46 Launcher(info): Done updating multifiles in phase: 7
+:09-01-2001 16:42:46 Launcher(info): Updating multifiles in phase: 8
+:09-01-2001 16:42:46 Launcher(info): Downloading multifile: phase_8.mf.pz
+:09-01-2001 16:42:46 Launcher(info): Multifile already complete: phase_8.mf.pz
+:09-01-2001 16:42:46 Launcher(info): decompressMultifile: Multifile already decompressed: phase_8.mf.pz
+:09-01-2001 16:42:46 Launcher(info): extractMultifile: Multifile already extracted: phase_8.mf.pz
+:09-01-2001 16:42:46 Launcher(info): extractMultifileDone: Finished updating multifile: phase_8.mf.pz
+:09-01-2001 16:42:46 Launcher(info): patchMultifile: Checking for patches on multifile: phase_8.mf.pz
+:09-01-2001 16:42:46 Launcher(info): Done updating multifiles in phase: 8
+:09-01-2001 16:42:46 Launcher(info): ALL PHASES COMPLETE
+:09-01-2001 16:42:46 Launcher(info): maybeStartToontown: starting toontown
+:09-01-2001 16:42:46 Launcher(info): background: Launcher now operating in background
+ToontownStart: Polling for game2 to finish...
+ToontownStart: Game2 is finished.
+ToontownStart: Starting the game.
+:09-01-2001 16:42:50 :display: loading display module: libpandadx.dll
+Known pipe types:
+  wdxGraphicsPipe
+Opened a 'wdxGraphicsPipe' interactive graphics pipe.
+:09-01-2001 16:42:53 Loader(info): starting bulk load of block 'init'
+Warning: DirectNotify: category 'DistributedBattle' already exists
+:09-01-2001 16:42:56 Loader(info): At end of block 'init', expected 80, loaded 93
+:09-01-2001 16:42:56 ToonBase(info): Using server-type to set serverIP to: 'toontown.starwave.com'
+:09-01-2001 16:42:56 :net: Opened TCP connection to server 204.202.128.203  on port 80
+:09-01-2001 16:42:56 Launcher(info): cleanup: cleaning up Launcher
+:09-01-2001 16:42:56 ToontownClientRepository(info): Login2 response return code: 0
+:09-01-2001 16:42:56 ToontownClientRepository(info): Login2 goUserName: shochet
+:09-01-2001 16:42:56 ToontownClientRepository(info): Login2 chatCode: 1
+:09-01-2001 16:42:59 ToontownClientRepository(warning): Don't know who friend 100000468 is.
+:09-01-2001 16:42:59 Loader(info): starting bulk load of block 'localToonPlayGame'
+:09-01-2001 16:43:00 DistributedToon(debug): setting friends list to [100000034, 100000046, 100000014, 100000032, 100000072, 100000070, 100000074, 100000144, 100000194, 100000120, 100000200, 100000204, 100000184, 100000220, 100000166, 100000394, 100000124, 100000132, 100000310, 100000468]
+:09-01-2001 16:43:00 DistributedToon(debug): setting default shard to 311000000
+:09-01-2001 16:43:00 DistributedToon(debug): setting default zone to 2000
+:09-01-2001 16:43:00 DistributedToon(debug): setting Shticker Book to 
+:09-01-2001 16:43:00 DistributedToon(debug): setting safe zone list to [2000, 4000, 1000]
+:09-01-2001 16:43:00 DistributedToon(debug): setting hood list to [2000, 4000, 1000, 5000]
+:09-01-2001 16:43:00 DistributedToon(debug): setting interface to 
+:09-01-2001 16:43:00 DistributedToon(debug): setting quests to []
+:09-01-2001 16:43:01 ToontownClientRepository(warning): Don't know who friend 100000014 is.
+:09-01-2001 16:43:01 :dna: Reading phase_4/dna/storage.dna
+:09-01-2001 16:43:02 Loader(info): At end of block 'localToonPlayGame', expected 79, loaded 34
+:09-01-2001 16:43:02 Loader(info): starting bulk load of block 'hood'
+:09-01-2001 16:43:02 :dna: Reading phase_4/dna/storage_TT.dna
+:09-01-2001 16:43:02 Loader(info): ******** current count is 1
+:09-01-2001 16:43:02 :dna: Reading phase_4/dna/storage_TT_sz.dna
+:09-01-2001 16:43:02 :dna: Reading phase_4/dna/toontown_central_sz.dna
+:09-01-2001 16:43:02 :dna(error): node: prop_stovepipe not found in pool, hood, or place map, returning empty NodePath
+:09-01-2001 16:43:02 :dna(error): node: prop_chimney not found in pool, hood, or place map, returning empty NodePath
+:09-01-2001 16:43:02 :dna(error): node: prop_stovepipe not found in pool, hood, or place map, returning empty NodePath
+:09-01-2001 16:43:02 :dna(error): node: prop_chimney not found in pool, hood, or place map, returning empty NodePath
+:09-01-2001 16:43:02 :dna(error): node: prop_roof_access not found in pool, hood, or place map, returning empty NodePath
+:09-01-2001 16:43:02 :dna(error): node: prop_hydrant not found in pool, hood, or place map, returning empty NodePath
+:09-01-2001 16:43:02 :dna(error): node: prop_mailbox_TT not found in pool, hood, or place map, returning empty NodePath
+:09-01-2001 16:43:02 :dna(error): node: prop_cellar_door not found in pool, hood, or place map, returning empty NodePath
+:09-01-2001 16:43:02 :dna(error): node: prop_cellar_door not found in pool, hood, or place map, returning empty NodePath
+:09-01-2001 16:43:02 :dna(error): node: prop_trashcan_metal not found in pool, hood, or place map, returning empty NodePath
+:09-01-2001 16:43:02 :dna(error): node: prop_trashcan_metal not found in pool, hood, or place map, returning empty NodePath
+:09-01-2001 16:43:02 :dna(error): node: prop_trashcan_metal not found in pool, hood, or place map, returning empty NodePath
+:09-01-2001 16:43:02 :dna(error): node: prop_post_one_light not found in pool, hood, or place map, returning empty NodePath
+:09-01-2001 16:43:02 :dna(error): node: prop_post_one_light not found in pool, hood, or place map, returning empty NodePath
+:09-01-2001 16:43:02 :dna(error): node: prop_post_one_light not found in pool, hood, or place map, returning empty NodePath
+:09-01-2001 16:43:02 :dna(error): node: prop_post_one_light not found in pool, hood, or place map, returning empty NodePath
+:09-01-2001 16:43:02 :dna(error): node: prop_post_one_light not found in pool, hood, or place map, returning empty NodePath
+:09-01-2001 16:43:02 :dna(error): node: prop_post_one_light not found in pool, hood, or place map, returning empty NodePath
+:09-01-2001 16:43:02 :dna(error): node: prop_post_one_light not found in pool, hood, or place map, returning empty NodePath
+:09-01-2001 16:43:02 :dna(error): node: prop_post_one_light not found in pool, hood, or place map, returning empty NodePath
+:09-01-2001 16:43:02 :dna(error): node: prop_post_one_light not found in pool, hood, or place map, returning empty NodePath
+:09-01-2001 16:43:02 :dna(error): node: prop_mailbox_TT not found in pool, hood, or place map, returning empty NodePath
+:09-01-2001 16:43:02 :dna(error): node: prop_roof_access not found in pool, hood, or place map, returning empty NodePath
+:09-01-2001 16:43:02 :dna(error): node:  not found in pool, hood, or place map, returning empty NodePath
+:09-01-2001 16:43:02 :dna(error): node:  not found in pool, hood, or place map, returning empty NodePath
+:09-01-2001 16:43:02 :dna(error): node:  not found in pool, hood, or place map, returning empty NodePath
+:09-01-2001 16:43:02 :dna(error): node:  not found in pool, hood, or place map, returning empty NodePath
+:09-01-2001 16:43:02 :dna(error): node:  not found in pool, hood, or place map, returning empty NodePath
+:09-01-2001 16:43:02 :dna(error): node:  not found in pool, hood, or place map, returning empty NodePath
+:09-01-2001 16:43:02 :dna(error): node:  not found in pool, hood, or place map, returning empty NodePath
+:09-01-2001 16:43:02 :dna(error): node:  not found in pool, hood, or place map, returning empty NodePath
+:09-01-2001 16:43:02 :dna(error): node:  not found in pool, hood, or place map, returning empty NodePath
+:09-01-2001 16:43:02 :dna(error): node:  not found in pool, hood, or place map, returning empty NodePath
+:09-01-2001 16:43:03 :dna(error): node:  not found in pool, hood, or place map, returning empty NodePath
+:09-01-2001 16:43:03 :dna(error): node:  not found in pool, hood, or place map, returning empty NodePath
+:09-01-2001 16:43:03 :dna(error): node:  not found in pool, hood, or place map, returning empty NodePath
+:09-01-2001 16:43:03 :dna(error): node:  not found in pool, hood, or place map, returning empty NodePath
+:09-01-2001 16:43:03 :dna(error): node:  not found in pool, hood, or place map, returning empty NodePath
+:09-01-2001 16:43:03 :dna(error): node:  not found in pool, hood, or place map, returning empty NodePath
+:09-01-2001 16:43:03 :dna(error): node:  not found in pool, hood, or place map, returning empty NodePath
+:09-01-2001 16:43:03 :dna(error): node:  not found in pool, hood, or place map, returning empty NodePath
+:09-01-2001 16:43:03 :dna(error): node:  not found in pool, hood, or place map, returning empty NodePath
+:09-01-2001 16:43:03 Loader(info): At end of block 'hood', expected 8, loaded 1
+:09-01-2001 16:43:03 DistributedToon(info): Adding avatar 
+:09-01-2001 16:43:03 DistributedToon(info): Adding avatar 
+:09-01-2001 16:43:03 DistributedMickey(info): Adding avatar Mickey
+:09-01-2001 16:43:27 DistributedToon(info): Removing avatar Cyril
+:09-01-2001 16:43:27 DistributedToon(info): Removing avatar Jesse
+:09-01-2001 16:43:27 DistributedMickey(info): Removing avatar Mickey
+:09-01-2001 16:43:27 DistributedToon(info): Removing avatar Buzz
+:09-01-2001 16:43:27 DistributedToon(warning): [LocalToon at: 82535488]
+hidden/actor was not present...
+:09-01-2001 16:43:27 ActorInterval(warning): updateFunc() - Actor-12 empty actor!
+:09-01-2001 16:43:27 ActorInterval(warning): updateFunc() - Actor-13 empty actor!
+:09-01-2001 16:43:27 ActorInterval(warning): updateFunc() - Actor-14 empty actor!
+:09-01-2001 16:43:27 ActorInterval(warning): updateFunc() - Actor-15 empty actor!
+:09-01-2001 16:43:29 ToonBase(info): Exiting Toontown
+:09-01-2001 16:43:29 :display: Closing wdxGraphicsWindow

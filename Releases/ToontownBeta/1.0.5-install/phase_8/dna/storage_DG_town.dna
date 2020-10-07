@@ -1,0 +1,64 @@
+place_model "phase_8/models/props/daisys_flowerbox_yellow" [
+	store_node [ "prop" "prop_daisys_flowerbox_yellow" "" ]
+	]
+
+place_model "phase_8/models/props/daisys_flowerbox_pink" [
+	store_node [ "prop" "prop_daisys_flowerbox_pink" "" ]
+	]
+
+place_model "phase_8/models/props/streetlight_DG" [
+	store_node [ "prop" "prop_DG_flower_lamp1" ]
+	store_node [ "prop" "prop_DG_flower_lamp2" ]
+	]
+
+place_model "phase_8/models/props/window_flowerbox_wood" [
+	store_node [ "prop" "prop_window_flowerbox_wood" "" ]
+	]
+
+place_model "phase_8/models/props/window_flowerbox_woven" [
+	store_node [ "prop" "prop_window_flowerbox_woven" "" ]
+	]
+
+place_model "phase_8/models/modules/neighborhood_tunnel_DG" [
+	store_node [ "prop" "prop_neighborhood_tunnel" ]
+        ]
+
+
+place_model "phase_8/models/modules/safe_zone_entrance_tunnel_DG" [
+	store_node [ "prop" "prop_safe_zone_entrance_tunnel" ]
+        ]
+
+place_model "phase_8/models/props/daisys_flower_bed" [
+	store_node [ "prop" "prop_DG_flower_bed" "" ]
+        ]
+
+place_model "phase_8/models/props/DG_flats" [
+	store_node [ "prop" "prop_DG_flat_trashcan" "prop_trashcan" ]
+        ]
+
+place_model "phase_8/models/props/trees_DG" [
+	store_node [ "prop" "prop_tree_DG_ul" ]
+	store_node [ "prop" "prop_tree_DG_ur" ]
+	]
+
+place_model "phase_4/models/props/trees" [
+	store_node [ "prop" "prop_tree_large_brickbox_ur" ]
+	store_node [ "prop" "prop_tree_large_brickbox_ul" ]
+	store_node [ "prop" "prop_tree_small_brickbox_ur" ]
+	store_node [ "prop" "prop_tree_small_brickbox_ul" ]
+
+	store_node [ "prop" "prop_tree_large_woodbox_ur" ]
+	store_node [ "prop" "prop_tree_large_woodbox_ul" ]
+	store_node [ "prop" "prop_tree_small_woodbox_ur" ]
+	store_node [ "prop" "prop_tree_small_woodbox_ul" ]
+
+	store_node [ "prop" "prop_tree_large_ur" "prop_tree_large_no_box_ur" ]
+	store_node [ "prop" "prop_tree_large_ul" "prop_tree_large_no_box_ul" ]
+	store_node [ "prop" "prop_tree_small_ur" "prop_tree_small_nobox_ur" ]
+	store_node [ "prop" "prop_tree_small_ul" "prop_tree_small_no_box_ul" ]
+	]
+
+place_model "phase_5/models/props/trashcan_TT" [
+	store_node [ "prop" "prop_trashcan_metal" ]
+	]
+

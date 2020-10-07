@@ -1,0 +1,16 @@
+place_model "phase_6/models/props/piano" [
+	store_node [ "prop" "prop_piano" "" ]
+	]
+
+place_model "phase_6/models/modules/neighborhood_tunnel_MM" [
+	store_node [ "prop" "prop_neighborhood_tunnel" ]
+        ]
+
+place_model "phase_6/models/modules/safe_zone_entrance_tunnel_MM" [
+	store_node [ "prop" "prop_safe_zone_entrance_tunnel" ]
+        ]
+
+
+
+
+

@@ -1,0 +1,102 @@
+
+hood_model "phase_6/models/modules/MM_A1" [
+	store_node [ "toon_landmark" "toon_landmark_MM_A1" "MM_A1"  ]
+	]
+hood_model "phase_6/models/modules/MM_A2" [
+	store_node [ "toon_landmark" "toon_landmark_MM_A2" "MM_A2"  ]
+	]
+hood_model "phase_6/models/modules/MM_B1" [
+	store_node [ "toon_landmark" "toon_landmark_MM_B1" "MM_B1"  ]
+	]
+hood_model "phase_6/models/modules/MM_B2" [
+	store_node [ "toon_landmark" "toon_landmark_MM_B2" "MM_B2"  ]
+	]
+hood_model "phase_6/models/modules/MM_C1" [
+	store_node [ "toon_landmark" "toon_landmark_MM_C1" "MM_C1"  ]
+	]
+hood_model "phase_6/models/modules/MM_D1" [
+	store_node [ "toon_landmark" "toon_landmark_MM_D1" "MM_D1"  ]
+	]
+hood_model "phase_6/models/modules/MM_E1" [
+	store_node [ "toon_landmark" "toon_landmark_MM_E1" "MM_E1"  ]
+	]
+
+hood_model "phase_6/models/props/streetlight_MM" [
+	store_node [ "prop" "prop_MM_flute_lamp" "MM_flute_lamp" ]
+	store_node [ "prop" "prop_MM_trumpets_lamp" "MM_trumpets_lamp" ]
+	]
+
+hood_model "phase_6/models/modules/MM_windows" [
+	store_node [ "window" "window_MM_sm_curved_ur" "window_sm_curved_ur" ]
+	store_node [ "window" "window_MM_sm_curved_ul" "window_sm_curved_ul" ]
+
+	store_node [ "window" "window_MM_sm_round_ur" "window_sm_round_ur" ]
+	store_node [ "window" "window_MM_sm_round_ul" "window_sm_round_ul" ]
+	]
+
+store_texture [ "texture" "street_street_MM_tex"
+		"phase_4/maps/sidewalkPink.jpg"	]
+store_texture [ "texture" "street_sidewalk_MM_tex"
+		"phase_4/maps/brick_floorPink.jpg" 	]
+store_texture [ "texture" "street_sidewalk_MM_keyboard_tex"
+		"phase_4/maps/keyboard_segment.jpg" 	]
+
+
+hood_model "phase_6/models/fonts/Musicals" [
+	store_node [ "font" "MM_Musicals" "" ]
+	]
+
+hood_model "phase_6/models/props/signs_MM" [
+	store_node [ "sign" "MM_sign1" ]
+	store_node [ "sign" "MM_sign2" ]
+	store_node [ "sign" "MM_sign3" ]
+	store_node [ "sign" "MM_sign4" ]
+	]
+
+hood_model "phase_5/models/props/awnings_round" [
+	store_node [ "prop" "prop_awning_large_pinkblue" ]
+	store_node [ "prop" "prop_awning_large_purple"   ]
+	store_node [ "prop" "prop_awning_small_pinkblue" ]
+	store_node [ "prop" "prop_awning_small_purple"   ]
+	]
+
+hood_model "phase_5/models/props/awnings_square" [
+	store_node [ "prop" "prop_keyboard_small" ]
+	store_node [ "prop" "prop_keyboard_large" ]
+	]
+
+hood_model "phase_6/models/props/minnie_planter" [
+	store_node [ "prop" "prop_minnie_planter" "" ]
+	]
+
+hood_model "phase_6/models/props/MM_flats" [
+	store_node [ "prop" "prop_drums_flat" "drums" ]
+	store_node [ "prop" "prop_cello_flat" "cello" ]
+	store_node [ "prop" "prop_trumpet_flat" "trumpet" ]
+	]
+
+hood_model "phase_6/models/props/trashcan_MM" [
+	store_node [ "prop" "prop_trashcan_MM" "" ]
+	]
+
+
+hood_model "phase_6/models/props/mailbox_MM" [
+	store_node [ "prop" "prop_mailbox_MM" "" ]
+	]
+
+
+hood_model "phase_6/models/props/trees_MM" [
+	store_node [ "prop" "prop_tree_small_ur" ]
+	store_node [ "prop" "prop_tree_small_ul" ]
+	]
+
+
+hood_model "phase_5/models/props/chimneys" [
+	store_node [ "prop" "prop_chimney" ]
+	store_node [ "prop" "prop_stovepipe" ]
+	store_node [ "prop" "prop_smokestack" ]
+	]
+
+hood_model "phase_5/models/props/roof_access" [
+	store_node [ "prop" "prop_roof_access" "" ]
+	]

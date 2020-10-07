@@ -1,0 +1,12 @@
+
+place_model "phase_6/models/neighborhoods/minnies_melody_land" [
+ 	store_node [ "prop" "minnies_melody_land" ]
+	]
+
+place_model "phase_6/models/modules/safe_zone_tunnel_MM" [
+	store_node [ "prop" "prop_safe_zone_tunnel" ]
+        ]
+
+place_model "phase_6/models/modules/trolley_station_MM" [
+	store_node [ "prop" "prop_trolley_station" ]
+	]

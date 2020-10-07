@@ -1,0 +1,36 @@
+
+place_model "phase_4/models/neighborhoods/toontown_central" [
+ 	store_node [ "prop" "toontown_central" ]
+	]
+
+place_model "phase_4/models/modules/trolley_station_TT" [
+	store_node [ "prop" "prop_trolley_station" ]
+	]
+
+place_model "phase_4/models/modules/safe_zone_tunnel_TT" [
+	store_node [ "prop" "prop_safe_zone_tunnel" ]
+        ]
+
+place_model "phase_4/models/modules/bank" [
+	store_node [ "toon_landmark" "toon_landmark_TT_bank" "" ]
+        ]
+
+place_model "phase_4/models/modules/library" [
+	store_node [ "toon_landmark" "toon_landmark_TT_library" "" ]
+        ]
+
+place_model "phase_4/models/modules/school_house" [
+	store_node [ "toon_landmark" "toon_landmark_TT_school_house" "" ]
+        ]
+
+place_model "phase_4/models/modules/mercantile" [
+	store_node [ "toon_landmark" "toon_landmark_TT_mercantile" "" ]
+        ]
+
+place_model "phase_4/models/modules/gazebo" [
+	store_node [ "prop" "prop_gazebo" "" ]
+        ]
+
+place_model "phase_4/models/modules/toonhall" [
+	store_node [ "toon_landmark" "toon_landmark_TT_toonhall" "" ]
+        ]

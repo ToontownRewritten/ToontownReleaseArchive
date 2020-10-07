@@ -1,0 +1,11 @@
+// Safe zone
+place_model "phase_8/models/neighborhoods/daisys_garden" [
+  	store_node [ "prop" "daisys_garden" "" ]
+ 	]
+place_model "phase_8/models/modules/safe_zone_tunnel_DG" [
+	store_node [ "prop" "prop_safe_zone_tunnel" ]
+        ]
+
+place_model "phase_8/models/modules/trolley_station_DG" [
+	store_node [ "prop" "prop_trolley_station" ]
+	]

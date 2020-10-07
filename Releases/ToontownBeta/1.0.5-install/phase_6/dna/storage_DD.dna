@@ -1,0 +1,77 @@
+
+
+hood_model "phase_6/models/modules/DD_doors_practical" [
+// hood_model "phase_6/models/modules/DD_doors" [
+	store_node [ "door" "door_double_wood_ur"  ]
+	store_node [ "door" "door_double_wood_ul"  ]
+	]
+
+hood_model "phase_6/models/modules/DD_A1" [
+	store_node [ "toon_landmark" "toon_landmark_DD_A1" "DD_A1"  ]
+	]
+hood_model "phase_6/models/modules/DD_A2" [
+	store_node [ "toon_landmark" "toon_landmark_DD_A2" "DD_A2"  ]
+	]
+hood_model "phase_6/models/modules/DD_B1" [
+	store_node [ "toon_landmark" "toon_landmark_DD_B1" "DD_B1"  ]
+	]
+hood_model "phase_6/models/modules/DD_B2" [
+	store_node [ "toon_landmark" "toon_landmark_DD_B2" "DD_B2"  ]
+	]
+hood_model "phase_6/models/modules/DD_C1" [
+	store_node [ "toon_landmark" "toon_landmark_DD_C1" "DD_C1"  ]
+	]
+hood_model "phase_6/models/modules/DD_D1" [
+	store_node [ "toon_landmark" "toon_landmark_DD_D1" "DD_D1"  ]
+	]
+
+hood_model "phase_6/models/props/palm_tree_topflat" [
+	store_node [ "prop" "prop_palm_tree_topflat" ]
+	]
+
+hood_model "phase_6/models/props/dockpilings" [
+	store_node [ "prop" "prop_2ftdockpiling" ]
+	store_node [ "prop" "prop_3ftdockpiling" ]
+	store_node [ "prop" "prop_4ftdockpiling" ]
+	]
+
+
+hood_model "phase_6/models/props/signs_DD" [
+	store_node [ "sign" "DD_sign1" ]
+	store_node [ "sign" "DD_sign2" ]
+	store_node [ "sign" "DD_sign3" ]
+	]
+
+hood_model "phase_6/models/props/small_round_barrel" [
+	store_node [ "prop" "DD_barrel" "" ]
+	]
+
+store_texture [ "texture" "street_street_DD_tex"
+		"phase_4/maps/boardwalk_floor.jpg"	]
+store_texture [ "texture" "street_sidewalk_DD_tex"
+		"phase_4/maps/boardwalk_floor_dark.jpg"	]
+
+hood_model "phase_6/models/fonts/Portago" [
+	store_node [ "font" "DD_Portago" "" ]
+	]
+
+hood_model "phase_6/models/props/streetlight_DD" [
+	store_node [ "prop" "streetlight_DD_left" ]
+	store_node [ "prop" "streetlight_DD_right" ]
+	]
+
+hood_model "phase_5/models/props/crate" [
+	store_node [ "prop" "prop_crate" "crate" ]
+	]
+
+hood_model "phase_6/models/props/DD_flats" [
+	store_node [ "prop" "prop_lifesaver" "g3" ]
+	store_node [ "prop" "prop_nets" "g4"]
+	store_node [ "prop" "prop_ship_wheel" "g5" ]
+	]
+
+hood_model "phase_5/models/props/chimneys" [
+	store_node [ "prop" "prop_chimney" ]
+	store_node [ "prop" "prop_stovepipe" ]
+	store_node [ "prop" "prop_smokestack" ]
+	]

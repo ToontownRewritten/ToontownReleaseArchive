@@ -1,0 +1,407 @@
+group "donaldsDreamland" [
+ visgroup "9301" [
+  vis [   "9301"   ]
+  group "streets" [
+  ]
+  group "buildings" [
+  ]
+  group "props" [
+  ]
+ ]
+ visgroup "9302" [
+  vis [   "9302"   ]
+  group "streets" [
+  ]
+  group "buildings" [
+  ]
+  group "props" [
+  ]
+ ]
+ visgroup "9303" [
+  vis [   "9303"   ]
+  group "streets" [
+  ]
+  group "buildings" [
+  ]
+  group "props" [
+  ]
+ ]
+ visgroup "9304" [
+  vis [   "9304"   ]
+  group "streets" [
+  ]
+  group "buildings" [
+  ]
+  group "props" [
+  ]
+ ]
+ visgroup "9305" [
+  vis [   "9305"   ]
+  group "streets" [
+  ]
+  group "buildings" [
+  ]
+  group "props" [
+  ]
+ ]
+ visgroup "9306" [
+  vis [   "9306"   ]
+  group "streets" [
+  ]
+  group "buildings" [
+  ]
+  group "props" [
+  ]
+ ]
+ visgroup "9307" [
+  vis [   "9307"   ]
+  group "streets" [
+  ]
+  group "buildings" [
+  ]
+  group "props" [
+  ]
+ ]
+ visgroup "9308" [
+  vis [   "9308"   ]
+  group "streets" [
+  ]
+  group "buildings" [
+  ]
+  group "props" [
+  ]
+ ]
+ visgroup "9309" [
+  vis [   "9309"   ]
+  group "streets" [
+  ]
+  group "buildings" [
+  ]
+  group "props" [
+  ]
+ ]
+ visgroup "9310" [
+  vis [   "9310"   ]
+  group "streets" [
+  ]
+  group "buildings" [
+  ]
+  group "props" [
+  ]
+ ]
+ visgroup "9311" [
+  vis [   "9311"   ]
+  group "streets" [
+  ]
+  group "buildings" [
+  ]
+  group "props" [
+  ]
+ ]
+ visgroup "9312" [
+  vis [   "9312"   ]
+  group "streets" [
+  ]
+  group "buildings" [
+  ]
+  group "props" [
+  ]
+ ]
+ visgroup "9313" [
+  vis [   "9313"   ]
+  group "streets" [
+  ]
+  group "buildings" [
+  ]
+  group "props" [
+  ]
+ ]
+ visgroup "9314" [
+  vis [   "9314"   ]
+  group "streets" [
+  ]
+  group "buildings" [
+  ]
+  group "props" [
+  ]
+ ]
+ visgroup "9315" [
+  vis [   "9315"   ]
+  group "streets" [
+  ]
+  group "buildings" [
+  ]
+  group "props" [
+  ]
+ ]
+ visgroup "9316" [
+  vis [   "9316"   ]
+  group "streets" [
+  ]
+  group "buildings" [
+  ]
+  group "props" [
+  ]
+ ]
+ visgroup "9317" [
+  vis [   "9317"   ]
+  group "streets" [
+  ]
+  group "buildings" [
+  ]
+  group "props" [
+  ]
+ ]
+ visgroup "9318" [
+  vis [   "9318"   ]
+  group "streets" [
+  ]
+  group "buildings" [
+  ]
+  group "props" [
+  ]
+ ]
+ visgroup "9319" [
+  vis [   "9319"   ]
+  group "streets" [
+  ]
+  group "buildings" [
+  ]
+  group "props" [
+  ]
+ ]
+ visgroup "9320" [
+  vis [   "9320"   ]
+  group "streets" [
+  ]
+  group "buildings" [
+  ]
+  group "props" [
+  ]
+ ]
+ visgroup "9321" [
+  vis [   "9321"   ]
+  group "streets" [
+  ]
+  group "buildings" [
+  ]
+  group "props" [
+  ]
+ ]
+ visgroup "9322" [
+  vis [   "9322"   ]
+  group "streets" [
+  ]
+  group "buildings" [
+  ]
+  group "props" [
+  ]
+ ]
+ visgroup "9323" [
+  vis [   "9323"   ]
+  group "streets" [
+  ]
+  group "buildings" [
+  ]
+  group "props" [
+  ]
+ ]
+ visgroup "9324" [
+  vis [   "9324"   ]
+  group "streets" [
+  ]
+  group "buildings" [
+  ]
+  group "props" [
+  ]
+ ]
+ visgroup "9325" [
+  vis [   "9325"   ]
+  group "streets" [
+  ]
+  group "buildings" [
+  ]
+  group "props" [
+  ]
+ ]
+ visgroup "9326" [
+  vis [   "9326"   ]
+  group "streets" [
+  ]
+  group "buildings" [
+  ]
+  group "props" [
+  ]
+ ]
+ visgroup "9327" [
+  vis [   "9327"   ]
+  group "streets" [
+  ]
+  group "buildings" [
+  ]
+  group "props" [
+  ]
+ ]
+ visgroup "9328" [
+  vis [   "9328"   ]
+  group "streets" [
+  ]
+  group "buildings" [
+  ]
+  group "props" [
+  ]
+ ]
+ visgroup "9329" [
+  vis [   "9329"   ]
+  group "streets" [
+  ]
+  group "buildings" [
+  ]
+  group "props" [
+  ]
+ ]
+ visgroup "9330" [
+  vis [   "9330"   ]
+  group "streets" [
+  ]
+  group "buildings" [
+  ]
+  group "props" [
+  ]
+ ]
+ visgroup "9331" [
+  vis [   "9331"   ]
+  group "streets" [
+  ]
+  group "buildings" [
+  ]
+  group "props" [
+  ]
+ ]
+ visgroup "9332" [
+  vis [   "9332"   ]
+  group "streets" [
+  ]
+  group "buildings" [
+  ]
+  group "props" [
+  ]
+ ]
+ visgroup "9333" [
+  vis [   "9333"   ]
+  group "streets" [
+  ]
+  group "buildings" [
+  ]
+  group "props" [
+  ]
+ ]
+ visgroup "9334" [
+  vis [   "9334"   ]
+  group "streets" [
+  ]
+  group "buildings" [
+  ]
+  group "props" [
+  ]
+ ]
+ visgroup "9335" [
+  vis [   "9335"   ]
+  group "streets" [
+  ]
+  group "buildings" [
+  ]
+  group "props" [
+  ]
+ ]
+ visgroup "9336" [
+  vis [   "9336"   ]
+  group "streets" [
+  ]
+  group "buildings" [
+  ]
+  group "props" [
+  ]
+ ]
+ visgroup "9337" [
+  vis [   "9337"   ]
+  group "streets" [
+  ]
+  group "buildings" [
+  ]
+  group "props" [
+  ]
+ ]
+ visgroup "9338" [
+  vis [   "9338"   ]
+  group "streets" [
+  ]
+  group "buildings" [
+  ]
+  group "props" [
+  ]
+ ]
+ visgroup "9339" [
+  vis [   "9339"   ]
+  group "streets" [
+  ]
+  group "buildings" [
+  ]
+  group "props" [
+  ]
+ ]
+ visgroup "9340" [
+  vis [   "9340"   ]
+  group "streets" [
+  ]
+  group "buildings" [
+  ]
+  group "props" [
+  ]
+ ]
+ visgroup "9341" [
+  vis [   "9341"   ]
+  group "streets" [
+  ]
+  group "buildings" [
+  ]
+  group "props" [
+  ]
+ ]
+ visgroup "9342" [
+  vis [   "9342"   ]
+  group "streets" [
+  ]
+  group "buildings" [
+  ]
+  group "props" [
+  ]
+ ]
+ visgroup "9343" [
+  vis [   "9343"   ]
+  group "streets" [
+  ]
+  group "buildings" [
+  ]
+  group "props" [
+  ]
+ ]
+ visgroup "9344" [
+  vis [   "9344"   ]
+  group "streets" [
+  ]
+  group "buildings" [
+  ]
+  group "props" [
+  ]
+ ]
+ visgroup "9345" [
+  vis [   "9345"   ]
+  group "streets" [
+  ]
+  group "buildings" [
+  ]
+  group "props" [
+  ]
+ ]
+]
