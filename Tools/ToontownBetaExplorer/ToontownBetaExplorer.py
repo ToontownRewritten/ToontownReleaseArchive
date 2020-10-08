@@ -7,16 +7,18 @@
 #          easy viewing. This tool must be ran with the same Python version
 #          bundled with the Toontown Online Beta install. See README for
 #          instructions.
+#
+# Usage: BETA_INSTALL_PATH/python.exe -O ToontownBetaExplorer.py "path/to/file.ext"
 # =============================================================================
 
 # If you moved the 1.0.5-install directory or downloaded it separately,
 # update this variable with the correct location on your computer.
-betaInstallPath = "../../Releases/ToontownBeta/1.0.5-install"
+BETA_INSTALL_PATH = "../../Releases/ToontownBeta/1.0.5-install"
 
 # Add paths to search for for beta files
 import sys
-sys.path.append(betaInstallPath + "/phase_2/lib/py")
-sys.path.append(betaInstallPath + "/phase_3/lib/py")
+sys.path.append(BETA_INSTALL_PATH + "/phase_2/lib/py")
+sys.path.append(BETA_INSTALL_PATH + "/phase_3/lib/py")
 
 import libdtoolconfig
 import libpandaexpress
