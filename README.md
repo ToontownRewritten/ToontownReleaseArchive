@@ -4,6 +4,8 @@ Disney's Toontown Online officially closed its doors on September 19, 2013. Howe
 
 ## Releases
 
+These releases were publicly distributed by The Walt Disney Company, and are collected here for archival purposes. Make sure to view the [License](Releases/LICENSE.md) for usage information.
+
 **[Toontown Beta](Releases/ToontownBeta)**
 
 * **1.0.5** - September 5, 2001 - *Donated by Joe Shochet*
