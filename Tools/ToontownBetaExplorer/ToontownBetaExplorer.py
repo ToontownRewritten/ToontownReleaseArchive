@@ -122,7 +122,7 @@ class ToontownBetaLoader:
         geom.reparentTo(render)
         return geom
 
-    def loadDNA(self, filePath, loadSky=True):
+    def loadDNA(self, filePath, loadSky=1):
         """
         Loads a Toontown Beta DNA file.
 
