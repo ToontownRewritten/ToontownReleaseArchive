@@ -21,6 +21,9 @@ sys.path.append(betaInstallPath + "/phase_3/lib/py")
 import libdtoolconfig
 import libpandaexpress
 import libtoontownModules
+from DepthTestProperty import *
+from DepthTestTransition import *
+from DepthWriteTransition import *
 from libpandaexpressModules import *
 from ShowBase import ShowBase
 
@@ -89,7 +92,16 @@ elif filePath[-3:] == 'dna':
 
     # Load skybox
     sky = base.loader.loadModel(skyFile)
-    sky.reparentTo(render)
+    # Normally we would use CompassEffect to unlock the sky from camera rotation, but that wasn't
+    # available in Panda3D until 2002. Need to figure out what Disney's method was prior to that effect.
+    sky.reparentTo(camera)
+    sky.setZ(-30)
+    # Disable depth on skybox (The fun 2001 way of doing it!) so that it doesn't render over the scene
+    dw = DepthWriteTransition.off()
+    dt = DepthTestTransition(DepthTestProperty.MNone)
+    sky.arc().setTransition(dw, 1)
+    sky.arc().setTransition(dt, 1)
+    sky.setBin('background', -100)
 else:
     TypeError("Sorry, that file format isn't supported! Try dropping in a '.bam' or '.dna' file.")
 
