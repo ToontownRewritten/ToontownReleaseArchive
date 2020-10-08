@@ -17,3 +17,9 @@ These releases were publicly distributed by The Walt Disney Company, and are col
 > Loads Bam and DNA files from Toontown Online Beta (v1.0.5) for easy viewing.
 >
 > *Authored by Joey Ziolkowski (@JoeyZio)*
+
+## Contributing
+
+Check out the [Contributing](CONTRIBUTING.md) page to learn how to help out with the Toontown Release Archive!
+
+This repository is maintained by [Toontown Rewritten](https://toontownrewritten.com).
