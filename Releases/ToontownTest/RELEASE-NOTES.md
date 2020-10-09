@@ -2,7 +2,7 @@
 
 # Test Release Notes
 
-These release notes were pulled from [a capture of the Toontown Online website](http://web.archive.org/web/20081216101645/http://play.test.toontown.com/news.php) from September 26, 2002, and are currently incomplete.
+These release notes were pulled from [a capture of the Toontown Online website](http://web.archive.org/web/20081216101645/http://play.test.toontown.com/news.php) from December 16, 2008, and are currently incomplete.
 
 * [December 10, 2008 [sv1.0.37.2.test]](#december-10-2008-sv10372test)
 
