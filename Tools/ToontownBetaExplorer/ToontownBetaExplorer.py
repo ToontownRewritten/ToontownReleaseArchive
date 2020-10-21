@@ -1,7 +1,7 @@
 # =============================================================================
 # Toontown Beta Explorer
-# Author: Joey Ziolkowski
-# Date: 10/7/2020
+# Author: Joey Ziolkowski, Bradley Flory
+# Date: 10/10/2020
 #
 # Purpose: Loads Bam and DNA files from Toontown Online Beta (v1.0.5) for
 #          easy viewing. This tool must be ran with the same Python version
@@ -22,6 +22,8 @@ sys.path.append(BETA_INSTALL_PATH + "/phase_3/lib/py")
 
 import Actor
 import libtoontownModules
+import Extractor
+from Filename import Filename
 from DepthTestProperty import *
 from DepthTestTransition import *
 from DepthWriteTransition import *
@@ -92,8 +94,19 @@ class ToontownBetaLoader:
         elif filePath[-3:] == 'dna':
             # Handle DNA files, used for levels
             self.loadDNA(filePath)
+        elif filePath[-2:] == 'mf':
+            # Handle MF extraction, used as a storage container
+            self.loadMf(filePath)
         else:
-            TypeError("Sorry, that file format isn't supported! Try dropping in a '.bam' or '.dna' file.")
+            TypeError("Sorry, that file format isn't supported! Try dropping in a '.bam', '.dna', or '.mf' file.")
+    
+    def loadMf(self, filePath):
+        """
+        Extracts a Toontown Beta multifile.
+        """
+        
+        extractor = Extractor.Extractor()
+        extractor.extract(Filename(filePath), Filename(filePath[:-3]))
 
     def loadBam(self, filePath):
         """
