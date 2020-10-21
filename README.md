@@ -14,6 +14,10 @@ These releases were publicly distributed by The Walt Disney Company, and are col
 
 * **1.0.47.31-macOS** - June 27, 2013 - *Donated by CloudCityDev*
 
+**[Toontown Test](Releases/ToontownTest)**
+
+* **1.0.37.2.test** - December 10, 2008 - *Donated by Bryan Muschter*
+
 ## Tools
 
 **[Toontown Beta Explorer](Tools/ToontownBetaExplorer)**
