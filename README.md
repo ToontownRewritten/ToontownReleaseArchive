@@ -10,6 +10,10 @@ These releases were publicly distributed by The Walt Disney Company, and are col
 
 * **1.0.5** - September 5, 2001 - *Donated by Joe Shochet*
 
+**[Toontown Live](Releases/ToontownLive)**
+
+* **1.0.47.31-macOS** - June 27, 2013 - *Donated by CloudCityDev*
+
 ## Tools
 
 **[Toontown Beta Explorer](Tools/ToontownBetaExplorer)**
