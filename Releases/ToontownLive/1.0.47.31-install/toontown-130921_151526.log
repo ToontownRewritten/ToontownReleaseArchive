@@ -1,0 +1,26 @@
+
+
+Starting Toontown...
+Current time: Sat Sep 21 15:15:26 2013 Central Standard Time
+sys.path =  ['']
+sys.argv =  ['Toontown']
+generating standard configrc
+__COMPAT_LAYER = DetectorsWin8
+:09-21-2013 15:15:26 Launcher: isTestServer: 0
+:09-21-2013 15:15:26 Launcher: Download Server List 
+:09-21-2013 15:15:26 Launcher: Using download server .
+:09-21-2013 15:15:26 Launcher: Game Server 
+:09-21-2013 15:15:26 Launcher: patch directory is 0
+:09-21-2013 15:15:26 Launcher: Starting Disney's Toontown Online... 
+:09-21-2013 15:15:26 :downloader(warning): Could not read gameserver.txt.
+:09-21-2013 15:15:26 Launcher: Proxy spec is: 
+:09-21-2013 15:15:26 :downloader: [036A4198] created.
+:09-21-2013 15:15:26 Launcher: No proxy for download.
+:09-21-2013 15:15:26 :downloader: [036A4198] begin HEAD [ /patcher.ver?595075994 ]
+:09-21-2013 15:15:26 :downloader: [036A4198] reset_to_new.
+:09-21-2013 15:15:26 :downloader: [036A4198] reset_to_new.
+:09-21-2013 15:15:46 :downloader: [036A4198] Timeout connecting to :80 for /patcher.ver?595075994.
+:09-21-2013 15:15:46 Launcher(warning): Could not contact download server at /patcher.ver?595075994
+:09-21-2013 15:15:46 Launcher(warning): Status code = 3 Timeout on connection
+:09-21-2013 15:15:46 Launcher: setting panda error code to 4
+:09-21-2013 15:15:46 :downloader: [036A4198] destroyed.

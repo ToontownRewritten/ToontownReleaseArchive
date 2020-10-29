@@ -1,0 +1,59 @@
+=====Log Open
+CHECKING CPU...
+CPU speed: 2594 Mhz
+NumProcessors: 8
+CPU vendor code: Intel
+CPU vendor name: GenuineIntel
+CPU name: Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz
+CPU type: unknown
+CPU level: 6
+CPU features: MMX, MMX Extensions, SSE, SSE FP, SSE2, 
+CHECKING OS...
+Microsoft Windows Longhorn OS (Newer than WinXP) Professional  (Build 9200)
+User has NT Admin privileges
+IE Ver: 9.10.9200.16635
+Mouse detected
+CHECKING RAM...
+RAM: Total: 8098.70 MB, Free: 4283.25 MB, Utilization: 47%
+CHEKING VIDEO RAM...
+VRAM: Total: 4039 MB
+CHECKING DISK SPACE...
+Free Disk Space: 1431 MB
+CHECKING 3D HARDWARE...
+installed DX VerStr: 4.09.00.0904
+DX Level Installed: DX 9.0
+Detected DX Card[0]: NVIDIA GeForce GT 650M
+Driver Version: (9.18.13.2049) Date: (6/21/2013) DriverName: nvd3dumx.dll,nvwgf2umx.dll,nvwgf2umx.dll,nvd3dum,nvwgf2um,nvwgf2um; VendorID: 0x000010DE; DeviceID: 0x00000FD5; SubsysID: 0x00F2106B; Revision: 0x000000A1
+Suggested GfxApi: DX 9.0
+CHECKING SOUND... Removed
+Keyboard Layout: A0000409 LangID: 0x0x0409 Locale ID: 0x0x0409
+CHECKING NET CONNECTION...
+IP Addr: 0.0.0.0
+ignoring IP Addr
+MAC Address: 00-26-37-BD-39-42
+IP Addr: 0.0.0.0
+ignoring IP Addr
+MAC Address: 00-FF-5E-B5-10-EE
+IP Addr: 0.0.0.0
+ignoring IP Addr
+MAC Address: 14-10-9F-DB-5D-2D
+IP Addr: 0.0.0.0
+ignoring IP Addr
+MAC Address: 14-10-9F-DB-5D-2E
+IP Addr: 192.168.1.136
+MAC Address: 14-10-9F-DB-5D-2D
+IP Addr: 25.176.99.33
+MAC Address: 7A-79-19-B0-63-21
+Internet connection is through a LAN
+Microsoft Windows Longhorn OS (Newer than WinXP) Professional  (Build 9200)
+User has NT Admin privileges
+found potentially conflicting installed program: Minecraft Note Block Studio version 3.1.3
+Trying To Start Splash and Sefl Path
+Cleaning old logs unlink C:\Program Files (x86)\Disney\Disney Online\ToontownOnline\toontown-130618_001456.log
+-------->[WEB1] Setting Url To res://C:\Program Files (x86)\Disney\Disney Online\ToontownOnline\ToontownLauncher.exe/157
+-------->[WEB2] Setting Url To res://C:\Program Files (x86)\Disney\Disney Online\ToontownOnline\ToontownLauncher.exe/157
+-------->[WEB3] Setting Url To res://C:\Program Files (x86)\Disney\Disney Online\ToontownOnline\ToontownLauncher.exe/157
+****Found Command line  Varable []
+-------->[WEB1] Setting Url To http://toontown.go.com/content/en/launcher/live/news/
+-------->[WEB1] Setting Url To res://C:\Program Files (x86)\Disney\Disney Online\ToontownOnline\ToontownLauncher.exe/157
+021539B8 Normal Exit

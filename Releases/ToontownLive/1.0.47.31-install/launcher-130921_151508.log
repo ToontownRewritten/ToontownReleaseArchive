@@ -1,0 +1,49 @@
+=====Log Open
+CHECKING CPU...
+CPU speed: 3400 Mhz
+NumProcessors: 4
+CPU vendor code: Intel
+CPU vendor name: GenuineIntel
+CPU name: Intel(R) Core(TM) i5-4670K CPU @ 3.40GHz
+CPU type: unknown
+CPU level: 6
+CPU features: MMX, MMX Extensions, SSE, SSE FP, SSE2, 
+CHECKING OS...
+Microsoft Windows Longhorn OS (Newer than WinXP) Professional  (Build 9200)
+User has NT Admin privileges
+IE Ver: 9.10.9200.16688
+Mouse detected
+CHECKING RAM...
+RAM: Total: 8081.98 MB, Free: 4764.83 MB, Utilization: 41%
+CHEKING VIDEO RAM...
+VRAM: Total: 4095 MB
+CHECKING DISK SPACE...
+Free Disk Space: 717285 MB
+CHECKING 3D HARDWARE...
+installed DX VerStr: 4.09.00.0904
+DX Level Installed: DX 9.0
+Detected DX Card[0]: AMD Radeon HD 7900 Series
+Driver Version: (8.17.10.1242) Date: (9/5/2013) DriverName: aticfx64.dll,aticfx64.dll,aticfx64.dll,aticfx32,aticfx32,aticfx32,atiumd64.dll,atidxx64.dll,atidxx6; VendorID: 0x00001002; DeviceID: 0x0000679B; SubsysID: 0x0B2A1002; Revision: 0x00000000
+Suggested GfxApi: DX 9.0
+CHECKING SOUND... Removed
+Keyboard Layout: 00000409 LangID: 0x0x0409 Locale ID: 0x0x0409
+CHECKING NET CONNECTION...
+IP Addr: 192.168.1.107
+MAC Address: 48-F8-B3-74-20-26
+IP Addr: 192.168.56.1
+MAC Address: 08-00-27-00-44-9F
+IP Addr: 0.0.0.0
+ignoring IP Addr
+MAC Address: 00-26-37-BD-39-42
+IP Addr: 0.0.0.0
+ignoring IP Addr
+MAC Address: 94-DE-80-7B-31-17
+Internet connection is through a LAN
+Microsoft Windows Longhorn OS (Newer than WinXP) Professional  (Build 9200)
+User has NT Admin privileges
+Trying To Start Splash and Sefl Path
+-------->[WEB1] Setting Url To res://C:\Program Files (x86)\Disney\Disney Online\ToontownOnline\ToontownLauncher.exe/157
+-------->[WEB2] Setting Url To res://C:\Program Files (x86)\Disney\Disney Online\ToontownOnline\ToontownLauncher.exe/157
+-------->[WEB3] Setting Url To res://C:\Program Files (x86)\Disney\Disney Online\ToontownOnline\ToontownLauncher.exe/157
+****Found Command line  Varable []
+024C11D0 Normal Exit
