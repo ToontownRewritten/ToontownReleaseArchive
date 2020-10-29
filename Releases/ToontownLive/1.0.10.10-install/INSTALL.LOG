@@ -1,0 +1,1848 @@
+***  Installation Started 06/16/2003 13:25  ***
+Title: Disney's Toontown Online Installation
+Source: C:\Program Files\Disney\Disney Online\Toontown\InstallLauncher.exe
+File Copy: C:\Program Files\Disney\Disney Online\Toontown\UNWISE.EXE
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: Disney's Toontown Online
+RegDB Name: DisplayName
+RegDB Root: 2
+RegDB Old: Disney's Toontown Online
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: C:\PROGRA~1\DISNEY\DISNEY~1\TOONTOWN\UNWISE.EXE /A C:\PROGRA~1\DISNEY\DISNEY~1\TOONTOWN\INSTALL.LOG
+RegDB Name: UninstallString
+RegDB Root: 2
+RegDB Old: C:\PROGRA~1\DISNEY\DISNEY~1\TOONTOWN\UNWISE.EXE /A C:\PROGRA~1\DISNEY\DISNEY~1\TOONTOWN\INSTALL.LOG
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: Walt Disney Co.
+RegDB Name: Publisher
+RegDB Root: 2
+RegDB Old: Walt Disney Co.
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: http://www.toontown.com
+RegDB Name: URLInfoAbout
+RegDB Root: 2
+RegDB Old: http://www.toontown.com
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: C:\Program Files\Disney\Disney Online\Toontown\toontown.ico
+RegDB Name: DisplayIcon
+RegDB Root: 2
+RegDB Old: C:\Program Files\Disney\Disney Online\Toontown\toontown.ico
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: http://www.toontown.com
+RegDB Name: HelpLink
+RegDB Root: 2
+RegDB Old: http://www.toontown.com
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: 1
+RegDB Name: NoModify
+RegDB Type: 3
+RegDB Root: 2
+RegDB Old: 1
+File Copy: C:\Program Files\Disney\Disney Online\Toontown\Configrc.exe
+File Copy: C:\Program Files\Disney\Disney Online\Toontown\libdtool.dll
+File Copy: C:\Program Files\Disney\Disney Online\Toontown\libdtoolconfig.dll
+File Copy: C:\Program Files\Disney\Disney Online\Toontown\libpandaexpress.dll
+File Copy: C:\Program Files\Disney\Disney Online\Toontown\msvcp70.dll
+File Copy: C:\Program Files\Disney\Disney Online\Toontown\msvcr70.dll
+File Copy: C:\Program Files\Disney\Disney Online\Toontown\nspr4.dll
+File Copy: C:\Program Files\Disney\Disney Online\Toontown\Phase2.pyz
+File Copy: C:\Program Files\Disney\Disney Online\Toontown\PlayToontown.url
+File Copy: C:\Program Files\Disney\Disney Online\Toontown\PlayToontownTest.url
+File Copy: C:\Program Files\Disney\Disney Online\Toontown\python22.dll
+File Copy: C:\Program Files\Disney\Disney Online\Toontown\PyWinTypes22.dll
+File Copy: C:\Program Files\Disney\Disney Online\Toontown\Toontown.exe
+File Copy: C:\Program Files\Disney\Disney Online\Toontown\toontown.ico
+File Copy: C:\Program Files\Disney\Disney Online\Toontown\Toontown.url
+File Copy: C:\Program Files\Disney\Disney Online\Toontown\ToontownTest.url
+File Copy: C:\Program Files\Disney\Disney Online\Toontown\win32api.pyd
+File Copy: C:\Program Files\Disney\Disney Online\Toontown\zlib.pyd
+File Copy: C:\Program Files\Disney\Disney Online\Toontown\_socket.pyd
+File Copy: C:\Program Files\Disney\Disney Online\Toontown\_sre.pyd
+RegDB Key: Software\Disney\Disney Online\Toontown
+RegDB Val: 1
+RegDB Name: LAUNCHER_EXTRACTED
+RegDB Root: 2
+Shell Link: C:\Documents and Settings\Cherie Finkelstein\Start Menu\Programs\Disney's Toontown Online\Play Toontown.lnk
+Shell Link: C:\Documents and Settings\Cherie Finkelstein\Start Menu\Programs\Disney's Toontown Online\Toontown Web Page.lnk
+Shell Link: C:\Documents and Settings\Cherie Finkelstein\Start Menu\Programs\Disney's Toontown Online\Uninstall.lnk
+Shell Link: C:\Documents and Settings\Cherie Finkelstein\Desktop\Disney's Toontown Online.lnk
+Execute Program: C:\Program Files\Disney\Disney Online\Toontown\Configrc.exe -uninstall_activex
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_2\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_3\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_4\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_5\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_6\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_7\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_8\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\maps\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\db\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\mf\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\*.*
+File Tree: C:\DOCUME~1\CHERIE~1\LOCALS~1\Temp\ToontownInstaller*.log
+RegDB Tree: SOFTWARE\Disney\Disney Online\Toontown
+RegDB Root: 2
+User Rights: Admin
+***  Installation Started 06/25/2003 14:13  ***
+Title: Disney's Toontown Online Installation
+Source: C:\Program Files\Disney\Disney Online\Toontown\InstallLauncher.exe
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\UNWISE.EXE
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: Disney's Toontown Online
+RegDB Name: DisplayName
+RegDB Root: 2
+RegDB Old: Disney's Toontown Online
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: C:\PROGRA~1\DISNEY\DISNEY~1\TOONTOWN\UNWISE.EXE /A C:\PROGRA~1\DISNEY\DISNEY~1\TOONTOWN\INSTALL.LOG
+RegDB Name: UninstallString
+RegDB Root: 2
+RegDB Old: C:\PROGRA~1\DISNEY\DISNEY~1\TOONTOWN\UNWISE.EXE /A C:\PROGRA~1\DISNEY\DISNEY~1\TOONTOWN\INSTALL.LOG
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: Walt Disney Co.
+RegDB Name: Publisher
+RegDB Root: 2
+RegDB Old: Walt Disney Co.
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: http://www.toontown.com
+RegDB Name: URLInfoAbout
+RegDB Root: 2
+RegDB Old: http://www.toontown.com
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: C:\Program Files\Disney\Disney Online\Toontown\toontown.ico
+RegDB Name: DisplayIcon
+RegDB Root: 2
+RegDB Old: C:\Program Files\Disney\Disney Online\Toontown\toontown.ico
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: http://www.toontown.com
+RegDB Name: HelpLink
+RegDB Root: 2
+RegDB Old: http://www.toontown.com
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: 1
+RegDB Name: NoModify
+RegDB Type: 3
+RegDB Root: 2
+RegDB Old: 1
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\Configrc.exe
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\libdtool.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\libdtoolconfig.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\libpandaexpress.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\msvcp70.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\msvcr70.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\nspr4.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\Phase2.pyz
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\PlayToontown.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\PlayToontownTest.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\python22.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\PyWinTypes22.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\Toontown.exe
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\toontown.ico
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\Toontown.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\ToontownTest.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\win32api.pyd
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\zlib.pyd
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\_socket.pyd
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\_sre.pyd
+RegDB Key: Software\Disney\Disney Online\Toontown
+RegDB Val: 1
+RegDB Name: LAUNCHER_EXTRACTED
+RegDB Root: 2
+Shell Link: C:\Documents and Settings\Cherie Finkelstein\Start Menu\Programs\Disney's Toontown Online\Play Toontown.lnk
+Shell Link: C:\Documents and Settings\Cherie Finkelstein\Start Menu\Programs\Disney's Toontown Online\Toontown Web Page.lnk
+Shell Link: C:\Documents and Settings\Cherie Finkelstein\Start Menu\Programs\Disney's Toontown Online\Uninstall.lnk
+Shell Link: C:\Documents and Settings\Cherie Finkelstein\Desktop\Disney's Toontown Online.lnk
+Execute Program: C:\Program Files\Disney\Disney Online\Toontown\Configrc.exe -uninstall_activex
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_2\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_3\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_4\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_5\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_6\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_7\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_8\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\maps\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\db\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\mf\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\*.*
+File Tree: C:\DOCUME~1\CHERIE~1\LOCALS~1\Temp\ToontownInstaller*.log
+RegDB Tree: SOFTWARE\Disney\Disney Online\Toontown
+RegDB Root: 2
+User Rights: Admin
+***  Installation Started 07/01/2003 17:30  ***
+Title: Disney's Toontown Online Installation
+Source: C:\Program Files\Disney\Disney Online\Toontown\InstallLauncher.exe
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\UNWISE.EXE
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: Disney's Toontown Online
+RegDB Name: DisplayName
+RegDB Root: 2
+RegDB Old: Disney's Toontown Online
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: C:\PROGRA~1\DISNEY\DISNEY~1\TOONTOWN\UNWISE.EXE /A C:\PROGRA~1\DISNEY\DISNEY~1\TOONTOWN\INSTALL.LOG
+RegDB Name: UninstallString
+RegDB Root: 2
+RegDB Old: C:\PROGRA~1\DISNEY\DISNEY~1\TOONTOWN\UNWISE.EXE /A C:\PROGRA~1\DISNEY\DISNEY~1\TOONTOWN\INSTALL.LOG
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: Walt Disney Co.
+RegDB Name: Publisher
+RegDB Root: 2
+RegDB Old: Walt Disney Co.
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: http://www.toontown.com
+RegDB Name: URLInfoAbout
+RegDB Root: 2
+RegDB Old: http://www.toontown.com
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: C:\Program Files\Disney\Disney Online\Toontown\toontown.ico
+RegDB Name: DisplayIcon
+RegDB Root: 2
+RegDB Old: C:\Program Files\Disney\Disney Online\Toontown\toontown.ico
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: http://www.toontown.com
+RegDB Name: HelpLink
+RegDB Root: 2
+RegDB Old: http://www.toontown.com
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: 1
+RegDB Name: NoModify
+RegDB Type: 3
+RegDB Root: 2
+RegDB Old: 1
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\Configrc.exe
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\libdtool.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\libdtoolconfig.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\libpandaexpress.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\msvcp70.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\msvcr70.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\nspr4.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\Phase2.pyz
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\PlayToontown.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\PlayToontownTest.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\python22.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\PyWinTypes22.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\Toontown.exe
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\toontown.ico
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\Toontown.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\ToontownTest.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\win32api.pyd
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\zlib.pyd
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\_socket.pyd
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\_sre.pyd
+RegDB Key: Software\Disney\Disney Online\Toontown
+RegDB Val: 1
+RegDB Name: LAUNCHER_EXTRACTED
+RegDB Root: 2
+Shell Link: C:\Documents and Settings\Cherie Finkelstein\Start Menu\Programs\Disney's Toontown Online\Play Toontown.lnk
+Shell Link: C:\Documents and Settings\Cherie Finkelstein\Start Menu\Programs\Disney's Toontown Online\Toontown Web Page.lnk
+Shell Link: C:\Documents and Settings\Cherie Finkelstein\Start Menu\Programs\Disney's Toontown Online\Uninstall.lnk
+Shell Link: C:\Documents and Settings\Cherie Finkelstein\Desktop\Disney's Toontown Online.lnk
+Execute Program: C:\Program Files\Disney\Disney Online\Toontown\Configrc.exe -uninstall_activex
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_2\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_3\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_4\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_5\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_6\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_7\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_8\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\maps\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\db\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\mf\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\*.*
+File Tree: C:\DOCUME~1\CHERIE~1\LOCALS~1\Temp\ToontownInstaller*.log
+RegDB Tree: SOFTWARE\Disney\Disney Online\Toontown
+RegDB Root: 2
+User Rights: Admin
+***  Installation Started 07/23/2003 17:08  ***
+Title: Disney's Toontown Online Installation
+Source: C:\Program Files\Disney\Disney Online\Toontown\InstallLauncher.exe
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\UNWISE.EXE
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: Disney's Toontown Online
+RegDB Name: DisplayName
+RegDB Root: 2
+RegDB Old: Disney's Toontown Online
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: C:\PROGRA~1\DISNEY\DISNEY~1\TOONTOWN\UNWISE.EXE /A C:\PROGRA~1\DISNEY\DISNEY~1\TOONTOWN\INSTALL.LOG
+RegDB Name: UninstallString
+RegDB Root: 2
+RegDB Old: C:\PROGRA~1\DISNEY\DISNEY~1\TOONTOWN\UNWISE.EXE /A C:\PROGRA~1\DISNEY\DISNEY~1\TOONTOWN\INSTALL.LOG
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: Walt Disney Co.
+RegDB Name: Publisher
+RegDB Root: 2
+RegDB Old: Walt Disney Co.
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: http://www.toontown.com
+RegDB Name: URLInfoAbout
+RegDB Root: 2
+RegDB Old: http://www.toontown.com
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: C:\Program Files\Disney\Disney Online\Toontown\toontown.ico
+RegDB Name: DisplayIcon
+RegDB Root: 2
+RegDB Old: C:\Program Files\Disney\Disney Online\Toontown\toontown.ico
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: http://www.toontown.com
+RegDB Name: HelpLink
+RegDB Root: 2
+RegDB Old: http://www.toontown.com
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: 1
+RegDB Name: NoModify
+RegDB Type: 3
+RegDB Root: 2
+RegDB Old: 1
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\Configrc.exe
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\libdtool.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\libdtoolconfig.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\libpandaexpress.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\msvcp70.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\msvcr70.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\nspr4.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\Phase2.pyz
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\PlayToontown.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\PlayToontownTest.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\python22.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\PyWinTypes22.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\Toontown.exe
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\toontown.ico
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\Toontown.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\ToontownTest.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\win32api.pyd
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\zlib.pyd
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\_socket.pyd
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\_sre.pyd
+RegDB Key: Software\Disney\Disney Online\Toontown
+RegDB Val: 1
+RegDB Name: LAUNCHER_EXTRACTED
+RegDB Root: 2
+Shell Link: C:\Documents and Settings\Cherie Finkelstein\Start Menu\Programs\Disney's Toontown Online\Play Toontown.lnk
+Shell Link: C:\Documents and Settings\Cherie Finkelstein\Start Menu\Programs\Disney's Toontown Online\Uninstall.lnk
+Shell Link: C:\Documents and Settings\Cherie Finkelstein\Desktop\Disney's Toontown Online.lnk
+Execute Program: C:\Program Files\Disney\Disney Online\Toontown\Configrc.exe -uninstall_activex
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_2\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_3\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_4\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_5\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_6\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_7\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_8\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\maps\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\db\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\mf\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\*.*
+File Tree: C:\DOCUME~1\CHERIE~1\LOCALS~1\Temp\ToontownInstaller*.log
+RegDB Tree: SOFTWARE\Disney\Disney Online\Toontown
+RegDB Root: 2
+User Rights: Admin
+***  Installation Started 07/28/2003 17:47  ***
+Title: Disney's Toontown Online Installation
+Source: C:\Program Files\Disney\Disney Online\Toontown\InstallLauncher.exe
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\UNWISE.EXE
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: Disney's Toontown Online
+RegDB Name: DisplayName
+RegDB Root: 2
+RegDB Old: Disney's Toontown Online
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: C:\PROGRA~1\DISNEY\DISNEY~1\TOONTOWN\UNWISE.EXE /A C:\PROGRA~1\DISNEY\DISNEY~1\TOONTOWN\INSTALL.LOG
+RegDB Name: UninstallString
+RegDB Root: 2
+RegDB Old: C:\PROGRA~1\DISNEY\DISNEY~1\TOONTOWN\UNWISE.EXE /A C:\PROGRA~1\DISNEY\DISNEY~1\TOONTOWN\INSTALL.LOG
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: Walt Disney Co.
+RegDB Name: Publisher
+RegDB Root: 2
+RegDB Old: Walt Disney Co.
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: http://www.toontown.com
+RegDB Name: URLInfoAbout
+RegDB Root: 2
+RegDB Old: http://www.toontown.com
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: C:\Program Files\Disney\Disney Online\Toontown\toontown.ico
+RegDB Name: DisplayIcon
+RegDB Root: 2
+RegDB Old: C:\Program Files\Disney\Disney Online\Toontown\toontown.ico
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: http://www.toontown.com
+RegDB Name: HelpLink
+RegDB Root: 2
+RegDB Old: http://www.toontown.com
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: 1
+RegDB Name: NoModify
+RegDB Type: 3
+RegDB Root: 2
+RegDB Old: 1
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\Configrc.exe
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\libdtool.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\libdtoolconfig.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\libpandaexpress.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\msvcp70.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\msvcr70.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\nspr4.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\Phase2.pyz
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\PlayToontown.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\PlayToontownTest.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\python22.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\PyWinTypes22.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\Toontown.exe
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\toontown.ico
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\Toontown.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\ToontownTest.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\win32api.pyd
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\zlib.pyd
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\_socket.pyd
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\_sre.pyd
+RegDB Key: Software\Disney\Disney Online\Toontown
+RegDB Val: 1
+RegDB Name: LAUNCHER_EXTRACTED
+RegDB Type: 3
+RegDB Root: 2
+RegDB Old: 1
+Shell Link: C:\Documents and Settings\Cherie Finkelstein\Start Menu\Programs\Disney's Toontown Online\Play Toontown.lnk
+Shell Link: C:\Documents and Settings\Cherie Finkelstein\Start Menu\Programs\Disney's Toontown Online\Uninstall.lnk
+Shell Link: C:\Documents and Settings\Cherie Finkelstein\Desktop\Disney's Toontown Online.lnk
+Execute Program: C:\Program Files\Disney\Disney Online\Toontown\Configrc.exe -uninstall_activex
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_2\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_3\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_4\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_5\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_6\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_7\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_8\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\maps\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\db\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\mf\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\*.*
+File Tree: C:\DOCUME~1\CHERIE~1\LOCALS~1\Temp\ToontownInstaller*.log
+RegDB Tree: SOFTWARE\Disney\Disney Online\Toontown
+RegDB Root: 2
+User Rights: Admin
+***  Installation Started 08/07/2003 18:12  ***
+Title: Disney's Toontown Online Installation
+Source: C:\Program Files\Disney\Disney Online\Toontown\InstallLauncher.exe
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\UNWISE.EXE
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: Disney's Toontown Online
+RegDB Name: DisplayName
+RegDB Root: 2
+RegDB Old: Disney's Toontown Online
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: C:\PROGRA~1\DISNEY\DISNEY~1\TOONTOWN\UNWISE.EXE /A C:\PROGRA~1\DISNEY\DISNEY~1\TOONTOWN\INSTALL.LOG
+RegDB Name: UninstallString
+RegDB Root: 2
+RegDB Old: C:\PROGRA~1\DISNEY\DISNEY~1\TOONTOWN\UNWISE.EXE /A C:\PROGRA~1\DISNEY\DISNEY~1\TOONTOWN\INSTALL.LOG
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: Walt Disney Co.
+RegDB Name: Publisher
+RegDB Root: 2
+RegDB Old: Walt Disney Co.
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: http://www.toontown.com
+RegDB Name: URLInfoAbout
+RegDB Root: 2
+RegDB Old: http://www.toontown.com
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: C:\Program Files\Disney\Disney Online\Toontown\toontown.ico
+RegDB Name: DisplayIcon
+RegDB Root: 2
+RegDB Old: C:\Program Files\Disney\Disney Online\Toontown\toontown.ico
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: http://www.toontown.com
+RegDB Name: HelpLink
+RegDB Root: 2
+RegDB Old: http://www.toontown.com
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: 1
+RegDB Name: NoModify
+RegDB Type: 3
+RegDB Root: 2
+RegDB Old: 1
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\Configrc.exe
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\libdtool.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\libdtoolconfig.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\libpandaexpress.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\msvcp70.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\msvcr70.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\nspr4.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\Phase2.pyz
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\PlayToontown.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\PlayToontownTest.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\python22.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\PyWinTypes22.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\Toontown.exe
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\toontown.ico
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\Toontown.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\ToontownTest.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\win32api.pyd
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\zlib.pyd
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\_socket.pyd
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\_sre.pyd
+RegDB Key: Software\Disney\Disney Online\Toontown
+RegDB Val: 1
+RegDB Name: LAUNCHER_EXTRACTED
+RegDB Root: 2
+Shell Link: C:\Documents and Settings\Cherie Finkelstein\Start Menu\Programs\Disney's Toontown Online\Play Toontown.lnk
+Shell Link: C:\Documents and Settings\Cherie Finkelstein\Start Menu\Programs\Disney's Toontown Online\Uninstall.lnk
+Shell Link: C:\Documents and Settings\Cherie Finkelstein\Desktop\Disney's Toontown Online.lnk
+Execute Program: C:\Program Files\Disney\Disney Online\Toontown\Configrc.exe -uninstall_activex
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_2\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_3\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_4\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_5\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_6\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_7\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_8\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\maps\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\db\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\mf\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\*.*
+File Tree: C:\DOCUME~1\CHERIE~1\LOCALS~1\Temp\ToontownInstaller*.log
+RegDB Tree: SOFTWARE\Disney\Disney Online\Toontown
+RegDB Root: 2
+User Rights: Admin
+***  Installation Started 08/19/2003 11:03  ***
+Title: Disney's Toontown Online Installation
+Source: C:\Program Files\Disney\Disney Online\Toontown\InstallLauncher.exe
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\UNWISE.EXE
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: Disney's Toontown Online
+RegDB Name: DisplayName
+RegDB Root: 2
+RegDB Old: Disney's Toontown Online
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: C:\PROGRA~1\DISNEY\DISNEY~1\TOONTOWN\UNWISE.EXE /A C:\PROGRA~1\DISNEY\DISNEY~1\TOONTOWN\INSTALL.LOG
+RegDB Name: UninstallString
+RegDB Root: 2
+RegDB Old: C:\PROGRA~1\DISNEY\DISNEY~1\TOONTOWN\UNWISE.EXE /A C:\PROGRA~1\DISNEY\DISNEY~1\TOONTOWN\INSTALL.LOG
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: Walt Disney Co.
+RegDB Name: Publisher
+RegDB Root: 2
+RegDB Old: Walt Disney Co.
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: http://www.toontown.com
+RegDB Name: URLInfoAbout
+RegDB Root: 2
+RegDB Old: http://www.toontown.com
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: C:\Program Files\Disney\Disney Online\Toontown\toontown.ico
+RegDB Name: DisplayIcon
+RegDB Root: 2
+RegDB Old: C:\Program Files\Disney\Disney Online\Toontown\toontown.ico
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: http://www.toontown.com
+RegDB Name: HelpLink
+RegDB Root: 2
+RegDB Old: http://www.toontown.com
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: 1
+RegDB Name: NoModify
+RegDB Type: 3
+RegDB Root: 2
+RegDB Old: 1
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\Configrc.exe
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\libdtool.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\libdtoolconfig.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\libpandaexpress.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\msvcp70.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\msvcr70.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\nspr4.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\Phase2.pyz
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\PlayToontown.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\PlayToontownTest.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\python22.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\PyWinTypes22.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\Toontown.exe
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\toontown.ico
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\Toontown.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\ToontownTest.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\win32api.pyd
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\zlib.pyd
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\_socket.pyd
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\_sre.pyd
+RegDB Key: Software\Disney\Disney Online\Toontown
+RegDB Val: 1
+RegDB Name: LAUNCHER_EXTRACTED
+RegDB Root: 2
+Shell Link: C:\Documents and Settings\Cherie Finkelstein\Start Menu\Programs\Disney's Toontown Online\Play Toontown.lnk
+Shell Link: C:\Documents and Settings\Cherie Finkelstein\Start Menu\Programs\Disney's Toontown Online\Uninstall.lnk
+Shell Link: C:\Documents and Settings\Cherie Finkelstein\Desktop\Disney's Toontown Online.lnk
+Execute Program: C:\Program Files\Disney\Disney Online\Toontown\Configrc.exe -uninstall_activex
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_2\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_3\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_4\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_5\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_6\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_7\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_8\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\maps\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\db\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\mf\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\*.*
+File Tree: C:\DOCUME~1\CHERIE~1\LOCALS~1\Temp\ToontownInstaller*.log
+RegDB Tree: SOFTWARE\Disney\Disney Online\Toontown
+RegDB Root: 2
+User Rights: Admin
+***  Installation Started 08/27/2003 11:04  ***
+Title: Disney's Toontown Online Installation
+Source: C:\Program Files\Disney\Disney Online\Toontown\InstallLauncher.exe
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\UNWISE.EXE
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: Disney's Toontown Online
+RegDB Name: DisplayName
+RegDB Root: 2
+RegDB Old: Disney's Toontown Online
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: C:\PROGRA~1\DISNEY\DISNEY~1\TOONTOWN\UNWISE.EXE /A C:\PROGRA~1\DISNEY\DISNEY~1\TOONTOWN\INSTALL.LOG
+RegDB Name: UninstallString
+RegDB Root: 2
+RegDB Old: C:\PROGRA~1\DISNEY\DISNEY~1\TOONTOWN\UNWISE.EXE /A C:\PROGRA~1\DISNEY\DISNEY~1\TOONTOWN\INSTALL.LOG
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: Walt Disney Co.
+RegDB Name: Publisher
+RegDB Root: 2
+RegDB Old: Walt Disney Co.
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: http://www.toontown.com
+RegDB Name: URLInfoAbout
+RegDB Root: 2
+RegDB Old: http://www.toontown.com
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: C:\Program Files\Disney\Disney Online\Toontown\toontown.ico
+RegDB Name: DisplayIcon
+RegDB Root: 2
+RegDB Old: C:\Program Files\Disney\Disney Online\Toontown\toontown.ico
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: http://www.toontown.com
+RegDB Name: HelpLink
+RegDB Root: 2
+RegDB Old: http://www.toontown.com
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: 1
+RegDB Name: NoModify
+RegDB Type: 3
+RegDB Root: 2
+RegDB Old: 1
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\Configrc.exe
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\libdtool.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\libdtoolconfig.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\libpandaexpress.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\msvcp70.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\msvcr70.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\Phase2.pyz
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\PlayToontown.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\PlayToontownTest.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\python22.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\PyWinTypes22.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\Toontown.exe
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\toontown.ico
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\Toontown.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\ToontownTest.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\win32api.pyd
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\zlib.pyd
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\_socket.pyd
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\_sre.pyd
+RegDB Key: Software\Disney\Disney Online\Toontown
+RegDB Val: 1
+RegDB Name: LAUNCHER_EXTRACTED
+RegDB Root: 2
+Shell Link: C:\Documents and Settings\Cherie Finkelstein\Start Menu\Programs\Disney's Toontown Online\Play Toontown.lnk
+Shell Link: C:\Documents and Settings\Cherie Finkelstein\Start Menu\Programs\Disney's Toontown Online\Uninstall.lnk
+Shell Link: C:\Documents and Settings\Cherie Finkelstein\Desktop\Disney's Toontown Online.lnk
+Execute Program: C:\Program Files\Disney\Disney Online\Toontown\Configrc.exe -uninstall_activex
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_2\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_3\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_4\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_5\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_6\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_7\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_8\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\maps\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\db\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\mf\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\*.*
+File Tree: C:\DOCUME~1\CHERIE~1\LOCALS~1\Temp\ToontownInstaller*.log
+RegDB Tree: SOFTWARE\Disney\Disney Online\Toontown
+RegDB Root: 2
+User Rights: Admin
+***  Installation Started 09/18/2003 18:35  ***
+Title: Disney's Toontown Online Installation
+Source: C:\Program Files\Disney\Disney Online\Toontown\InstallLauncher.exe
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\UNWISE.EXE
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: Disney's Toontown Online
+RegDB Name: DisplayName
+RegDB Root: 2
+RegDB Old: Disney's Toontown Online
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: C:\PROGRA~1\DISNEY\DISNEY~1\TOONTOWN\UNWISE.EXE /A C:\PROGRA~1\DISNEY\DISNEY~1\TOONTOWN\INSTALL.LOG
+RegDB Name: UninstallString
+RegDB Root: 2
+RegDB Old: C:\PROGRA~1\DISNEY\DISNEY~1\TOONTOWN\UNWISE.EXE /A C:\PROGRA~1\DISNEY\DISNEY~1\TOONTOWN\INSTALL.LOG
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: Walt Disney Co.
+RegDB Name: Publisher
+RegDB Root: 2
+RegDB Old: Walt Disney Co.
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: http://www.toontown.com
+RegDB Name: URLInfoAbout
+RegDB Root: 2
+RegDB Old: http://www.toontown.com
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: C:\Program Files\Disney\Disney Online\Toontown\toontown.ico
+RegDB Name: DisplayIcon
+RegDB Root: 2
+RegDB Old: C:\Program Files\Disney\Disney Online\Toontown\toontown.ico
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: http://www.toontown.com
+RegDB Name: HelpLink
+RegDB Root: 2
+RegDB Old: http://www.toontown.com
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: 1
+RegDB Name: NoModify
+RegDB Type: 3
+RegDB Root: 2
+RegDB Old: 1
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\Configrc.exe
+File Copy: C:\Program Files\Disney\Disney Online\Toontown\launcherFileDb.ddb
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\libdtool.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\libdtoolconfig.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\libpandaexpress.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\msvcp70.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\msvcr70.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\Phase2.pyz
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\PlayToontown.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\PlayToontownTest.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\python22.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\PyWinTypes22.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\Toontown.exe
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\toontown.ico
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\Toontown.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\ToontownTest.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\win32api.pyd
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\zlib.pyd
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\_socket.pyd
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\_sre.pyd
+RegDB Key: Software\Disney\Disney Online\Toontown
+RegDB Val: 1
+RegDB Name: LAUNCHER_EXTRACTED
+RegDB Type: 3
+RegDB Root: 2
+RegDB Old: 1
+Shell Link: C:\Documents and Settings\Cherie Finkelstein\Start Menu\Programs\Disney's Toontown Online\Play Toontown.lnk
+Shell Link: C:\Documents and Settings\Cherie Finkelstein\Start Menu\Programs\Disney's Toontown Online\Uninstall.lnk
+Shell Link: C:\Documents and Settings\Cherie Finkelstein\Desktop\Disney's Toontown Online.lnk
+Execute Program: C:\Program Files\Disney\Disney Online\Toontown\Configrc.exe -uninstall_activex
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_2\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_3\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_4\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_5\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_6\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_7\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_8\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\maps\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\db\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\mf\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\*.*
+File Tree: C:\DOCUME~1\CHERIE~1\LOCALS~1\Temp\ToontownInstaller*.log
+RegDB Tree: SOFTWARE\Disney\Disney Online\Toontown
+RegDB Root: 2
+User Rights: Admin
+***  Installation Started 10/07/2003 17:01  ***
+Title: Disney's Toontown Online Installation
+Source: C:\Program Files\Disney\Disney Online\Toontown\InstallLauncher.exe
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\UNWISE.EXE
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: Disney's Toontown Online
+RegDB Name: DisplayName
+RegDB Root: 2
+RegDB Old: Disney's Toontown Online
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: C:\PROGRA~1\DISNEY\DISNEY~1\TOONTOWN\UNWISE.EXE /A C:\PROGRA~1\DISNEY\DISNEY~1\TOONTOWN\INSTALL.LOG
+RegDB Name: UninstallString
+RegDB Root: 2
+RegDB Old: C:\PROGRA~1\DISNEY\DISNEY~1\TOONTOWN\UNWISE.EXE /A C:\PROGRA~1\DISNEY\DISNEY~1\TOONTOWN\INSTALL.LOG
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: Walt Disney Co.
+RegDB Name: Publisher
+RegDB Root: 2
+RegDB Old: Walt Disney Co.
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: http://www.toontown.com
+RegDB Name: URLInfoAbout
+RegDB Root: 2
+RegDB Old: http://www.toontown.com
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: C:\Program Files\Disney\Disney Online\Toontown\toontown.ico
+RegDB Name: DisplayIcon
+RegDB Root: 2
+RegDB Old: C:\Program Files\Disney\Disney Online\Toontown\toontown.ico
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: http://www.toontown.com
+RegDB Name: HelpLink
+RegDB Root: 2
+RegDB Old: http://www.toontown.com
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: 1
+RegDB Name: NoModify
+RegDB Type: 3
+RegDB Root: 2
+RegDB Old: 1
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\Configrc.exe
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\launcherFileDb.ddb
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\libdtool.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\libdtoolconfig.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\libpandaexpress.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\msvcp70.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\msvcr70.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\Phase2.pyz
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\PlayToontown.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\PlayToontownTest.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\python22.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\PyWinTypes22.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\Toontown.exe
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\toontown.ico
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\Toontown.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\ToontownTest.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\win32api.pyd
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\zlib.pyd
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\_socket.pyd
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\_sre.pyd
+RegDB Key: Software\Disney\Disney Online\Toontown
+RegDB Val: 1
+RegDB Name: LAUNCHER_EXTRACTED
+RegDB Type: 3
+RegDB Root: 2
+RegDB Old: 1
+Shell Link: C:\Documents and Settings\Cherie Finkelstein\Start Menu\Programs\Disney's Toontown Online\Play Toontown.lnk
+Shell Link: C:\Documents and Settings\Cherie Finkelstein\Start Menu\Programs\Disney's Toontown Online\Uninstall.lnk
+Shell Link: C:\Documents and Settings\Cherie Finkelstein\Desktop\Disney's Toontown Online.lnk
+Execute Program: C:\Program Files\Disney\Disney Online\Toontown\Configrc.exe -uninstall_activex
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_2\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_3\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_4\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_5\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_6\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_7\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_8\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\maps\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\db\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\mf\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\*.*
+File Tree: C:\DOCUME~1\CHERIE~1\LOCALS~1\Temp\ToontownInstaller*.log
+RegDB Tree: SOFTWARE\Disney\Disney Online\Toontown
+RegDB Root: 2
+User Rights: Admin
+***  Installation Started 10/22/2003 17:02  ***
+Title: Disney's Toontown Online Installation
+Source: C:\Program Files\Disney\Disney Online\Toontown\InstallLauncher.exe
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\UNWISE.EXE
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: Disney's Toontown Online
+RegDB Name: DisplayName
+RegDB Root: 2
+RegDB Old: Disney's Toontown Online
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: C:\PROGRA~1\DISNEY\DISNEY~1\TOONTOWN\UNWISE.EXE /A C:\PROGRA~1\DISNEY\DISNEY~1\TOONTOWN\INSTALL.LOG
+RegDB Name: UninstallString
+RegDB Root: 2
+RegDB Old: C:\PROGRA~1\DISNEY\DISNEY~1\TOONTOWN\UNWISE.EXE /A C:\PROGRA~1\DISNEY\DISNEY~1\TOONTOWN\INSTALL.LOG
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: Walt Disney Co.
+RegDB Name: Publisher
+RegDB Root: 2
+RegDB Old: Walt Disney Co.
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: http://www.toontown.com
+RegDB Name: URLInfoAbout
+RegDB Root: 2
+RegDB Old: http://www.toontown.com
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: C:\Program Files\Disney\Disney Online\Toontown\toontown.ico
+RegDB Name: DisplayIcon
+RegDB Root: 2
+RegDB Old: C:\Program Files\Disney\Disney Online\Toontown\toontown.ico
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: http://www.toontown.com
+RegDB Name: HelpLink
+RegDB Root: 2
+RegDB Old: http://www.toontown.com
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: 1
+RegDB Name: NoModify
+RegDB Type: 3
+RegDB Root: 2
+RegDB Old: 1
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\Configrc.exe
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\launcherFileDb.ddb
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\libdtool.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\libdtoolconfig.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\libpandaexpress.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\msvcp70.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\msvcr70.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\Phase2.pyz
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\PlayToontown.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\PlayToontownTest.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\python22.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\PyWinTypes22.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\Toontown.exe
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\toontown.ico
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\Toontown.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\ToontownTest.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\win32api.pyd
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\zlib.pyd
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\_socket.pyd
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\_sre.pyd
+RegDB Key: Software\Disney\Disney Online\Toontown
+RegDB Val: 1
+RegDB Name: LAUNCHER_EXTRACTED
+RegDB Type: 3
+RegDB Root: 2
+RegDB Old: 1
+Made Dir: C:\Documents and Settings\Cherie Finkelstein\Start Menu\Programs\Disney's Toontown Online
+Shell Link: C:\Documents and Settings\Cherie Finkelstein\Start Menu\Programs\Disney's Toontown Online\Play Toontown.lnk
+Shell Link: C:\Documents and Settings\Cherie Finkelstein\Start Menu\Programs\Disney's Toontown Online\Uninstall.lnk
+Shell Link: C:\Documents and Settings\Cherie Finkelstein\Desktop\Disney's Toontown Online.lnk
+Execute Program: C:\Program Files\Disney\Disney Online\Toontown\Configrc.exe -uninstall_activex
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_2\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_3\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_4\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_5\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_6\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_7\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_8\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\maps\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\db\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\mf\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\*.*
+File Tree: C:\DOCUME~1\CHERIE~1\LOCALS~1\Temp\ToontownInstaller*.log
+RegDB Tree: SOFTWARE\Disney\Disney Online\Toontown
+RegDB Root: 2
+User Rights: Admin
+***  Installation Started 11/14/2003 17:51  ***
+Title: Disney's Toontown Online Installation
+Source: C:\Program Files\Disney\Disney Online\Toontown\InstallLauncher.exe
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\UNWISE.EXE
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: Disney's Toontown Online
+RegDB Name: DisplayName
+RegDB Root: 2
+RegDB Old: Disney's Toontown Online
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: C:\PROGRA~1\DISNEY\DISNEY~1\TOONTOWN\UNWISE.EXE /A C:\PROGRA~1\DISNEY\DISNEY~1\TOONTOWN\INSTALL.LOG
+RegDB Name: UninstallString
+RegDB Root: 2
+RegDB Old: C:\PROGRA~1\DISNEY\DISNEY~1\TOONTOWN\UNWISE.EXE /A C:\PROGRA~1\DISNEY\DISNEY~1\TOONTOWN\INSTALL.LOG
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: Walt Disney Co.
+RegDB Name: Publisher
+RegDB Root: 2
+RegDB Old: Walt Disney Co.
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: http://www.toontown.com
+RegDB Name: URLInfoAbout
+RegDB Root: 2
+RegDB Old: http://www.toontown.com
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: C:\Program Files\Disney\Disney Online\Toontown\toontown.ico
+RegDB Name: DisplayIcon
+RegDB Root: 2
+RegDB Old: C:\Program Files\Disney\Disney Online\Toontown\toontown.ico
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: http://www.toontown.com
+RegDB Name: HelpLink
+RegDB Root: 2
+RegDB Old: http://www.toontown.com
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: 1
+RegDB Name: NoModify
+RegDB Type: 3
+RegDB Root: 2
+RegDB Old: 1
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\Configrc.exe
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\libdtool.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\libdtoolconfig.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\libpandaexpress.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\msvcp70.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\msvcr70.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\Phase2.pyz
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\PlayToontown.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\PlayToontownTest.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\python22.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\PyWinTypes22.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\Toontown.exe
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\toontown.ico
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\Toontown.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\ToontownTest.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\win32api.pyd
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\zlib.pyd
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\_socket.pyd
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\_sre.pyd
+RegDB Key: Software\Disney\Disney Online\Toontown
+RegDB Val: 1
+RegDB Name: LAUNCHER_EXTRACTED
+RegDB Type: 3
+RegDB Root: 2
+RegDB Old: 1
+Shell Link: C:\Documents and Settings\Cherie Finkelstein\Start Menu\Programs\Disney's Toontown Online\Play Toontown.lnk
+Shell Link: C:\Documents and Settings\Cherie Finkelstein\Start Menu\Programs\Disney's Toontown Online\Uninstall.lnk
+Shell Link: C:\Documents and Settings\Cherie Finkelstein\Desktop\Disney's Toontown Online.lnk
+Execute Program: C:\Program Files\Disney\Disney Online\Toontown\Configrc.exe -uninstall_activex
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_2\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_3\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_4\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_5\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_6\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_7\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_8\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\maps\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\db\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\mf\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\*.*
+File Tree: C:\DOCUME~1\CHERIE~1\LOCALS~1\Temp\ToontownInstaller*.log
+RegDB Tree: SOFTWARE\Disney\Disney Online\Toontown
+RegDB Root: 2
+User Rights: Admin
+***  Installation Started 11/18/2003 16:03  ***
+Title: Disney's Toontown Online Installation
+Source: C:\Program Files\Disney\Disney Online\Toontown\InstallLauncher.exe
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\UNWISE.EXE
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: Disney's Toontown Online
+RegDB Name: DisplayName
+RegDB Root: 2
+RegDB Old: Disney's Toontown Online
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: C:\PROGRA~1\DISNEY\DISNEY~1\TOONTOWN\UNWISE.EXE /A C:\PROGRA~1\DISNEY\DISNEY~1\TOONTOWN\INSTALL.LOG
+RegDB Name: UninstallString
+RegDB Root: 2
+RegDB Old: C:\PROGRA~1\DISNEY\DISNEY~1\TOONTOWN\UNWISE.EXE /A C:\PROGRA~1\DISNEY\DISNEY~1\TOONTOWN\INSTALL.LOG
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: Walt Disney Co.
+RegDB Name: Publisher
+RegDB Root: 2
+RegDB Old: Walt Disney Co.
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: http://www.toontown.com
+RegDB Name: URLInfoAbout
+RegDB Root: 2
+RegDB Old: http://www.toontown.com
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: C:\Program Files\Disney\Disney Online\Toontown\toontown.ico
+RegDB Name: DisplayIcon
+RegDB Root: 2
+RegDB Old: C:\Program Files\Disney\Disney Online\Toontown\toontown.ico
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: http://www.toontown.com
+RegDB Name: HelpLink
+RegDB Root: 2
+RegDB Old: http://www.toontown.com
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: 1
+RegDB Name: NoModify
+RegDB Type: 3
+RegDB Root: 2
+RegDB Old: 1
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\Configrc.exe
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\libdtool.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\libdtoolconfig.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\libpandaexpress.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\msvcp70.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\msvcr70.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\Phase2.pyz
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\PlayToontown.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\PlayToontownTest.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\python22.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\PyWinTypes22.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\Toontown.exe
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\toontown.ico
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\Toontown.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\ToontownTest.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\win32api.pyd
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\zlib.pyd
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\_socket.pyd
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\_sre.pyd
+RegDB Key: Software\Disney\Disney Online\Toontown
+RegDB Val: 1
+RegDB Name: LAUNCHER_EXTRACTED
+RegDB Type: 3
+RegDB Root: 2
+RegDB Old: 1
+Shell Link: C:\Documents and Settings\Cherie Finkelstein\Start Menu\Programs\Disney's Toontown Online\Play Toontown.lnk
+Shell Link: C:\Documents and Settings\Cherie Finkelstein\Start Menu\Programs\Disney's Toontown Online\Uninstall.lnk
+Shell Link: C:\Documents and Settings\Cherie Finkelstein\Desktop\Disney's Toontown Online.lnk
+Execute Program: C:\Program Files\Disney\Disney Online\Toontown\Configrc.exe -uninstall_activex
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_2\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_3\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_4\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_5\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_6\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_7\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_8\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\maps\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\db\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\mf\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\*.*
+File Tree: C:\DOCUME~1\CHERIE~1\LOCALS~1\Temp\ToontownInstaller*.log
+RegDB Tree: SOFTWARE\Disney\Disney Online\Toontown
+RegDB Root: 2
+User Rights: Admin
+***  Installation Started 11/24/2003 22:09  ***
+Title: Disney's Toontown Online Installation
+Source: C:\Program Files\Disney\Disney Online\Toontown\InstallLauncher.exe
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\UNWISE.EXE
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: Disney's Toontown Online
+RegDB Name: DisplayName
+RegDB Root: 2
+RegDB Old: Disney's Toontown Online
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: C:\PROGRA~1\DISNEY\DISNEY~1\TOONTOWN\UNWISE.EXE /A C:\PROGRA~1\DISNEY\DISNEY~1\TOONTOWN\INSTALL.LOG
+RegDB Name: UninstallString
+RegDB Root: 2
+RegDB Old: C:\PROGRA~1\DISNEY\DISNEY~1\TOONTOWN\UNWISE.EXE /A C:\PROGRA~1\DISNEY\DISNEY~1\TOONTOWN\INSTALL.LOG
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: Walt Disney Co.
+RegDB Name: Publisher
+RegDB Root: 2
+RegDB Old: Walt Disney Co.
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: http://www.toontown.com
+RegDB Name: URLInfoAbout
+RegDB Root: 2
+RegDB Old: http://www.toontown.com
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: C:\Program Files\Disney\Disney Online\Toontown\toontown.ico
+RegDB Name: DisplayIcon
+RegDB Root: 2
+RegDB Old: C:\Program Files\Disney\Disney Online\Toontown\toontown.ico
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: http://www.toontown.com
+RegDB Name: HelpLink
+RegDB Root: 2
+RegDB Old: http://www.toontown.com
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: 1
+RegDB Name: NoModify
+RegDB Type: 3
+RegDB Root: 2
+RegDB Old: 1
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\Configrc.exe
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\libdtool.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\libdtoolconfig.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\libpandaexpress.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\msvcp70.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\msvcr70.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\Phase2.pyz
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\PlayToontown.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\PlayToontownTest.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\python22.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\PyWinTypes22.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\Toontown.exe
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\toontown.ico
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\Toontown.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\ToontownTest.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\win32api.pyd
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\zlib.pyd
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\_socket.pyd
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\_sre.pyd
+RegDB Key: Software\Disney\Disney Online\Toontown
+RegDB Val: 1
+RegDB Name: LAUNCHER_EXTRACTED
+RegDB Type: 3
+RegDB Root: 2
+RegDB Old: 1
+Shell Link: C:\Documents and Settings\Cherie Finkelstein\Start Menu\Programs\Disney's Toontown Online\Play Toontown.lnk
+Shell Link: C:\Documents and Settings\Cherie Finkelstein\Start Menu\Programs\Disney's Toontown Online\Uninstall.lnk
+Shell Link: C:\Documents and Settings\Cherie Finkelstein\Desktop\Disney's Toontown Online.lnk
+Execute Program: C:\Program Files\Disney\Disney Online\Toontown\Configrc.exe -uninstall_activex
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_2\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_3\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_4\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_5\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_6\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_7\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_8\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\maps\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\db\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\mf\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\*.*
+File Tree: C:\DOCUME~1\CHERIE~1\LOCALS~1\Temp\ToontownInstaller*.log
+RegDB Tree: SOFTWARE\Disney\Disney Online\Toontown
+RegDB Root: 2
+User Rights: Admin
+***  Installation Started 12/05/2003 14:58  ***
+Title: Disney's Toontown Online Installation
+Source: C:\Program Files\Disney\Disney Online\Toontown\InstallLauncher.exe
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\UNWISE.EXE
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: Disney's Toontown Online
+RegDB Name: DisplayName
+RegDB Root: 2
+RegDB Old: Disney's Toontown Online
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: C:\PROGRA~1\DISNEY\DISNEY~1\TOONTOWN\UNWISE.EXE /A C:\PROGRA~1\DISNEY\DISNEY~1\TOONTOWN\INSTALL.LOG
+RegDB Name: UninstallString
+RegDB Root: 2
+RegDB Old: C:\PROGRA~1\DISNEY\DISNEY~1\TOONTOWN\UNWISE.EXE /A C:\PROGRA~1\DISNEY\DISNEY~1\TOONTOWN\INSTALL.LOG
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: Walt Disney Co.
+RegDB Name: Publisher
+RegDB Root: 2
+RegDB Old: Walt Disney Co.
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: http://www.toontown.com
+RegDB Name: URLInfoAbout
+RegDB Root: 2
+RegDB Old: http://www.toontown.com
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: C:\Program Files\Disney\Disney Online\Toontown\toontown.ico
+RegDB Name: DisplayIcon
+RegDB Root: 2
+RegDB Old: C:\Program Files\Disney\Disney Online\Toontown\toontown.ico
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: http://www.toontown.com
+RegDB Name: HelpLink
+RegDB Root: 2
+RegDB Old: http://www.toontown.com
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: 1
+RegDB Name: NoModify
+RegDB Type: 3
+RegDB Root: 2
+RegDB Old: 1
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\Configrc.exe
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\libdtool.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\libdtoolconfig.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\libpandaexpress.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\msvcp70.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\msvcr70.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\Phase2.pyz
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\PlayToontown.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\PlayToontownTest.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\python22.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\PyWinTypes22.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\Toontown.exe
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\toontown.ico
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\Toontown.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\ToontownTest.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\win32api.pyd
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\zlib.pyd
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\_socket.pyd
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\_sre.pyd
+RegDB Key: Software\Disney\Disney Online\Toontown
+RegDB Val: 1
+RegDB Name: LAUNCHER_EXTRACTED
+RegDB Type: 3
+RegDB Root: 2
+RegDB Old: 1
+Shell Link: C:\Documents and Settings\Cherie Finkelstein\Start Menu\Programs\Disney's Toontown Online\Play Toontown.lnk
+Shell Link: C:\Documents and Settings\Cherie Finkelstein\Start Menu\Programs\Disney's Toontown Online\Uninstall.lnk
+Shell Link: C:\Documents and Settings\Cherie Finkelstein\Desktop\Disney's Toontown Online.lnk
+Execute Program: C:\Program Files\Disney\Disney Online\Toontown\Configrc.exe -uninstall_activex
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_2\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_3\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_4\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_5\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_6\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_7\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_8\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\maps\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\db\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\mf\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\*.*
+File Tree: C:\DOCUME~1\CHERIE~1\LOCALS~1\Temp\ToontownInstaller*.log
+RegDB Tree: SOFTWARE\Disney\Disney Online\Toontown
+RegDB Root: 2
+User Rights: Admin
+***  Installation Started 12/19/2003 10:40  ***
+Title: Disney's Toontown Online Installation
+Source: C:\Program Files\Disney\Disney Online\Toontown\InstallLauncher.exe
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\UNWISE.EXE
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: Disney's Toontown Online
+RegDB Name: DisplayName
+RegDB Root: 2
+RegDB Old: Disney's Toontown Online
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: C:\PROGRA~1\DISNEY\DISNEY~1\TOONTOWN\UNWISE.EXE /A C:\PROGRA~1\DISNEY\DISNEY~1\TOONTOWN\INSTALL.LOG
+RegDB Name: UninstallString
+RegDB Root: 2
+RegDB Old: C:\PROGRA~1\DISNEY\DISNEY~1\TOONTOWN\UNWISE.EXE /A C:\PROGRA~1\DISNEY\DISNEY~1\TOONTOWN\INSTALL.LOG
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: Walt Disney Co.
+RegDB Name: Publisher
+RegDB Root: 2
+RegDB Old: Walt Disney Co.
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: http://www.toontown.com
+RegDB Name: URLInfoAbout
+RegDB Root: 2
+RegDB Old: http://www.toontown.com
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: C:\Program Files\Disney\Disney Online\Toontown\toontown.ico
+RegDB Name: DisplayIcon
+RegDB Root: 2
+RegDB Old: C:\Program Files\Disney\Disney Online\Toontown\toontown.ico
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: http://www.toontown.com
+RegDB Name: HelpLink
+RegDB Root: 2
+RegDB Old: http://www.toontown.com
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: 1
+RegDB Name: NoModify
+RegDB Type: 3
+RegDB Root: 2
+RegDB Old: 1
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\Configrc.exe
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\libdtool.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\libdtoolconfig.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\libpandaexpress.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\msvcp70.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\msvcr70.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\Phase2.pyz
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\PlayToontown.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\PlayToontownTest.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\python22.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\PyWinTypes22.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\Toontown.exe
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\toontown.ico
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\Toontown.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\ToontownTest.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\win32api.pyd
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\zlib.pyd
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\_socket.pyd
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\_sre.pyd
+RegDB Key: Software\Disney\Disney Online\Toontown
+RegDB Val: 1
+RegDB Name: LAUNCHER_EXTRACTED
+RegDB Type: 3
+RegDB Root: 2
+RegDB Old: 1
+Shell Link: C:\Documents and Settings\Cherie Finkelstein\Start Menu\Programs\Disney's Toontown Online\Play Toontown.lnk
+Shell Link: C:\Documents and Settings\Cherie Finkelstein\Start Menu\Programs\Disney's Toontown Online\Uninstall.lnk
+Shell Link: C:\Documents and Settings\Cherie Finkelstein\Desktop\Disney's Toontown Online.lnk
+Execute Program: C:\Program Files\Disney\Disney Online\Toontown\Configrc.exe -uninstall_activex
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_2\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_3\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_4\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_5\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_6\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_7\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_8\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\maps\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\db\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\mf\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\*.*
+File Tree: C:\DOCUME~1\CHERIE~1\LOCALS~1\Temp\ToontownInstaller*.log
+RegDB Tree: SOFTWARE\Disney\Disney Online\Toontown
+RegDB Root: 2
+User Rights: Admin
+***  Installation Started 12/31/2003 18:24  ***
+Title: Disney's Toontown Online Installation
+Source: C:\Program Files\Disney\Disney Online\Toontown\InstallLauncher.exe
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\UNWISE.EXE
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: Disney's Toontown Online
+RegDB Name: DisplayName
+RegDB Root: 2
+RegDB Old: Disney's Toontown Online
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: C:\PROGRA~1\DISNEY\DISNEY~1\TOONTOWN\UNWISE.EXE /A C:\PROGRA~1\DISNEY\DISNEY~1\TOONTOWN\INSTALL.LOG
+RegDB Name: UninstallString
+RegDB Root: 2
+RegDB Old: C:\PROGRA~1\DISNEY\DISNEY~1\TOONTOWN\UNWISE.EXE /A C:\PROGRA~1\DISNEY\DISNEY~1\TOONTOWN\INSTALL.LOG
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: Walt Disney Co.
+RegDB Name: Publisher
+RegDB Root: 2
+RegDB Old: Walt Disney Co.
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: http://www.toontown.com
+RegDB Name: URLInfoAbout
+RegDB Root: 2
+RegDB Old: http://www.toontown.com
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: C:\Program Files\Disney\Disney Online\Toontown\toontown.ico
+RegDB Name: DisplayIcon
+RegDB Root: 2
+RegDB Old: C:\Program Files\Disney\Disney Online\Toontown\toontown.ico
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: http://www.toontown.com
+RegDB Name: HelpLink
+RegDB Root: 2
+RegDB Old: http://www.toontown.com
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: 1
+RegDB Name: NoModify
+RegDB Type: 3
+RegDB Root: 2
+RegDB Old: 1
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\Configrc.exe
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\libdtool.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\libdtoolconfig.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\libpandaexpress.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\msvcp70.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\msvcr70.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\Phase2.pyz
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\PlayToontown.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\PlayToontownTest.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\python22.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\PyWinTypes22.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\Toontown.exe
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\toontown.ico
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\Toontown.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\ToontownTest.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\win32api.pyd
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\zlib.pyd
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\_socket.pyd
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\_sre.pyd
+RegDB Key: Software\Disney\Disney Online\Toontown
+RegDB Val: 1
+RegDB Name: LAUNCHER_EXTRACTED
+RegDB Type: 3
+RegDB Root: 2
+RegDB Old: 1
+Shell Link: C:\Documents and Settings\Cherie Finkelstein\Start Menu\Programs\Disney's Toontown Online\Play Toontown.lnk
+Shell Link: C:\Documents and Settings\Cherie Finkelstein\Start Menu\Programs\Disney's Toontown Online\Uninstall.lnk
+Shell Link: C:\Documents and Settings\Cherie Finkelstein\Desktop\Disney's Toontown Online.lnk
+Execute Program: C:\Program Files\Disney\Disney Online\Toontown\Configrc.exe -uninstall_activex
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_2\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_3\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_4\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_5\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_6\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_7\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_8\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\maps\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\db\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\mf\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\*.*
+File Tree: C:\DOCUME~1\CHERIE~1\LOCALS~1\Temp\ToontownInstaller*.log
+RegDB Tree: SOFTWARE\Disney\Disney Online\Toontown
+RegDB Root: 2
+User Rights: Admin
+***  Installation Started 01/02/2004 18:59  ***
+Title: Disney's Toontown Online Installation
+Source: C:\Program Files\Disney\Disney Online\Toontown\InstallLauncher.exe
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\UNWISE.EXE
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: Disney's Toontown Online
+RegDB Name: DisplayName
+RegDB Root: 2
+RegDB Old: Disney's Toontown Online
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: C:\PROGRA~1\DISNEY\DISNEY~1\TOONTOWN\UNWISE.EXE /A C:\PROGRA~1\DISNEY\DISNEY~1\TOONTOWN\INSTALL.LOG
+RegDB Name: UninstallString
+RegDB Root: 2
+RegDB Old: C:\PROGRA~1\DISNEY\DISNEY~1\TOONTOWN\UNWISE.EXE /A C:\PROGRA~1\DISNEY\DISNEY~1\TOONTOWN\INSTALL.LOG
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: Walt Disney Co.
+RegDB Name: Publisher
+RegDB Root: 2
+RegDB Old: Walt Disney Co.
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: http://www.toontown.com
+RegDB Name: URLInfoAbout
+RegDB Root: 2
+RegDB Old: http://www.toontown.com
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: C:\Program Files\Disney\Disney Online\Toontown\toontown.ico
+RegDB Name: DisplayIcon
+RegDB Root: 2
+RegDB Old: C:\Program Files\Disney\Disney Online\Toontown\toontown.ico
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: http://www.toontown.com
+RegDB Name: HelpLink
+RegDB Root: 2
+RegDB Old: http://www.toontown.com
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: 1
+RegDB Name: NoModify
+RegDB Type: 3
+RegDB Root: 2
+RegDB Old: 1
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\Configrc.exe
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\libdtool.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\libdtoolconfig.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\libpandaexpress.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\msvcp70.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\msvcr70.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\Phase2.pyz
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\PlayToontown.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\PlayToontownTest.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\python22.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\PyWinTypes22.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\Toontown.exe
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\toontown.ico
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\Toontown.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\ToontownTest.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\win32api.pyd
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\zlib.pyd
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\_socket.pyd
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\_sre.pyd
+RegDB Key: Software\Disney\Disney Online\Toontown
+RegDB Val: 1
+RegDB Name: LAUNCHER_EXTRACTED
+RegDB Type: 3
+RegDB Root: 2
+RegDB Old: 1
+Shell Link: C:\Documents and Settings\Cherie Finkelstein\Start Menu\Programs\Disney's Toontown Online\Play Toontown.lnk
+Shell Link: C:\Documents and Settings\Cherie Finkelstein\Start Menu\Programs\Disney's Toontown Online\Uninstall.lnk
+Shell Link: C:\Documents and Settings\Cherie Finkelstein\Desktop\Disney's Toontown Online.lnk
+Execute Program: C:\Program Files\Disney\Disney Online\Toontown\Configrc.exe -uninstall_activex
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_2\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_3\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_4\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_5\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_6\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_7\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_8\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\maps\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\db\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\mf\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\*.*
+File Tree: C:\DOCUME~1\CHERIE~1\LOCALS~1\Temp\ToontownInstaller*.log
+RegDB Tree: SOFTWARE\Disney\Disney Online\Toontown
+RegDB Root: 2
+User Rights: Admin
+***  Installation Started 01/08/2004 15:52  ***
+Title: Disney's Toontown Online Installation
+Source: C:\Program Files\Disney\Disney Online\Toontown\InstallLauncher.exe
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\UNWISE.EXE
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: Disney's Toontown Online
+RegDB Name: DisplayName
+RegDB Root: 2
+RegDB Old: Disney's Toontown Online
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: C:\PROGRA~1\DISNEY\DISNEY~1\TOONTOWN\UNWISE.EXE /A C:\PROGRA~1\DISNEY\DISNEY~1\TOONTOWN\INSTALL.LOG
+RegDB Name: UninstallString
+RegDB Root: 2
+RegDB Old: C:\PROGRA~1\DISNEY\DISNEY~1\TOONTOWN\UNWISE.EXE /A C:\PROGRA~1\DISNEY\DISNEY~1\TOONTOWN\INSTALL.LOG
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: Walt Disney Co.
+RegDB Name: Publisher
+RegDB Root: 2
+RegDB Old: Walt Disney Co.
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: http://www.toontown.com
+RegDB Name: URLInfoAbout
+RegDB Root: 2
+RegDB Old: http://www.toontown.com
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: C:\Program Files\Disney\Disney Online\Toontown\toontown.ico
+RegDB Name: DisplayIcon
+RegDB Root: 2
+RegDB Old: C:\Program Files\Disney\Disney Online\Toontown\toontown.ico
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: http://www.toontown.com
+RegDB Name: HelpLink
+RegDB Root: 2
+RegDB Old: http://www.toontown.com
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: 1
+RegDB Name: NoModify
+RegDB Type: 3
+RegDB Root: 2
+RegDB Old: 1
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\Configrc.exe
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\libdtool.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\libdtoolconfig.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\libpandaexpress.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\msvcp70.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\msvcr70.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\Phase2.pyz
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\PlayToontown.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\PlayToontownTest.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\python22.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\PyWinTypes22.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\Toontown.exe
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\toontown.ico
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\Toontown.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\ToontownTest.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\win32api.pyd
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\zlib.pyd
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\_socket.pyd
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\_sre.pyd
+RegDB Key: Software\Disney\Disney Online\Toontown
+RegDB Val: 1
+RegDB Name: LAUNCHER_EXTRACTED
+RegDB Type: 3
+RegDB Root: 2
+RegDB Old: 1
+Shell Link: C:\Documents and Settings\Cherie Finkelstein\Start Menu\Programs\Disney's Toontown Online\Play Toontown.lnk
+Shell Link: C:\Documents and Settings\Cherie Finkelstein\Start Menu\Programs\Disney's Toontown Online\Uninstall.lnk
+Shell Link: C:\Documents and Settings\Cherie Finkelstein\Desktop\Disney's Toontown Online.lnk
+Execute Program: C:\Program Files\Disney\Disney Online\Toontown\Configrc.exe -uninstall_activex
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_2\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_3\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_4\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_5\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_6\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_7\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_8\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\maps\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\db\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\mf\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\*.*
+File Tree: C:\DOCUME~1\CHERIE~1\LOCALS~1\Temp\ToontownInstaller*.log
+RegDB Tree: SOFTWARE\Disney\Disney Online\Toontown
+RegDB Root: 2
+User Rights: Admin
+***  Installation Started 01/27/2004 21:22  ***
+Title: Disney's Toontown Online Installation
+Source: C:\Program Files\Disney\Disney Online\Toontown\InstallLauncher.exe
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\UNWISE.EXE
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: Disney's Toontown Online
+RegDB Name: DisplayName
+RegDB Root: 2
+RegDB Old: Disney's Toontown Online
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: C:\PROGRA~1\DISNEY\DISNEY~1\TOONTOWN\UNWISE.EXE /A C:\PROGRA~1\DISNEY\DISNEY~1\TOONTOWN\INSTALL.LOG
+RegDB Name: UninstallString
+RegDB Root: 2
+RegDB Old: C:\PROGRA~1\DISNEY\DISNEY~1\TOONTOWN\UNWISE.EXE /A C:\PROGRA~1\DISNEY\DISNEY~1\TOONTOWN\INSTALL.LOG
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: Walt Disney Co.
+RegDB Name: Publisher
+RegDB Root: 2
+RegDB Old: Walt Disney Co.
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: http://www.toontown.com
+RegDB Name: URLInfoAbout
+RegDB Root: 2
+RegDB Old: http://www.toontown.com
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: C:\Program Files\Disney\Disney Online\Toontown\toontown.ico
+RegDB Name: DisplayIcon
+RegDB Root: 2
+RegDB Old: C:\Program Files\Disney\Disney Online\Toontown\toontown.ico
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: http://www.toontown.com
+RegDB Name: HelpLink
+RegDB Root: 2
+RegDB Old: http://www.toontown.com
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: 1
+RegDB Name: NoModify
+RegDB Type: 3
+RegDB Root: 2
+RegDB Old: 1
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\Configrc.exe
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\libdtool.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\libdtoolconfig.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\libpandaexpress.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\msvcp70.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\msvcr70.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\Phase2.pyz
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\PlayToontown.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\PlayToontownTest.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\python22.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\PyWinTypes22.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\Toontown.exe
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\toontown.ico
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\Toontown.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\ToontownTest.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\win32api.pyd
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\zlib.pyd
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\_socket.pyd
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\_sre.pyd
+RegDB Key: Software\Disney\Disney Online\Toontown
+RegDB Val: 1
+RegDB Name: LAUNCHER_EXTRACTED
+RegDB Type: 3
+RegDB Root: 2
+RegDB Old: 1
+Shell Link: C:\Documents and Settings\Cherie Finkelstein\Start Menu\Programs\Disney's Toontown Online\Play Toontown.lnk
+Shell Link: C:\Documents and Settings\Cherie Finkelstein\Start Menu\Programs\Disney's Toontown Online\Uninstall.lnk
+Shell Link: C:\Documents and Settings\Cherie Finkelstein\Desktop\Disney's Toontown Online.lnk
+Execute Program: C:\Program Files\Disney\Disney Online\Toontown\Configrc.exe -uninstall_activex
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_2\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_3\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_4\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_5\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_6\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_7\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_8\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\maps\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\db\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\mf\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\*.*
+File Tree: C:\DOCUME~1\CHERIE~1\LOCALS~1\Temp\ToontownInstaller*.log
+RegDB Tree: SOFTWARE\Disney\Disney Online\Toontown
+RegDB Root: 2
+User Rights: Admin
+***  Installation Started 02/23/2004 18:04  ***
+Title: Disney's Toontown Online Installation
+Source: C:\Program Files\Disney\Disney Online\Toontown\InstallLauncher.exe
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\UNWISE.EXE
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: Disney's Toontown Online
+RegDB Name: DisplayName
+RegDB Root: 2
+RegDB Old: Disney's Toontown Online
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: C:\PROGRA~1\DISNEY\DISNEY~1\TOONTOWN\UNWISE.EXE /A C:\PROGRA~1\DISNEY\DISNEY~1\TOONTOWN\INSTALL.LOG
+RegDB Name: UninstallString
+RegDB Root: 2
+RegDB Old: C:\PROGRA~1\DISNEY\DISNEY~1\TOONTOWN\UNWISE.EXE /A C:\PROGRA~1\DISNEY\DISNEY~1\TOONTOWN\INSTALL.LOG
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: Walt Disney Co.
+RegDB Name: Publisher
+RegDB Root: 2
+RegDB Old: Walt Disney Co.
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: http://www.toontown.com
+RegDB Name: URLInfoAbout
+RegDB Root: 2
+RegDB Old: http://www.toontown.com
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: C:\Program Files\Disney\Disney Online\Toontown\toontown.ico
+RegDB Name: DisplayIcon
+RegDB Root: 2
+RegDB Old: C:\Program Files\Disney\Disney Online\Toontown\toontown.ico
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: http://www.toontown.com
+RegDB Name: HelpLink
+RegDB Root: 2
+RegDB Old: http://www.toontown.com
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: 1
+RegDB Name: NoModify
+RegDB Type: 3
+RegDB Root: 2
+RegDB Old: 1
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\Configrc.exe
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\libdtool.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\libdtoolconfig.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\libpandaexpress.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\msvcp70.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\msvcr70.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\Phase2.pyz
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\PlayToontown.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\PlayToontownTest.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\python22.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\PyWinTypes22.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\Toontown.exe
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\toontown.ico
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\Toontown.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\ToontownTest.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\win32api.pyd
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\zlib.pyd
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\_socket.pyd
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\_sre.pyd
+RegDB Key: Software\Disney\Disney Online\Toontown
+RegDB Val: 1
+RegDB Name: LAUNCHER_EXTRACTED
+RegDB Type: 3
+RegDB Root: 2
+RegDB Old: 1
+Shell Link: C:\Documents and Settings\Cherie Finkelstein\Start Menu\Programs\Disney's Toontown Online\Play Toontown.lnk
+Shell Link: C:\Documents and Settings\Cherie Finkelstein\Start Menu\Programs\Disney's Toontown Online\Uninstall.lnk
+Shell Link: C:\Documents and Settings\Cherie Finkelstein\Desktop\Disney's Toontown Online.lnk
+Execute Program: C:\Program Files\Disney\Disney Online\Toontown\Configrc.exe -uninstall_activex
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_2\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_3\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_4\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_5\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_6\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_7\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_8\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\maps\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\db\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\mf\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\*.*
+File Tree: C:\DOCUME~1\CHERIE~1\LOCALS~1\Temp\ToontownInstaller*.log
+RegDB Tree: SOFTWARE\Disney\Disney Online\Toontown
+RegDB Root: 2
+User Rights: Admin
+***  Installation Started 02/24/2004 20:21  ***
+Title: Disney's Toontown Online Installation
+Source: C:\Program Files\Disney\Disney Online\Toontown\InstallLauncher.exe
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\UNWISE.EXE
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: Disney's Toontown Online
+RegDB Name: DisplayName
+RegDB Root: 2
+RegDB Old: Disney's Toontown Online
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: C:\PROGRA~1\DISNEY\DISNEY~1\TOONTOWN\UNWISE.EXE /A C:\PROGRA~1\DISNEY\DISNEY~1\TOONTOWN\INSTALL.LOG
+RegDB Name: UninstallString
+RegDB Root: 2
+RegDB Old: C:\PROGRA~1\DISNEY\DISNEY~1\TOONTOWN\UNWISE.EXE /A C:\PROGRA~1\DISNEY\DISNEY~1\TOONTOWN\INSTALL.LOG
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: Walt Disney Co.
+RegDB Name: Publisher
+RegDB Root: 2
+RegDB Old: Walt Disney Co.
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: http://www.toontown.com
+RegDB Name: URLInfoAbout
+RegDB Root: 2
+RegDB Old: http://www.toontown.com
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: C:\Program Files\Disney\Disney Online\Toontown\toontown.ico
+RegDB Name: DisplayIcon
+RegDB Root: 2
+RegDB Old: C:\Program Files\Disney\Disney Online\Toontown\toontown.ico
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: http://www.toontown.com
+RegDB Name: HelpLink
+RegDB Root: 2
+RegDB Old: http://www.toontown.com
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Disney's Toontown Online
+RegDB Val: 1
+RegDB Name: NoModify
+RegDB Type: 3
+RegDB Root: 2
+RegDB Old: 1
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\Configrc.exe
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\libdtool.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\libdtoolconfig.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\libpandaexpress.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\msvcp70.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\msvcr70.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\Phase2.pyz
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\PlayToontown.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\PlayToontownTest.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\python22.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\PyWinTypes22.dll
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\Toontown.exe
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\toontown.ico
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\Toontown.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\ToontownTest.url
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\win32api.pyd
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\zlib.pyd
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\_socket.pyd
+File Overwrite: C:\Program Files\Disney\Disney Online\Toontown\_sre.pyd
+RegDB Key: Software\Disney\Disney Online\Toontown
+RegDB Val: 1
+RegDB Name: LAUNCHER_EXTRACTED
+RegDB Type: 3
+RegDB Root: 2
+RegDB Old: 1
+Shell Link: C:\Documents and Settings\Cherie Finkelstein\Start Menu\Programs\Disney's Toontown Online\Play Toontown.lnk
+Shell Link: C:\Documents and Settings\Cherie Finkelstein\Start Menu\Programs\Disney's Toontown Online\Uninstall.lnk
+Shell Link: C:\Documents and Settings\Cherie Finkelstein\Desktop\Disney's Toontown Online.lnk
+Execute Program: C:\Program Files\Disney\Disney Online\Toontown\Configrc.exe -uninstall_activex
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_2\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_3\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_4\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_5\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_6\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_7\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\phase_8\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\maps\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\db\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\mf\
+File Tree: C:\Program Files\Disney\Disney Online\Toontown\*.*
+File Tree: C:\DOCUME~1\CHERIE~1\LOCALS~1\Temp\ToontownInstaller*.log
+RegDB Tree: SOFTWARE\Disney\Disney Online\Toontown
+RegDB Root: 2
+User Rights: Admin
