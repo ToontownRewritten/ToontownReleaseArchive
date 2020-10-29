@@ -1,0 +1,402 @@
+=====Log Open
+CHECKING CPU...
+CPU speed: 2926 Mhz
+NumProcessors: 8
+CPU vendor code: Intel
+CPU vendor name: GenuineIntel
+CPU name: Genuine Intel(R) CPU           @ 0000 @ 2.93GHz
+CPU type: unknown
+CPU level: 6
+CPU features: MMX, MMX Extensions, SSE, SSE FP, SSE2, 
+CHECKING OS...
+Microsoft Windows XP Professional Service Pack 3 (Build 2600)
+User has NT Admin privileges
+IE Ver: 7.0.5730.11
+Mouse detected
+CHECKING RAM...
+RAM: Total: 3319.04 MB, Free: 1118.67 MB, Utilization: 66%
+CHEKING VIDEO RAM...
+VRAM: Total: 1130 MB
+CHECKING DISK SPACE...
+Free Disk Space: 596987 MB
+CHECKING 3D HARDWARE...
+installed DX VerStr: 4.10.0.5515
+DX Level Installed: DX 9.0
+Detected DX Card[0]: NVIDIA GeForce 8800 GTS
+Driver Version: (6.14.13.593) Date: (8/18/2012) DriverName: nv4_disp.dll; VendorID: 0x000010DE; DeviceID: 0x00000193; SubsysID: 0x042110DE; Revision: 0x000000A2
+Suggested GfxApi: DX 9.0
+CHECKING SOUND... Removed
+Keyboard Layout: 00000409 LangID: 0x0x0409 Locale ID: 0x0x0409
+CHECKING NET CONNECTION...
+IP Addr: 192.168.1.105
+MAC Address: 00-24-8C-7D-64-81
+Internet connection is through a LAN
+Microsoft Windows XP Professional Service Pack 3 (Build 2600)
+User has NT Admin privileges
+found potentially conflicting installed program: AC3Filter 1.62b
+found potentially conflicting installed program: Kaspersky Anti-Virus 6.0 for Windows Workstations
+found potentially conflicting installed program: USB Virus Scan 2.3
+found potentially conflicting installed program: Kaspersky Anti-Virus 6.0 for Windows Workstations
+Trying To Start Splash and Sefl Path
+Cleaning old logs unlink C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\toontown-120912_223335.log
+-------->[WEB1] Setting Url To res://C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\ToontownLauncher.exe/157
+-------->[WEB2] Setting Url To res://C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\ToontownLauncher.exe/157
+-------->[WEB3] Setting Url To res://C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\ToontownLauncher.exe/157
+****Found Command line  Varable []
+-------->[WEB1] Setting Url To http://test.toontown.go.com/content/en/release-notes/launcher.html
+Detail Rule [38201361 bfd37fe30d043eeaf6a9b230652642b3]
+Detail Rule [22767361 baaf7cb3052e54dc5554c8e1316829c3]
+Detail Rule [7347677 607912125cdedb72f56d110abc13e4e5]
+Detail Rule [77726785 5a928f32c28d3f631d2a390da8fd936b]
+Detail Rule [37518149 592fc4df7657b0b59237e54306f68073]
+Detail Rule [37627502 97ad1f55fe8ea2091c49fe0b62287fe0]
+Detail Rule [9661999 f4055d6b99d9d3e30f0774aa3ddadaca]
+Detail Rule [29426562 79c3724a20881f451d7921021d74677a]
+Detail Rule [305256 ceeec30e08d80e863735c3733779b09d]
+Detail Rule [17513996 f9c97386a71d026aa98b21e8c0ff7c39]
+Detail Rule [7216642 adcef188c10ffe71d5df2704a37eac28]
+Detail Rule [3483147 a2f773790f44edad5b7a098029a792fe]
+Detail Rule [2827958 e0a3fe225cbb76439c7aef1f19d493d5]
+Detail Rule [5289389 9a0b4f91fab854a5dcda8d18606103c3]
+Detail Rule [5350214 6f7db5cabb505763e9ea7e4a7faf6252]
+Detail Rule [38201361 bfd37fe30d043eeaf6a9b230652642b3]
+Detail Rule [22767361 baaf7cb3052e54dc5554c8e1316829c3]
+Detail Rule [7347677 607912125cdedb72f56d110abc13e4e5]
+Detail Rule [77726785 5a928f32c28d3f631d2a390da8fd936b]
+Detail Rule [37518149 592fc4df7657b0b59237e54306f68073]
+Detail Rule [37627502 97ad1f55fe8ea2091c49fe0b62287fe0]
+Detail Rule [9661999 f4055d6b99d9d3e30f0774aa3ddadaca]
+Detail Rule [29426562 79c3724a20881f451d7921021d74677a]
+Detail Rule [305256 ceeec30e08d80e863735c3733779b09d]
+Detail Rule [17513996 f9c97386a71d026aa98b21e8c0ff7c39]
+Detail Rule [7216642 adcef188c10ffe71d5df2704a37eac28]
+Detail Rule [3483147 a2f773790f44edad5b7a098029a792fe]
+Detail Rule [2827958 e0a3fe225cbb76439c7aef1f19d493d5]
+Detail Rule [5289389 9a0b4f91fab854a5dcda8d18606103c3]
+Detail Rule [5350214 6f7db5cabb505763e9ea7e4a7faf6252]
+Looking For FileC:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_1.mf
+Detail Rule [38201361 bfd37fe30d043eeaf6a9b230652642b3]
+Detail Rule [22767361 baaf7cb3052e54dc5554c8e1316829c3]
+Detail Rule [7347677 607912125cdedb72f56d110abc13e4e5]
+Detail Rule [77726785 5a928f32c28d3f631d2a390da8fd936b]
+Detail Rule [37518149 592fc4df7657b0b59237e54306f68073]
+Detail Rule [37627502 97ad1f55fe8ea2091c49fe0b62287fe0]
+Detail Rule [9661999 f4055d6b99d9d3e30f0774aa3ddadaca]
+Detail Rule [29426562 79c3724a20881f451d7921021d74677a]
+Detail Rule [305256 ceeec30e08d80e863735c3733779b09d]
+Detail Rule [17513996 f9c97386a71d026aa98b21e8c0ff7c39]
+Detail Rule [7216642 adcef188c10ffe71d5df2704a37eac28]
+Detail Rule [3483147 a2f773790f44edad5b7a098029a792fe]
+Detail Rule [2827958 e0a3fe225cbb76439c7aef1f19d493d5]
+Detail Rule [5289389 9a0b4f91fab854a5dcda8d18606103c3]
+Detail Rule [5350214 6f7db5cabb505763e9ea7e4a7faf6252]
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_1.mf  Hash=bfd37fe30d043eeaf6a9b230652642b3 Size=38201361
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_2.mf  Hash=baaf7cb3052e54dc5554c8e1316829c3 Size=22767361
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_3.mf  Hash=607912125cdedb72f56d110abc13e4e5 Size=7347677
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_3.5.mf  Hash=5a928f32c28d3f631d2a390da8fd936b Size=77726785
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_4.mf  Hash=592fc4df7657b0b59237e54306f68073 Size=37518149
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_5.mf  Hash=97ad1f55fe8ea2091c49fe0b62287fe0 Size=37627502
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_5.5.mf  Hash=f4055d6b99d9d3e30f0774aa3ddadaca Size=9661999
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_6.mf  Hash=79c3724a20881f451d7921021d74677a Size=29426562
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_7.mf  Hash=ceeec30e08d80e863735c3733779b09d Size=305256
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_8.mf  Hash=f9c97386a71d026aa98b21e8c0ff7c39 Size=17513996
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_9.mf  Hash=adcef188c10ffe71d5df2704a37eac28 Size=7216642
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_10.mf  Hash=a2f773790f44edad5b7a098029a792fe Size=3483147
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_11.mf  Hash=e0a3fe225cbb76439c7aef1f19d493d5 Size=2827958
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_12.mf  Hash=9a0b4f91fab854a5dcda8d18606103c3 Size=5289389
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_13.mf  Hash=6f7db5cabb505763e9ea7e4a7faf6252 Size=5350214
+Starting install check for phase_1.mf
+Updating Toontown Online 0 of 2
+File operation fetch hash phase_1.mf
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_1.mf  Hash=bfd37fe30d043eeaf6a9b230652642b3 Size=38201361
+File operation mf extract phase_1.mf
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\Configrc.pre  Hash=6ad1d9c5ce9487819d72af3fa599cf00 Size=2734
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\Microsoft.VC80.CRT.manifest  Hash=1b1f46ba090737b6e9434e89a8b6c228 Size=507
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\Microsoft.VC90.CRT.manifest  Hash=6bb5d2aad0ae1b4a82e7ddf7cf58802a Size=524
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\PlayToontown.url  Hash=4db57353f5812c6f54e38138378f026a Size=164
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\PlayToontownTest.url  Hash=3b396970f45ffd239a4dcbb215496910 Size=151
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\Toontown.exe  Hash=08a1ba2cf7dfbb93ad6abf9e9379aedb Size=16306688
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\Toontown.exe.manifest  Hash=da068fa7e983687ae000dd1ce3144842 Size=851
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\Toontown.url  Hash=c315498c423aec562223ff40a900fa93 Size=136
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\ToontownTest.url  Hash=913f4fbf8364421fbadda306a875804d Size=116
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\_ctypes.pyd  Hash=ad963705aa93d214b25fe25a781b45af Size=73728
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\_socket.pyd  Hash=868e15701c6fe4f9c6e8e1b6c4ff089c Size=49152
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\avcodec.dll  Hash=49c9d20e5e81ec1cd8fec532f267c5e1 Size=8105982
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\avformat.dll  Hash=e43db6e3181b0ed9b4dd60569956b3bb Size=1288378
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\avutil.dll  Hash=b08bc73f102056b0ebf997125cd84b78 Size=37915
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\bz2.pyd  Hash=2297ede0ae364ab5eb741182095c64e7 Size=77824
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\libdtool.dll  Hash=503c0d307a7b16d5afafa571be96db50 Size=230400
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\libdtoolconfig.dll  Hash=210f273346a9bbf910c11a2be3eb4f04 Size=713216
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\libheapq.dll  Hash=eb4482fbca5738e4262640f630b64b14 Size=9728
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\libpandaegg.dll  Hash=147eee9c5d54ced57fdf378717580e9a Size=2128384
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\libpandaexpress.dll  Hash=8d22c52ac74efcf62c71e9fb769db0ce Size=2657280
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\libpandaode.dll  Hash=1eecfb02641044dab3503a0ddae8e0cb Size=721920
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\msvcp71.dll  Hash=561fa2abb31dfa8fab762145f81667c2 Size=499712
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\msvcp80.dll  Hash=2bc650257fb0867abd54fd460ec2bafc Size=548864
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\msvcp90.dll  Hash=6de5c66e434a9c1729575763d891c6c2 Size=568832
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\msvcr71.dll  Hash=86f1895ae8c5e8b17d99ece768a70732 Size=348160
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\msvcr80.dll  Hash=16d7ddf3b659f7cf1cb9f4dcff4219f0 Size=626688
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\msvcr90.dll  Hash=e7d91d008fe76423962b91c43c88e4eb Size=655872
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_3/etc/otp.dc  Hash=54c99b2b323fc1405ab3b78f361699f0 Size=17724
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_3/etc/toon.dc  Hash=22b6695e1fbe3f71ecd1975ef8f86f6c Size=127643
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\python24.dll  Hash=4db8d2758b4ad68d7cc08e5bd37f9b1b Size=1871872
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\pywintypes24.dll  Hash=fffa0670f877624d2d5ed14516c7710d Size=102400
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\toontown.ico  Hash=af4b6bd94baee0af6ea1aec0a54f21b1 Size=2238
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\unicodedata.pyd  Hash=b3e13d4e45508bd28b2826dc8a787200 Size=405504
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\win32api.pyd  Hash=03d9bae2266d965474887b20c1790ff9 Size=73728
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\zlib.pyd  Hash=7fb07d775fbea465659b71d3e25f3331 Size=65536
+Starting install check for phase_2.mf
+Updating Toontown Online 1 of 2
+File operation fetch hash phase_2.mf
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_2.mf  Hash=baaf7cb3052e54dc5554c8e1316829c3 Size=22767361
+File operation mf extract phase_2.mf
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\Phase2.pyd  Hash=873d30825d359e852f74a215e50c9e98 Size=7168
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\libdirect.dll  Hash=7aa7e57cec2af7ed30eb454245fe86ba Size=1033216
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\libmiles_audio.dll  Hash=8602548c72b839c03d7830ea63384d3d Size=108544
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\libotp.dll  Hash=753873b346fa7fa2823fe96b161350c0 Size=457728
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\libpanda.dll  Hash=711688a761060f912e51f16523cb3fd6 Size=16679424
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\libpandadx8.dll  Hash=0f473763c75cfe1f630f5a6711b92742 Size=454144
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\libpandadx9.dll  Hash=1cd4203b5006134bfc71a228c8121680 Size=534528
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\libpandafx.dll  Hash=374dd4e87a7141527942f85d7150e082 Size=172032
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\libpandagl.dll  Hash=947b311f474a8f3221d69649afbfb0b7 Size=342016
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\libpandaphysics.dll  Hash=283ba71b00c313203d54be9fe0712086 Size=985088
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\libtoontown.dll  Hash=e4cb608475bac55ec1432ea8899d0022 Size=845824
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\libwindisplay.dll  Hash=11be43ff041c6d5860bd6f9f5197dd85 Size=127488
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\mss32.dll  Hash=d77ed4dd18f33205effe5fad9fff4e8e Size=389120
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\mssmp3.asi  Hash=9e887cf069316dc17f387a5341f0eb02 Size=150016
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\ode_single.dll  Hash=108bfd88185a6a800cb47be6677a95d9 Size=479232
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\toonmono.cur  Hash=1b3b5972ea433ed8d21e3e348f5a94a9 Size=326
+Starting install check for phase_3.mf
+Updating Toontown Online 2 of 2
+File operation fetch hash phase_3.mf
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_3.mf  Hash=607912125cdedb72f56d110abc13e4e5 Size=7347677
+Starting install check for phase_3.5.mf
+Updating Toontown Online 2 of 2
+File operation fetch hash phase_3.5.mf
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_3.5.mf  Hash=5a928f32c28d3f631d2a390da8fd936b Size=77726785
+Starting install check for phase_4.mf
+Updating Toontown Online 2 of 2
+File operation fetch hash phase_4.mf
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_4.mf  Hash=592fc4df7657b0b59237e54306f68073 Size=37518149
+Starting install check for phase_5.mf
+Updating Toontown Online 2 of 2
+File operation fetch hash phase_5.mf
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_5.mf  Hash=97ad1f55fe8ea2091c49fe0b62287fe0 Size=37627502
+Starting install check for phase_5.5.mf
+Updating Toontown Online 2 of 2
+File operation fetch hash phase_5.5.mf
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_5.5.mf  Hash=f4055d6b99d9d3e30f0774aa3ddadaca Size=9661999
+Starting install check for phase_6.mf
+Updating Toontown Online 2 of 2
+File operation fetch hash phase_6.mf
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_6.mf  Hash=79c3724a20881f451d7921021d74677a Size=29426562
+Starting install check for phase_7.mf
+Updating Toontown Online 2 of 2
+File operation fetch hash phase_7.mf
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_7.mf  Hash=ceeec30e08d80e863735c3733779b09d Size=305256
+Starting install check for phase_8.mf
+Updating Toontown Online 2 of 2
+File operation fetch hash phase_8.mf
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_8.mf  Hash=f9c97386a71d026aa98b21e8c0ff7c39 Size=17513996
+Starting install check for phase_9.mf
+Updating Toontown Online 2 of 2
+File operation fetch hash phase_9.mf
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_9.mf  Hash=adcef188c10ffe71d5df2704a37eac28 Size=7216642
+Starting install check for phase_10.mf
+Updating Toontown Online 2 of 2
+File operation fetch hash phase_10.mf
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_10.mf  Hash=a2f773790f44edad5b7a098029a792fe Size=3483147
+Starting install check for phase_11.mf
+Updating Toontown Online 2 of 2
+File operation fetch hash phase_11.mf
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_11.mf  Hash=e0a3fe225cbb76439c7aef1f19d493d5 Size=2827958
+Starting install check for phase_12.mf
+Updating Toontown Online 2 of 2
+File operation fetch hash phase_12.mf
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_12.mf  Hash=9a0b4f91fab854a5dcda8d18606103c3 Size=5289389
+Starting install check for phase_13.mf
+Updating Toontown Online 2 of 2
+File operation fetch hash phase_13.mf
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_13.mf  Hash=6f7db5cabb505763e9ea7e4a7faf6252 Size=5350214
+Patches Up to date 
+-------->[WEB1] Setting Url To res://C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\ToontownLauncher.exe/157
+-------->[WEB1] Setting Url To http://test.toontown.go.com/content/en/release-notes/launcher.html
+Detail Rule [38201361 bfd37fe30d043eeaf6a9b230652642b3]
+Detail Rule [22767361 baaf7cb3052e54dc5554c8e1316829c3]
+Detail Rule [7347677 607912125cdedb72f56d110abc13e4e5]
+Detail Rule [77726785 5a928f32c28d3f631d2a390da8fd936b]
+Detail Rule [37518149 592fc4df7657b0b59237e54306f68073]
+Detail Rule [37627502 97ad1f55fe8ea2091c49fe0b62287fe0]
+Detail Rule [9661999 f4055d6b99d9d3e30f0774aa3ddadaca]
+Detail Rule [29426562 79c3724a20881f451d7921021d74677a]
+Detail Rule [305256 ceeec30e08d80e863735c3733779b09d]
+Detail Rule [17513996 f9c97386a71d026aa98b21e8c0ff7c39]
+Detail Rule [7216642 adcef188c10ffe71d5df2704a37eac28]
+Detail Rule [3483147 a2f773790f44edad5b7a098029a792fe]
+Detail Rule [2827958 e0a3fe225cbb76439c7aef1f19d493d5]
+Detail Rule [5289389 9a0b4f91fab854a5dcda8d18606103c3]
+Detail Rule [5350214 6f7db5cabb505763e9ea7e4a7faf6252]
+Detail Rule [38201361 bfd37fe30d043eeaf6a9b230652642b3]
+Detail Rule [22767361 baaf7cb3052e54dc5554c8e1316829c3]
+Detail Rule [7347677 607912125cdedb72f56d110abc13e4e5]
+Detail Rule [77726785 5a928f32c28d3f631d2a390da8fd936b]
+Detail Rule [37518149 592fc4df7657b0b59237e54306f68073]
+Detail Rule [37627502 97ad1f55fe8ea2091c49fe0b62287fe0]
+Detail Rule [9661999 f4055d6b99d9d3e30f0774aa3ddadaca]
+Detail Rule [29426562 79c3724a20881f451d7921021d74677a]
+Detail Rule [305256 ceeec30e08d80e863735c3733779b09d]
+Detail Rule [17513996 f9c97386a71d026aa98b21e8c0ff7c39]
+Detail Rule [7216642 adcef188c10ffe71d5df2704a37eac28]
+Detail Rule [3483147 a2f773790f44edad5b7a098029a792fe]
+Detail Rule [2827958 e0a3fe225cbb76439c7aef1f19d493d5]
+Detail Rule [5289389 9a0b4f91fab854a5dcda8d18606103c3]
+Detail Rule [5350214 6f7db5cabb505763e9ea7e4a7faf6252]
+Looking For FileC:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_1.mf
+Detail Rule [38201361 bfd37fe30d043eeaf6a9b230652642b3]
+Detail Rule [22767361 baaf7cb3052e54dc5554c8e1316829c3]
+Detail Rule [7347677 607912125cdedb72f56d110abc13e4e5]
+Detail Rule [77726785 5a928f32c28d3f631d2a390da8fd936b]
+Detail Rule [37518149 592fc4df7657b0b59237e54306f68073]
+Detail Rule [37627502 97ad1f55fe8ea2091c49fe0b62287fe0]
+Detail Rule [9661999 f4055d6b99d9d3e30f0774aa3ddadaca]
+Detail Rule [29426562 79c3724a20881f451d7921021d74677a]
+Detail Rule [305256 ceeec30e08d80e863735c3733779b09d]
+Detail Rule [17513996 f9c97386a71d026aa98b21e8c0ff7c39]
+Detail Rule [7216642 adcef188c10ffe71d5df2704a37eac28]
+Detail Rule [3483147 a2f773790f44edad5b7a098029a792fe]
+Detail Rule [2827958 e0a3fe225cbb76439c7aef1f19d493d5]
+Detail Rule [5289389 9a0b4f91fab854a5dcda8d18606103c3]
+Detail Rule [5350214 6f7db5cabb505763e9ea7e4a7faf6252]
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_1.mf  Hash=bfd37fe30d043eeaf6a9b230652642b3 Size=38201361
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_2.mf  Hash=baaf7cb3052e54dc5554c8e1316829c3 Size=22767361
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_3.mf  Hash=607912125cdedb72f56d110abc13e4e5 Size=7347677
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_3.5.mf  Hash=5a928f32c28d3f631d2a390da8fd936b Size=77726785
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_4.mf  Hash=592fc4df7657b0b59237e54306f68073 Size=37518149
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_5.mf  Hash=97ad1f55fe8ea2091c49fe0b62287fe0 Size=37627502
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_5.5.mf  Hash=f4055d6b99d9d3e30f0774aa3ddadaca Size=9661999
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_6.mf  Hash=79c3724a20881f451d7921021d74677a Size=29426562
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_7.mf  Hash=ceeec30e08d80e863735c3733779b09d Size=305256
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_8.mf  Hash=f9c97386a71d026aa98b21e8c0ff7c39 Size=17513996
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_9.mf  Hash=adcef188c10ffe71d5df2704a37eac28 Size=7216642
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_10.mf  Hash=a2f773790f44edad5b7a098029a792fe Size=3483147
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_11.mf  Hash=e0a3fe225cbb76439c7aef1f19d493d5 Size=2827958
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_12.mf  Hash=9a0b4f91fab854a5dcda8d18606103c3 Size=5289389
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_13.mf  Hash=6f7db5cabb505763e9ea7e4a7faf6252 Size=5350214
+Starting install check for phase_1.mf
+Updating Toontown Online 0 of 2
+File operation fetch hash phase_1.mf
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_1.mf  Hash=bfd37fe30d043eeaf6a9b230652642b3 Size=38201361
+File operation mf extract phase_1.mf
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\Configrc.pre  Hash=6ad1d9c5ce9487819d72af3fa599cf00 Size=2734
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\Microsoft.VC80.CRT.manifest  Hash=1b1f46ba090737b6e9434e89a8b6c228 Size=507
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\Microsoft.VC90.CRT.manifest  Hash=6bb5d2aad0ae1b4a82e7ddf7cf58802a Size=524
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\PlayToontown.url  Hash=4db57353f5812c6f54e38138378f026a Size=164
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\PlayToontownTest.url  Hash=3b396970f45ffd239a4dcbb215496910 Size=151
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\Toontown.exe  Hash=08a1ba2cf7dfbb93ad6abf9e9379aedb Size=16306688
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\Toontown.exe.manifest  Hash=da068fa7e983687ae000dd1ce3144842 Size=851
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\Toontown.url  Hash=c315498c423aec562223ff40a900fa93 Size=136
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\ToontownTest.url  Hash=913f4fbf8364421fbadda306a875804d Size=116
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\_ctypes.pyd  Hash=ad963705aa93d214b25fe25a781b45af Size=73728
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\_socket.pyd  Hash=868e15701c6fe4f9c6e8e1b6c4ff089c Size=49152
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\avcodec.dll  Hash=49c9d20e5e81ec1cd8fec532f267c5e1 Size=8105982
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\avformat.dll  Hash=e43db6e3181b0ed9b4dd60569956b3bb Size=1288378
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\avutil.dll  Hash=b08bc73f102056b0ebf997125cd84b78 Size=37915
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\bz2.pyd  Hash=2297ede0ae364ab5eb741182095c64e7 Size=77824
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\libdtool.dll  Hash=503c0d307a7b16d5afafa571be96db50 Size=230400
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\libdtoolconfig.dll  Hash=210f273346a9bbf910c11a2be3eb4f04 Size=713216
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\libheapq.dll  Hash=eb4482fbca5738e4262640f630b64b14 Size=9728
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\libpandaegg.dll  Hash=147eee9c5d54ced57fdf378717580e9a Size=2128384
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\libpandaexpress.dll  Hash=8d22c52ac74efcf62c71e9fb769db0ce Size=2657280
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\libpandaode.dll  Hash=1eecfb02641044dab3503a0ddae8e0cb Size=721920
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\msvcp71.dll  Hash=561fa2abb31dfa8fab762145f81667c2 Size=499712
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\msvcp80.dll  Hash=2bc650257fb0867abd54fd460ec2bafc Size=548864
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\msvcp90.dll  Hash=6de5c66e434a9c1729575763d891c6c2 Size=568832
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\msvcr71.dll  Hash=86f1895ae8c5e8b17d99ece768a70732 Size=348160
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\msvcr80.dll  Hash=16d7ddf3b659f7cf1cb9f4dcff4219f0 Size=626688
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\msvcr90.dll  Hash=e7d91d008fe76423962b91c43c88e4eb Size=655872
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_3/etc/otp.dc  Hash=54c99b2b323fc1405ab3b78f361699f0 Size=17724
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_3/etc/toon.dc  Hash=22b6695e1fbe3f71ecd1975ef8f86f6c Size=127643
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\python24.dll  Hash=4db8d2758b4ad68d7cc08e5bd37f9b1b Size=1871872
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\pywintypes24.dll  Hash=fffa0670f877624d2d5ed14516c7710d Size=102400
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\toontown.ico  Hash=af4b6bd94baee0af6ea1aec0a54f21b1 Size=2238
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\unicodedata.pyd  Hash=b3e13d4e45508bd28b2826dc8a787200 Size=405504
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\win32api.pyd  Hash=03d9bae2266d965474887b20c1790ff9 Size=73728
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\zlib.pyd  Hash=7fb07d775fbea465659b71d3e25f3331 Size=65536
+Starting install check for phase_2.mf
+Updating Toontown Online 1 of 2
+File operation fetch hash phase_2.mf
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_2.mf  Hash=baaf7cb3052e54dc5554c8e1316829c3 Size=22767361
+File operation mf extract phase_2.mf
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\Phase2.pyd  Hash=873d30825d359e852f74a215e50c9e98 Size=7168
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\libdirect.dll  Hash=7aa7e57cec2af7ed30eb454245fe86ba Size=1033216
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\libmiles_audio.dll  Hash=8602548c72b839c03d7830ea63384d3d Size=108544
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\libotp.dll  Hash=753873b346fa7fa2823fe96b161350c0 Size=457728
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\libpanda.dll  Hash=711688a761060f912e51f16523cb3fd6 Size=16679424
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\libpandadx8.dll  Hash=0f473763c75cfe1f630f5a6711b92742 Size=454144
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\libpandadx9.dll  Hash=1cd4203b5006134bfc71a228c8121680 Size=534528
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\libpandafx.dll  Hash=374dd4e87a7141527942f85d7150e082 Size=172032
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\libpandagl.dll  Hash=947b311f474a8f3221d69649afbfb0b7 Size=342016
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\libpandaphysics.dll  Hash=283ba71b00c313203d54be9fe0712086 Size=985088
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\libtoontown.dll  Hash=e4cb608475bac55ec1432ea8899d0022 Size=845824
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\libwindisplay.dll  Hash=11be43ff041c6d5860bd6f9f5197dd85 Size=127488
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\mss32.dll  Hash=d77ed4dd18f33205effe5fad9fff4e8e Size=389120
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\mssmp3.asi  Hash=9e887cf069316dc17f387a5341f0eb02 Size=150016
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\ode_single.dll  Hash=108bfd88185a6a800cb47be6677a95d9 Size=479232
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\toonmono.cur  Hash=1b3b5972ea433ed8d21e3e348f5a94a9 Size=326
+Starting install check for phase_3.mf
+Updating Toontown Online 2 of 2
+File operation fetch hash phase_3.mf
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_3.mf  Hash=607912125cdedb72f56d110abc13e4e5 Size=7347677
+Starting install check for phase_3.5.mf
+Updating Toontown Online 2 of 2
+File operation fetch hash phase_3.5.mf
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_3.5.mf  Hash=5a928f32c28d3f631d2a390da8fd936b Size=77726785
+Starting install check for phase_4.mf
+Updating Toontown Online 2 of 2
+File operation fetch hash phase_4.mf
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_4.mf  Hash=592fc4df7657b0b59237e54306f68073 Size=37518149
+Starting install check for phase_5.mf
+Updating Toontown Online 2 of 2
+File operation fetch hash phase_5.mf
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_5.mf  Hash=97ad1f55fe8ea2091c49fe0b62287fe0 Size=37627502
+Starting install check for phase_5.5.mf
+Updating Toontown Online 2 of 2
+File operation fetch hash phase_5.5.mf
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_5.5.mf  Hash=f4055d6b99d9d3e30f0774aa3ddadaca Size=9661999
+Starting install check for phase_6.mf
+Updating Toontown Online 2 of 2
+File operation fetch hash phase_6.mf
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_6.mf  Hash=79c3724a20881f451d7921021d74677a Size=29426562
+Starting install check for phase_7.mf
+Updating Toontown Online 2 of 2
+File operation fetch hash phase_7.mf
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_7.mf  Hash=ceeec30e08d80e863735c3733779b09d Size=305256
+Starting install check for phase_8.mf
+Updating Toontown Online 2 of 2
+File operation fetch hash phase_8.mf
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_8.mf  Hash=f9c97386a71d026aa98b21e8c0ff7c39 Size=17513996
+Starting install check for phase_9.mf
+Updating Toontown Online 2 of 2
+File operation fetch hash phase_9.mf
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_9.mf  Hash=adcef188c10ffe71d5df2704a37eac28 Size=7216642
+Starting install check for phase_10.mf
+Updating Toontown Online 2 of 2
+File operation fetch hash phase_10.mf
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_10.mf  Hash=a2f773790f44edad5b7a098029a792fe Size=3483147
+Starting install check for phase_11.mf
+Updating Toontown Online 2 of 2
+File operation fetch hash phase_11.mf
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_11.mf  Hash=e0a3fe225cbb76439c7aef1f19d493d5 Size=2827958
+Starting install check for phase_12.mf
+Updating Toontown Online 2 of 2
+File operation fetch hash phase_12.mf
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_12.mf  Hash=9a0b4f91fab854a5dcda8d18606103c3 Size=5289389
+Starting install check for phase_13.mf
+Updating Toontown Online 2 of 2
+File operation fetch hash phase_13.mf
+MD5 From cache =C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_13.mf  Hash=6f7db5cabb505763e9ea7e4a7faf6252 Size=5350214
+Patches Up to date 
+-------->[WEB1] Setting Url To res://C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\ToontownLauncher.exe/157
+-------->[WEB1] Setting Url To http://test.toontown.go.com/content/en/release-notes/launcher.html
+-------->[WEB1] Setting Url To res://C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\ToontownLauncher.exe/157
+003F5888 Normal Exit

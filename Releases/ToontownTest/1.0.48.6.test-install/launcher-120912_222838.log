@@ -1,0 +1,285 @@
+=====Log Open
+CHECKING CPU...
+CPU speed: 2926 Mhz
+NumProcessors: 8
+CPU vendor code: Intel
+CPU vendor name: GenuineIntel
+CPU name: Genuine Intel(R) CPU           @ 0000 @ 2.93GHz
+CPU type: unknown
+CPU level: 6
+CPU features: MMX, MMX Extensions, SSE, SSE FP, SSE2, 
+CHECKING OS...
+Microsoft Windows XP Professional Service Pack 3 (Build 2600)
+User has NT Admin privileges
+IE Ver: 7.0.5730.11
+Mouse detected
+CHECKING RAM...
+RAM: Total: 3319.04 MB, Free: 2065.15 MB, Utilization: 37%
+CHEKING VIDEO RAM...
+VRAM: Total: 1130 MB
+CHECKING DISK SPACE...
+Free Disk Space: 597633 MB
+CHECKING 3D HARDWARE...
+installed DX VerStr: 4.10.0.5515
+DX Level Installed: DX 9.0
+Detected DX Card[0]: NVIDIA GeForce 8800 GTS
+Driver Version: (6.14.13.593) Date: (8/18/2012) DriverName: nv4_disp.dll; VendorID: 0x000010DE; DeviceID: 0x00000193; SubsysID: 0x042110DE; Revision: 0x000000A2
+Suggested GfxApi: DX 9.0
+CHECKING SOUND... Removed
+Keyboard Layout: 00000409 LangID: 0x0x0409 Locale ID: 0x0x0409
+CHECKING NET CONNECTION...
+IP Addr: 192.168.1.105
+MAC Address: 00-24-8C-7D-64-81
+Internet connection is through a LAN
+Microsoft Windows XP Professional Service Pack 3 (Build 2600)
+User has NT Admin privileges
+found potentially conflicting installed program: AC3Filter 1.62b
+found potentially conflicting installed program: Kaspersky Anti-Virus 6.0 for Windows Workstations
+found potentially conflicting installed program: USB Virus Scan 2.3
+found potentially conflicting installed program: Kaspersky Anti-Virus 6.0 for Windows Workstations
+Trying To Start Splash and Sefl Path
+-------->[WEB1] Setting Url To res://C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\ToontownLauncher.exe/157
+-------->[WEB2] Setting Url To res://C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\ToontownLauncher.exe/157
+-------->[WEB3] Setting Url To res://C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\ToontownLauncher.exe/157
+****Found Command line  Varable []
+-------->[WEB1] Setting Url To http://test.toontown.go.com/content/en/release-notes/launcher.html
+Detail Rule [38201361 bfd37fe30d043eeaf6a9b230652642b3]
+Detail Rule [22767361 baaf7cb3052e54dc5554c8e1316829c3]
+Detail Rule [7347677 607912125cdedb72f56d110abc13e4e5]
+Detail Rule [77726785 5a928f32c28d3f631d2a390da8fd936b]
+Detail Rule [37518149 592fc4df7657b0b59237e54306f68073]
+Detail Rule [37627502 97ad1f55fe8ea2091c49fe0b62287fe0]
+Detail Rule [9661999 f4055d6b99d9d3e30f0774aa3ddadaca]
+Detail Rule [29426562 79c3724a20881f451d7921021d74677a]
+Detail Rule [305256 ceeec30e08d80e863735c3733779b09d]
+Detail Rule [17513996 f9c97386a71d026aa98b21e8c0ff7c39]
+Detail Rule [7216642 adcef188c10ffe71d5df2704a37eac28]
+Detail Rule [3483147 a2f773790f44edad5b7a098029a792fe]
+Detail Rule [2827958 e0a3fe225cbb76439c7aef1f19d493d5]
+Detail Rule [5289389 9a0b4f91fab854a5dcda8d18606103c3]
+Detail Rule [5350214 6f7db5cabb505763e9ea7e4a7faf6252]
+Detail Rule [38201361 bfd37fe30d043eeaf6a9b230652642b3]
+Detail Rule [22767361 baaf7cb3052e54dc5554c8e1316829c3]
+Detail Rule [7347677 607912125cdedb72f56d110abc13e4e5]
+Detail Rule [77726785 5a928f32c28d3f631d2a390da8fd936b]
+Detail Rule [37518149 592fc4df7657b0b59237e54306f68073]
+Detail Rule [37627502 97ad1f55fe8ea2091c49fe0b62287fe0]
+Detail Rule [9661999 f4055d6b99d9d3e30f0774aa3ddadaca]
+Detail Rule [29426562 79c3724a20881f451d7921021d74677a]
+Detail Rule [305256 ceeec30e08d80e863735c3733779b09d]
+Detail Rule [17513996 f9c97386a71d026aa98b21e8c0ff7c39]
+Detail Rule [7216642 adcef188c10ffe71d5df2704a37eac28]
+Detail Rule [3483147 a2f773790f44edad5b7a098029a792fe]
+Detail Rule [2827958 e0a3fe225cbb76439c7aef1f19d493d5]
+Detail Rule [5289389 9a0b4f91fab854a5dcda8d18606103c3]
+Detail Rule [5350214 6f7db5cabb505763e9ea7e4a7faf6252]
+Looking For FileC:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_1.mf
+Looking For FileC:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_2.mf
+Looking For FileC:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_3.mf
+Looking For FileC:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_3.5.mf
+Looking For FileC:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_4.mf
+Looking For FileC:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_5.mf
+Looking For FileC:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_5.5.mf
+Looking For FileC:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_6.mf
+Looking For FileC:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_7.mf
+Looking For FileC:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_8.mf
+Looking For FileC:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_9.mf
+Looking For FileC:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_10.mf
+Looking For FileC:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_11.mf
+Looking For FileC:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_12.mf
+Looking For FileC:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_13.mf
+-------->[WEB1] Setting Url To res://C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\ToontownLauncher.exe/157
+-------->[WEB3] Setting Url To http://disney.go.com/toontown/launcher/live/install/LoadMoviePC.html
+Detail Rule [38201361 bfd37fe30d043eeaf6a9b230652642b3]
+Detail Rule [22767361 baaf7cb3052e54dc5554c8e1316829c3]
+Detail Rule [7347677 607912125cdedb72f56d110abc13e4e5]
+Detail Rule [77726785 5a928f32c28d3f631d2a390da8fd936b]
+Detail Rule [37518149 592fc4df7657b0b59237e54306f68073]
+Detail Rule [37627502 97ad1f55fe8ea2091c49fe0b62287fe0]
+Detail Rule [9661999 f4055d6b99d9d3e30f0774aa3ddadaca]
+Detail Rule [29426562 79c3724a20881f451d7921021d74677a]
+Detail Rule [305256 ceeec30e08d80e863735c3733779b09d]
+Detail Rule [17513996 f9c97386a71d026aa98b21e8c0ff7c39]
+Detail Rule [7216642 adcef188c10ffe71d5df2704a37eac28]
+Detail Rule [3483147 a2f773790f44edad5b7a098029a792fe]
+Detail Rule [2827958 e0a3fe225cbb76439c7aef1f19d493d5]
+Detail Rule [5289389 9a0b4f91fab854a5dcda8d18606103c3]
+Detail Rule [5350214 6f7db5cabb505763e9ea7e4a7faf6252]
+File does not exists C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_1.mf
+File does not exists C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_2.mf
+File does not exists C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_3.mf
+File does not exists C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_3.5.mf
+File does not exists C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_4.mf
+File does not exists C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_5.mf
+File does not exists C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_5.5.mf
+File does not exists C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_6.mf
+File does not exists C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_7.mf
+File does not exists C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_8.mf
+File does not exists C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_9.mf
+File does not exists C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_10.mf
+File does not exists C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_11.mf
+File does not exists C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_12.mf
+File does not exists C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_13.mf
+Starting install check for phase_1.mf
+Installing Toontown Online 0 of 17
+File operation fetch hash phase_1.mf
+File does not exists C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_1.mf
+File operation install phase_1.mf
+Fetch Starting http://download.test.toontown.com/english/currentVersionWIN/test/content/phase_1.mf.v1.268.bz2
+MD5 for=C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_1.mf  Hash=bfd37fe30d043eeaf6a9b230652642b3 Size=38201361
+File operation mf extract phase_1.mf
+File does not exists C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\Configrc.pre
+File does not exists C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\Microsoft.VC80.CRT.manifest
+File does not exists C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\Microsoft.VC90.CRT.manifest
+File does not exists C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\PlayToontown.url
+File does not exists C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\PlayToontownTest.url
+File does not exists C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\Toontown.exe
+File does not exists C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\Toontown.exe.manifest
+File does not exists C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\Toontown.url
+File does not exists C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\ToontownTest.url
+File does not exists C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\_ctypes.pyd
+File does not exists C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\_socket.pyd
+File does not exists C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\avcodec.dll
+File does not exists C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\avformat.dll
+File does not exists C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\avutil.dll
+File does not exists C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\bz2.pyd
+File does not exists C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\libdtool.dll
+File does not exists C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\libdtoolconfig.dll
+File does not exists C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\libheapq.dll
+File does not exists C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\libpandaegg.dll
+File does not exists C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\libpandaexpress.dll
+File does not exists C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\libpandaode.dll
+File does not exists C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\msvcp71.dll
+File does not exists C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\msvcp80.dll
+File does not exists C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\msvcp90.dll
+File does not exists C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\msvcr71.dll
+File does not exists C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\msvcr80.dll
+File does not exists C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\msvcr90.dll
+File does not exists C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_3/etc/otp.dc
+File does not exists C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_3/etc/toon.dc
+File does not exists C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\python24.dll
+File does not exists C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\pywintypes24.dll
+File does not exists C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\toontown.ico
+File does not exists C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\unicodedata.pyd
+File does not exists C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\win32api.pyd
+File does not exists C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\zlib.pyd
+Starting install check for phase_2.mf
+Installing Toontown Online 2 of 17
+File operation fetch hash phase_2.mf
+File does not exists C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_2.mf
+File operation install phase_2.mf
+Fetch Starting http://download.test.toontown.com/english/currentVersionWIN/test/content/phase_2.mf.v1.268.bz2
+MD5 for=C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_2.mf  Hash=baaf7cb3052e54dc5554c8e1316829c3 Size=22767361
+File operation mf extract phase_2.mf
+File does not exists C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\Phase2.pyd
+File does not exists C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\libdirect.dll
+File does not exists C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\libmiles_audio.dll
+File does not exists C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\libotp.dll
+File does not exists C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\libpanda.dll
+File does not exists C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\libpandadx8.dll
+File does not exists C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\libpandadx9.dll
+File does not exists C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\libpandafx.dll
+File does not exists C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\libpandagl.dll
+File does not exists C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\libpandaphysics.dll
+File does not exists C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\libtoontown.dll
+File does not exists C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\libwindisplay.dll
+File does not exists C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\mss32.dll
+File does not exists C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\mssmp3.asi
+File does not exists C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\ode_single.dll
+File does not exists C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\toonmono.cur
+Starting install check for phase_3.mf
+Installing Toontown Online 4 of 17
+File operation fetch hash phase_3.mf
+File does not exists C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_3.mf
+File operation install phase_3.mf
+Fetch Starting http://download.test.toontown.com/english/currentVersionWIN/test/content/phase_3.mf.v1.83.bz2
+MD5 for=C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_3.mf  Hash=607912125cdedb72f56d110abc13e4e5 Size=7347677
+Starting install check for phase_3.5.mf
+Installing Toontown Online 5 of 17
+File operation fetch hash phase_3.5.mf
+File does not exists C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_3.5.mf
+File operation install phase_3.5.mf
+Fetch Starting http://download.test.toontown.com/english/currentVersionWIN/test/content/phase_3.5.mf.v1.86.bz2
+MD5 for=C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_3.5.mf  Hash=5a928f32c28d3f631d2a390da8fd936b Size=77726785
+Starting install check for phase_4.mf
+Installing Toontown Online 6 of 17
+File operation fetch hash phase_4.mf
+File does not exists C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_4.mf
+File operation install phase_4.mf
+Fetch Starting http://download.test.toontown.com/english/currentVersionWIN/test/content/phase_4.mf.v1.87.bz2
+MD5 for=C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_4.mf  Hash=592fc4df7657b0b59237e54306f68073 Size=37518149
+Starting install check for phase_5.mf
+Installing Toontown Online 7 of 17
+File operation fetch hash phase_5.mf
+File does not exists C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_5.mf
+File operation install phase_5.mf
+Fetch Starting http://download.test.toontown.com/english/currentVersionWIN/test/content/phase_5.mf.v1.68.bz2
+MD5 for=C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_5.mf  Hash=97ad1f55fe8ea2091c49fe0b62287fe0 Size=37627502
+Starting install check for phase_5.5.mf
+Installing Toontown Online 8 of 17
+File operation fetch hash phase_5.5.mf
+File does not exists C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_5.5.mf
+File operation install phase_5.5.mf
+Fetch Starting http://download.test.toontown.com/english/currentVersionWIN/test/content/phase_5.5.mf.v1.62.bz2
+MD5 for=C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_5.5.mf  Hash=f4055d6b99d9d3e30f0774aa3ddadaca Size=9661999
+Starting install check for phase_6.mf
+Installing Toontown Online 9 of 17
+File operation fetch hash phase_6.mf
+File does not exists C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_6.mf
+File operation install phase_6.mf
+Fetch Starting http://download.test.toontown.com/english/currentVersionWIN/test/content/phase_6.mf.v1.81.bz2
+MD5 for=C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_6.mf  Hash=79c3724a20881f451d7921021d74677a Size=29426562
+Starting install check for phase_7.mf
+Installing Toontown Online 10 of 17
+File operation fetch hash phase_7.mf
+File does not exists C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_7.mf
+File operation install phase_7.mf
+Fetch Starting http://download.test.toontown.com/english/currentVersionWIN/test/content/phase_7.mf.v1.39.bz2
+MD5 for=C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_7.mf  Hash=ceeec30e08d80e863735c3733779b09d Size=305256
+Starting install check for phase_8.mf
+Installing Toontown Online 11 of 17
+File operation fetch hash phase_8.mf
+File does not exists C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_8.mf
+File operation install phase_8.mf
+Fetch Starting http://download.test.toontown.com/english/currentVersionWIN/test/content/phase_8.mf.v1.70.bz2
+MD5 for=C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_8.mf  Hash=f9c97386a71d026aa98b21e8c0ff7c39 Size=17513996
+Starting install check for phase_9.mf
+Installing Toontown Online 12 of 17
+File operation fetch hash phase_9.mf
+File does not exists C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_9.mf
+File operation install phase_9.mf
+Fetch Starting http://download.test.toontown.com/english/currentVersionWIN/test/content/phase_9.mf.v1.53.bz2
+MD5 for=C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_9.mf  Hash=adcef188c10ffe71d5df2704a37eac28 Size=7216642
+Starting install check for phase_10.mf
+Installing Toontown Online 13 of 17
+File operation fetch hash phase_10.mf
+File does not exists C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_10.mf
+File operation install phase_10.mf
+Fetch Starting http://download.test.toontown.com/english/currentVersionWIN/test/content/phase_10.mf.v1.51.bz2
+MD5 for=C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_10.mf  Hash=a2f773790f44edad5b7a098029a792fe Size=3483147
+Starting install check for phase_11.mf
+Installing Toontown Online 14 of 17
+File operation fetch hash phase_11.mf
+File does not exists C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_11.mf
+File operation install phase_11.mf
+Fetch Starting http://download.test.toontown.com/english/currentVersionWIN/test/content/phase_11.mf.v1.52.bz2
+MD5 for=C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_11.mf  Hash=e0a3fe225cbb76439c7aef1f19d493d5 Size=2827958
+Starting install check for phase_12.mf
+Installing Toontown Online 15 of 17
+File operation fetch hash phase_12.mf
+File does not exists C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_12.mf
+File operation install phase_12.mf
+Fetch Starting http://download.test.toontown.com/english/currentVersionWIN/test/content/phase_12.mf.v1.55.bz2
+MD5 for=C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_12.mf  Hash=9a0b4f91fab854a5dcda8d18606103c3 Size=5289389
+Starting install check for phase_13.mf
+Installing Toontown Online 16 of 17
+File operation fetch hash phase_13.mf
+File does not exists C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_13.mf
+File operation install phase_13.mf
+Fetch Starting http://download.test.toontown.com/english/currentVersionWIN/test/content/phase_13.mf.v1.42.bz2
+MD5 for=C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\phase_13.mf  Hash=6f7db5cabb505763e9ea7e4a7faf6252 Size=5350214
+Patches Up to date 
+-------->[WEB3] Setting Url To res://C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\ToontownLauncher.exe/157
+-------->[WEB1] Setting Url To http://test.toontown.go.com/content/en/release-notes/launcher.html
+-------->[WEB1] Setting Url To res://C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\ToontownLauncher.exe/157
+003F5888 Normal Exit

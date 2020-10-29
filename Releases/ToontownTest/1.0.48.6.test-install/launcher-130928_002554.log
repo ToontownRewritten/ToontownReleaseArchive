@@ -1,0 +1,45 @@
+=====Log Open
+CHECKING CPU...
+CPU speed: 2940 Mhz
+NumProcessors: 8
+CPU vendor code: Intel
+CPU vendor name: GenuineIntel
+CPU name: Genuine Intel(R) CPU             000  @ 2.93GHz
+CPU type: unknown
+CPU level: 6
+CPU features: MMX, MMX Extensions, SSE, SSE FP, SSE2, 
+CHECKING OS...
+Microsoft Windows XP Professional Service Pack 3 (Build 2600)
+User has NT Admin privileges
+IE Ver: 7.0.5730.11
+Mouse detected
+CHECKING RAM...
+RAM: Total: 3063.04 MB, Free: 2149.93 MB, Utilization: 29%
+CHEKING VIDEO RAM...
+VRAM: Total: 2021 MB
+CHECKING DISK SPACE...
+Free Disk Space: 581542 MB
+CHECKING 3D HARDWARE...
+installed DX VerStr: 4.11.00.0
+DX Level Installed: DX 9.0
+Detected DX Card[0]: NVIDIA GeForce GTX 580
+Driver Version: (6.14.13.2680) Date: (8/18/2013) DriverName: nv4_disp.dll; VendorID: 0x000010DE; DeviceID: 0x00001080; SubsysID: 0x086A10DE; Revision: 0x000000A1
+Suggested GfxApi: DX 9.0
+CHECKING SOUND... Removed
+Keyboard Layout: 00000409 LangID: 0x0x0409 Locale ID: 0x0x0409
+CHECKING NET CONNECTION...
+IP Addr: 192.168.1.105
+MAC Address: 48-5B-39-2C-5D-EB
+Internet connection is through a LAN
+Microsoft Windows XP Professional Service Pack 3 (Build 2600)
+User has NT Admin privileges
+found potentially conflicting installed program: AC3Filter 2.6.0b
+found potentially conflicting installed program: Kaspersky Anti-Virus 6.0 for Windows Workstations
+found potentially conflicting installed program: USB Virus Scan 2.3
+found potentially conflicting installed program: Kaspersky Anti-Virus 6.0 for Windows Workstations
+Trying To Start Splash and Sefl Path
+-------->[WEB1] Setting Url To res://C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\ToontownLauncher.exe/157
+-------->[WEB2] Setting Url To res://C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\ToontownLauncher.exe/157
+-------->[WEB3] Setting Url To res://C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\ToontownLauncher.exe/157
+****Found Command line  Varable []
+003F58D0 Normal Exit

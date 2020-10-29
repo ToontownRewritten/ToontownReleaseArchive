@@ -1,0 +1,62 @@
+=====Log Open
+CHECKING CPU...
+CPU speed: 2940 Mhz
+NumProcessors: 8
+CPU vendor code: Intel
+CPU vendor name: GenuineIntel
+CPU name: Genuine Intel(R) CPU             000  @ 2.93GHz
+CPU type: unknown
+CPU level: 6
+CPU features: MMX, MMX Extensions, SSE, SSE FP, SSE2, 
+CHECKING OS...
+Microsoft Windows XP Professional Service Pack 3 (Build 2600)
+User has NT Admin privileges
+IE Ver: 7.0.5730.11
+Mouse detected
+CHECKING RAM...
+RAM: Total: 3063.04 MB, Free: 1790.34 MB, Utilization: 41%
+CHEKING VIDEO RAM...
+VRAM: Total: 1386 MB
+CHECKING DISK SPACE...
+Free Disk Space: 57667 MB
+CHECKING 3D HARDWARE...
+installed DX VerStr: 4.11.00.0
+DX Level Installed: DX 9.0
+Detected DX Card[0]: NVIDIA GeForce GTX 260
+Driver Version: (6.14.13.2049) Date: (6/21/2013) DriverName: nv4_disp.dll; VendorID: 0x000010DE; DeviceID: 0x000005E2; SubsysID: 0x12603842; Revision: 0x000000A1
+Suggested GfxApi: DX 9.0
+CHECKING SOUND... Removed
+Keyboard Layout: 00000409 LangID: 0x0x0409 Locale ID: 0x0x0409
+CHECKING NET CONNECTION...
+IP Addr: 192.168.1.105
+MAC Address: 48-5B-39-2C-5D-EB
+Internet connection is through a LAN
+Microsoft Windows XP Professional Service Pack 3 (Build 2600)
+User has NT Admin privileges
+found potentially conflicting installed program: AC3Filter 2.6.0b
+found potentially conflicting installed program: Kaspersky Anti-Virus 6.0 for Windows Workstations
+found potentially conflicting installed program: USB Virus Scan 2.3
+found potentially conflicting installed program: Kaspersky Anti-Virus 6.0 for Windows Workstations
+Trying To Start Splash and Sefl Path
+-------->[WEB1] Setting Url To res://C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\ToontownLauncher.exe/157
+-------->[WEB2] Setting Url To res://C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\ToontownLauncher.exe/157
+-------->[WEB3] Setting Url To res://C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\ToontownLauncher.exe/157
+****Found Command line  Varable []
+-------->[WEB1] Setting Url To http://test.toontown.go.com/content/en/release-notes/launcher.html
+Detail Rule [38201361 bfd37fe30d043eeaf6a9b230652642b3]
+Detail Rule [22767361 baaf7cb3052e54dc5554c8e1316829c3]
+Detail Rule [7347677 607912125cdedb72f56d110abc13e4e5]
+Detail Rule [77726785 5a928f32c28d3f631d2a390da8fd936b]
+Detail Rule [37518149 592fc4df7657b0b59237e54306f68073]
+Detail Rule [37627502 97ad1f55fe8ea2091c49fe0b62287fe0]
+Detail Rule [9661999 f4055d6b99d9d3e30f0774aa3ddadaca]
+Detail Rule [29426562 79c3724a20881f451d7921021d74677a]
+Detail Rule [305256 ceeec30e08d80e863735c3733779b09d]
+Detail Rule [17513996 f9c97386a71d026aa98b21e8c0ff7c39]
+Detail Rule [7216642 adcef188c10ffe71d5df2704a37eac28]
+Detail Rule [3483147 a2f773790f44edad5b7a098029a792fe]
+Detail Rule [2827958 e0a3fe225cbb76439c7aef1f19d493d5]
+Detail Rule [5289389 9a0b4f91fab854a5dcda8d18606103c3]
+Detail Rule [5350214 6f7db5cabb505763e9ea7e4a7faf6252]
+-------->[WEB1] Setting Url To res://C:\Program Files\Disney\Disney Online\ToontownOnline_TEST\ToontownLauncher.exe/157
+003F58A0 Normal Exit
