@@ -1,4 +1,4 @@
-![Disney's Toontown Online Beta Logo](https://i.imgur.com/8MvpEZg.jpg)
+![Disney's Toontown Online Logo](https://i.imgur.com/VsBbjC5.png)
 
 # Test Release Notes
 
