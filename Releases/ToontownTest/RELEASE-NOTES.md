@@ -1,14 +1,26 @@
-![Disney's Toontown Online Beta Logo](https://i.imgur.com/8MvpEZg.jpg)
+![Disney's Toontown Online Logo](https://i.imgur.com/VsBbjC5.png)
 
 # Test Release Notes
 
 These release notes were pulled from [a capture of the Toontown Online website](http://web.archive.org/web/20081216101645/http://play.test.toontown.com/news.php) from December 16, 2008, and are currently incomplete.
 
+* [September 19, 2008 [sv1.0.36.2.test]](#september-19-2008-sv10362test)
 * [December 10, 2008 [sv1.0.37.2.test]](#december-10-2008-sv10372test)
 
 If you have found additional Test release notes that should be included here, check out the [Contributing](../../CONTRIBUTING.md) page!
 
 ---
+
+
+## September 19, 2008 [sv1.0.36.2.test]
+
+  * There are now proper names for the three new items in the Cattlelog.
+  * Fixed the missing jellybeans in the flower planting GUI.
+  * Fixed server crash due to bug with interior elevators.
+  * Fixed crash when a Stomper stomps a toon with one laff.
+  
+  **KNOWN ISSUE**
+  *  Currently the item name for the Trolley Bed is too long in the Cattlelog. This is a known issue and will be fixed in the next release.
 
 
 ## December 10, 2008 [sv1.0.37.2.test]

@@ -8,6 +8,7 @@ The files within this folder are release builds of Test versions of Disney's Too
 
 ## Archived Releases
 
+* **1.0.36.2.test** - September 19, 2008 - *Donated by Bryan Muschter*
 * **1.0.37.2.test** - December 10, 2008 - *Donated by Bryan Muschter*
 
 ## Release Notes

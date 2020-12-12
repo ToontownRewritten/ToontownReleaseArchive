@@ -16,6 +16,7 @@ These releases were publicly distributed by The Walt Disney Company, and are col
 
 **[Toontown Test](Releases/ToontownTest)**
 
+* **1.0.36.2.test** - September 19, 2008 - *Donated by Bryan Muschter*
 * **1.0.37.2.test** - December 10, 2008 - *Donated by Bryan Muschter*
 
 ## Tools
