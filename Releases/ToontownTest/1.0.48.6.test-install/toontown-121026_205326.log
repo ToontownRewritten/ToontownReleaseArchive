@@ -1,0 +1,268 @@
+
+
+Starting Toontown...
+Current time: Fri Oct 26 20:53:26 2012 Eastern Standard Time
+sys.path =  ['']
+sys.argv =  ['Toontown']
+generating standard configrc
+CONFIG_CONFIG is set to: :configpath=CFG_PATH
+Resetting CONFIG_CONFIG
+:10-26-2012 20:53:27 Launcher: isTestServer: 0
+:10-26-2012 20:53:27 Launcher: Download Server List http://download.test.toontown.com/english/currentVersionWIN/test/content
+:10-26-2012 20:53:27 Launcher: Using download server http://download.test.toontown.com/english/currentVersionWIN/test/content.
+:10-26-2012 20:53:27 Launcher: Game Server https://gameserver.test.toontown.com
+:10-26-2012 20:53:27 Launcher: patch directory is 0
+:10-26-2012 20:53:27 Launcher: Starting Disney's Toontown Online... 
+:10-26-2012 20:53:27 :downloader(warning): Could not read gameserver.txt.
+:10-26-2012 20:53:27 Launcher: Proxy spec is: 
+:10-26-2012 20:53:27 :downloader: [035D0008] created.
+:10-26-2012 20:53:27 Launcher: No proxy for download.
+:10-26-2012 20:53:27 :downloader: [035D0008] begin HEAD [ http://download.test.toontown.com/english/currentVersionWIN/test/content/patcher.ver?845818288 ]
+:10-26-2012 20:53:27 :downloader: [035D0008] reset_to_new.
+:10-26-2012 20:53:27 :downloader: [035D0008] reset_to_new.
+:10-26-2012 20:53:27 :downloader: [035D0008] reset_to_new.
+:10-26-2012 20:53:27 :downloader: [035D0008] Connected to download.test.toontown.com:80
+:10-26-2012 20:53:27 Launcher: Download server: http://download.test.toontown.com/english/currentVersionWIN/test/content
+:10-26-2012 20:53:27 Launcher: foreground: Launcher now operating in foreground
+:10-26-2012 20:53:27 Launcher: prepareClient: Preparing client for install
+:10-26-2012 20:53:27 Launcher: Downloading launcherFileDb
+:10-26-2012 20:53:27 Launcher: Download request: http://download.test.toontown.com/english/currentVersionWIN/test/content/patcher.ver?845818288
+:10-26-2012 20:53:27 :downloader: [035D0008] begin GET [ http://download.test.toontown.com/english/currentVersionWIN/test/content/patcher.ver?845818288 ]
+useTTSpecificLogin=1
+:10-26-2012 20:53:27 Launcher: getRegistry ('WEB_ACCT_PARAMS', None)
+:10-26-2012 20:53:27 Launcher: self.VISTA = False
+:10-26-2012 20:53:27 Launcher: checking env
+:10-26-2012 20:53:27 Launcher: webAcctParams = 
+:10-26-2012 20:53:27 Launcher(warning): no secretNeedsParentPassword token in webAcctParams
+:10-26-2012 20:53:27 Launcher(warning): no chatEligible token in webAcctParams
+:10-26-2012 20:53:27 Launcher: maybeStartGame: starting game
+:10-26-2012 20:53:27 Launcher: Starting Toontown...
+:10-26-2012 20:53:27 Launcher: background: Launcher now operating in background
+ToontownStart: Polling for game2 to finish...
+ToontownStart: Game2 is finished.
+ToontownStart: Starting the game.
+ToontownStart: setting default font
+:10-26-2012 20:53:27 Launcher: setting panda error code to 7
+:10-26-2012 20:53:27 :display: loading display module: libpandadx9.dll
+Known pipe types:
+  wdxGraphicsPipe9
+(3 aux display modules not yet loaded.)
+:10-26-2012 20:53:28 :display:windisplay: OS version: 5.1.2.2600 
+:10-26-2012 20:53:28 :display:windisplay:   Service Pack 3
+:10-26-2012 20:53:28 :display:windisplay: max Mhz 2926000000, current Mhz 2926000000 
+:10-26-2012 20:53:28 :display:wdxdisplay9: DX 9.0c GetAvailableVidMem (including AGP) returns Total: 2136448256, Free: 2135765760 for device #0
+:10-26-2012 20:53:28 :display:wdxdisplay9: GetAvailableVidMem (no AGP) returns Total: 2136448256, Free: 2135765760 for device #0
+:10-26-2012 20:53:28 :display:wdxdisplay9: SetLowVidMem flag to 0 based on adjusted VidMemTotal: 2147483648
+:10-26-2012 20:53:28 ToonBase: Default graphics pipe is wdxGraphicsPipe9 (DirectX9).
+:10-26-2012 20:53:28 :display:wdxdisplay9: D3D9.0 Adapter[0]: NVIDIA GeForce 9600 GT, Driver: nv4_disp.dll, DriverVersion: (6.14.13.593)
+VendorID: 0x000010DE DeviceID: 0x00000622 SubsysID: 0x00000000 Revision: 0x000000A1
+:10-26-2012 20:53:28 :display:wdxdisplay9: Selected device 0 (of 1, zero-based)
+:10-26-2012 20:53:28 :display:windisplay(warning): SetForegroundWindow() failed!
+:10-26-2012 20:53:28 :display:wdxdisplay9(warning): SetForegroundWindow() failed!
+:10-26-2012 20:53:28 :display:wdxdisplay9: walla: device035EC008:2
+:10-26-2012 20:53:28 :display: Unable to set window properties: !undecorated !fixed_size icon:toontown.ico 
+:10-26-2012 20:53:28 ToonBase: Successfully opened window of type wdxGraphicsWindow9 (DirectX9)
+:10-26-2012 20:53:29 :audio:   using Miles software midi
+:10-26-2012 20:53:29 ShowBase: __dev__ == 0
+:10-26-2012 20:53:29 Launcher: setting panda error code to 11
+:10-26-2012 20:53:30 :text: Loading font /c/Program Files/Disney/Disney Online/ToontownOnline_TEST/phase_3/models/fonts/ImpressBT.ttf
+:10-26-2012 20:53:30 :pnmtext: Loaded font Impress Regular
+:10-26-2012 20:53:30 Launcher: setting panda error code to 0
+ToontownStart: Loading default gui sounds
+ToontownStart: serverVersion:  sv1.0.48.6
+:10-26-2012 20:53:30 Loader: starting bulk load of block 'init'
+TTAccount: accountServer from launcher:  https://toontown.go.com
+:10-26-2012 20:53:32 OTPClientRepository: Using connect method 'http'
+:10-26-2012 20:53:34 :text: Loading font phase_3/models/fonts/MickeyFont
+:10-26-2012 20:53:34 Launcher: getRegistry ('DEPLOYMENT', None)
+:10-26-2012 20:53:34 Launcher: self.VISTA = False
+:10-26-2012 20:53:34 Launcher: checking env
+:10-26-2012 20:53:34 Launcher: getRegistry ('GAME_DEPLOYMENT', None)
+:10-26-2012 20:53:34 Launcher: self.VISTA = False
+:10-26-2012 20:53:34 Launcher: checking env
+:10-26-2012 20:53:34 OTPClientRepository: reg_deployment=
+:10-26-2012 20:53:34 LoginWebPlayTokenAccount: self.useTTSpecificLogin =1
+:10-26-2012 20:53:34 OTPClientRepository: loginInterface: LoginWebPlayTokenAccount
+:10-26-2012 20:53:34 Launcher: getNeedPwForSecretKey using tt-specific-login
+:10-26-2012 20:53:34 Launcher: getParentPasswordSet using tt-specific-login
+:10-26-2012 20:53:34 Loader: loader.loadModelNode() is deprecated; use loader.loadModel() instead.
+:10-26-2012 20:53:34 Loader: loader.loadModelNode() is deprecated; use loader.loadModel() instead.
+:10-26-2012 20:53:34 Loader: loader.loadModelNode() is deprecated; use loader.loadModel() instead.
+:10-26-2012 20:53:35 Loader: At end of block 'init', expected 138, loaded 10, duration=4.88251372902
+:10-26-2012 20:53:35 ToonBase: Using gameServer from launcher: https://gameserver.test.toontown.com 
+:10-26-2012 20:53:35 OTPClientRepository: Connecting to gameserver directly (no proxy).
+:10-26-2012 20:53:35 :downloader: [096E1C80] created.
+:10-26-2012 20:53:35 OTPClientRepository: Connecting to s://gameserver.test.toontown.com:6667 via HTTP interface.
+:10-26-2012 20:53:35 :downloader: [096E1C80] begin CONNECT [ s://gameserver.test.toontown.com:6667 ]
+:10-26-2012 20:53:35 :downloader: [096E1C80] reset_to_new.
+:10-26-2012 20:53:35 :downloader: [096E1C80] reset_to_new.
+:10-26-2012 20:53:35 :downloader: [096E1C80] reset_to_new.
+:10-26-2012 20:53:35 Launcher: Downloading update for Initialization (0 of 15): 0%
+:10-26-2012 20:53:35 ToonBase: Got window event: size=(800, 600) title="Toontown" !undecorated !fixed_size !fullscreen foreground !minimized open !cursor_hidden icon:toontown.ico cursor:toonmono.cur absolute 
+:10-26-2012 20:53:35 :downloader: [035D0008] Connected to download.test.toontown.com:80
+:10-26-2012 20:53:35 :downloader: [096E1C80] Connected to gameserver.test.toontown.com:6667
+:10-26-2012 20:53:35 Launcher: Downloading update for Initialization (0 of 15): 89%
+:10-26-2012 20:53:35 Launcher: HTTP status 200: OK
+:10-26-2012 20:53:35 Launcher: Downloading update for Initialization (0 of 15): 100%
+:10-26-2012 20:53:35 Launcher: downloadTask: Download done: http://download.test.toontown.com/english/currentVersionWIN/test/content/patcher.ver?845818288
+:10-26-2012 20:53:35 Launcher: fileName: phase_1.mf, flag:=3 directions= 0000 0000 0000 0000 0000 0000 0000 0011
+, extract=1 required=1 optDownload=0
+:10-26-2012 20:53:35 Launcher: fileName: phase_2.mf, flag:=3 directions= 0000 0000 0000 0000 0000 0000 0000 0011
+, extract=1 required=1 optDownload=0
+:10-26-2012 20:53:35 Launcher: fileName: phase_3.mf, flag:=2 directions= 0000 0000 0000 0000 0000 0000 0000 0010
+, extract=0 required=1 optDownload=0
+:10-26-2012 20:53:35 Launcher: fileName: phase_3.5.mf, flag:=2 directions= 0000 0000 0000 0000 0000 0000 0000 0010
+, extract=0 required=1 optDownload=0
+:10-26-2012 20:53:35 Launcher: fileName: phase_4.mf, flag:=2 directions= 0000 0000 0000 0000 0000 0000 0000 0010
+, extract=0 required=1 optDownload=0
+:10-26-2012 20:53:35 Launcher: fileName: phase_5.mf, flag:=2 directions= 0000 0000 0000 0000 0000 0000 0000 0010
+, extract=0 required=1 optDownload=0
+:10-26-2012 20:53:35 Launcher: fileName: phase_5.5.mf, flag:=2 directions= 0000 0000 0000 0000 0000 0000 0000 0010
+, extract=0 required=1 optDownload=0
+:10-26-2012 20:53:35 Launcher: fileName: phase_6.mf, flag:=2 directions= 0000 0000 0000 0000 0000 0000 0000 0010
+, extract=0 required=1 optDownload=0
+:10-26-2012 20:53:35 Launcher: fileName: phase_7.mf, flag:=2 directions= 0000 0000 0000 0000 0000 0000 0000 0010
+, extract=0 required=1 optDownload=0
+:10-26-2012 20:53:35 Launcher: fileName: phase_8.mf, flag:=2 directions= 0000 0000 0000 0000 0000 0000 0000 0010
+, extract=0 required=1 optDownload=0
+:10-26-2012 20:53:35 Launcher: fileName: phase_9.mf, flag:=2 directions= 0000 0000 0000 0000 0000 0000 0000 0010
+, extract=0 required=1 optDownload=0
+:10-26-2012 20:53:35 Launcher: fileName: phase_10.mf, flag:=2 directions= 0000 0000 0000 0000 0000 0000 0000 0010
+, extract=0 required=1 optDownload=0
+:10-26-2012 20:53:35 Launcher: fileName: phase_11.mf, flag:=2 directions= 0000 0000 0000 0000 0000 0000 0000 0010
+, extract=0 required=1 optDownload=0
+:10-26-2012 20:53:35 Launcher: fileName: phase_12.mf, flag:=2 directions= 0000 0000 0000 0000 0000 0000 0000 0010
+, extract=0 required=1 optDownload=0
+:10-26-2012 20:53:35 Launcher: fileName: phase_13.mf, flag:=2 directions= 0000 0000 0000 0000 0000 0000 0000 0010
+, extract=0 required=1 optDownload=0
+:10-26-2012 20:53:35 Launcher: requiredInstallFiles: ['phase_1.mf', 'phase_2.mf', 'phase_3.mf', 'phase_3.5.mf', 'phase_4.mf', 'phase_5.mf', 'phase_5.5.mf', 'phase_6.mf', 'phase_7.mf', 'phase_8.mf', 'phase_9.mf', 'phase_10.mf', 'phase_11.mf', 'phase_12.mf', 'phase_13.mf']
+:10-26-2012 20:53:35 Launcher: mfDetails[phase_1.mf] = ('v1.268', 38201361, 'bfd37fe30d043eeaf6a9b230652642b3')
+:10-26-2012 20:53:35 Launcher: mfDetails[phase_2.mf] = ('v1.268', 22767361, 'baaf7cb3052e54dc5554c8e1316829c3')
+:10-26-2012 20:53:35 Launcher: mfDetails[phase_3.mf] = ('v1.83', 7347677, '607912125cdedb72f56d110abc13e4e5')
+:10-26-2012 20:53:35 Launcher: mfDetails[phase_3.5.mf] = ('v1.86', 77726785, '5a928f32c28d3f631d2a390da8fd936b')
+:10-26-2012 20:53:35 Launcher: mfDetails[phase_4.mf] = ('v1.87', 37518149, '592fc4df7657b0b59237e54306f68073')
+:10-26-2012 20:53:35 Launcher: mfDetails[phase_5.mf] = ('v1.68', 37627502, '97ad1f55fe8ea2091c49fe0b62287fe0')
+:10-26-2012 20:53:35 Launcher: mfDetails[phase_5.5.mf] = ('v1.62', 9661999, 'f4055d6b99d9d3e30f0774aa3ddadaca')
+:10-26-2012 20:53:35 Launcher: mfDetails[phase_6.mf] = ('v1.81', 29426562, '79c3724a20881f451d7921021d74677a')
+:10-26-2012 20:53:35 Launcher: mfDetails[phase_7.mf] = ('v1.39', 305256, 'ceeec30e08d80e863735c3733779b09d')
+:10-26-2012 20:53:35 Launcher: mfDetails[phase_8.mf] = ('v1.70', 17513996, 'f9c97386a71d026aa98b21e8c0ff7c39')
+:10-26-2012 20:53:35 Launcher: mfDetails[phase_9.mf] = ('v1.53', 7216642, 'adcef188c10ffe71d5df2704a37eac28')
+:10-26-2012 20:53:35 Launcher: mfDetails[phase_10.mf] = ('v1.51', 3483147, 'a2f773790f44edad5b7a098029a792fe')
+:10-26-2012 20:53:35 Launcher: mfDetails[phase_11.mf] = ('v1.52', 2827958, 'e0a3fe225cbb76439c7aef1f19d493d5')
+:10-26-2012 20:53:35 Launcher: mfDetails[phase_12.mf] = ('v1.55', 5289389, '9a0b4f91fab854a5dcda8d18606103c3')
+:10-26-2012 20:53:35 Launcher: mfDetails[phase_13.mf] = ('v1.42', 5350214, '6f7db5cabb505763e9ea7e4a7faf6252')
+:10-26-2012 20:53:35 Launcher: working on: ./phase_1.mf
+:10-26-2012 20:53:35 Launcher: file exists
+:10-26-2012 20:53:36 Launcher: clientMd5: bfd37fe30d043eeaf6a9b230652642b3 expectedMd5: bfd37fe30d043eeaf6a9b230652642b3
+:10-26-2012 20:53:36 Launcher: clientSize: 38201361 expectedSize: 38201361
+:10-26-2012 20:53:36 Launcher: file is up to date
+:10-26-2012 20:53:36 Launcher: phase updating 1, 100
+:10-26-2012 20:53:36 Launcher: working on: ./phase_2.mf
+:10-26-2012 20:53:36 Launcher: file exists
+:10-26-2012 20:53:36 Launcher: clientMd5: baaf7cb3052e54dc5554c8e1316829c3 expectedMd5: baaf7cb3052e54dc5554c8e1316829c3
+:10-26-2012 20:53:36 Launcher: clientSize: 22767361 expectedSize: 22767361
+:10-26-2012 20:53:36 Launcher: file is up to date
+:10-26-2012 20:53:36 Launcher: phase updating 2, 100
+:10-26-2012 20:53:36 Launcher: working on: ./phase_3.mf
+:10-26-2012 20:53:36 Launcher: file exists
+:10-26-2012 20:53:36 Launcher: clientMd5: 607912125cdedb72f56d110abc13e4e5 expectedMd5: 607912125cdedb72f56d110abc13e4e5
+:10-26-2012 20:53:36 Launcher: clientSize: 7347677 expectedSize: 7347677
+:10-26-2012 20:53:36 Launcher: file is up to date
+:10-26-2012 20:53:36 Launcher: phase updating 3, 100
+:10-26-2012 20:53:36 Launcher: working on: ./phase_3.5.mf
+:10-26-2012 20:53:36 Launcher: file exists
+:10-26-2012 20:53:37 Launcher: clientMd5: 5a928f32c28d3f631d2a390da8fd936b expectedMd5: 5a928f32c28d3f631d2a390da8fd936b
+:10-26-2012 20:53:37 Launcher: clientSize: 77726785 expectedSize: 77726785
+:10-26-2012 20:53:37 Launcher: file is up to date
+:10-26-2012 20:53:37 Launcher: phase updating 3.5, 100
+:10-26-2012 20:53:37 Launcher: working on: ./phase_4.mf
+:10-26-2012 20:53:37 Launcher: file exists
+:10-26-2012 20:53:37 Launcher: clientMd5: 592fc4df7657b0b59237e54306f68073 expectedMd5: 592fc4df7657b0b59237e54306f68073
+:10-26-2012 20:53:37 Launcher: clientSize: 37518149 expectedSize: 37518149
+:10-26-2012 20:53:37 Launcher: file is up to date
+:10-26-2012 20:53:37 Launcher: phase updating 4, 100
+:10-26-2012 20:53:37 Launcher: working on: ./phase_5.mf
+:10-26-2012 20:53:37 Launcher: file exists
+:10-26-2012 20:53:38 Launcher: clientMd5: 97ad1f55fe8ea2091c49fe0b62287fe0 expectedMd5: 97ad1f55fe8ea2091c49fe0b62287fe0
+:10-26-2012 20:53:38 Launcher: clientSize: 37627502 expectedSize: 37627502
+:10-26-2012 20:53:38 Launcher: file is up to date
+:10-26-2012 20:53:38 Launcher: phase updating 5, 100
+:10-26-2012 20:53:38 Launcher: working on: ./phase_5.5.mf
+:10-26-2012 20:53:38 Launcher: file exists
+:10-26-2012 20:53:38 Launcher: clientMd5: f4055d6b99d9d3e30f0774aa3ddadaca expectedMd5: f4055d6b99d9d3e30f0774aa3ddadaca
+:10-26-2012 20:53:38 Launcher: clientSize: 9661999 expectedSize: 9661999
+:10-26-2012 20:53:38 Launcher: file is up to date
+:10-26-2012 20:53:38 Launcher: phase updating 5.5, 100
+:10-26-2012 20:53:38 Launcher: working on: ./phase_6.mf
+:10-26-2012 20:53:38 Launcher: file exists
+:10-26-2012 20:53:38 Launcher: clientMd5: 79c3724a20881f451d7921021d74677a expectedMd5: 79c3724a20881f451d7921021d74677a
+:10-26-2012 20:53:38 Launcher: clientSize: 29426562 expectedSize: 29426562
+:10-26-2012 20:53:38 Launcher: file is up to date
+:10-26-2012 20:53:38 Launcher: phase updating 6, 100
+:10-26-2012 20:53:38 Launcher: working on: ./phase_7.mf
+:10-26-2012 20:53:38 Launcher: file exists
+:10-26-2012 20:53:38 Launcher: clientMd5: ceeec30e08d80e863735c3733779b09d expectedMd5: ceeec30e08d80e863735c3733779b09d
+:10-26-2012 20:53:38 Launcher: clientSize: 305256 expectedSize: 305256
+:10-26-2012 20:53:38 Launcher: file is up to date
+:10-26-2012 20:53:38 Launcher: phase updating 7, 100
+:10-26-2012 20:53:38 Launcher: working on: ./phase_8.mf
+:10-26-2012 20:53:38 Launcher: file exists
+:10-26-2012 20:53:38 Launcher: clientMd5: f9c97386a71d026aa98b21e8c0ff7c39 expectedMd5: f9c97386a71d026aa98b21e8c0ff7c39
+:10-26-2012 20:53:38 Launcher: clientSize: 17513996 expectedSize: 17513996
+:10-26-2012 20:53:38 Launcher: file is up to date
+:10-26-2012 20:53:38 Launcher: phase updating 8, 100
+:10-26-2012 20:53:38 Launcher: working on: ./phase_9.mf
+:10-26-2012 20:53:38 Launcher: file exists
+:10-26-2012 20:53:39 Launcher: clientMd5: adcef188c10ffe71d5df2704a37eac28 expectedMd5: adcef188c10ffe71d5df2704a37eac28
+:10-26-2012 20:53:39 Launcher: clientSize: 7216642 expectedSize: 7216642
+:10-26-2012 20:53:39 Launcher: file is up to date
+:10-26-2012 20:53:39 Launcher: phase updating 9, 100
+:10-26-2012 20:53:39 Launcher: working on: ./phase_10.mf
+:10-26-2012 20:53:39 Launcher: file exists
+:10-26-2012 20:53:39 Launcher: clientMd5: a2f773790f44edad5b7a098029a792fe expectedMd5: a2f773790f44edad5b7a098029a792fe
+:10-26-2012 20:53:39 Launcher: clientSize: 3483147 expectedSize: 3483147
+:10-26-2012 20:53:39 Launcher: file is up to date
+:10-26-2012 20:53:39 Launcher: phase updating 10, 100
+:10-26-2012 20:53:39 Launcher: working on: ./phase_11.mf
+:10-26-2012 20:53:39 Launcher: file exists
+:10-26-2012 20:53:39 Launcher: clientMd5: e0a3fe225cbb76439c7aef1f19d493d5 expectedMd5: e0a3fe225cbb76439c7aef1f19d493d5
+:10-26-2012 20:53:39 Launcher: clientSize: 2827958 expectedSize: 2827958
+:10-26-2012 20:53:39 Launcher: file is up to date
+:10-26-2012 20:53:39 Launcher: phase updating 11, 100
+:10-26-2012 20:53:39 Launcher: working on: ./phase_12.mf
+:10-26-2012 20:53:39 Launcher: file exists
+:10-26-2012 20:53:39 Launcher: clientMd5: 9a0b4f91fab854a5dcda8d18606103c3 expectedMd5: 9a0b4f91fab854a5dcda8d18606103c3
+:10-26-2012 20:53:39 Launcher: clientSize: 5289389 expectedSize: 5289389
+:10-26-2012 20:53:39 Launcher: file is up to date
+:10-26-2012 20:53:39 Launcher: phase updating 12, 100
+:10-26-2012 20:53:39 Launcher: working on: ./phase_13.mf
+:10-26-2012 20:53:39 Launcher: file exists
+:10-26-2012 20:53:39 Launcher: clientMd5: 6f7db5cabb505763e9ea7e4a7faf6252 expectedMd5: 6f7db5cabb505763e9ea7e4a7faf6252
+:10-26-2012 20:53:39 Launcher: clientSize: 5350214 expectedSize: 5350214
+:10-26-2012 20:53:39 Launcher: file is up to date
+:10-26-2012 20:53:39 Launcher: phase updating 13, 100
+:10-26-2012 20:53:39 Launcher: ALL PHASES COMPLETE
+:10-26-2012 20:53:39 Launcher: cleanup: cleaning up Launcher
+:10-26-2012 20:53:39 :downloader: [035D0008] destroyed.
+:10-26-2012 20:53:39 Launcher: Stopping mini task manager.
+:10-26-2012 20:53:39 :downloader: [096E1C80] Self-signed certificate from gameserver.test.toontown.com:6667
+:10-26-2012 20:53:39 :downloader: [096E1C80] reset_to_new.
+:10-26-2012 20:53:39 OTPClientRepository: Successfully connected to s://gameserver.test.toontown.com:6667.
+:10-26-2012 20:53:39 Launcher: Setting Disconnect Details normal
+:10-26-2012 20:53:39 OTPClientRepository(warning): new installation
+:10-26-2012 20:53:39 :downloader: [096E1C80] destroyed.
+:10-26-2012 17:53:42 LoginScreen: Notify clock adjusted by 0:03 (and timezone adjusted by -3 hours) to synchronize with server.
+:10-26-2012 17:53:42 LoginScreen: Login response return code 0
+:10-26-2012 17:53:42 OTPClientRepository: *** ACCOUNT INFO ***
+:10-26-2012 17:53:42 OTPClientRepository: username: FordWay101
+{310000000: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x09042080>, 320000000: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x090420D0>, 330000000: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x090420F8>}
+:10-26-2012 17:53:43 StateData: AvatarChooser.enter
+:10-26-2012 17:53:43 DisplayOptions: settingsFullScreen = False, embedded = 0 width=800 height=600
+:10-26-2012 17:53:43 StateData: calling self.displayOptions.restrictToEmbedded(False)
+:10-26-2012 17:53:45 OTPClientRepository: Sent disconnect message to server
+:10-26-2012 17:53:45 OTPClientRepository: Closing connection to server.
+:10-26-2012 17:53:45 OTPClientRepository: Exiting cleanly
+:10-26-2012 17:53:45 ToonBase: Exiting Toontown: errorCode = None
+:10-26-2012 17:53:45 Launcher: setting panda error code to 0
+:10-26-2012 17:53:45 TaskManager: TaskManager.destroy()
+:10-26-2012 17:53:45 :display: Closing wdxGraphicsWindow9
