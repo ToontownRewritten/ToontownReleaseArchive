@@ -10,13 +10,14 @@
 #
 # Usage: BETA_INSTALL_PATH/python.exe -O ToontownBetaExplorer.py "path/to/file.ext"
 #
-# Hotkeys ___________________________
-#         |T|Toggle Textures        |
-#         |W|Toggle Wireframe       |
-#         |V|Toggle Vertex Painting |
-#         |C|Toggle Collision Bounds|
-#         |B|Toggle Backface Culling|
-#         |_________________________|
+# Hotkeys ____________________________
+#         |T |Toggle Textures        |
+#         |W |Toggle Wireframe       |
+#         |V |Toggle Vertex Painting |
+#         |C |Toggle Collision Bounds|
+#         |B |Toggle Backface Culling|
+#         |f9|Screenshot Window      |
+#         |__________________________|
 #
 # =============================================================================
 
@@ -235,6 +236,7 @@ class ToontownBetaLoader(DirectObject.DirectObject):
         self.accept('b', base.toggleBackface)
         self.accept('c', self.toggleCollisionBounds)
         self.accept('v', self.toggleVertexPainting)
+        self.accept('f9', base.screenshot)
 
 
     def toggleCollisionBounds(self):
