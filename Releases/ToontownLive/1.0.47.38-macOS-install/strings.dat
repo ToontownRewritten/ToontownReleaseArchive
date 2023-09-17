@@ -1,0 +1,31 @@
+ErrorOpeningFile=Error opening file
+UnableToCreateConnection=Unable to create server connection
+ServerResponseCode=Server response code is
+FetchVersionInfo=Fetching Version Information
+FetchShowInfo=Fetching Show Information
+VersionInfoRetrieved=Version Information retrieved
+ShowInfoRetrieved=Show Information retrieved
+ConnectionLost=Connection to server lost
+ConnectionFailed=Connection failed: Error -
+DownloadNewLauncher=Downloading new Launcher
+DecompressNewLauncher=Decompressing new Launcher
+FailureGetNewVersion=Failure to get new version.
+Error=Error
+Verifying=Verifying:
+Applying=Applying:
+Fetching=Fetching:
+Decompressing=Decompressing:
+LoginFatalError=Fatal Error on Login
+QueueFatalError=Fatal Error on Queue
+AbnormalGameClose=Game closed abnormally
+GameExitError=Game exited with Error [
+ContextQueueServer=Contacting Queueing Server
+#
+#	Mac-specific
+#
+CannotRunLocation=Toontown Online cannot be run from this location.
+CannotRunLocationApp=Please copy the game to your computer's Applications folder.
+CannotRunLocationDesktop=Please copy the game to your Desktop.
+NoInternet=We are unable to connect to the Internet. Toontown Online requires an Internet connection in order to run.
+NoInternet2=Please make sure your computer is connected to the Internet by checking your cables, modem, and/or router.
+Quit=Quit

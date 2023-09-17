@@ -1,0 +1,21 @@
+Trying to read standard file: useropt
+opened standard file for reading: useropt
+major: 1
+minor: 1
+case 1
+_sfx: 1
+_music: 1
+_chat: 1
+_sfx_vol: 1
+_music_vol: 1
+_driver: 2
+_res: 1
+_stype: 0
+_custom_mousecursor_enabled: 1
+_bUseWindowedMode: 1
+_bShowFpsMeter: 0
+_bForceSWMidi: 1
+_toon_chat_sounds: 1
+_accepting_new_friends: 1
+_accepting_non_friend_whispers: 0
+_embedded_mode: 0

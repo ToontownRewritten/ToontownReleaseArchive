@@ -22,7 +22,9 @@ These releases were publicly distributed by The Walt Disney Company, and are col
 * **1.0.47.22** - December 27, 2012 - *Donated by John Cote*
 * **1.0.47.31** - June 27, 2013 - *Donated by shawnanastasio*
 * **1.0.47.31-macOS** - June 27, 2013 - *Donated by CloudCityDev*
-* **1.0.47.38** - September 2013 - *Donated by Johhn Cote*
+* **1.0.47.35-macOS** -  August 2, 2013 - *Donated by CloudCityDev*
+* **1.0.47.38-macOS** -  August 10, 2013 - *Donated by CloudCityDev*
+* **1.0.47.38** - August 10, 2013 - *Donated by John Cote*
 
 **[Toontown Test](Releases/ToontownTest)**
 
@@ -30,7 +32,8 @@ These releases were publicly distributed by The Walt Disney Company, and are col
 * **1.0.36.2.test** - September 19, 2008 - *Donated by Bryan Muschter*
 * **1.0.37.2.test** - December 10, 2008 - *Donated by Bryan Muschter*
 * **1.0.40.10.test** - ??? -  *Donated by John Cote*
-* **1.0.48.6.test** - ??? -  *Donated by John Cote*
+* **1.0.48.6.test-macOS** - February 17, 2012 -  *Donated by CloudCityDev*
+* **1.0.48.6.test** - February 17, 2012 -  *Donated by John Cote*
 
 **[Toontown France](Releases/ToontownFrance)**
 

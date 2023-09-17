@@ -1,0 +1,3 @@
+Trying to read standard file: useropt
+Trying to read auxiliary file: ./useropt
+no file could be read

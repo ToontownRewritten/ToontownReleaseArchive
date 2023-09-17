@@ -22,7 +22,10 @@ This was the primary version of the game, which ran from June 2nd, 2003 to Septe
 * **1.0.47.31** - June 27, 2013 - *Donated by shawnanastasio*
 * **1.0.47.31-macOS** - June 27, 2013 - *Donated by CloudCityDev*
   * Last known macOS release of Toontown Online.
-* **1.0.47.38** - September 2013 - *Donated by Johhn Cote*
+* **1.0.47.35-macOS** -  August 2, 2013 - *Donated by CloudCityDev*
+* **1.0.47.38-macOS** -  August 10, 2013 - *Donated by CloudCityDev*
+  * Final macOS release of Toontown Online.
+* **1.0.47.38** - August 10, 2013 - *Donated by John Cote*
   * Final Windows release of Toontown Online.
 
 ## Release Notes
