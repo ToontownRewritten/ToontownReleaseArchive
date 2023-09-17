@@ -9,6 +9,16 @@
 #          instructions.
 #
 # Usage: BETA_INSTALL_PATH/python.exe -O ToontownBetaExplorer.py "path/to/file.ext"
+#
+# Hotkeys ____________________________
+#         |T |Toggle Textures        |
+#         |W |Toggle Wireframe       |
+#         |V |Toggle Vertex Painting |
+#         |C |Toggle Collision Bounds|
+#         |B |Toggle Backface Culling|
+#         |f9|Screenshot Window      |
+#         |__________________________|
+#
 # =============================================================================
 
 # If you moved the 1.0.5-install directory or downloaded it separately,
@@ -27,6 +37,7 @@ from Filename import Filename
 from DepthTestProperty import *
 from DepthTestTransition import *
 from DepthWriteTransition import *
+import DirectObject
 
 # Store a dictionary of actor files and their file path. This is used for loading animation.
 ACTOR_REFERENCE = {
@@ -76,7 +87,7 @@ for element in product(*TOON_ACTOR_ELEMENTS):
     ACTOR_REFERENCE[baseModel] = 'phase_3'
 
 
-class ToontownBetaLoader:
+class ToontownBetaLoader(DirectObject.DirectObject):
     """
     Loader class for Toontown Beta files.
     """
@@ -213,13 +224,44 @@ class ToontownBetaLoader:
 
         return geom
 
+    # Complimentary hotkeys 
+    def setupHotkeys(self):
 
+        # Python 2.0 doesn't have support for True/False
+        self.collBoundsVisible = 0
+        self.vertexPaintingVisible = 0
+
+        self.accept('t', base.toggleTexture)
+        self.accept('w', base.toggleWireframe)
+        self.accept('b', base.toggleBackface)
+        self.accept('c', self.toggleCollisionBounds)
+        self.accept('v', self.toggleVertexPainting)
+        self.accept('f9', base.screenshot)
+
+
+    def toggleCollisionBounds(self):
+        if self.collBoundsVisible == 0:
+            render.findAllMatches('**/+CollisionNode').show()
+            self.collBoundsVisible = 1
+        else:
+            render.findAllMatches('**/+CollisionNode').hide()
+            self.collBoundsVisible = 0
+    
+    def toggleVertexPainting(self):
+        if self.vertexPaintingVisible == 0:
+            render.setColor(1, 1, 1, 1)
+            self.vertexPaintingVisible = 1
+        else:
+            render.clearColor()
+            self.vertexPaintingVisible = 0
+            
 # Get file path from command line argument
 filePath = sys.argv[1]
 
 # Start Beta loader, attempt to load file path
 betaLoader = ToontownBetaLoader()
 betaLoader.loadFile(filePath)
+betaLoader.setupHotkeys()
 
 # Enable camera controls
 base.useTrackball()
