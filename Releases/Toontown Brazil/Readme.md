@@ -11,4 +11,4 @@ The files within this folder are release builds of Japanese and France versions 
 * **1.4.47.32.br_Offline** - Year Unknown - *Donated by JawhnL5*
 
 ## Release Notes
-Está no Reddit German, French and Portuguese Translation Pack for TT: (https://www.reddit.com/r/Toontown/comments/cgjlp4/german_french_and_portuguese_translation_pack_for/)
+It's in the Reddit German, French and Portuguese Translation Pack for TT: (https://www.reddit.com/r/Toontown/comments/cgjlp4/german_french_and_portuguese_translation_pack_for/)
