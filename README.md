@@ -44,6 +44,10 @@ These releases were publicly distributed by The Walt Disney Company, and are col
 
 * **1.3.14.19.de** - 2006 - *Donated by Bob-by*
 
+**[Toontown Brazil]_(Releases/Toontown Brazil)_**
+
+* **1.4.47.32.br** - 2011 - *Donated by reedit*
+
 ## Tools
 
 **[Toontown Beta Explorer](Tools/ToontownBetaExplorer)**
