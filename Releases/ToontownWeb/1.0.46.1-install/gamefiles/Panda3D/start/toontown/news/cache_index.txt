@@ -1,0 +1,10 @@
+tt_i_art_20110622_tnr1.jpg	185748	Thu, 16 Jun 2011 17:40:01 GMT
+tt_i_art_20110629_hom1.jpg	204368	Sat, 18 Jun 2011 01:27:26 GMT
+tt_i_art_20110706_hom1.jpg	163766	Fri, 01 Jul 2011 18:25:27 GMT
+tt_i_art_20110706_evt2.jpg	153003	Thu, 30 Jun 2011 23:51:37 GMT
+tt_i_art_20110629_evt1.jpg	190511	Sat, 18 Jun 2011 01:27:53 GMT
+tt_i_art_20110622_att1.jpg	197107	Thu, 16 Jun 2011 22:42:16 GMT
+tt_i_art_20110622_hom1.jpg	195779	Thu, 16 Jun 2011 17:39:13 GMT
+tt_i_art_20110706_evt3.jpg	124870	Thu, 30 Jun 2011 23:51:19 GMT
+tt_i_art_20110706_evt1.jpg	166623	Fri, 01 Jul 2011 18:29:16 GMT
+tt_i_art_20110706_tnr1.jpg	158400	Fri, 01 Jul 2011 00:24:00 GMT

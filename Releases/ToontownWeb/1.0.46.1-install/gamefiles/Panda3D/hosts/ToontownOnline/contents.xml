@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<contents seq="38">
+    <host url="http://download.toontown.com/english/inbrowser" descriptive_name="Toontown Live Download Server" host_dir="ToontownOnline">
+        <mirror url="http://cdn.download.toontown.com/english/inbrowser" />
+        <alt_host url="http://ttown4.online.disney.com:1220/english/inbrowser" descriptive_name="Toontown Dev Download Server" host_dir="ToontownOnline_DEV" keyword="dev" />
+        <alt_host url="http://download.qa.toontown.com/english/inbrowser" descriptive_name="Toontown QA Download Server" host_dir="ToontownOnline_QA" keyword="qa">
+            <mirror url="http://ttown4.online.disney.com:1420/bogus" />
+        </alt_host>
+        <alt_host url="http://download.qa2.toontown.com/english/inbrowser" descriptive_name="Toontown QA2 Download Server" host_dir="ToontownOnline_QA2" keyword="qa2" />
+        <alt_host url="http://download.test.toontown.com/english/inbrowser" descriptive_name="Toontown TEST Download Server" host_dir="ToontownOnline_TEST" keyword="test" />
+    </host>
+    <package name="panda3d" platform="osx_i386" version="toontown" seq="6" filename="panda3d/toontown/osx_i386/panda3d.toontown.osx_i386.xml" size="22964" timestamp="1309973363" hash="7344b578e57d36a50566d883b49cb28b">
+        <import filename="panda3d/toontown/osx_i386/panda3d.toontown.osx_i386.import.xml" size="120628" timestamp="1309973287" hash="5b9c0e12880a3e29e2d63fd112db55ff" />
+    </package>
+    <package name="panda3d" platform="osx_ppc" version="toontown" seq="6" filename="panda3d/toontown/osx_ppc/panda3d.toontown.osx_ppc.xml" size="22950" timestamp="1309973490" hash="cf729feca3772b79586de7366ce462b9">
+        <import filename="panda3d/toontown/osx_ppc/panda3d.toontown.osx_ppc.import.xml" size="120635" timestamp="1309973408" hash="441b73f4239e946bbec4fb1ced64419d" />
+    </package>
+    <package name="panda3d" platform="win32" version="toontown" seq="26" filename="panda3d/toontown/win32/panda3d.toontown.win32.xml" size="16908" timestamp="1309973538" hash="74b8d088e01fd3037e14f695e65581b1">
+        <import filename="panda3d/toontown/win32/panda3d.toontown.win32.import.xml" size="116143" timestamp="1309973395" hash="5f9435855eaeee7a44f9d3b60251b5d3" />
+    </package>
+    <package name="tt_10" seq="26" filename="tt_10/tt_10.xml" size="3447" timestamp="1309973538" hash="5834cc769f7c1e8fc9c95e395cd9e1e8">
+        <import filename="tt_10/tt_10.import.xml" size="14252" timestamp="1309973450" hash="4e54d7c8d1c39acad64d461567436d18" />
+    </package>
+    <package name="tt_11" seq="26" filename="tt_11/tt_11.xml" size="3160" timestamp="1309973538" hash="1acd96b96efc14cc502a44cba3ff96d0">
+        <import filename="tt_11/tt_11.import.xml" size="8915" timestamp="1309973450" hash="09524a9d522d0318b291a2ff033875bf" />
+    </package>
+    <package name="tt_12" seq="26" filename="tt_12/tt_12.xml" size="3162" timestamp="1309973538" hash="a5c848c3b1b3e150a84c168fb9048de4">
+        <import filename="tt_12/tt_12.import.xml" size="9337" timestamp="1309973451" hash="d2c806fafa07c92cbcc6f49f2fcf400a" />
+    </package>
+    <package name="tt_13" seq="26" filename="tt_13/tt_13.xml" size="4306" timestamp="1309973538" hash="a94eb8096c7c84acecd7694af28d729a">
+        <import filename="tt_13/tt_13.import.xml" size="12982" timestamp="1309973453" hash="b7a55f7b59448663f97fa5137d726635" />
+    </package>
+    <package name="tt_3" seq="26" filename="tt_3/tt_3.xml" size="5414" timestamp="1309973538" hash="bbff947a04d03c5609c7f29ce0fcf699">
+        <import filename="tt_3/tt_3.import.xml" size="32476" timestamp="1309973398" hash="7401afa52879e2eeafe5acdc57ae2b9a" />
+    </package>
+    <package name="tt_3_5" seq="26" filename="tt_3_5/tt_3_5.xml" size="5517" timestamp="1309973538" hash="7670b5db41e9e670a12e4d8e764aa20f">
+        <import filename="tt_3_5/tt_3_5.import.xml" size="105990" timestamp="1309973413" hash="35688593c77b5c30c6d53613ea1e47e3" />
+    </package>
+    <package name="tt_4" seq="26" filename="tt_4/tt_4.xml" size="6622" timestamp="1309973538" hash="62dca7cd2e1d968489792c7445df860f">
+        <import filename="tt_4/tt_4.import.xml" size="139982" timestamp="1309973423" hash="71c645ac8bab9f33c4a0d5032616935a" />
+    </package>
+    <package name="tt_5" seq="26" filename="tt_5/tt_5.xml" size="5468" timestamp="1309973538" hash="8c8c41ab0b13b0750f8cb8ac9785b059">
+        <import filename="tt_5/tt_5.import.xml" size="68810" timestamp="1309973431" hash="1bffadc31406994079a7d6f7e43cf0bc" />
+    </package>
+    <package name="tt_5_5" seq="26" filename="tt_5_5/tt_5_5.xml" size="4064" timestamp="1309973538" hash="5d1f9973ebbddda3f28a92ba0a29dc70">
+        <import filename="tt_5_5/tt_5_5.import.xml" size="55157" timestamp="1309973434" hash="aca7520d04025cc0f2ef1f0788e01564" />
+    </package>
+    <package name="tt_6" seq="26" filename="tt_6/tt_6.xml" size="5470" timestamp="1309973538" hash="d43c196cd1a58af911e9e6c62825a997">
+        <import filename="tt_6/tt_6.import.xml" size="96258" timestamp="1309973442" hash="e78619f704890de8f51835b514088249" />
+    </package>
+    <package name="tt_7" seq="26" filename="tt_7/tt_7.xml" size="3399" timestamp="1309973538" hash="6f2fbaf6a4640faddb5e504e6c5a9056">
+        <import filename="tt_7/tt_7.import.xml" size="1235" timestamp="1309973442" hash="2678f2132cd1d7185d19ac3e9b007b81" />
+    </package>
+    <package name="tt_8" seq="26" filename="tt_8/tt_8.xml" size="6040" timestamp="1309973538" hash="d92274baaeab6afcd8f2c7e82a1c4fec">
+        <import filename="tt_8/tt_8.import.xml" size="41420" timestamp="1309973447" hash="42f57665c20e9c645672d78b71eb65be" />
+    </package>
+    <package name="tt_9" seq="26" filename="tt_9/tt_9.xml" size="3433" timestamp="1309973538" hash="a6ee7fc1f86e56f63336c0e806fe7953">
+        <import filename="tt_9/tt_9.import.xml" size="23837" timestamp="1309973449" hash="d434e8469d81bb4dbe0468e5efbf8642" />
+    </package>
+    <orig hash="aed66b13f3966ce1dfcc522a77c85cd6" expiration="1310157669" />
+</contents>

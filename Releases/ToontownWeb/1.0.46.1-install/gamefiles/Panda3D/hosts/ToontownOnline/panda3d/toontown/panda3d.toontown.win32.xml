@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="panda3d" platform="win32" version="toontown" seq="26" patch_version="37">
+    <uncompressed_archive filename="panda3d.toontown.win32.mf" size="64894706" timestamp="1309973388" hash="6923a81b12e139cee9f3e55531d6cb28" />
+    <compressed_archive filename="panda3d.toontown.win32.mf.37.pz" size="21270607" timestamp="1309973395" hash="2bab8458779c4cf6f0539f513749f5f7" />
+    <extract filename="_ctypes.pyd" size="73728" timestamp="1134638317" hash="ad963705aa93d214b25fe25a781b45af" />
+    <extract filename="_socket.pyd" size="49152" timestamp="1274309191" hash="868e15701c6fe4f9c6e8e1b6c4ff089c" />
+    <extract filename="_ssl.pyd" size="499712" timestamp="1114473333" hash="07ef44e03bb9b646be00f1eeeb3d1d50" />
+    <extract filename="_vfsimporter.pyd" size="199680" timestamp="1309973360" hash="535544d365075fdf743ad22dcb2ff81b" />
+    <extract filename="avcodec.dll" size="8105982" timestamp="1148539441" hash="49c9d20e5e81ec1cd8fec532f267c5e1" />
+    <extract filename="avformat.dll" size="1288378" timestamp="1148539442" hash="e43db6e3181b0ed9b4dd60569956b3bb" />
+    <extract filename="avutil.dll" size="37915" timestamp="1148539442" hash="b08bc73f102056b0ebf997125cd84b78" />
+    <extract filename="bz2.pyd" size="77824" timestamp="1274309191" hash="2297ede0ae364ab5eb741182095c64e7" />
+    <extract filename="Config.pre" size="2550" timestamp="1309973380" hash="a2cdd898768177ba036e082d437e89c9" />
+    <extract filename="libdirect.dll" size="1033216" timestamp="1305836483" hash="a690f64eafc92a6169654fac6900c6e6" />
+    <extract filename="libdtool.dll" size="230400" timestamp="1307574181" hash="58a9dd5ff0ea32d48a32ce21275ad7f1" />
+    <extract filename="libdtoolconfig.dll" size="713216" timestamp="1307574212" hash="925fa3a4248c6d5bd5907184049fca93" />
+    <extract filename="libmiles_audio.dll" size="108544" timestamp="1307573187" hash="b99d0464827774486c73a6cc22ccd781" />
+    <extract filename="libotp.dll" size="456704" timestamp="1305595207" hash="e1ee4789c53dacaa0468b7664f9024ac" />
+    <extract filename="libp3dpython.dll" size="104960" timestamp="1305311006" hash="2c638d0acb50916c7bfb3442704929c7" />
+    <extract filename="libpanda.dll" size="16679424" timestamp="1307573180" hash="8babbe46e7e4d177b2bfd27fe17366de" />
+    <extract filename="libpandadx8.dll" size="454144" timestamp="1307569751" hash="649786037c67812ac6bb58f0a91325eb" />
+    <extract filename="libpandadx9.dll" size="534528" timestamp="1307569768" hash="adde140706a50138bcffd48c96aa27f8" />
+    <extract filename="libpandaexpress.dll" size="2657280" timestamp="1307574371" hash="6fe468e913afff4d6e9e5d59580aef8e" />
+    <extract filename="libpandafx.dll" size="172032" timestamp="1307573406" hash="aaf3408a61d191bc526b6ef0521985cd" />
+    <extract filename="libpandagl.dll" size="342016" timestamp="1307569853" hash="89615f7af4fb4c8907469cfb0a7e6476" />
+    <extract filename="libpandaode.dll" size="721920" timestamp="1307569868" hash="323d3cc7ebf775c3b15d9f1a7c0e4f82" />
+    <extract filename="libpandaphysics.dll" size="985088" timestamp="1307569698" hash="ea56f189dd27bae26035fdd692c5866b" />
+    <extract filename="libtinydisplay.dll" size="5598208" timestamp="1307570026" hash="1fa111ba5ab6b2cca5cb9978bfa8eff8" />
+    <extract filename="libtoontown.dll" size="845824" timestamp="1305595450" hash="c386a2521000547a5ae5d56b08c1ec9d" />
+    <extract filename="libwindisplay.dll" size="127488" timestamp="1307573280" hash="d32588a6b06f914aabe33de92e914ca3" />
+    <extract filename="Microsoft.VC90.CRT.manifest" size="524" timestamp="1290103555" hash="6bb5d2aad0ae1b4a82e7ddf7cf58802a" />
+    <extract filename="mscoree.dll" size="297808" timestamp="1288918700" hash="d83947a58613e9091b4c9cc0f1546a8d" />
+    <extract filename="mss32.dll" size="389120" timestamp="1138849514" hash="d77ed4dd18f33205effe5fad9fff4e8e" />
+    <extract filename="mssmp3.asi" size="150016" timestamp="1138943672" hash="9e887cf069316dc17f387a5341f0eb02" />
+    <extract filename="msvcm90.dll" size="224768" timestamp="1290103556" hash="4a8bc195abdc93f0db5dab7f5093c52f" />
+    <extract filename="MSVCP90.dll" size="568832" timestamp="1290103556" hash="6de5c66e434a9c1729575763d891c6c2" />
+    <extract filename="msvcr71.dll" size="348160" timestamp="1159470232" hash="86f1895ae8c5e8b17d99ece768a70732" />
+    <extract filename="MSVCR90.dll" size="655872" timestamp="1290103557" hash="e7d91d008fe76423962b91c43c88e4eb" />
+    <extract filename="msvcrt.dll" size="290869" timestamp="1122657775" hash="c93548203699d997ae43ada7542864c7" />
+    <extract filename="ode_single.dll" size="479232" timestamp="1259612490" hash="108bfd88185a6a800cb47be6677a95d9" />
+    <extract filename="p3dpython.exe" size="105472" timestamp="1305311007" hash="2d07a3113dbab25fef7eee343928071e" />
+    <extract filename="p3dpythonw.exe" size="104960" timestamp="1305311007" hash="4b7a594048fcfd6107bc8620981671ce" />
+    <extract filename="pyexpat.pyd" size="135168" timestamp="1274309191" hash="ca92fa5db95d8e590f565bfb2a9c0ea0" />
+    <extract filename="python24.dll" size="1867776" timestamp="1274309191" hash="ebb104b5bf98cc6d39837cc10fc288cc" />
+    <extract filename="select.pyd" size="8192" timestamp="1274309191" hash="9d0fc2f3f4b457f9efb7c2631282e482" />
+    <extract filename="toonmono.cur" size="326" timestamp="1124928582" hash="1b3b5972ea433ed8d21e3e348f5a94a9" />
+    <extract filename="toontown.ico" size="2238" timestamp="1133294542" hash="af4b6bd94baee0af6ea1aec0a54f21b1" />
+    <extract filename="unicodedata.pyd" size="405504" timestamp="1274309191" hash="b3e13d4e45508bd28b2826dc8a787200" />
+    <base_version filename="panda3d.toontown.win32.mf.base" size="60464299" timestamp="1273490566" hash="110ce02fe091784594f4312f67bf222a" />
+    <top_version filename="panda3d.toontown.win32.mf" size="64894706" timestamp="1309973388" hash="6923a81b12e139cee9f3e55531d6cb28" />
+    <patch filename="panda3d.toontown.win32.mf.2.patch.pz" size="12059" timestamp="1273615726" hash="eb3143eb03c303162768bca3747c17dc">
+        <source size="60464299" hash="110ce02fe091784594f4312f67bf222a" />
+        <target size="60464453" hash="41af84cab353a8e5d8b2f4f5a99e0737" />
+    </patch>
+    <patch filename="panda3d.toontown.win32.mf.3.patch.pz" size="21607" timestamp="1273661911" hash="43cc1f8054525d0aa63ca8db9bac5685">
+        <source size="60464453" hash="41af84cab353a8e5d8b2f4f5a99e0737" />
+        <target size="60475436" hash="65ae3947af247fb67274e922eb796737" />
+    </patch>
+    <patch filename="panda3d.toontown.win32.mf.4.patch.pz" size="2216675" timestamp="1273790891" hash="52b0a7e12ca19f0ac44c4e18ae59779a">
+        <source size="60475436" hash="65ae3947af247fb67274e922eb796737" />
+        <target size="60484324" hash="34b41c0b5feaff9a5182082a46d13aa8" />
+    </patch>
+    <patch filename="panda3d.toontown.win32.mf.5.patch.pz" size="8701" timestamp="1274213385" hash="13aab77a3b58403650c9773e99a97dde">
+        <source size="60484324" hash="34b41c0b5feaff9a5182082a46d13aa8" />
+        <target size="60485015" hash="c2fe5f15d77efce3f84dd9924e335686" />
+    </patch>
+    <patch filename="panda3d.toontown.win32.mf.6.patch.pz" size="173939" timestamp="1274913413" hash="3801983b4079f7688a7b62000361e9f3">
+        <source size="60485015" hash="c2fe5f15d77efce3f84dd9924e335686" />
+        <target size="60490931" hash="6b603cc62793a7dfc22d58c332e83475" />
+    </patch>
+    <patch filename="panda3d.toontown.win32.mf.7.patch.pz" size="147539" timestamp="1275429448" hash="607585e622e67e2708d6e6e79e08d125">
+        <source size="60490931" hash="6b603cc62793a7dfc22d58c332e83475" />
+        <target size="60488038" hash="4816c3671af6f81c5cc8e8553050be40" />
+    </patch>
+    <patch filename="panda3d.toontown.win32.mf.8.patch.pz" size="312269" timestamp="1276117376" hash="427229e675dd2a2ad5cff8f84e14aa4a">
+        <source size="60488038" hash="4816c3671af6f81c5cc8e8553050be40" />
+        <target size="60938111" hash="e0ee78b06374f974ef0544f664c2edca" />
+    </patch>
+    <patch filename="panda3d.toontown.win32.mf.9.patch.pz" size="53058" timestamp="1276441953" hash="8e353f89aff3f3b55dea49a9d94968fb">
+        <source size="60938111" hash="e0ee78b06374f974ef0544f664c2edca" />
+        <target size="60945167" hash="8b5d966e94d7d0f47de82f2d6f8fc014" />
+    </patch>
+    <patch filename="panda3d.toontown.win32.mf.10.patch.pz" size="13891" timestamp="1276729307" hash="126d91cc49fcc8b1b829ac595ca0c78e">
+        <source size="60945167" hash="8b5d966e94d7d0f47de82f2d6f8fc014" />
+        <target size="60947761" hash="654fc9c49825d186509bdd56b858e55c" />
+    </patch>
+    <patch filename="panda3d.toontown.win32.mf.11.patch.pz" size="6993" timestamp="1276818004" hash="9d79ad7e899874496a5c33b4bfc8b2ee">
+        <source size="60947761" hash="654fc9c49825d186509bdd56b858e55c" />
+        <target size="60948142" hash="a02f1f8db78cf5bfccf37a826991f966" />
+    </patch>
+    <patch filename="panda3d.toontown.win32.mf.12.patch.pz" size="12332" timestamp="1278034892" hash="5b015eea79174ad72cafb50ce1936379">
+        <source size="60948142" hash="a02f1f8db78cf5bfccf37a826991f966" />
+        <target size="60949231" hash="30d41453fd57a1c013848b0c931b40c3" />
+    </patch>
+    <patch filename="panda3d.toontown.win32.mf.13.patch.pz" size="139321" timestamp="1279080292" hash="fbe8d07a2a133d6f4e2a49ea7b0b6455">
+        <source size="60949231" hash="30d41453fd57a1c013848b0c931b40c3" />
+        <target size="60956392" hash="8b6c90cb31ba5e554f49c0b117896973" />
+    </patch>
+    <patch filename="panda3d.toontown.win32.mf.14.patch.pz" size="168298" timestamp="1279760667" hash="aa25955b3eb7dc1e04a07cfc0f48346e">
+        <source size="60956392" hash="8b6c90cb31ba5e554f49c0b117896973" />
+        <target size="61005171" hash="2d4e794c196846768ac87196b843ac42" />
+    </patch>
+    <patch filename="panda3d.toontown.win32.mf.15.patch.pz" size="7133" timestamp="1279824452" hash="f8e0f6b06a42f719590d68b77a302a47">
+        <source size="61005171" hash="2d4e794c196846768ac87196b843ac42" />
+        <target size="61005374" hash="9b96d8935d4f8ed270eafc598b772ade" />
+    </patch>
+    <patch filename="panda3d.toontown.win32.mf.16.patch.pz" size="6058" timestamp="1279848695" hash="c789ec64c1986ab866b423ef7586f238">
+        <source size="61005374" hash="9b96d8935d4f8ed270eafc598b772ade" />
+        <target size="61005644" hash="99411c33cf5e7cbff1484193131fa190" />
+    </patch>
+    <patch filename="panda3d.toontown.win32.mf.17.patch.pz" size="11866" timestamp="1280259473" hash="ce4bfec3bfd548300695606e29e06e43">
+        <source size="61005644" hash="99411c33cf5e7cbff1484193131fa190" />
+        <target size="61006633" hash="3778cbc72b8c591925e7ee5541aab2f9" />
+    </patch>
+    <patch filename="panda3d.toontown.win32.mf.18.patch.pz" size="35375" timestamp="1281400873" hash="af76f84ad2f8a4f5349c8d3e8bbc358f">
+        <source size="61006633" hash="3778cbc72b8c591925e7ee5541aab2f9" />
+        <target size="61018008" hash="ac496c720f9761175f7e96bd0d779448" />
+    </patch>
+    <patch filename="panda3d.toontown.win32.mf.19.patch.pz" size="165918" timestamp="1282768971" hash="966c1fbbc10bf123a45a8dd00fcfa39f">
+        <source size="61018008" hash="ac496c720f9761175f7e96bd0d779448" />
+        <target size="61059157" hash="eb02b3fd275ee19041396a0d82f5d5a1" />
+    </patch>
+    <patch filename="panda3d.toontown.win32.mf.20.patch.pz" size="2831782" timestamp="1283335158" hash="14a308e7fe837c4e35153e23f8b3c292">
+        <source size="61059157" hash="eb02b3fd275ee19041396a0d82f5d5a1" />
+        <target size="61068834" hash="db941867547f7d8c2a489bca632e71ba" />
+    </patch>
+    <patch filename="panda3d.toontown.win32.mf.21.patch.pz" size="2999865" timestamp="1285172731" hash="2eeef1cec003544e3379f32d74d9d2d1">
+        <source size="61068834" hash="db941867547f7d8c2a489bca632e71ba" />
+        <target size="61092417" hash="b4fee550b6f1f4e0339ca5fc8c44c21c" />
+    </patch>
+    <patch filename="panda3d.toontown.win32.mf.22.patch.pz" size="189316" timestamp="1287530257" hash="d163c2d6aa904cd79e51745f123da7b5">
+        <source size="61092417" hash="b4fee550b6f1f4e0339ca5fc8c44c21c" />
+        <target size="61100234" hash="5ac22d8e090b8e0c58ef4f70b504452c" />
+    </patch>
+    <patch filename="panda3d.toontown.win32.mf.23.patch.pz" size="3072979" timestamp="1288909718" hash="aaaf8de1ca9bf6ed71d23fc58b11e623">
+        <source size="61100234" hash="5ac22d8e090b8e0c58ef4f70b504452c" />
+        <target size="61132980" hash="d8c044d8238d9bcbac07c7fa1e4edf44" />
+    </patch>
+    <patch filename="panda3d.toontown.win32.mf.24.patch.pz" size="333810" timestamp="1291162187" hash="b2dd6e8eb0bfa2d61dfa5e9a946c68e7">
+        <source size="61132980" hash="d8c044d8238d9bcbac07c7fa1e4edf44" />
+        <target size="61177401" hash="7f1e2a9956b6db7292fcbef9cf1ab1c1" />
+    </patch>
+    <patch filename="panda3d.toontown.win32.mf.25.patch.pz" size="11569652" timestamp="1291165166" hash="0e24c76f50c9fe3bc647ffaa06f85047">
+        <source size="61177401" hash="7f1e2a9956b6db7292fcbef9cf1ab1c1" />
+        <target size="64760166" hash="aa390081d241c8e6dd88bedf2f0f93e6" />
+    </patch>
+    <patch filename="panda3d.toontown.win32.mf.26.patch.pz" size="4067972" timestamp="1293499848" hash="7b36cbfec6cbebfa47aa8c553aaa0471">
+        <source size="64760166" hash="aa390081d241c8e6dd88bedf2f0f93e6" />
+        <target size="64797885" hash="f5099c8ca5a73affd2bda66c2784f470" />
+    </patch>
+    <patch filename="panda3d.toontown.win32.mf.27.patch.pz" size="7287" timestamp="1294337030" hash="0dbf5b5bbbc44820de4fc265381fb519">
+        <source size="64797885" hash="f5099c8ca5a73affd2bda66c2784f470" />
+        <target size="64798337" hash="c1787f7f0d8d71c441ea2d4954cc4fca" />
+    </patch>
+    <patch filename="panda3d.toontown.win32.mf.28.patch.pz" size="22998" timestamp="1295578449" hash="43dd325cac9732a5c035c77f28f42d64">
+        <source size="64798337" hash="c1787f7f0d8d71c441ea2d4954cc4fca" />
+        <target size="64801606" hash="e6ab63e9a7e49f4a17c6c87d1dc61842" />
+    </patch>
+    <patch filename="panda3d.toontown.win32.mf.29.patch.pz" size="7918" timestamp="1296093012" hash="e29a5f8c411bb058d132773dd24576c5">
+        <source size="64801606" hash="e6ab63e9a7e49f4a17c6c87d1dc61842" />
+        <target size="64801880" hash="afbb0a95c8c3713ad5b6468cda0e812d" />
+    </patch>
+    <patch filename="panda3d.toontown.win32.mf.30.patch.pz" size="4155999" timestamp="1297380741" hash="3a3799bd13b01c7ebc3e78c90be37123">
+        <source size="64801880" hash="afbb0a95c8c3713ad5b6468cda0e812d" />
+        <target size="64834302" hash="13eb8cca36afe016df0d064494b778ff" />
+    </patch>
+    <patch filename="panda3d.toontown.win32.mf.31.patch.pz" size="163992" timestamp="1299517336" hash="811604234bf62e979f3856525cfda862">
+        <source size="64834302" hash="13eb8cca36afe016df0d064494b778ff" />
+        <target size="64868742" hash="6d73c9c5010d3c811e8df2a1c8a48b4d" />
+    </patch>
+    <patch filename="panda3d.toontown.win32.mf.32.patch.pz" size="93144" timestamp="1302110704" hash="16c529170f05878a7fe8aee8f430b1de">
+        <source size="64868742" hash="6d73c9c5010d3c811e8df2a1c8a48b4d" />
+        <target size="64870102" hash="55c9321419401412fe1e0d825507120b" />
+    </patch>
+    <patch filename="panda3d.toontown.win32.mf.33.patch.pz" size="4884" timestamp="1302291746" hash="9568a86e0dedf1922d2eb9e3b961299a">
+        <source size="64870102" hash="55c9321419401412fe1e0d825507120b" />
+        <target size="64870113" hash="084296d2b72e70edf3d6bbc580399dca" />
+    </patch>
+    <patch filename="panda3d.toontown.win32.mf.34.patch.pz" size="150172" timestamp="1304982210" hash="da78fcad69fb53a1df56207411bb6789">
+        <source size="64870113" hash="084296d2b72e70edf3d6bbc580399dca" />
+        <target size="64890846" hash="117b91971931ea42f5bf6d5dcbeaca8d" />
+    </patch>
+    <patch filename="panda3d.toontown.win32.mf.35.patch.pz" size="9753" timestamp="1305156966" hash="4dc1f4458fdfa1787d831ba05c1b8805">
+        <source size="64890846" hash="117b91971931ea42f5bf6d5dcbeaca8d" />
+        <target size="64890878" hash="9b826a4629ab28e82e7de7233b2184e9" />
+    </patch>
+    <patch filename="panda3d.toontown.win32.mf.36.patch.pz" size="47294" timestamp="1305599128" hash="8fdba6b35a7341b79abb78ddc42cef37">
+        <source size="64890878" hash="9b826a4629ab28e82e7de7233b2184e9" />
+        <target size="64894348" hash="6e68b05d7d8428b6e036ab5830976b90" />
+    </patch>
+    <patch filename="panda3d.toontown.win32.mf.37.patch.pz" size="66712" timestamp="1309973521" hash="4e8d9c262218482c3276d2e076acc7eb">
+        <source size="64894348" hash="6e68b05d7d8428b6e036ab5830976b90" />
+        <target size="64894706" hash="6923a81b12e139cee9f3e55531d6cb28" />
+    </patch>
+</package>

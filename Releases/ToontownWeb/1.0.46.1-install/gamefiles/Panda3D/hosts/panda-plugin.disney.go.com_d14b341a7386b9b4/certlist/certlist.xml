@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="certlist" seq="6">
+    <uncompressed_archive filename="certlist.mf" size="1868" timestamp="1282000386" hash="888396b8c8487c8fe2e0aea64da872bd" />
+    <compressed_archive filename="certlist.mf.pz" size="1314" timestamp="1282000386" hash="5274b96e1a8704a1a887c198d2daf01d" />
+    <extract filename="twdc.pem" size="1818" timestamp="1263533733" hash="15320eed0e551af9389edbbdf2cbe6eb" />
+</package>

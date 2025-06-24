@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="p3dcert" platform="win32" seq="1">
+    <config display_name="Authorization Dialog" />
+    <uncompressed_archive filename="p3dcert.win32.mf" size="2445427" timestamp="1282000343" hash="4d76b171f50c27bbd898ec41976a2755" />
+    <compressed_archive filename="p3dcert.win32.mf.pz" size="985250" timestamp="1282000343" hash="2e52eae7c8511717cfcdfc0a1b5074cb" />
+    <extract filename="MSVCP71.dll" size="499712" timestamp="1281547006" hash="561fa2abb31dfa8fab762145f81667c2" />
+    <extract filename="MSVCR71.dll" size="348160" timestamp="1281547007" hash="86f1895ae8c5e8b17d99ece768a70732" />
+    <extract filename="p3dcert.exe" size="1597440" timestamp="1276799020" hash="3693c61d56fd1627aa0b79711c29da89" />
+</package>

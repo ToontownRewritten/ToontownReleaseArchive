@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<contents seq="10">
+    <host url="https://panda-plugin.disney.go.com" download_url="http://panda-plugin.disney.go.com" />
+    <package name="certlist" seq="10" filename="certlist/certlist.xml" size="458" timestamp="1299180776" hash="69062aae2c39e16f0f686ade06f83626">
+        <import filename="certlist/certlist.import.xml" size="170" timestamp="1299180776" hash="e8b96121efbb597ddb2b88f90c97f5ea" />
+    </package>
+    <package name="coreapi" platform="osx_i386" solo="1" set_ver="1.0.3.3" filename="coreapi/osx_i386/p3d_plugin.dylib" size="1818904" timestamp="1297819300" hash="a98ffed0d4956c3a21bb880d630c87eb" />
+    <package name="coreapi" platform="osx_ppc" solo="1" set_ver="1.0.3.3" filename="coreapi/osx_ppc/p3d_plugin.dylib" size="1835012" timestamp="1297819406" hash="bdf25b0e10e503d43e71da41c4e8a09f" />
+    <package name="coreapi" platform="win32" solo="1" seq="2" set_ver="1.0.3.3" filename="coreapi/win32/p3d_plugin.dll" size="921768" timestamp="1299180773" hash="8c202bbbc1b8ce2a1da6255e1b167200" />
+    <package name="images" seq="5" filename="images/images.xml" size="1662" timestamp="1299180774" hash="45e18f49ca88769a008c03e2246559ee">
+        <import filename="images/images.import.xml" size="488" timestamp="1299180774" hash="f99318293c7bf1bd69ae1006e0926507" />
+    </package>
+    <package name="p3dcert" platform="osx_i386" seq="1" filename="p3dcert/osx_i386/p3dcert.osx_i386.xml" size="1000" timestamp="1297819301" hash="09a08fb79037cb0776b7f61df4f1aab3">
+        <import filename="p3dcert/osx_i386/p3dcert.osx_i386.import.xml" size="417" timestamp="1297819301" hash="c4da31be9fc35446bf90b402c7d77c66" />
+    </package>
+    <package name="p3dcert" platform="osx_ppc" seq="1" filename="p3dcert/osx_ppc/p3dcert.osx_ppc.xml" size="997" timestamp="1297819407" hash="7d0a94ac52665df36c32700ccb90fdef">
+        <import filename="p3dcert/osx_ppc/p3dcert.osx_ppc.import.xml" size="416" timestamp="1297819407" hash="eb9e9191cb26ea83976de167b8251787" />
+    </package>
+    <package name="p3dcert" platform="win32" seq="3" filename="p3dcert/win32/p3dcert.win32.xml" size="1268" timestamp="1299180774" hash="c77c3f31d83de1aed2a8a6ef15d757b4">
+        <import filename="p3dcert/win32/p3dcert.win32.import.xml" size="465" timestamp="1299180774" hash="bb1619bfc3a9dc4430afabc18c25e9a1" />
+    </package>
+    <package name="p3dembed" platform="osx_i386" seq="1" filename="p3dembed/osx_i386/p3dembed.osx_i386.xml" size="1715" timestamp="1297819302" hash="3fa8ad066ba7de2b3f06e3d4285a9db4">
+        <import filename="p3dembed/osx_i386/p3dembed.osx_i386.import.xml" size="655" timestamp="1297819302" hash="dc97c6e94d7831c79c9534ff1b2381da" />
+    </package>
+    <package name="p3dembed" platform="osx_ppc" seq="1" filename="p3dembed/osx_ppc/p3dembed.osx_ppc.xml" size="1713" timestamp="1297819409" hash="4a1537214d25fd7be92e6e469feda841">
+        <import filename="p3dembed/osx_ppc/p3dembed.osx_ppc.import.xml" size="654" timestamp="1297819409" hash="960801b6f00532191dcb999a25407658" />
+    </package>
+    <package name="p3dembed" platform="win32" seq="3" filename="p3dembed/win32/p3dembed.win32.xml" size="2324" timestamp="1299180776" hash="29ba9196b82999443fc8f4e0c6291ed0">
+        <import filename="p3dembed/win32/p3dembed.win32.import.xml" size="906" timestamp="1299180776" hash="ebfc2068b59be1730ec885896cc25451" />
+    </package>
+    <orig hash="bbe3560c693cabe4f003638d14f47378" expiration="1310157587" />
+</contents>

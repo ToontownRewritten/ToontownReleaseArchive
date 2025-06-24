@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="tt_8" seq="26" patch_version="20">
+    <uncompressed_archive filename="tt_8.mf" size="19505577" timestamp="1309973445" hash="cbb39576b2c4890fa2ff6214616dab1b" />
+    <compressed_archive filename="tt_8.mf.20.pz" size="13423150" timestamp="1309973446" hash="663fa55df51f52f50897fc4355e8149f" />
+    <base_version filename="tt_8.mf.base" size="9076634" timestamp="1273490693" hash="f63163f7ac5e0c2b27c55b97b1c0a0ab" />
+    <top_version filename="tt_8.mf" size="19505577" timestamp="1309973445" hash="cbb39576b2c4890fa2ff6214616dab1b" />
+    <patch filename="tt_8.mf.2.patch.pz" size="1725255" timestamp="1273790949" hash="fc8ebb3156fc74ef5c93353ff7beee43">
+        <source size="9076634" hash="f63163f7ac5e0c2b27c55b97b1c0a0ab" />
+        <target size="11012019" hash="b88b52252564817eb3a5e5b7a9c2ccb9" />
+    </patch>
+    <patch filename="tt_8.mf.3.patch.pz" size="233166" timestamp="1275429482" hash="893d50f466ab756ea5fe39c58732eb6b">
+        <source size="11012019" hash="b88b52252564817eb3a5e5b7a9c2ccb9" />
+        <target size="10883583" hash="f20fc7770dd1798caff89f674e283b3b" />
+    </patch>
+    <patch filename="tt_8.mf.4.patch.pz" size="6432218" timestamp="1276117533" hash="34fdd8af471731600b5189ad4a4c9947">
+        <source size="10883583" hash="f20fc7770dd1798caff89f674e283b3b" />
+        <target size="17765908" hash="3fb3736eb5b104079376d536db261718" />
+    </patch>
+    <patch filename="tt_8.mf.5.patch.pz" size="3014466" timestamp="1276442083" hash="9f1b5908962b6b48d9fef054a46910d6">
+        <source size="17765908" hash="3fb3736eb5b104079376d536db261718" />
+        <target size="19340316" hash="9ecfdd34470448b24b6392e66d8b9e4e" />
+    </patch>
+    <patch filename="tt_8.mf.6.patch.pz" size="1800" timestamp="1276729371" hash="8e7c4f57f533d0bdd51b955fa1451964">
+        <source size="19340316" hash="9ecfdd34470448b24b6392e66d8b9e4e" />
+        <target size="19339603" hash="db02910844fba85b1e4c4712149f15b1" />
+    </patch>
+    <patch filename="tt_8.mf.7.patch.pz" size="144494" timestamp="1279080397" hash="4f3304eaaa2261544daf19415b93fbd7">
+        <source size="19339603" hash="db02910844fba85b1e4c4712149f15b1" />
+        <target size="19445953" hash="526ad6a9f63e2fa668d87584c427f7dd" />
+    </patch>
+    <patch filename="tt_8.mf.8.patch.pz" size="170343" timestamp="1279760847" hash="7cbb0a59cf5a3fa4f83a169b2847aeb4">
+        <source size="19445953" hash="526ad6a9f63e2fa668d87584c427f7dd" />
+        <target size="19357752" hash="cbc22a589275c00a3a25327641509867" />
+    </patch>
+    <patch filename="tt_8.mf.9.patch.pz" size="16345" timestamp="1279848729" hash="784f1b008f07fb3eec19a9c323ff1b06">
+        <source size="19357752" hash="cbc22a589275c00a3a25327641509867" />
+        <target size="19365714" hash="5a49f990b274904e33e59d93d96731d9" />
+    </patch>
+    <patch filename="tt_8.mf.10.patch.pz" size="26967" timestamp="1281400887" hash="230398288bf106a49898258e8788ae5c">
+        <source size="19365714" hash="5a49f990b274904e33e59d93d96731d9" />
+        <target size="19393806" hash="7c92306c4207a53fcfa912b4ed7bfe11" />
+    </patch>
+    <patch filename="tt_8.mf.11.patch.pz" size="17176" timestamp="1282769086" hash="d2ac2426332a9245551aeaadebd517eb">
+        <source size="19393806" hash="7c92306c4207a53fcfa912b4ed7bfe11" />
+        <target size="19413336" hash="474f94106498b2709b2e98d9f0e680eb" />
+    </patch>
+    <patch filename="tt_8.mf.12.patch.pz" size="16716" timestamp="1285172880" hash="7fbeaabb53464efafb71ba9f006a4438">
+        <source size="19413336" hash="474f94106498b2709b2e98d9f0e680eb" />
+        <target size="19431411" hash="2b5fe6b16cbf3b034444773062a0dc4c" />
+    </patch>
+    <patch filename="tt_8.mf.13.patch.pz" size="49997" timestamp="1287530340" hash="acefce1125567982bd5258ca06ca2ac3">
+        <source size="19431411" hash="2b5fe6b16cbf3b034444773062a0dc4c" />
+        <target size="19469525" hash="9d485d5ed36a8acd117d853e895c4775" />
+    </patch>
+    <patch filename="tt_8.mf.14.patch.pz" size="13203" timestamp="1288909804" hash="491b17450cd359976922b377e80d90e3">
+        <source size="19469525" hash="9d485d5ed36a8acd117d853e895c4775" />
+        <target size="19486580" hash="571cdf7a94d9f091081d7c9cd5f096d8" />
+    </patch>
+    <patch filename="tt_8.mf.15.patch.pz" size="301" timestamp="1291162258" hash="a38fb3f8f46912ce5f33f2233a0fa124">
+        <source size="19486580" hash="571cdf7a94d9f091081d7c9cd5f096d8" />
+        <target size="19486580" hash="3fa219aaa81e3ef1f375887f90ae93a6" />
+    </patch>
+    <patch filename="tt_8.mf.16.patch.pz" size="502613" timestamp="1291165396" hash="a2eb79c5e18733b89d1891992dc4f247">
+        <source size="19486580" hash="3fa219aaa81e3ef1f375887f90ae93a6" />
+        <target size="19485425" hash="0195f2ab850313211dc206a2157f15c8" />
+    </patch>
+    <patch filename="tt_8.mf.17.patch.pz" size="17048" timestamp="1293500014" hash="8d6fcc49db3090c47b2d768b865e0b0b">
+        <source size="19485425" hash="0195f2ab850313211dc206a2157f15c8" />
+        <target size="19484632" hash="f75e3b626a10eb3f2adcdaeb7b56fb62" />
+    </patch>
+    <patch filename="tt_8.mf.18.patch.pz" size="116504" timestamp="1297380824" hash="565b87acca997520173e339d78b1137d">
+        <source size="19484632" hash="f75e3b626a10eb3f2adcdaeb7b56fb62" />
+        <target size="19498860" hash="b9ed3df9c56b0f129473b7ef45093456" />
+    </patch>
+    <patch filename="tt_8.mf.19.patch.pz" size="72916" timestamp="1299517417" hash="fea53b2d4d29abd2b413a24f44d83568">
+        <source size="19498860" hash="b9ed3df9c56b0f129473b7ef45093456" />
+        <target size="19505577" hash="07308f5b87b738802f6ea7eb19216b0d" />
+    </patch>
+    <patch filename="tt_8.mf.20.patch.pz" size="19427" timestamp="1304982419" hash="cc468e63dd34f4ab897efb30d1c29ca6">
+        <source size="19505577" hash="07308f5b87b738802f6ea7eb19216b0d" />
+        <target size="19505577" hash="cbb39576b2c4890fa2ff6214616dab1b" />
+    </patch>
+</package>

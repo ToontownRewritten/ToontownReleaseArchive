@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="images" seq="5">
+    <config launch_img="download.png" failed_img="failed.png" download_img="download.png" unauth_img="download.png" play_click_img="play_click.png" active_img="download.png" auth_click_img="auth_click.png" play_rollover_img="play_rollover.png" auth_ready_img="auth_ready.png" ready_img="download.png" play_ready_img="play_ready.png" auth_rollover_img="auth_rollover.png" />
+    <uncompressed_archive filename="images.mf" size="76210" timestamp="1299180774" hash="42ad85eb0cf8073e1e3bf5708c1d5a02" />
+    <compressed_archive filename="images.mf.pz" size="73811" timestamp="1299180774" hash="3f91f940657f8edfb1d06937a2780fbd" />
+    <extract filename="auth_click.png" size="5444" timestamp="1252435546" hash="5e05389f8ccf09f6de96abdd6540a412" />
+    <extract filename="auth_ready.png" size="5826" timestamp="1252435546" hash="b02665fbd6b120e8a931cae164e0c055" />
+    <extract filename="auth_rollover.png" size="5949" timestamp="1252435546" hash="ebef1c7425a28db34d9206790f4798d6" />
+    <extract filename="download.png" size="19140" timestamp="1264247523" hash="7e834b0689e5cd75ef6bf276c92ce35f" />
+    <extract filename="failed.png" size="22640" timestamp="1264247523" hash="56ba0175b855c74d8ffdf46ea62f8c1e" />
+    <extract filename="play_click.png" size="5327" timestamp="1252435546" hash="790e7b533ec81bf5baf6b200beff7ca8" />
+    <extract filename="play_ready.png" size="5681" timestamp="1252435546" hash="29de554c4016f6321dc3530508752027" />
+    <extract filename="play_rollover.png" size="5909" timestamp="1252435546" hash="e6885312dda87313a4ee0f13978fedc0" />
+</package>
